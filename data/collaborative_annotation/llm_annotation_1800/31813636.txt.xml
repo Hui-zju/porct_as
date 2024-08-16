@@ -1,0 +1,31 @@
+<MyRCT>
+<TEXT>Long-term primary results of accelerated partial breast irradiation after breast-conserving surgery for early-stage breast cancer: a randomised, phase 3, equivalence trial.
+BACKGROUND: Whole-breast irradiation after breast-conserving surgery for patients with early-stage breast cancer decreases ipsilateral breast-tumour recurrence (IBTR), yielding comparable results to mastectomy.
+It is unknown whether accelerated partial breast irradiation (APBI) to only the tumour-bearing quadrant, which shortens treatment duration, is equally effective.
+In our trial, we investigated whether APBI provides equivalent local tumour control after lumpectomy compared with whole-breast irradiation.
+METHODS: We did this randomised, phase 3, equivalence trial (NSABP B-39/RTOG 0413) in 154 clinical centres in the USA, Canada, Ireland, and Israel.
+Adult women (&gt;18 years) with early-stage (0, I, or II; no evidence of distant metastases, but up to three axillary nodes could be positive) breast cancer (tumour size &lt;/=3 cm; including all histologies and multifocal breast cancers), who had had lumpectomy with negative (ie, no detectable cancer cells) surgical margins, were randomly assigned (1:1) using a biased-coin-based minimisation algorithm to receive either whole-breast irradiation (whole-breast irradiation group) or APBI (APBI group).
+Whole-breast irradiation was delivered in 25 daily fractions of 50 Gy over 5 weeks, with or without a supplemental boost to the tumour bed, and APBI was delivered as 34 Gy of brachytherapy or 38.5 Gy of external bream radiation therapy in 10 fractions, over 5 treatment days within an 8-day period.
+Randomisation was stratified by disease stage, menopausal status, hormone-receptor status, and intention to receive chemotherapy.
+Patients, investigators, and statisticians could not be masked to treatment allocation.
+The primary outcome of invasive and non-invasive IBTR as a first recurrence was analysed in the intention-to-treat population, excluding those patients who were lost to follow-up, with an equivalency test on the basis of a 50% margin increase in the hazard ratio (90% CI for the observed HR between 0.667 and 1.5 for equivalence) and a Cox proportional hazard model.
+Survival was assessed by intention to treat, and sensitivity analyses were done in the per-protocol population.
+This trial is registered with ClinicalTrials.gov, NCT00103181.
+FINDINGS: Between March 21, 2005, and April 16, 2013, 4216 women were enrolled.
+2109 were assigned to the whole-breast irradiation group and 2107 were assigned to the APBI group.
+70 patients from the whole-breast irradiation group and 14 from the APBI group withdrew consent or were lost to follow-up at this stage, so 2039 and 2093 patients respectively were available for survival analysis.
+Further, three and four patients respectively were lost to clinical follow-up (ie, survival status was assessed by phone but no physical examination was done), leaving 2036 patients in the whole-breast irradiation group and 2089 in the APBI group evaluable for the primary outcome.
+At a median follow-up of 10.2 years (IQR 7.5-11.5), 90 (4%) of 2089 women eligible for the primary outcome in the APBI group and 71 (3%) of 2036 women in the whole-breast irradiation group had an IBTR (HR 1.22, 90% CI 0.94-1.58).
+The 10-year cumulative incidence of IBTR was 4.6% (95% CI 3.7-5.7) in the APBI group versus 3.9% (3.1-5.0) in the whole-breast irradiation group.
+44 (2%) of 2039 patients in the whole-breast irradiation group and 49 (2%) of 2093 patients in the APBI group died from recurring breast cancer.
+There were no treatment-related deaths.
+Second cancers and treatment-related toxicities were similar between the two groups.
+2020 patients in the whole-breast irradiation group and 2089 in APBI group had available data on adverse events.
+The highest toxicity grade reported was: grade 1 in 845 (40%), grade 2 in 921 (44%), and grade 3 in 201 (10%) patients in the APBI group, compared with grade 1 in 626 (31%), grade 2 in 1193 (59%), and grade 3 in 143 (7%) in the whole-breast irradiation group.
+INTERPRETATION: APBI did not meet the criteria for equivalence to whole-breast irradiation in controlling IBTR for breast-conserving therapy.
+Our trial had broad eligibility criteria, leading to a large, heterogeneous pool of patients and sufficient power to detect treatment equivalence, but was not designed to test equivalence in patient subgroups or outcomes from different APBI techniques.
+For patients with early-stage breast cancer, our findings support whole-breast irradiation following lumpectomy; however, with an absolute difference of less than 1% in the 10-year cumulative incidence of IBTR, APBI might be an acceptable alternative for some women.
+FUNDING: National Cancer Institute, US Department of Health and Human Services.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

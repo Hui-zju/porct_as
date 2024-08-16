@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Random forests to predict rectal toxicity following prostate cancer radiation therapy.
+PURPOSE: To propose a random forest normal tissue complication probability (RF-NTCP) model to predict late rectal toxicity following prostate cancer radiation therapy, and to compare its performance to that of classic NTCP models.
+METHODS AND MATERIALS: Clinical data and dose-volume histograms (DVH) were collected from 261 patients who received 3-dimensional conformal radiation therapy for prostate cancer with at least 5 years of follow-up.
+The series was split 1000 times into training and validation cohorts.
+A RF was trained to predict the risk of 5-year overall rectal toxicity and bleeding.
+Parameters of the Lyman-Kutcher-Burman (LKB) model were identified and a logistic regression model was fit.
+The performance of all the models was assessed by computing the area under the receiving operating characteristic curve (AUC).
+RESULTS: The 5-year grade &gt;/=2 overall rectal toxicity and grade &gt;/=1 and grade &gt;/=2 rectal bleeding rates were 16%, 25%, and 10%, respectively.
+Predictive capabilities were obtained using the RF-NTCP model for all 3 toxicity endpoints, including both the training and validation cohorts.
+The age and use of anticoagulants were found to be predictors of rectal bleeding.
+The AUC for RF-NTCP ranged from 0.66 to 0.76, depending on the toxicity endpoint.
+The AUC values for the LKB-NTCP were statistically significantly inferior, ranging from 0.62 to 0.69.
+CONCLUSIONS: The RF-NTCP model may be a useful new tool in predicting late rectal toxicity, including variables other than DVH, and thus appears as a strong competitor to classic NTCP models.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

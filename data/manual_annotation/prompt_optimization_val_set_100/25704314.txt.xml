@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Low level laser therapy against radiation induced oral mucositis in elderly head and neck cancer patients-a randomized placebo controlled trial.
+OBJECTIVES: Radiotherapy (RT) is treatment of choice for Elderly Head and Neck Cancer (HNC) patients.
+Oral mucositis (OM) during RT affects patient's routine oral activities and overall health.
+Low Level Laser Therapy (LLLT) provided some promising results against cancer therapy induced OM in children and adults.
+No study specifically evaluated effects of LLLT against RT induced OM in elderly HNC patients until date, hence we did this study.
+MATERIAL AND METHODS: This double blinded study randomized 46 elderly HNC patients scheduled for RT [Dosage=66 Gray (2 Gy/fraction), 5 fractions/week, total 33 fractions for 6.5 weeks], into laser (22) and placebo (24) groups.
+Laser group patients received LLLT [Helium-Neon, lambda=632.8 nm, power density=0.024 W/cm(2), dosage=3.0 J/point at six anatomical sites bilaterally i.e. 12 locations, total dose/session=36 J, beam aperture diameter=0.6 mm, beam spot size=1 cm(2), irradiated area diameter=1 cm(2), irradiation time/point=125 s, 5 sessions/week, non-contact method-distance between probe and irradiated tissues <1 cm, whereas placebo group did not receive laser.
+OM grades (RTOG/EORTC Scale), oral pain, weight loss, need for morphine analgesics and tube feeding, and RT break were recorded by a blinded assessor.
+Descriptive statistics and repeated measures ANOVA were used for analysis keeping p<0.05.
+RESULTS: Significant reduction in the incidence and duration of severe OM (p=0.016) and severe pain (p=0.023) and weight loss (p=0.004) was observed in laser than placebo group.
+No difference was found for enteral feeding use (p=0.667) between two groups.
+CONCLUSIONS: LLLT decreased the severity of OM and oral pain in elderly HNC patients.
+Also, lesser weight loss, morphine analgesic use and radiation break happened in laser group.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized, phase II trial of adjuvant immunotherapy with durable TKI-free survival in patients with chronic phase CML.
+PURPOSE: Chronic myeloid leukemia (CP-CML) patients can achieve undetectable minimal residual disease (UMRD) and discontinue tyrosine kinase inhibitors (TKIs).
+Cellular immunity plays an important role in CML disease control.
+We conducted a randomized, non-blinded phase II trial of adjuvant immunotherapy with TKIs to facilitate TKI discontinuation.
+METHODS: TKI-treated patients with CP-CML were randomized to receive the K562/GM-CSF vaccine (vaccine) OR Interferon-alpha + Sargramostim (IFN).
+If UMRD was achieved, then all treatment was stopped.
+Patients who did not achieve UMRD within one year, had a molecular relapse, or discontinued therapy for toxicity could crossover.
+RESULTS: Thirty-four patients were randomized to IFN (n = 18) or vaccine (n = 16), and 21 patients crossed over (IFNvaccine: n = 9, vaccineIFN, n = 12).
+TKIs at enrollment included imatinib (n = 31), nilotinib (n = 2), and dasatinib (n = 1).
+No patients discontinued vaccine due to side effects, while 33 % of IFN-treated patients discontinued treatment.
+More patients randomized to IFN (47.4 %, 95 % CI: 16.7-66.7 %) versus vaccine (25.0 %, 95 % CI: 0.5-43.5 %) achieved UMRD within one year.
+Seven patients randomized to IFN discontinued treatment with 28.6 % (95 % CI: 8.9-92.2 %) sustaining treatment-free remission (TFR) at 1 year, while three patients randomized to vaccine discontinued treatment with none sustaining TFR.
+Including crossover, there was a cumulative discontinuation success rate of 36.4 % (95 % CI: 16.6 %-79.5 %) after adjuvant IFN.
+Patients who sustained TFR received a median of 29 months of imatinib prior to discontinuation.
+CONCLUSION: Adjuvant IFN led to durable TFRs with limited prior TKI exposure with comparable success to prior discontinuation trials, but many patients stopped IFN early.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

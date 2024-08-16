@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Comparison of heart dose in early-stage left-sided breast cancers treated with intraoperative radiation therapy or whole-breast irradiation with deep inspiratory breath hold.
+PURPOSE: To compare heart dose between patients treated with lumpectomy and either intraoperative radiation therapy (IORT) with CT-guided high-dose-rate brachytherapy (precision breast IORT [PB-IORT]) or whole-breast irradiation with deep inspiratory breath hold (WBI-DIBH) for early-stage left-sided breast cancers.
+METHODS AND MATERIALS: We retrospectively identified the 17 patients with left-sided breast cancers treated with PB-IORT on a phase I clinical trial and 17 patients with left-sided tumors who had undergone lumpectomy and adjuvant WBI-DIBH.
+Dosimetric data were obtained.
+T-testing was performed and biologically effective doses (BEDs) were calculated using an alpha/beta ratio of 2 Gy.
+RESULTS: Mean heart dose was significantly lower with WBI-DIBH compared with PB-IORT (0.61 vs. 0.87 Gy, p = 0.006).
+Mean heart BED was lower with WBI-DIBH (0.62 vs. 1.3 Gy2, p = 0.0001).
+Nominal maximum heart dose was higher with WBI-DIBH (11.37 vs. 4.81 Gy, p = 0.004).
+Maximum heart dose BED was similar between WBI-DIBH and IORT, 16.63 vs. 19.36 Gy (p = 0.64), respectively.
+No difference was found in mean left anterior descending artery dose: 2.18 Gy with WBI-DIBH and 1.89 Gy with IORT (p = 0.446).
+The maximum left anterior descending doses were 9.63 Gy and 3.62 Gy with WBI-DIBH and IORT, respectively (p = 0.016).
+Distance from the heart to the lumpectomy cavity was inversely associated with heart dose for PB-IORT, but not for WBI-IORT.
+CONCLUSIONS: Heart doses were low in both groups.
+Expected increase in cardiac risk at these doses is minimal.
+It is unlikely that there will be a clinically significant difference in cardiac toxicity in patients treated with WBI-DIBH or PB-IORT.
+Further research is needed to evaluate the actual clinical impact of the observed cardiac doses delivered with these modalities.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Correlation of Prostate-specific Antigen Kinetics with Overall Survival and Radiological Progression-free Survival in Metastatic Castration-sensitive Prostate Cancer Treated with Abiraterone Acetate plus Prednisone or Placebos Added to Androgen Deprivation Therapy: Post Hoc Analysis of Phase 3 LATITUDE Study.
+BACKGROUND: LATITUDE, a randomized, double-blind trial, compared abiraterone acetate and prednisone (AAP) + androgen deprivation therapy (ADT) versus placebo (PBO) + ADT in high-risk metastatic castration-sensitive prostate cancer (mCSPC).
+OBJECTIVE: To assess the correlation of prostate-specific antigen (PSA) kinetics with overall survival (OS) and radiological progression-free survival (rPFS).
+DESIGN, SETTING, AND PARTICIPANTS: A post hoc analysis of data from 597 men receiving AAP+ADT and 602 receiving PBO+ADT.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: The associations of PSA-related outcomes (rates of confirmed 50% [PSA50] and 90% [PSA90] decline from baseline PSA [Prostate Cancer Working Group 2 criteria], rates of PSA<0.2ng/ml, median nadir PSA, time to PSA nadir [TPN], and time to PSA progression [TPP] with long-term outcomes [OS and rPFS]) were evaluated.
+Hazard ratios (HRs) were estimated using Cox proportional hazard model.
+Correlations of TPP with coprimary endpoints rPFS and OS were evaluated using Kendall's tau (KT).
+RESULTS AND LIMITATIONS: AAP+ADT significantly delayed median TPP versus PBO+ADT (33.2 vs 7.4 mo; HR: 0.3, p< 0.001).
+TPP correlated with rPFS (KT = 0.921) and OS (KT = 0.666).
+In the AAP + ADT group, 91% had PSA50 and 79% had PSA90 responses (relative risk [RR]: 1.36 and 2.30, respectively; p< 0.001 for both comparisons vs PBO + ADT).
+Compared with nonresponders, PSA50 and PSA90 responders had reduced risk of death (RR: 0.44 and 0.12, respectively).
+At 6 mo, 40% receiving AAP + ADT and 6.5% receiving PBO + ADT achieved PSA </=0.1 ng/ml, which was significantly associated with longer rPFS and OS.
+Median nadir PSA was 0.09 ng/ml with AAP + ADT versus 2.36 ng/ml with PBO + ADT.
+Median TPN (AAP + ADT, 6.4 mo; PBO + ADT, 3.8 mo) positively correlated with rPFS and OS.
+CONCLUSIONS: Superior PSA response dynamics with AAP+ADT versus ADT+PBO strongly correlated with long-term outcomes of rPFS and OS in high-risk mCSPC.
+PATIENT SUMMARY: We found that low prostate-specific antigen levels (</=0.1ng/ml) after 6 mo may indicate a good long-term response to treatment.
+Our results need confirmation.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

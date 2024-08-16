@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A multicenter, randomized study of decitabine as epigenetic priming with induction chemotherapy in children with AML.
+BACKGROUND: Decitabine is a deoxycytidine nucleoside derivative inhibitor of DNA-methyltransferases, which has been studied extensively and is approved for myelodysplastic syndrome in adults but with less focus in children.
+Accordingly, we conducted a phase 1 multicenter, randomized, open-label study to evaluate decitabine pre-treatment before standard induction therapy in children with newly diagnosed AML to assess safety and tolerability and explore a number of biologic endpoints.
+RESULTS: Twenty-four patients were fully assessable for all study objectives per protocol (10 in Arm A = epigenetic priming induction, 14 in Arm B = standard induction).
+All patients experienced neutropenia and thrombocytopenia.
+The most common grade 3 and 4 non-hematologic adverse events observed were gastrointestinal toxicities and hypophosphatemia.
+Plasma decitabine PK were similar to previously reported adult data.
+Overall CR/CRi was similar for the two arms.
+MRD negativity at end-induction was 85% in Arm A versus 67% in Arm B patients.
+DNA methylation measured in peripheral blood over the course of treatment tracked with blast clearance and matched marrow aspirates at day 0 and day 21.
+Unlike end-induction marrow analyses, promoter methylation in blood identified an apparent reversal of response in the lone treatment failure, 1 week prior to the patient's marrow aspirate confirming non-response.
+Decitabine-induced effects on end-induction (day 35-43 following initiation of treatment) marrows in Arm A were reflected by changes in DNA methylation in matched paired marrow diagnostic aspirates.
+CONCLUSIONS: This first-in-pediatrics trial demonstrates that decitabine prior to standard combination chemotherapy is feasible and well tolerated in children with newly diagnosed AML.
+Pre-treatment with decitabine may represent a newer therapeutic option for pediatric AML, especially as it appears to induce important epigenetic alterations.
+The novel biological correlates studied in this trial offer a clinically relevant window into disease progression and remission.
+Additional studies are needed to definitively assess whether decitabine can enhance durability responses in children with AML.
+TRIAL REGISTRATION: NCT01177540.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

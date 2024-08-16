@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Early initiation of chemotherapy following complete resection of advanced ovarian cancer associated with improved survival: NRG Oncology/Gynecologic Oncology Group study.
+BACKGROUND: To determine whether time from surgery to initiation of chemotherapy impacts survival in advanced ovarian carcinoma.
+PATIENTS AND METHODS: This is a post-trial ad hoc analysis of Gynecologic Oncology Group protocol 218, a phase III randomized, double-blind, placebo-controlled trial designed to study the antiangiogenesis agent, bevacizumab, in primary and maintenance therapy for patients with newly diagnosed advanced ovarian carcinoma.
+Maximum attempt at debulking was an eligibility criterion.
+Stage III patients, not stage IV, were required to have gross macroscopic or palpable residual disease following surgery.
+The survival impact of time from surgery to initiation of chemotherapy was studied using Cox regression models and stratified by treatment arm, residual disease and other clinical and pathologic factors.
+RESULTS: One thousand seven hundred eighteen assessable patients were randomized (stage III (n = 1237); stage IV (n = 477), including those with complete resection (stage IV only, n = 81), low-volume residual (&lt;/=1 cm, n = 701), and suboptimal (&gt;1 cm, n = 932).
+On multivariate analysis, time to chemotherapy initiation was predictive of overall survival (P &lt; 0.001), with the complete resection group (i.e. stage IV) encountering an increased risk of death when time to initiation of chemotherapy exceeded 25 days (95% confidence interval 16.6-49.9 days).
+CONCLUSION: Survival for women with advanced ovarian cancer may be adversely affected when initiation of chemotherapy occurs &gt;25 days following surgery.
+Our analysis applies to stage IV only as women with stage III who underwent complete resection were not eligible for this trial.
+These results, however, are consistent with Gompertzian first-order kinetics where patients with microscopic residual are most vulnerable.
+CLINICAL TRIALS IDENTIFIER: NCT00262847.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

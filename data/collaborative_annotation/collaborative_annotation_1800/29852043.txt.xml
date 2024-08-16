@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Effect of Adjuvant Trastuzumab for a Duration of 9 Weeks vs 1 Year With Concomitant Chemotherapy for Early Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer: The SOLD Randomized Clinical Trial.
+Importance: Trastuzumab plus chemotherapy is the standard adjuvant treatment for patients with human epidermal growth factor receptor 2 (HER2)-positive early breast cancer.
+While the standard duration of trastuzumab treatment is 12 months, the benefits and harms of trastuzumab continued beyond the chemotherapy are unclear.
+Objective: To evaluate the efficacy and safety of adjuvant trastuzumab continued beyond chemotherapy in women treated with up-front chemotherapy containing a taxane and trastuzumab.
+Design, Setting, and Participants: Open-label, randomized (1:1) clinical trial including women with HER2-positive breast cancer.
+Chemotherapy was identical in the 2 groups, consisting of 3 cycles of 3-weekly docetaxel (either 80 or 100 mg/m2) plus trastuzumab for 9 weeks, followed by 3 cycles of fluorouracil, epirubicin, and cyclophosphamide.
+Thereafter, no trastuzumab was administered in the 9-week group, whereas controls received trastuzumab to complete 1 year of administration.
+Disease-free survival (DFS) was compared between the groups using a Cox model and the noninferiority approach.
+The estimated sample size was 2168 patients (1-sided testing, with a relative noninferiority margin of 1.3).
+From January 3, 2008, to December 16, 2014, 2176 patients were accrued from 7 countries.
+Intervention: Docetaxel plus trastuzumab for 9 weeks, followed by 3 cycles of fluorouracil, epirubicin, and cyclophosphamide in both groups.
+Controls continued trastuzumab to 1 year.
+Main Outcomes and Measures: The primary objective was DFS; secondary objectives included distant disease-free survival, overall survival, cardiac DFS, and safety.
+Results: In the 2174 women analyzed, median age was 56 (interquartile range [IQR], 48-64) years.
+The median follow-up was 5.2 (IQR, 3.8-6.7) years.
+Noninferiority of the 9-week treatment could not be demonstrated for DFS (hazard ratio, 1.39; 2-sided 90% CI, 1.12-1.72).
+Distant disease-free survival and overall survival did not differ substantially between the groups.
+Thirty-six (3%) and 21 (2%) patients in the 1-year and the 9-week groups, respectively, had cardiac failure; the left ventricle ejection fraction was better maintained in the 9-week group.
+An interaction was detected between the docetaxel dose and DFS; patients in the 9-week group treated with 80 mg/m2 had inferior and those treated with 100 mg/m2 had similar DFS as patients in the 1-year group.
+Conclusions and Relevance: Nine weeks of trastuzumab was not noninferior to 1 year of trastuzumab when given with similar chemotherapy.
+Cardiac safety was better in the 9-week group.
+The docetaxel dosing with trastuzumab requires further study.
+Trial Registration: ClinicalTrials.gov Identifier: NCT00593697.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

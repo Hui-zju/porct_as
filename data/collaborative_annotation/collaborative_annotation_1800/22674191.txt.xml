@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Goserelin and bicalutamide treatments alter the expression of microRNAs in the prostate.
+BACKGROUND: Although endocrine therapy has been used for decades, its influence on the expression of microRNAs (miRNAs) in clinical tissue specimens has not been analyzed.
+Moreover, the effects of the TMPRSS2:ERG fusion on the expression of miRNAs in hormone naive and endocrine-treated prostate cancers are poorly understood.
+METHODS: We used clinical material from a neoadjuvant trial consisting of 28 men treated with goserelin (n = 8), bicalutamide (n = 9), or no treatment (n = 11) for 3 months prior to radical prostatectomy.
+Freshly frozen specimens were used for microarray analysis of 723 human miRNAs.
+Specific miRNA expression in cancer, benign epithelium and stromal tissue compartments was predicted with an in silico Bayesian modeling tool.
+RESULTS: The expression of 52, 44, and 34 miRNAs was affected &gt;1.4-fold by the endocrine treatment in the cancer, non-malignant epithelium, and stromal compartments, respectively.
+Of the 52 miRNAs, only 10 were equally affected by the two treatment modalities in the cancer compartment.
+Twenty-six of the 52 genes (50%) showed AR binding sites in their proximity in either VCaP or LNCaP cell lines.
+Forty-seven miRNAs were differentially expressed in TMPRSS2:ERG fusion positive compared with fusion negative cases.
+Endocrine treatment reduced the differences between fusion positive and negative cases.
+CONCLUSIONS: Goserelin treatment and bicalutamide treatment mostly affected the expression of different miRNAs.
+The effect clearly varied in different tissue compartments.
+TMPRSS2:ERG fusion positive and negative cases showed differential expression of miRNAs, and the difference was diminished by androgen ablation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

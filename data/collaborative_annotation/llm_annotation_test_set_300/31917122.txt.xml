@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[S-1 and Oxaliplatin Versus Tegafur-uracil and Leucovorin as Postoperative Adjuvant Chemotherapy in Patients With High-risk Stage III Colon Cancer (ACTS-CC 02): A Randomized, Open-label, Multicenter, Phase III Superiority Trial.
+BACKGROUND: The efficacy of S-1 plus oxaliplatin (SOX) as postoperative adjuvant chemotherapy for colon cancer has not been established.
+This randomized phase III study was designed to verify the superiority of SOX over tegafur-uracil and leucovorin (UFT/LV) in patients with high-risk stage III colon cancer (any T, N2, or positive nodes around the origin of the feeding arteries).
+PATIENTS AND METHODS: Patients who underwent curative resection for pathologically confirmed high-risk stage III colon cancer were randomly assigned to receive either UFT/LV (300 mg/m(2) of UFT and 75 mg/day of LV on days 1-28, every 35 days, 5 cycles) or SOX (100 mg/m(2) of oxaliplatin on day 1 and 80 mg/m(2) of S-1 on days 1-14, every 21 days, 8 cycles).
+The primary endpoint was disease-free survival (DFS).
+RESULTS: A total of 478 patients in the UFT/LV group and 477 patients in the SOX group were included in the primary analysis.
+The 3-year DFS was 60.6% (95% confidence interval [CI], 56.0%-64.9%) in the UFT/LV group and 62.7% (95% CI, 58.1%-66.9%) in the SOX group.
+The stratified hazard ratio for DFS was 0.90 (95% CI, 0.74-1.09; stratified log-rank test, P = .2780).
+In the N2b subgroup, the 3-year DFS was 46.0% (95% CI, 37.5%-54.0%) in the UFT/LV group and 54.7% (95% CI, 45.7%-62.7%) in the SOX group (hazard ratio, 0.76; 95% CI, 0.55-1.05).
+CONCLUSION: As postoperative adjuvant chemotherapy, SOX was not superior to UFT/LV in terms of DFS in patients with high-risk stage III colon cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

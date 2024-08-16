@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Five-Year Outcomes With Nivolumab in Patients With Wild-Type BRAF Advanced Melanoma.
+PURPOSE: The CheckMate 066 trial investigated nivolumab monotherapy as first-line treatment for patients with previously untreated BRAF wild-type advanced melanoma.
+Five-year results are presented herein.
+PATIENTS AND METHODS: In this multicenter, double-blind, phase III study, 418 patients with previously untreated, unresectable, stage III/IV, wild-type BRAF melanoma were randomly assigned 1:1 to receive nivolumab 3 mg/kg every 2 weeks or dacarbazine 1,000 mg/m(2) every 3 weeks.
+The primary end point was overall survival (OS), and secondary end points included progression-free survival (PFS), objective response rate (ORR), and safety.
+RESULTS: Patients were followed for a minimum of 60 months from the last patient randomly assigned (median follow-up, 32.0 months for nivolumab and 10.9 months for dacarbazine).
+Five-year OS rates were 39% with nivolumab and 17% with dacarbazine; PFS rates were 28% and 3%, respectively.
+Five-year OS was 38% in patients randomly assigned to dacarbazine who had subsequent therapy, including nivolumab (n = 37).
+ORR was 42% with nivolumab and 14% with dacarbazine; among patients alive at 5 years, ORR was 81% and 39%, respectively.
+Of 42 patients treated with nivolumab who had a complete response (20%), 88% (37 of 42) were alive as of the 5-year analysis.
+Among 75 nivolumab-treated patients alive and evaluable at the 5-year analysis, 83% had not received subsequent therapy; 23% were still on study treatment, and 60% were treatment free.
+Safety analyses were similar to the 3-year report.
+CONCLUSION: Results from this 5-year analysis confirm the significant benefit of nivolumab over dacarbazine for all end points and add to the growing body of evidence supporting long-term survival with nivolumab mono-therapy.
+Survival is strongly associated with achieving a durable response, which can be maintained after treatment discontinuation, even without subsequent systemic therapies.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

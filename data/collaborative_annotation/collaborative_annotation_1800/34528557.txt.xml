@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A prospective randomized trial comparing accelerated concurrent chemoradiotherapy with conventional concurrent chemoradiotherapy in locally advanced carcinoma cervix (IIA-IVA).
+Introduction: Cervical cancer ranks fourth in women worldwide.
+The management requires a multidisciplinary approach.
+Concomitant chemoradiotherapy with cisplatin, followed by brachytherapy, is the standard approach.
+Accelerated radiotherapy (ART) can be used to decrease the treatment duration which can further lead to better outcomes.
+Materials and Methods: Stages II, III, and IVA of carcinoma cervix were studied for 1 year.
+Ninety patients were randomized in control and study arms, 45 patients in each arm.
+The total dose of radiation was 50 Gy/25#/5 weeks from Monday to Friday in the control arm and 50 Gy/25#/4 weeks from Monday to Saturday in the study arm, with injection cisplatin 40 mg/m (2) intravenous infusion weekly in both the arms.
+Results: The response was similar in both the arms at the first follow-up as well as at median follow-up.
+However, acute toxicities in the ART arm were more, but they were managed conservatively.
+Conclusion: ART can be used in patients of cervical cancers to decrease the total treatment time.
+The results were similar in both the groups but need to be studied over more number of patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Prognostic value of the neutrophil/lymphocyte ratio in enteropancreatic neuroendocrine tumors.
+Accessible prognostic tools are needed to individualize treatment of neuroendocrine tumors (NETs).
+Data suggest neutrophil/lymphocyte ratios (NLRs) have prognostic value in some solid tumors, including NETs.
+In the randomized double-blind CLARINET study (NCT00353496; EudraCT 2005-004904-35), the somatostatin analog lanreotide autogel/depot increased progression-free survival (PFS) compared with placebo in patients with inoperable or metastatic intestinal and pancreatic NETs (grades 1-2, Ki-67 &lt; 10%).
+The exploratory post-hoc analyses presented here evaluated the prognostic value of NLR in the CLARINET study cohort, in the context of and independently from treatment.
+Kaplan-Meier PFS plots were generated for patients with available NLR data, in subgroups based on NLR values, and 24-month survival rates were calculated.
+P values and hazard ratios for prognostic effects were generated using Cox models.
+31216222 Baseline characteristics were balanced between lanreotide autogel/depot 120 mg (n = 100) and placebo (n = 101) arms.
+Irrespective of treatment, raw 24-month PFS rates were comparable across subgroups based on NLR tertiles [37.3% (low), 38.8% (middle), 38.8% (high); n = 67 per group] and NLR cutoff of 4 [38.1% (NLR &lt;/= 4; n = 176), 40.0% (NLR &gt; 4; n = 25)].
+Furthermore, NLRs were not prognostic in Cox models, irrespective of subgroups used.
+The therapeutic effect of lanreotide autogel/depot 120 mg was independent of NLRs (P &gt; 0.1).
+These exploratory post-hoc analyses in patients with advanced intestinal and pancreatic NETs contrast with previous data suggesting NLR has prognostic potential in NETs.
+This may reflect the inclusion of patients with lower-grade tumors or use of higher NLR cutoff values in the current analysis.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

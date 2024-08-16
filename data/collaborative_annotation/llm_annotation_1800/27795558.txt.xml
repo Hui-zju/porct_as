@@ -1,0 +1,11 @@
+<MyRCT>
+<TEXT>Expression of CD33 is a predictive factor for effect of gemtuzumab ozogamicin at different doses in adult acute myeloid leukaemia.
+It remains unclear in adult acute myeloid leukaemia (AML) whether leukaemic expression of CD33, the target antigen for gemtuzumab ozogamicin (GO), adds prognostic information on GO effectiveness at different doses.
+CD33 expression quantified in 1583 patients recruited to UK-NCRI-AML17 (younger adults) and UK-NCRI-AML16 (older adults) trials was correlated with clinical outcomes and benefit from GO including a dose randomisation.
+CD33 expression associated with genetic subgroups, including lower levels in both adverse karyotype and core-binding factor (CBF)-AML, but was not independently prognostic.
+When comparing GO versus no GO (n=393, CBF-AMLs excluded) by stratified subgroup-adjusted analysis, patients with lowest quartile (Q1) %CD33-positivity had no benefit from GO (relapse risk, HR 2.41 (1.27-4.56), P=0.009 for trend; overall survival, HR 1.52 (0.92-2.52)).
+However, from the dose randomisation (NCRI-AML17, n=464, CBF-AMLs included), 6 mg/m(2) GO only had a relapse benefit without increased early mortality in CD33-low (Q1) patients (relapse risk HR 0.64 (0.36-1.12) versus 1.70 (0.99-2.92) for CD33-high, P=0.007 for trend).
+Thus CD33 expression is a predictive factor for GO effect in adult AML; although GO does not appear to benefit the non-CBF AML patients with lowest CD33 expression a higher GO dose may be more effective for CD33-low but not CD33-high younger adults.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Addition of radiotherapy to long-term androgen deprivation in locally advanced prostate cancer: an open randomised phase 3 trial.
+BACKGROUND: Radiotherapy combined with androgen-deprivation therapy (ADT) is superior to radiotherapy alone in localised prostate cancer; however, data comparing ADT alone are somewhat limited.
+OBJECTIVE: To compare 3-yr ADT plus radiotherapy with ADT alone in locally advanced prostate cancer patients.
+DESIGN, SETTING, AND PARTICIPANTS: A multicentre randomised open controlled phase 3 trial in 264 histologically confirmed T3-4 or pT3N0M0 prostate cancer patients randomised from March 2000 to December 2003.
+INTERVENTION: ADT (11.25mg subcutaneous depot injection of leuprorelin every 3 mo for 3 yr) plus external-beam radiotherapy or ADT alone.
+Flutamide (750 g/d) was administered for 1 mo.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: The primary objective was 5 yr progression-free survival (PFS) according to clinical or biologic criteria, using the American Society for Therapeutic Radiology and Oncology (ASTRO) and the newer (Phoenix) definition (nadir plus 2 ng/ml), by intention to treat.
+Secondary objectives included time to locoregional recurrence and distant metastases, and overall and disease-specific survival.
+Our Analyses: intent-to-treat analysis, multivariate analyses using a Cox model with a 5% threshold from univariate analysis, and Kaplan-Meier estimates.
+RESULTS AND LIMITATIONS: ADT alone was administered to 130 patients and combined therapy to 133.
+With a median follow-up of 67 mo, 5-yr PFS was 60.9% for combined therapy versus 8.5% with ADT alone (ASTRO; p<0.0001), and 64.7% versus 15.4%, respectively, for Phoenix (p<0.0011).
+Locoregional progression was reported in 9.8% of combined-therapy patients versus 29.2% with ADT alone (p<0.0001) and metastatic progression in 3.0% versus 10.8%, respectively (p<0.018).
+Overall survival was 71.4% with combined therapy versus 71.5% with ADT alone; disease-specific survival was 93.2% versus 86.2%.
+Limitations included the relatively small population and a relatively short follow-up period.
+CONCLUSIONS: Combined therapy strongly favoured improved PFS, locoregional control, and metastasis-free survival.
+Longer follow-up is needed to assess the potential survival impact.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

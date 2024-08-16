@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Impact of axillary dissection in women with invasive breast cancer who do not fit the Z0011 ACOSOG trial because of three or more metastatic sentinel lymph nodes.
+AIM: The objective of this study was to determine the effects of axillary lymph node dissection (ALND) versus sentinel lymph node biopsy alone (SLNB) on the survival of patients with 3 or more metastatic lymph nodes (MLN) in invasive breast cancer.
+METHODS: Data of 9521 patients with invasive T1-2M0 breast carcinoma and initial treatment with SLNB completed or not by ALND and 3 or more MLN were extracted from the SEER database.
+Univariate and multivariate analyses were performed.
+RESULTS: Overall, 9521 patients were included in the study.
+SLNB-alone compared with ALND did not result in different overall survival (OS) or specific survival (SS) for patients with 3 or more MLN (p = 0.46 and 0.58, respectively).
+In subgroup analyses, OS was comparable between SLNB-alone and ALND when patients had only 3 or more than 3 MLN.
+When patients had 3 MLN, the 5-year SS was significantly better for patients with ALND compared with SLNB-alone: 91.5% and 85.1%, respectively (p = 0.02).
+The Hazard Ratio (HR) for OS comparing SLNB-alone with ALND adjusting for age, adjuvant radiotherapy, tumor size, estrogen receptor status, grade and tumor type resulted in an HR of 1.05 (95% CI, 0.72-1.54, p = 0.77).
+CONCLUSION: In conclusion, patients with a T1-T2 invasive breast cancer and at least 3 MLN do not benefit from ALND after SLNB for specific and overall survival, thus limiting ALND to a staging procedure.
+A subgroup of patients with 3 MLN had a better SS with ALND, possibly due to an under-staging of the SLNB-alone group.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[German Adjuvant Intergroup Node-positive Study (GAIN): a phase III trial comparing two dose-dense regimens (iddEPC versus ddEC-PwX) in high-risk early breast cancer patients.
+BACKGROUND: Dose-dense (dd) regimens are one of the preferred options for the adjuvant treatment of breast cancer patients with intermediate to high risk.
+The German Adjuvant Intergroup Node-positive trial aimed at optimizing intense dd (idd) strategies by evaluating drug combinations and the addition of capecitabine.
+PATIENTS AND METHODS: Women (aged 18 years and biologically <65 years) with histologically involved axillary lymph nodes were randomly assigned to receive three courses each of epirubicin (E) 150 mg/m2, paclitaxel (P) 225 mg/m2 and cyclophosphamide (C) 2500 mg/m2 (reduced to 2000 mg/m2 after recruitment of 1200 patients) q2w intravenously (i.v.) (iddEPC-regimen) or ddEC (E 112.5 mg/m2 + C 600 mg/m2, i.v.
+q2w for 4 cycles) followed by paclitaxel weekly (Pw 67.5 mg/m2 i.v.
+q8d for 10 weeks) plus capecitabine (X 2000 mg/m2 p.o.
+days 1-14, q22 for 4 cycles) (ddEC-PwX-regimen).
+Further randomization assigned patients to ibandronate for 2 years versus observation and to pegfilgrastim day 2 versus 4.
+RESULTS: From June 2004 to August 2008, 2994 patients were randomized to either iddEPC (N = 1498), or ddEC-PwX (N = 1496) and started treatment.
+Median age was 50 years; pN1 (37.8%), pN2 (35.3%); pN3 (26.9%); 46.4% were G3 tumors; 76.9% hormone receptor-positive and 22% HER2-positive.
+After a median follow-up of 74 months, 645 events and 383 deaths were recorded.
+Hematological adverse events grades 3-4 were more common with iddEPC (P < 0.001), nonhematological with ddEC-PwX (P = 0.04), even if the toxicity profile of the two regimens was different.
+At 5 years, estimated disease-free survival rates for ddEC-PwX and iddEPC were 81.7% [95% confidence interval (CI) 79.5-83.6] versus 80.2% (95% CI 78.0-82.2).
+Hazard ratio (HR)=0.95 (95% CI 0.81-1.11, log-rank P = 0.49).
+Five-year overall survival rates were 89.4% for ddEC-PwX (95% CI 87.7-91.0) and 89.0% for iddEPC (95% CI 87.2-90.6), HR = 0.85 (95% CI 0.69-1.04, log-rank P = 0.10).
+CONCLUSION: Adding capecitabine to ddEC-Pw did not improve outcome in comparison to iddEPC but increased toxicity and should not be recommended for further use.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

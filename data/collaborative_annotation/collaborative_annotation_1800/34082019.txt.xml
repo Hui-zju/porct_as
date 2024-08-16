@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Molecular determinants of clinical outcomes with pembrolizumab versus paclitaxel in a randomized, open-label, phase III trial in patients with gastroesophageal adenocarcinoma.
+BACKGROUND: In the phase III KEYNOTE-061 trial (NCT02370498), pembrolizumab did not significantly improve overall survival versus paclitaxel as second-line therapy for gastric/gastroesophageal junction (GEJ) adenocarcinoma with programmed death-ligand 1 (PD-L1) combined positive score (CPS) >/=1 tumors.
+The association of tissue tumor mutational burden (tTMB) status and clinical outcomes was determined, including the relationship with CPS and microsatellite instability-high (MSI-H) status.
+PATIENTS AND METHODS: In patients with whole exome sequencing (WES) data [420/592 (71%); pembrolizumab, 218; paclitaxel, 202], the association of tTMB with objective response rate (ORR; logistic regression), progression-free survival (PFS; Cox proportional hazards regression), and overall survival (OS; Cox proportional hazards regression) were measured using one-sided (pembrolizumab) and two-sided [paclitaxel] P values.
+tTMB was also evaluated using FoundationOne(R)CDx [205/592 (35%)].
+Prespecified equivalent cut-offs of 175 mut/exome for WES and 10 mut/Mb for FoundationOne(R)CDx were used.
+RESULTS: WES-tTMB was significantly associated with ORR, PFS, and OS in pembrolizumab-treated (all P < 0.001) but not paclitaxel-treated patients (all P > 0.6) in univariate analysis.
+The area under the receiver operating characteristics curve for WES-tTMB and response was 0.68 [95% confidence interval (CI) 0.56-0.81] for pembrolizumab and 0.51 (95% CI 0.39-0.63) for paclitaxel in univariate analysis.
+There was low correlation between WES-tTMB and CPS in both treatment groups (r </= 0.16).
+WES-tTMB remained significantly associated with all clinical endpoints with pembrolizumab after adjusting for CPS and with PFS and OS after excluding known MSI-H tumors (n = 26).
+FoundationOne(R)CDx-tTMB demonstrated a positive association with ORR, PFS, and OS in pembrolizumab-treated patients (all P </= 0.003) but not PFS or OS in paclitaxel-treated patients (P > 0.1).
+CONCLUSION: This exploratory analysis from KEYNOTE-061 is the first to demonstrate a strong association between tTMB and efficacy with pembrolizumab but not paclitaxel in patients with gastric/GEJ adenocarcinoma in a randomized setting.
+Data further suggest tTMB is a significant and independent predictor beyond PD-L1 status.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

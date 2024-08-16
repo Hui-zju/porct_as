@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Minocycline Reduces Chemoradiation-Related Symptom Burden in Patients with Non-Small Cell Lung Cancer: A Phase 2 Randomized Trial.
+PURPOSE: In patients with non-small cell lung cancer (NSCLC), concurrent chemoradiation therapy (CRT) exacerbates a cluster of difficult-to-manage symptoms, especially cancer-related fatigue.
+Minocycline is a readily available, low-cost antibiotic with antiinflammatory properties.
+We conducted a phase 2 randomized, double-blinded, placebo-controlled trial to investigate the effect of minocycline in reducing CRT-symptom burden in NSCLC.
+METHODS AND MATERIALS: Patients with NSCLC scheduled to receive CRT provided consent and were randomized to receive either minocycline (100 mg twice daily) or a matching placebo during 6 to 7 weeks of CRT.
+Patient-reported fatigue and other symptoms were assessed on MD Anderson Symptom Inventory weekly from the start of CRT for 12 weeks.
+The primary outcome was 12-week (+/-2 days) area under the curve for symptom burden, which was compared between treatment groups.
+RESULTS: Forty of 49 enrolled patients (80%) were evaluable (19 on minocycline and 21 on placebo).
+There were no grade 3 + adverse events related to the study medication.
+Fatigue was significantly reduced in the minocycline group compared with placebo group during the 12-week trial period (area under the curve = 31.2 +/-
+14.2 vs 45.0 +/- 20.9, P = .011), with a large effect size (Cohen's d = 0.77).
+Pain (Cohen's d = 0.54) and shortness of breath (Cohen's d = 0.55) were also significantly reduced in the minocycline group (all P < .05).
+CONCLUSIONS: Minocycline during CRT for NSCLC was feasible, had a low toxicity profile, and yielded a clinically and statistically significant positive signal in reducing symptom burden related to NSCLC and CRT.
+This study is a proof of concept so a larger trial in CRT patients is warranted.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

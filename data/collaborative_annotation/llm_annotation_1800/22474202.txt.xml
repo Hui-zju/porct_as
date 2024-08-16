@@ -1,0 +1,23 @@
+<MyRCT>
+<TEXT>Effect of oxaliplatin, fluorouracil, and leucovorin with or without cetuximab on survival among patients with resected stage III colon cancer: a randomized trial.
+CONTEXT: Leucovorin, fluorouracil, and oxaliplatin (FOLFOX) is the standard adjuvant therapy for resected stage III colon cancer.
+Adding cetuximab to FOLFOX benefits patients with metastatic wild-type KRAS but not mutated KRAS colon cancer.
+OBJECTIVE: To assess the potential benefit of cetuximab added to the modified sixth version of the FOLFOX regimen (mFOLFOX6) in patients with resected stage III wild-type KRAS colon cancer.
+DESIGN, SETTING, AND PARTICIPANTS: A randomized trial of 2686 patients aged 18 years or older at multiple institutions across North America enrolled following resection and informed consent between February 10, 2004, and November 25, 2009.
+The primary randomized comparison was 12 biweekly cycles of mFOLFOX6 with and without cetuximab.
+KRAS mutation status was centrally determined.
+The trial was halted after a planned interim analysis of 48% of predicted events (246/515) occurring in 1863 (of 2070 planned) patients with tumors having wild-type KRAS.
+A total of 717 patients with mutated KRAS and 106 with indeterminate KRAS were accrued.
+The 2070 patients with wild-type KRAS provided 90% power to detect a hazard ratio (HR) of 1.33 (2-sided alpha = .05), with planned interim efficacy analyses after 25%, 50%, and 75% of expected relapses.
+MAIN OUTCOME MEASURES: Disease-free survival in patients with wild-type KRAS mutations.
+Secondary end points included overall survival and toxicity.
+RESULTS: Median (range) follow-up was 28 (0-68) months.
+The trial demonstrated no benefit when adding cetuximab.
+Three-year disease-free survival for mFOLFOX6 alone was 74.6% vs 71.5% with the addition of cetuximab (HR, 1.21; 95% CI, 0.98-1.49; P = .08) in patients with wild-type KRAS, and 67.1% vs 65.0% (HR, 1.12; 95% CI, 0.86-1.46; P = .38) in patients with mutated KRAS, with no significant benefit in any subgroups assessed.
+Among all patients, grade 3 or higher adverse events (72.5% vs 52.3%; odds ratio [OR], 2.4; 95% CI, 2.1-2.8; P &lt; .001) and failure to complete 12 cycles (33% vs 23%; OR, 1.6; 95% CI, 1.4-1.9; P &lt; .001) were significantly higher with cetuximab.
+Increased toxicity and greater detrimental differences in all outcomes were observed in patients aged 70 years or older.
+CONCLUSION: Among patients with stage III resected colon cancer, the use of cetuximab with adjuvant mFOLFOX6 compared with mFOLFOX6 alone did not result in improved disease-free survival.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00079274.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>A novel nomogram based on SEER database for the prediction of liver metastasis in patients with small-cell lung cancer.
+BACKGROUND: To establish and validate a nomogram to predict liver metastasis in patients with small-cell lung cancer (SCLC).
+METHODS: Information on patients diagnosed with SCLC between 2010 and 2015 was retrospectively retrieved from the Surveillance, Epidemiology, and End Results (SEER) database.
+Risk factors for liver metastasis were identified by logistic regression analyses to construct a nomogram.
+The predictive accuracy was evaluated by concordance indexes (c-index) and calibration plots, and the comparison of discrimination between the nomogram and other routine staging systems was achieved with the area under receiver operating characteristic curve (AUC) analysis.
+Decision curve analysis (DCA) was performed to measure the clinical performance of the nomogram.
+RESULTS: A total of 12,957 patients met our inclusion criteria and were randomly assigned to training (n=6,479) and validation (n=6,478) sets.
+The nomogram which was established based on independent clinicopathological factors had poor accuracy, and after other distant metastatic sites were added into the predictive model, the new nomogram displayed better discrimination power, with c-indexes of 0.703 in the training set and 0.712 in the validation set.
+Both internal and external calibration plots approached 45 degrees.
+The AUCs and net benefit of the predictive model were both higher than those of routine staging systems.
+CONCLUSIONS: The validated nomogram might be a practical tool for clinicians to quantify the risk of liver metastasis in patients with SCLC and improve cancer management.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

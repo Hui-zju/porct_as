@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Serum alpha-fetoprotein and clinical outcomes in patients with advanced hepatocellular carcinoma treated with ramucirumab.
+BACKGROUND: Post hoc analyses assessed the prognostic and predictive value of baseline alpha-fetoprotein (AFP), as well as clinical outcomes by AFP response or progression, during treatment in two placebo-controlled trials (REACH, REACH-2).
+METHODS: Serum AFP was measured at baseline and every three cycles.
+The prognostic and predictive value of baseline AFP was assessed by Cox regression models and Subpopulation Treatment Effect Pattern Plot method.
+Associations between AFP (&gt;/= 20% increase) and radiographic progression and efficacy were assessed.
+RESULTS: Baseline AFP was confirmed as a continuous (REACH, REACH-2; p &lt; 0.0001) and dichotomous (&gt;/=400 vs. &lt;400 ng/ml; REACH, p &lt; 0.01) prognostic factor, and was predictive for ramucirumab survival benefit in REACH (p = 0.0042 continuous; p &lt; 0.0001 dichotomous).
+Time to AFP (hazard ratio [HR] 0.513; p &lt; 0.0001) and radiographic (HR 0.549; p &lt; 0.0001) progression favoured ramucirumab.
+Association between AFP and radiographic progression was shown for up to 6 (odds ratio [OR] 5.1; p &lt; 0.0001) and 6-12 weeks (OR 1.8; p = 0.0065).
+AFP response was higher with ramucirumab vs. placebo (p &lt; 0.0001).
+Survival was longer in patients with an AFP response than patients without (13.6 vs. 5.6 months, HR 0.451; 95% confidence interval, 0.354-0.574; p &lt; 0.0001).
+CONCLUSIONS: AFP is an important prognostic factor and a predictive biomarker for ramucirumab survival benefit.
+AFP &gt;/= 400 ng/ml is an appropriate selection criterion for ramucirumab.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, REACH (NCT01140347) and REACH-2 (NCT02435433).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

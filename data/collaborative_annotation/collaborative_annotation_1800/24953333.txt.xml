@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[First-line pemetrexed plus cisplatin followed by gefitinib maintenance therapy versus gefitinib monotherapy in East Asian patients with locally advanced or metastatic non-squamous non-small cell lung cancer: a randomised, phase 3 trial.
+BACKGROUND: In the Iressa Pan-ASia Study (IPASS), gefitinib claimed improved progression-free survival (PFS) versus carboplatin-paclitaxel in clinically selected lung cancer patients.
+The primary objective of this study was to assess the PFS of pemetrexed-cisplatin (PC) followed by gefitinib maintenance versus gefitinib monotherapy in an IPASS-like population.
+METHODS: In this open-label, randomised, phase 3 trial, eligible patients were 18 years, chemonaive, East Asian, light ex-smokers/never-smokers with advanced non-squamous non-small cell lung cancer, an Eastern Cooperative Oncology Group (ECOG) performance status 0-1 and unknown epidermal growth factor receptor (EGFR) mutation status who enrolled at 12 sites in Asia.
+Patients randomly received (1:1) pemetrexed (500 mg/m(2)) plus cisplatin (75mg/m(2)) for six 21-day cycles, followed by gefitinib maintenance or gefitinib monotherapy (250 mg/day).
+Patient tissue was retrospectively analysed for EGFR mutations.
+This study is registered with ClinicalTrials.gov, NCT01017874.
+FINDINGS: Between 23rd November 2009 and 27th April 2012, 253 patients entered, and 236 patients were randomly assigned to and treated with PC therapy (N=114) and gefitinib monotherapy (N=118).
+Between-arm baseline characteristics were balanced.
+PFS was not significantly different between treatment arms (p=0.217).
+The unadjusted hazard ratio (HR) was 0.85 (95% confidence interval (CI) 0.63-1.13).
+The HR should be cautiously interpreted as it was not constant.
+EGFR mutation status was determined for 74 tissue samples; 50 (67.6%) had mutations.
+In a pre-specified subgroup analysis, only the treatment-by-EGFR mutation interaction was significant (p=0.008) for PFS.
+For the entire treatment period, a higher proportion of patients in the PC/gefitinib arm versus gefitinib experienced possibly drug-related grade 3-4 treatment-emergent adverse events (39 of 114 [34%] versus 19 of 118 [16%]; p=0.002).
+INTERPRETATION: In the intention-to-treat (ITT) population, PFS was not significantly different.
+In the biomarker-assessable population, front-line EGFR tyrosine kinase inhibitor monotherapy was not efficacious in patients with wild-type EGFR.
+Identification of EGFR mutation status is key in the management of advanced non-squamous non-small cell lung cancer.
+FUNDING: Eli Lilly and Company.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

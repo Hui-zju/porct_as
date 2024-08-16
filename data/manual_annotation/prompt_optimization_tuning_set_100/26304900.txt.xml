@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Impact of an Automatically Generated Cancer Survivorship Care Plan on Patient-Reported Outcomes in Routine Clinical Practice: Longitudinal Outcomes of a Pragmatic, Cluster Randomized Trial.
+PURPOSE: This study was conducted to longitudinally assess the impact of an automatically generated survivorship care plan (SCP) on patient-reported outcomes in routine clinical practice.
+Primary outcomes were patient satisfaction with information and care.
+Secondary outcomes included illness perceptions and health care use.
+METHODS: Twelve hospitals were randomly assigned to SCP care or usual care in a pragmatic, cluster randomized trial.
+Newly diagnosed patients with endometrial cancer completed questionnaires after diagnosis (n = 221; 75% response), 6 months (n = 158), and 12 months (n = 147).
+An SCP application was built in the Web-based ROGY (Registration System Oncological Gynecology).
+By clicking the SCP button, a patient-tailored SCP was generated.
+RESULTS: In the SCP care arm, 74% of patients received an SCP.
+They reported receiving more information about their treatment (mean [M] = 57, standard deviation [SD] = 20 v M = 47, SD = 24; P = .03), other services (M = 35, SD = 22 v M = 25, SD = 22; P = .03), and different places of care (M = 27, SD = 25 v M = 23, SD = 26; P = .04) than the usual care arm (scales, 0 to 100).
+However, there were no differences regarding satisfaction with information or care.
+Patients in the SCP care arm experienced more symptoms (M = 3.3, SD = 2.0 v M = 2.6, SD = 1.6; P = .03), were more concerned about their illness (M = 4.4, SD = 2.3 v M = 3.9, SD = 2.1; P = .03), were more affected emotionally (M = 4.0, SD = 2.2 v M = 3.7, SD = 2.2; P = .046), and reported more cancer-related contact with their primary care physician (M = 1.8, SD = 2.0 v M = 1.1, SD = 0.9; P = .003) than those in the usual care arm (scale, 1 to 10).
+These effects did not differ over time.
+CONCLUSION: The present trial showed no evidence of a benefit of SCPs on satisfaction with information and care.
+Furthermore, SCPs increased patients' concerns, emotional impact, experienced symptoms, and the amount of cancer-related contact with the primary care physician.
+Whether this may ultimately lead to more empowered patients should be investigated further.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

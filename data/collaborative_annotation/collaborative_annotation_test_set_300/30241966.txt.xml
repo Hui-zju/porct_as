@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Individualized Prediction of Menses Recovery After Chemotherapy for Early-stage Breast Cancer: A Nomogram Developed From UNICANCER PACS04 and PACS05 Trials.
+BACKGROUND: The likelihood of menses recovery varies greatly in premenopausal patients receiving adjuvant chemotherapy for breast cancer.
+Quantifying this probability for each patient could better inform the chemotherapy discussion and individualize fertility counseling.
+We performed a pooled analysis of the PACS04 and PACS05 adjuvant randomized trials to develop a nomogram to estimate the probability of menses recovery at 3, 6, and 18 months after the end of adjuvant chemotherapy.
+PATIENTS AND METHODS: Women who were premenopausal and aged </= 50 years at randomization in the PACS04 and PACS05 trials were included in the present analysis.
+The primary endpoint was the probability of menses recovery within 18 months of chemotherapy completion.
+Multivariable Cox proportional hazards regression was used to estimate the association of each variable with the likelihood of menses resumption.
+A nomogram was developed to predict menses recovery at different intervals.
+RESULTS: The factors associated with menses recovery were assessed for 1210 patients.
+At a median follow-up of 90 months (range, 3-189 months), 342 of 1210 patients (28.2%) had recovered menses.
+The probability of menses recovery at 18 months was 25.5% (range, 23.0%-27.9%).
+After backward elimination, age, final body mass index, type of chemotherapy, and hormone therapy were selected to build the nomogram to predict the probability of menstrual resumption at 3, 6, and 18 months after chemotherapy.
+CONCLUSION: An accurate and individualized prediction of menses recovery is feasible for premenopausal patients eligible for adjuvant chemotherapy for early-stage breast cancer.
+Our nomogram will be externally validated in a large prospective cohort.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

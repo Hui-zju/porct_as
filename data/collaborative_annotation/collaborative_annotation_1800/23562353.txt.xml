@@ -1,0 +1,26 @@
+<MyRCT>
+<TEXT>Influence of DNA copy number and mRNA levels on the expression of breast cancer related proteins.
+For a panel of cancer related proteins, the aim was to shed light on which molecular level the expression of each protein was mainly regulated in breast tumors, and to investigate whether differences in regulation were reflected in different molecular subtypes.
+DNA, mRNA and protein lysates from 251 breast tumor specimens were analyzed using appropriate microarray technologies.
+Data from all three levels were available for 52 proteins selected for their known involvement in cancer, primarily through the PI3K/Akt pathway.
+For every protein, in cis Spearman rank correlations between the three molecular levels were calculated across all samples and within each intrinsic gene expression subtype, enabling 63 comparisons altogether due to multiple gene probes matching to single proteins.
+Subtype-specific relationships between the three molecular levels were studied by calculating the variance of subtype-specific correlation and differences between overall and average subtype-specific correlation.
+The findings were validated in an external dataset comprising 703 breast tumor specimens.
+The proteins were sorted into four groups based on the calculated rank correlation values between the three molecular levels.
+Group A consisted of eight proteins with significant correlation between DNA copy number levels and mRNA expression, and between mRNA expression and protein expression (Bonferroni adjusted p &lt; 0.05).
+Group B consisted of 14 proteins with significant correlation between mRNA expression and protein expression.
+Group C consisted of 15 proteins with significant correlation between copy number levels and mRNA expression.
+For the remaining 25 proteins (group D), no significant correlations was observed.
+Stratification of tumors according to intrinsic subtype enabled identification of positive correlations between copy number levels, mRNA and protein expression that were undetectable when considering the entire sample set.
+Protein pairings that either demonstrated high variance in correlation values between subtypes, or between subtypes and the total dataset were studied in particular.
+The protein expression of cleaved caspase 7 was most highly expressed, and correlated highest to CASP7 gene expression within the basal-like subtype, accompanied by the lowest amounts of hsa-miR-29c.
+Luminal A-like subtype demonstrated highest amounts of hsa-miR-29c (a miRNA with a putative target sequence in CASP7 mRNA), low expression of cleaved caspase 7 and low correlation to CASP7 gene expression.
+Such pattern might be an indication of hsa-miR-29c miRNA functioning as a repressor of translation of CASP7 within the luminal-A subtype.
+Across the entire cohort no correlation was found between CCNB1 copy number and gene expression.
+However, within most gene intrinsic subtypes, mRNA and protein expression of cyclin B1 was found positively correlated to copy number data, suggesting that copy number can affect the overall expression of this protein.
+Aberrations of cyclin B1 copy number also identified patients with reduced overall survival within each subtype.
+Based on correlation between the three molecular levels, genes and their products could be sorted into four groups for which the expression was likely to be regulated at different molecular levels.
+Further stratification suggested subtype-specific regulation that was not evident across the entire sample set.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

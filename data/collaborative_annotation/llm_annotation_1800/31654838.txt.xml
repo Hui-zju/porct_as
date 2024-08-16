@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Patient-reported outcomes from the randomized phase III ALEX study of alectinib versus crizotinib in patients with ALK-positive non-small-cell lung cancer.
+OBJECTIVES: Alectinib demonstrated superior efficacy and a safety profile that compared favorably with crizotinib in treatment-naive ALK+ non-small-cell lung cancer (NSCLC) in the phase III ALEX study.
+We present patient-reported outcomes (PROs) from ALEX to assess disease burden, treatment-related symptom tolerability, and health-related quality of life (HRQoL) with alectinib versus crizotinib.
+MATERIALS AND METHODS: Patients were randomized to receive alectinib 600 mg or crizotinib 250 mg twice daily until disease progression, death, or withdrawal.
+Pre-specified PRO endpoints were: mean change from baseline in symptoms, HRQoL, and functioning; and time to deterioration (TTD) in cough, dyspnea, chest pain, arm/shoulder pain, fatigue, and a composite of three symptoms (cough, dyspnea, chest pain).
+PRO data were collected using EORTC QLQ-C30 and LC13 questionnaires.
+Raw scores were standardized to a 0-100-point range, with a &gt;/=10-point score change defined as clinically meaningful.
+TTD was defined as the time from randomization until confirmed clinically meaningful deterioration (i.e., a &gt;/=10-point score change from baseline).
+RESULTS: Baseline completion rates and characteristics were balanced in the PRO-evaluable population (alectinib n = 100, 66%; crizotinib n = 97, 64%).
+On average, alectinib-treated patients reported clinically meaningful improvements in lung cancer symptoms for longer than crizotinib-treated patients.
+Between-treatment differences in lung cancer symptoms tended to favor alectinib from 11.1 months (45 weeks) onwards, around the time of median PFS with crizotinib (11.1 months).
+TTD in lung cancer symptoms was similar between treatment arms, despite longer duration of symptom improvement with alectinib; composite symptom endpoint (hazard ratio 1.10 [95% confidence interval: 0.72-1.68]).
+Duration of clinically meaningful improvement in HRQoL was longer with alectinib versus crizotinib (Week 88 vs. Week 68, respectively).
+Better patient-reported tolerability was observed with alectinib versus crizotinib on common treatment-related symptoms.
+CONCLUSION: PRO data support the superior efficacy and tolerability of alectinib relative to crizotinib demonstrated in the ALEX study.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

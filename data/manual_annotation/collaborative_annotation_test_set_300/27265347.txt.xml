@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Adjuvant chemotherapy of S-1 versus gemcitabine for resected pancreatic cancer: a phase 3, open-label, randomised, non-inferiority trial (JASPAC 01).
+BACKGROUND: Although adjuvant chemotherapy with gemcitabine is standard care for resected pancreatic cancer, S-1 has shown non-inferiority to gemcitabine for advanced disease.
+We aimed to investigate the non-inferiority of S-1 to gemcitabine as adjuvant chemotherapy for pancreatic cancer in terms of overall survival.
+METHODS: We did a randomised, open-label, multicentre, non-inferiority phase 3 trial undertaken at 33 hospitals in Japan.
+Patients who had histologically proven invasive ductal carcinoma of the pancreas, pathologically documented stage I-III, and no local residual or microscopic residual tumour, and were aged 20 years or older were eligible.
+Patients with resected pancreatic cancer were randomly assigned (in a 1:1 ratio) to receive gemcitabine (1000 mg/m(2), intravenously administered on days 1, 8, and 15, every 4 weeks [one cycle], for up to six cycles) or S-1 (40 mg, 50 mg, or 60 mg according to body-surface area, orally administered twice a day for 28 days followed by a 14 day rest, every 6 weeks [one cycle], for up to four cycles) at the data centre by a modified minimisation method, balancing residual tumour status, nodal status, and institutions.
+The primary outcome was overall survival in the two treatment groups, assessed in the per-protocol population, excluding ineligible patients and those not receiving the allocated treatment.
+The protocol prespecified that the superiority of S-1 with respect to overall survival was also to be assessed in the per-protocol population by a log-rank test, if the non-inferiority of S-1 was verified.
+We estimated overall and relapse-free survival using the Kaplan-Meier methods, and assessed non-inferiority of S-1 to gemcitabine using the Cox proportional hazard model.
+The expected hazard ratio (HR) for mortality was 0.87 with a non-inferiority margin of 1.25 (power 80%; one-sided type I error 2.5%).
+This trial is registered at UMIN CTR (UMIN000000655).
+FINDINGS: 385 patients were randomly assigned to treatment between April 11, 2007, and June 29, 2010 (193 to the gemcitabine group and 192 to the S-1 group).
+Of these, three were exlcuded because of ineligibility and five did not receive chemotherapy.
+The per-protocol population therefore consisted of 190 patients in the gemcitabine group and 187 patients in the S-1 group.
+On Sept 15, 2012, following the recommendation from the independent data and safety monitoring committee, this study was discontinued because the prespecified criteria for early discontinuation were met at the interim analysis for efficacy, when all the protocol treatments had been finished.
+Analysis with the follow-up data on Jan 15, 2016, showed HR of mortality was 0.57 (95% CI 0.44-0.72, pnon-inferiority<0.0001, p<0.0001 for superiority), associated with 5-year overall survival of 24.4% (18.6-30.8) in the gemcitabine group and 44.1% (36.9-51.1) in the S-1 group.
+Grade 3 or 4 leucopenia, neutropenia, aspartate aminotransferase, and alanine aminotransferase were observed more frequently in the gemcitabine group, whereas stomatitis and diarrhoea were more frequently experienced in the S-1 group.
+INTERPRETATION: Adjuvant chemotherapy with S-1 can be a new standard care for resected pancreatic cancer in Japanese patients.
+These results should be assessed in non-Asian patients.
+FUNDING: Pharma Valley Center, Shizuoka Industrial Foundation, Taiho Pharmaceutical.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

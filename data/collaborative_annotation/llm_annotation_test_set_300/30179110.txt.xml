@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Diffusion-weighted MRI Findings Predict Pathologic Response in Neoadjuvant Treatment of Breast Cancer: The ACRIN 6698 Multicenter Trial.
+Purpose To determine if the change in tumor apparent diffusion coefficient (ADC) at diffusion-weighted (DW) MRI is predictive of pathologic complete response (pCR) to neoadjuvant chemotherapy for breast cancer.
+Materials and Methods In this prospective multicenter study, 272 consecutive women with breast cancer were enrolled at 10 institutions (from August 2012 to January 2015) and were randomized to treatment with 12 weekly doses of paclitaxel (with or without an experimental agent), followed by 12 weeks of treatment with four cycles of anthracycline.
+Each woman underwent breast DW MRI before treatment, at early treatment (3 weeks), at midtreatment (12 weeks), and after treatment.
+Percentage change in tumor ADC from that before treatment (DeltaADC) was measured at each time point.
+Performance for predicting pCR was assessed by using the area under the receiver operating characteristic curve (AUC) for the overall cohort and according to tumor hormone receptor (HR)/human epidermal growth factor receptor 2 (HER2) disease subtype.
+Results The final analysis included 242 patients with evaluable serial imaging data, with a mean age of 48 years +/-
+10 (standard deviation); 99 patients had HR-positive (hereafter, HR+)/HER2-negative (hereafter, HER2-) disease, 77 patients had HR-/HER2- disease, 42 patients had HR+/HER2+ disease, and 24 patients had HR-/HER2+ disease.
+Eighty (33%) of 242 patients experienced pCR.
+Overall, DeltaADC was moderately predictive of pCR at midtreatment/12 weeks (AUC = 0.60; 95% confidence interval [CI]: 0.52, 0.68; P = .017) and after treatment (AUC = 0.61; 95% CI: 0.52, 0.69; P = .013).
+Across the four disease subtypes, midtreatment DeltaADC was predictive only for HR+/HER2- tumors (AUC = 0.76; 95% CI: 0.62, 0.89; P < .001).
+In a test subset, a model combining tumor subtype and midtreatment DeltaADC improved predictive performance (AUC = 0.72; 95% CI: 0.61, 0.83) over DeltaADC alone (AUC = 0.57; 95% CI: 0.44, 0.70; P = .032.).
+Conclusion After 12 weeks of therapy, change in breast tumor apparent diffusion coefficient at MRI predicts complete pathologic response to neoadjuvant chemotherapy.
+(c) RSNA, 2018 Online supplemental material is available for this article.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

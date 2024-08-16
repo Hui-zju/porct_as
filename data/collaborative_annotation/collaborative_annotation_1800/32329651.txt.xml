@@ -1,0 +1,25 @@
+<MyRCT>
+<TEXT>The Potential Long-Term Comparative Effectiveness of Larotrectinib and Entrectinib for Second-Line Treatment of TRK Fusion-Positive Metastatic Lung Cancer.
+BACKGROUND: Larotrectinib and entrectinib are FDA-approved therapies for patients with non-small cell lung cancer (NSCLC) with neurotrophic receptor tyrosine kinase gene fusion (TRK fusion-positive) whose cancer has metastasized and progressed.
+Early evidence indicates that these targeted therapies may offer dramatic survival benefits versus traditional cytotoxic regimens, but it remains uncertain how larotrectinib and entrectinib compare with each other.
+OBJECTIVE: To simulate and compare expected life-years and quality-adjusted life-years (QALYs) for both TRK inhibitors.
+METHODS: We developed a partitioned survival model to project the long-term comparative effectiveness of larotrectinib versus entrectinib in second-line treatment of metastatic NSCLC.
+Larotrectinib survival data were derived from a 13-month follow-up of 12 patients with TRK fusion-positive NSCLC in the NCT02122913 (phase 1) and NCT02576431 (NAVIGATE) trials.
+Entrectinib survival data were derived from a 13-month follow-up of 10 patients with TRK fusion-positive NSCLC in the ALKA-372-001, STARTRK-1, and STARTRK-2 trials.
+For larotrectinib and entrectinib progression-free survival and overall survival (OS), in-trial survival was extrapolated using parametric curve fits.
+Exponential fits were selected for all survival models based on minimal Bayesian information criteria and clinical plausibility.
+Lifetime survival curves were used to estimate expected mean/median survival.
+QALYs were estimated by applying preprogression and postprogression health state utilities derived from the literature.
+RESULTS: In the base case, treatment with larotrectinib and entrectinib resulted in 5.4 and 1.2 median preprogression life-years and 7.0 and 1.8 median total life-years, respectively.
+Mean preprogression life-years (QALYs) were 7.5 (5.0) and 1.9 (1.2), and mean total life-years (QALYs) were 9.2 (5.8) and 4.4 (2.4), respectively.
+CONCLUSIONS: Among TRK inhibitors for metastatic NSCLC, larotrectinib is estimated to provide improved life-year and QALY outcomes versus entrectinib based on parametric extrapolations of in-trial survival data.
+Our analysis is limited by lack of NSCLC-specific data on entrectinib OS, the small samples of patients with NSCLC in the trials, and a cross-trial comparison.
+Future studies should re-evaluate the comparative effectiveness of larotrectinib versus entrectinib as more patients are treated and as long-term survival data mature.
+DISCLOSURES: Funding for this study was contributed by Bayer Healthcare, which reviewed the manuscript drafts, and employees contributed to the manuscript as coauthors.
+Xia and Williamson are employees of Bayer Healthcare.
+Roth, Carlson, and Sullivan are consultants to Bayer Healthcare and retain rights to all final revisions to the manuscript.
+Carlson also reports fees from Adaptive Biotechnologies, unrelated to this work.
+Roth reports consulting fees from BMS, unrelated to this work.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Improved detection of prostate cancer using a magneto-nanosensor assay for serum circulating autoantibodies.
+PURPOSE: To develop a magneto-nanosensor (MNS) based multiplex assay to measure protein and autoantibody biomarkers from human serum for prostate cancer (CaP) diagnosis.
+MATERIALS AND METHODS: A 4-panel MNS autoantibody assay and a MNS protein assay were developed and optimized in our labs.
+Using these assays, serum concentration of six biomarkers including prostate-specific antigen (PSA) protein, free/total PSA ratio, as well as four autoantibodies against Parkinson disease 7 (PARK7), TAR DNA-binding protein 43 (TARDBP), Talin 1 (TLN1), and Caldesmon 1 (CALD1) and were analyzed.
+Human serum samples from 99 patients (50 with non-cancer and 49 with clinically localized CaP) were evaluated.
+RESULTS: The MNS assay showed excellent performance characteristics and no cross-reactivity.
+All autoantibody assays showed a statistically significant difference between CaP and non-cancer samples except for PARK7.
+The most significant difference was the combination of the four autoantibodies as a panel in addition to the free/total PSA ratio.
+This combination had the highest area under the curve (AUC)- 0.916 in ROC analysis.
+CONCLUSIONS: Our results suggest that this autoantibody panel along with PSA and free PSA have potential to segregate patients without cancer from those with prostate cancer with higher sensitivity and specificity than PSA alone.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

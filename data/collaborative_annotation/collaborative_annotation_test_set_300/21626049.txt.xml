@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase II trial of two different 4-drug combinations in advanced pancreatic adenocarcinoma: cisplatin, capecitabine, gemcitabine plus either epirubicin or docetaxel (PEXG or PDXG regimen).
+PURPOSE: PEFG regimen (P:cisplatin, E:epirubicin, F:5-fluorouracil, G:gemcitabine) significantly prolonged progression-free (PFS) and overall survival (OS) of patients with advanced pancreatic adenocarcinoma (PA) with respect to standard gemcitabine.
+The current trial was aimed at assessing whether the replacement of E with docetaxel (D) may improve 6 months PFS (PFS6).
+METHODS: Chemo-naive patients with stage III or metastatic PA received P (30 mg/m(2) day 1 and 15), G (800 mg/m(2) day 1 and 15), and capecitabine (1,250 mg/m(2)/day days 1-28, without a break) and were randomized to receive either D at 25-30 mg/m(2) day 1 and 15 (arm A: PDXG regimen) or E at 30 mg/m(2) day 1 and 15 (arm B: PEXG regimen).
+Cycles were repeated every 28 days for a maximum of 6 months.
+The Fleming design was used to calculate the sample size on the probability of being PFS6.
+Assuming P0 = 40% and P1 = 60%, alpha = 0.05 and beta = 0.10; the study was to enroll 52 patients per arm.
+RESULTS: Between July 2005 and September 2008, 105 patients were enrolled, stratified by stage and randomized.
+Patients' characteristics were (A/B) the following: median age 61/59, PS >70 92/88%, metastatic disease 66/65%.
+PFS6 was 58%, and median OS was 11 months in both arms.
+A partial response was observed in 60/37% of patients.
+Main per cycle G3-4 toxicity was the following: neutropenia 4/13%, thrombocytopenia 2/4%, anemia 4/4%, and fatigue 6/3%.
+CONCLUSIONS: The inclusion of D instead of E yielded more objective response and less G3-4 neutropenia but did not improve PFS and OS.
+The present trial confirms the relevant impact on outcome of advanced PA of 4-drug regimens.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

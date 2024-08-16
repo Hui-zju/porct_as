@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized controlled trial of dietary fiber for the prevention of radiation-induced gastrointestinal toxicity during pelvic radiotherapy.
+Background: Therapeutic radiotherapy is an important treatment of pelvic cancers.
+Historically, low-fiber diets have been recommended despite a lack of evidence and potentially beneficial mechanisms of fiber.
+Objective: This randomized controlled trial compared low-, habitual-, and high-fiber diets for the prevention of gastrointestinal toxicity in patients undergoing pelvic radiotherapy.
+Design: Patients were randomly assigned to low-fiber [</=10 g nonstarch polysaccharide (NSP)/d], habitual-fiber (control), or high-fiber (>/=18 g NSP/d) diets and received individualized counseling at the start of radiotherapy to achieve these targets.
+The primary endpoint was the difference between groups in the change in the Inflammatory Bowel Disease Questionnaire-Bowel Subset (IBDQ-B) score between the starting and nadir (worst) score during treatment.
+Other measures included macronutrient intake, stool diaries, and fecal short-chain fatty acid concentrations.
+Results: Patients were randomly assigned to low-fiber (n = 55), habitual-fiber (n = 55), or high-fiber (n = 56) dietary advice.
+Fiber intakes were significantly different between groups (P < 0.001).
+The difference between groups in the change in IBDQ-B scores between the start and nadir was not significant (P = 0.093).
+However, the change in score between the start and end of radiotherapy was smaller in the high-fiber group (mean +/- SD: -3.7 +/- 12.8) than in the habitual-fiber group (-10.8 +/-
+13.5; P = 0.011).
+At 1-y postradiotherapy (n = 126) the difference in IBDQ-B scores between the high-fiber (+0.1 +/- 14.5) and the habitual-fiber (-8.4 +/- 13.3) groups was significant (P = 0.004).
+No significant differences were observed in stool frequency or form or in short-chain fatty acid concentrations.
+Significant reductions in energy, protein, and fat intake occurred in the low- and habitual-fiber groups only.
+Conclusions: Dietary advice to follow a high-fiber diet during pelvic radiotherapy resulted in reduced gastrointestinal toxicity both acutely and at 1 y compared with habitual-fiber intake.
+Restrictive, non-evidence-based advice to reduce fiber intake in this setting should be abandoned.
+This trial was registered at clinicaltrials.gov as NCT 01170299.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

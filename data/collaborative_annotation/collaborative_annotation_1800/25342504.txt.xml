@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Metastatic nasopharyngeal carcinoma outcomes in patients on cisplatin with nolatrexed or 5-fluorouracil.
+BACKGROUND: Nasopharyngeal carcinoma (NPC) is one of the most common malignant tumors in southern China.
+In this study, we compared the clinical efficacy and toxicity of cisplatin with nolatrexed (LP) or 5-fluorouracil (FP) for NPC.
+PATIENTS AND METHODS: 33 patients with metastatic NPC were randomized to the LP and FP regimens.
+The LP regimen consisted of continuous intravenous infusions of 740 mg/m(2) nolatrexed on days 1-5 and 25 mg/m(2) intravenous cisplatin on days 2-4.
+The FP regimen consisted of continuous intravenous infusions of 600 mg/m(2) 5-fluorouracil on days 1-5 and 25 mg/m(2) intravenous cisplatin on days 2-4.
+Cycles were repeated every 3 weeks until disease progression or completion of a total of 6 courses.
+RESULTS: There were no significant differences in the response rates (RR), disease control rates (DCR), times to progression (TTP), and median survival times (MST) between the regimens.
+The toxicities of the two regimens were mostly grade I/II, but the stomatitis incidence in the patients on the LP regimen was significantly lower than that on the FP regimen.
+CONCLUSIONS: The efficacy of the LP regimen was similar to that of the FP regimen.
+The LP regimen had lower toxicity.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

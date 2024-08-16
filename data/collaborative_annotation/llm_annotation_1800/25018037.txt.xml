@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Impact of baseline corticosteroids on survival and steroid androgens in metastatic castration-resistant prostate cancer: exploratory analysis from COU-AA-301.
+BACKGROUND: Corticosteroids have been used to mitigate mineralocorticoid-related effects and restore sensitivity to abiraterone acetate.
+Corticosteroids may also mediate glucocorticoid receptor or mutated androgen receptor activation and adversely influence outcome.
+OBJECTIVE: This post hoc exploratory analysis investigated whether baseline corticosteroids were an independent prognostic factor and its level of contribution in the presence of other prognostic factors for overall survival (OS) in study COU-AA-301.
+DESIGN, SETTING, AND PARTICIPANTS: COU-AA-301 was a randomised study of abiraterone plus prednisone versus prednisone in metastatic castration-resistant prostate cancer patients after docetaxel.
+INTERVENTION: Patients were randomised 2:1 to abiraterone 1000 mg plus prednisone 5mg by mouth twice daily versus prednisone.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: Association of OS with baseline corticosteroids was determined by univariate and multivariate Cox models.
+RESULTS AND LIMITATIONS: At study entry, 33% of patients received corticosteroids, had worse disease characteristics (p&lt;0.05 except liver metastases), and were more likely to have testosterone levels below the median (odds ratio:
+2.92; chi-square p&lt;0.0001).
+Associations between prostate-specific antigen response as well as circulating tumour cell decline and higher baseline androgen levels were demonstrated.
+Patients taking baseline corticosteroids had inferior OS in univariate analysis (hazard ratio: 1.48; p&lt;0.0001); however, in multivariate stepwise selection modelling, baseline corticosteroids did not add substantially to the model.
+This analysis is limited as a retrospective analysis and restricted to patients after docetaxel.
+CONCLUSIONS: In the COU-AA-301 study, baseline corticosteroids were associated with adverse prognostic features, inferior OS, and lower baseline androgen levels but did not add substantial information to the final prognostic model.
+Thus in these data from study COU-AA-301, concurrent baseline corticosteroids did not have an independent impact on OS.
+PATIENT SUMMARY: Baseline corticosteroids did not adversely affect abiraterone clinical benefit in metastatic castration-resistant prostate cancer.
+Their use was associated with patients having worse disease characteristics.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

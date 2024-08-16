@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase 3 multicenter randomized trial of PSMA PET/CT prior to definitive radiation therapy for unfavorable intermediate-risk or high-risk prostate cancer [PSMA dRT]: study protocol.
+BACKGROUND: Definitive radiation therapy (dRT) is an effective initial treatment of intermediate-risk (IR) and high-risk (HR) prostate cancer (PCa).
+PSMA PET/CT is superior to standard of care imaging (CT, MRI, bone scan) for detecting regional and distant metastatic PCa.
+PSMA PET/CT thus has the potential to guide patient selection and the planning for dRT and improve patient outcomes.
+METHODS: This is a multicenter randomized phase 3 trial (NCT04457245).
+We will randomize 312 patients to proceed with standard dRT (control Arm, n = 150), or undergo a PSMA PET/CT scan at the study site (both 18F-DCFPyL and 68Ga-PSMA-11 can be used) prior to dRT planning (intervention arm, n = 162).
+dRT will be performed at the treating radiation oncologist facility.
+In the control arm, dRT will be performed as routinely planned.
+In the intervention arm, the treating radiation oncologist can incorporate PSMA PET/CT findings into the RT planning.
+Androgen deprivation therapy (ADT) is administered per discretion of the treating radiation oncologist and may be modified as a result of the PSMA PET/CT results.
+We assume that approximately 8% of subjects randomized to the PSMA PET arm will be found to have M1 disease and thus will be more appropriate candidates for long-term systemic or multimodal therapy, rather than curative intent dRT.
+PET M1 patients will thus not be included in the primary endpoint analysis.
+The primary endpoint is the success rate of patients with unfavorable IR and HR PCa after standard dRT versus PSMA PET-based dRT.
+Secondary Endpoints (whole cohort) include progression free survival (PFS), metastasis-free survival after initiation of RT, overall survival (OS), % of change in initial treatment intent and Safety.
+DISCUSSION: This is the first randomized phase 3 prospective trial designed to determine whether PSMA PET/CT molecular imaging can improve outcomes in patients with PCa who receive dRT.
+In this trial the incorporation of PSMA PET/CT may improve the success rate of curative intent radiotherapy in two ways: to optimize patient selection as a biomarker and to personalizes the radiotherapy plan.
+CLINICAL TRIAL REGISTRATION: UCLA IND#147591 o Submission: 02.27.2020 o Safe-to-proceed letter issued by FDA: 04.01.2020 UCLA IRB #20-000378 ClinicalTrials.gov Identifier NCT04457245 .
+Date of Registry: 07.07.2020.
+Essen EudraCT 2020-003526-23.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomised phase 2 study comparing the efficacy and safety of the oral tyrosine kinase inhibitor nintedanib with single agent ifosfamide in patients with advanced, inoperable, metastatic soft tissue sarcoma after failure of first-line chemotherapy: EORTC-1506-STBSG "ANITA".
+PURPOSE: EORTC-1506-STBSG was a prospective, multicentric, randomised, open-label phase 2 trial to assess the efficacy and safety of second-line nintedanib versus ifosfamide in patients with advanced, inoperable metastatic soft tissue sarcoma (STS).
+The primary end-point was progression-free survival.
+PATIENTS/METHODS: Patients with a variety of STS subtypes were randomised 1:1 to nintedanib (200 mg b.i.d.
+p.o.
+until disease progression) or ifosfamide (3 g/m(2) i.v.
+days 1-3, every 21 days for </=6 cycles).
+A Korn design was applied aiming to detect an improvement in median progression-free survival (mPFS) from 3 to 4.5 months (HR = 0.667).
+An interim look was incorporated to stop the trial for futility if <19 of the first 36 patients treated with nintedanib were progression-free at week 12.
+RESULTS: At the interim analysis, among the first 36 eligible and evaluable patients randomised for nintedanib, only 13 (36%) were progression-free at week 12.
+The trial was closed for further accrual as per protocol.
+In total, 80 patients were randomised (40 per treatment group).
+The mPFS was 2.5 months (95% CI: 1.5-3.4) for nintedanib and 4.4 months (95% CI: 2.9-6.7) on ifosfamide (adjusted HR = 1.56 [80% CI: 1.14-2.13], p = 0.070).
+The median overall survival was 13.7 months (95% CI: 9.4-23.4) on nintedanib and 24.1 months (95% CI: 10.9-NE) on ifosfamide (adjusted HR = 1.65 [95%CI:0.89-3.06], p = 0.111).
+The clinical benefit rate for nintedanib and ifosfamide was 50% versus 62.5% (p = 0.368), respectively.
+Common treatment-related adverse events (all grades) were diarrhoea (35.9% of patients), fatigue (25.6%) and nausea (20.5%) for nintedanib; and fatigue (52.6%), nausea (44.7%) and vomiting, anorexia and alopecia (28.9% each) for ifosfamide.
+CONCLUSION: The trial was stopped for futility.
+The activity of nintedanib did not warrant further exploration in non-selected, advanced STSs.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

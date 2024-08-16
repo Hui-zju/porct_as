@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[2 years versus 1 year of adjuvant trastuzumab for HER2-positive breast cancer (HERA): an open-label, randomised controlled trial.
+BACKGROUND: Trastuzumab has established efficacy against breast cancer with overexpression or amplification of the HER2 oncogene.
+The standard of care is 1 year of adjuvant trastuzumab, but the optimum duration of treatment is unknown.
+We compared 2 years of treatment with trastuzumab with 1 year of treatment, and updated the comparison of 1 year of trastuzumab versus observation at a median follow-up of 8 years, for patients enrolled in the HERceptin Adjuvant (HERA) trial.
+METHODS: The HERA trial is an international, multicentre, randomised, open-label, phase 3 trial comparing treatment with trastuzumab for 1 and 2 years with observation after standard neoadjuvant chemotherapy, adjuvant chemotherapy, or both in 5102 patients with HER2-positive early breast cancer.
+The primary endpoint was disease-free survival.
+The comparison of 2 years versus 1 year of trastuzumab treatment involved a landmark analysis of 3105 patients who were disease-free 12 months after randomisation to one of the trastuzumab groups, and was planned after observing at least 725 disease-free survival events.
+The updated intention-to-treat comparison of 1 year trastuzumab treatment versus observation alone in 3399 patients at a median follow-up of 8 years (range 0-10) is also reported.
+This study is registered with ClinicalTrials.gov, number NCT00045032.
+FINDINGS: We recorded 367 events of disease-free survival in 1552 patients in the 1 year group and 367 events in 1553 patients in the 2 year group (hazard ratio [HR] 0.99, 95% CI 0.85-1.14, p=0.86).
+Grade 3-4 adverse events and decreases in left ventricular ejection fraction during treatment were reported more frequently in the 2 year treatment group than in the 1 year group (342 [20.4%] vs 275 [16.3%] grade 3-4 adverse events, and 120 [7.2%] vs 69 [4.1%] decreases in left ventricular ejection fraction, respectively).
+HRs for a comparison of 1 year of trastuzumab treatment versus observation were 0.76 (95% CI 0.67-0.86, p<0.0001) for disease-free survival and 0.76 (0.65-0.88, p=0.0005) for overall survival, despite crossover of 884 (52%) patients from the observation group to trastuzumab therapy.
+INTERPRETATION: 2 years of adjuvant trastuzumab is not more effective than is 1 year of treatment for patients with HER2-positive early breast cancer.
+1 year of treatment provides a significant disease-free and overall survival benefit compared with observation and remains the standard of care.
+FUNDING: F Hoffmann-La Roche (Roche).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

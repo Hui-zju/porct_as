@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Growth differentiation factor-15 for prediction of bleeding in cancer patients.
+BACKGROUND: Growth differentiation factor-15 (GDF-15) is a strong predictor for bleeding in patients with atrial fibrillation, but there are no data on cardiovascular outcomes for this biomarker in cancer patients.
+Bleeding risk assessment is important in cancer patients when considering primary thromboprophylaxis because it is associated with an increased bleeding risk.
+OBJECTIVES: To evaluate GDF-15 as predictor for bleeding events in cancer patients previously enrolled in the AVERT trial.
+PATIENTS/METHODS: In this trial, 574 participants were randomized to prophylactic apixaban or placebo and followed for 180 days for venous thromboembolism, major bleeding, clinically relevant nonmajor bleeding, and any bleeding.
+Plasma concentrations of GDF-15 were measured centrally with the Elecsys GDF-15 commercial assay kit (Roche Diagnostics GmbH).
+RESULTS: In apixaban recipients, the area under the receiver operator characteristic curve of GDF-15 for major bleeding was 0.73 (95% confidence interval [CI], 0.44-1.00).
+Compared with the lowest GDF-15 tertile (&lt;1470 ng/L), major bleeding risk was significantly higher in the highest tertile (&gt;/=2607 ng/L; hazard ratio [HR] 3.19; 95% CI, 2.41-4.22), also when adjusting for sex, age, antiplatelet use, and gastrointestinal cancer (adjusted HR 2.80; 95% CI, 1.91-4.11).
+GDF-15 was also significantly associated with clinically relevant nonmajor bleeding (adjusted HR 1.67; 95% CI, 1.08-2.58) and any bleeding (adjusted HR 2.12; 95% CI, 1.38-3.25).
+CONCLUSIONS: Although hypothesis generating, this is the first study to show that GDF-15 predicts bleeding in cancer patients receiving thromboprophylaxis.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

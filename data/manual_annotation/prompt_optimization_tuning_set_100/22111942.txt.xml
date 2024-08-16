@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The long-term outcome of patients with polycystic liver disease treated with lanreotide.
+BACKGROUND: Polycystic liver disease (PLD) is a phenotypical expression of autosomal dominant polycystic kidney disease and isolated polycystic liver disease.
+Somatostatin analogues, such as lanreotide, reduce polycystic liver volume.
+AIM: To establish long-term outcome and safety of lanreotide.
+METHODS: This was an open-label, observational extension study of a 6-month, randomised, placebo-controlled trial with lanreotide (120 mg/month) in PLD.
+The length of total treatment was 12 months.
+Primary endpoint was relative change in liver volume, as determined by CT-volumetry after 12 months of treatment.
+We offered patients a CT scan 6 months after stopping lanreotide.
+RESULTS: A total of 41/54 (76%) patients participated in the extension study.
+Liver volume decreased by 4% (IQR -8% to -1%) after 12 months of treatment.
+The greatest effect was observed during the first 6 months of treatment (decrease of 4% (IQR -6% to -1%)).
+Liver volume remained unchanged during the following 6 months.
+We found that liver volume increased by 4% (IQR 0-6%) 6 months after end of treatment (n = 22).
+CONCLUSIONS: Lanreotide reduces liver volume within the first 6 months of treatment and the beneficial effect is maintained in the following 6 months.
+Stopping results in recurrence of polycystic liver growth.
+This suggests that continuous use of lanreotide is needed to maintain its effect.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="other" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

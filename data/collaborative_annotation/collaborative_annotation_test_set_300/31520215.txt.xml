@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Inverse association between changes in energetic cost of walking and vertical accelerations in non-metastatic breast cancer survivors.
+PURPOSE: With accelerometry, the utility to detect changes in physical activity are predicated on the assumption that walking energetics and gait mechanics do not change.
+The present work examined associations between changes () in walking energetics, exercise self-efficacy, and several accelerometer-derived metrics.
+METHODS: Secondary analyses were performed among a sub-sample (n = 29) of breast cancer survivors participating in a larger randomized trial.
+During 4 min of treadmill walking (0.89 m s(-1), 0% grade), indirect calorimetry quantified steady-state energy expenditure (EE), wherein, participants were fitted with a heart rate monitor and hip-worn triaxial accelerometer.
+Exercise self-efficacy was measured using a 9-item questionnaire, while vector magnitude (VM) and individual planes (e.g., mediolateral, vertical, and anteroposterior) of the movement were extracted for data analyses.
+Evaluations were made at baseline and after 3 months.
+RESULTS: From baseline to 3 months, the energetic cost of walking (kcals min(-1)) significantly decreased by an average of - 5.1% (p = 0.001; d = 0.46).
+Conversely, VM significantly increased (p = 0.007; d = 0.53), exclusively due to greater vertical accelerations (acc) (+ 5.7 +/- 7.8 acc; p = 0.001; d = 0.69).
+Changes in vertical accelerations were inversely and positively associated with walking EE (r = - 0.37; p = 0.047) and exercise self-efficacy (r = 0.39; p = 0.034), respectively.
+CONCLUSION: Hip-worn accelerometers do not appear well-suited to correctly detect changes in ease of walking as evidenced by reduced energetic cost.
+Further research should determine if a divergence between measured EE and vertical accelerations could contribute to erroneous inferences in free-living physical activity.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

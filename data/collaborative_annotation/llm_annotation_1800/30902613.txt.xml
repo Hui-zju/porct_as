@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Updated Efficacy and Safety Data and Impact of the EML4-ALK Fusion Variant on the Efficacy of Alectinib in Untreated ALK-Positive Advanced Non-Small Cell Lung Cancer in the Global Phase III ALEX Study.
+INTRODUCTION: At the prior data cutoff (February 9, 2017) the ALEX trial showed superior investigator-assessed progression-free survival (PFS) for alectinib versus crizotinib in untreated, anaplastic lymphoma kinase (ALK)-positive, advanced NSCLC (hazard ratio = 0.47, 95% confidence interval: 0.34-0.65, p &lt; 0.001).
+The median PFS in the alectinib arm was not reached versus 11.1 months with crizotinib.
+Retrospective analyses suggest that the echinoderm microtubule-associated protein-like 4 gene-ALK variant (EML4-ALK) may influence ALK-inhibitor treatment benefit.
+We present updated analyses, including exploratory subgroup analysis by EML4-ALK variant, after an additional 10 months' follow-up (cutoff December 1, 2017).
+METHODS: Patients were randomized to receive twice-daily alectinib, 600 mg, or crizotinib, 250 mg, until disease progression, toxicity, death, or withdrawal.
+PFS was determined by the investigators.
+Baseline plasma and tissue biomarker samples were analyzed by using hybrid-capture, next-generation sequencing to determine EML4-ALK variant.
+RESULTS: Baseline characteristics were balanced.
+Investigator-assessed PFS was prolonged with alectinib (stratified hazard ratio = 0.43, 95% confidence interval: 0.32-0.58).
+The median PFS times were 34.8 months with alectinib and 10.9 months with crizotinib.
+EML4-ALK fusions were detectable in 129 patient plasma samples and 124 tissue samples; variants 1, 2, and 3/ab did not affect PFS, objective response rate, or duration of response.
+Investigator-assessed PFS was longer for alectinib than for crizotinib across EML4-ALK variants 1, 2, and 3a/b in plasma and tissue.
+Despite longer treatment duration (27.0 months in the case of alectinib versus 10.8 months in the case of crizotinib), the safety of alectinib compared favorably with that of crizotinib.
+CONCLUSION: Alectinib continues to demonstrate superior investigator-assessed PFS versus crizotinib in untreated ALK-positive NSCLC, irrespective of EML4-ALK variant.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

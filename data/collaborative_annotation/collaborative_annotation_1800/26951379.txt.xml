@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[AVAREG: a phase II, randomized, noncomparative study of fotemustine or bevacizumab for patients with recurrent glioblastoma.
+BACKGROUND: Few prospective studies have assessed the role of bevacizumab and included a control arm with standard treatments for recurrent glioblastoma.
+We conducted a noncomparative phase II trial (AVAREG) to examine the efficacy of bevacizumab or fotemustine in this setting.
+METHODS: Eligible patients were randomized 2:1 to receive bevacizumab (10 mg/kg every 2 weeks) or fotemustine (75 mg/m(2) on days 1, 8, and 15, then 100 mg/m(2) every 3 weeks after a 35-day interval).
+The primary endpoint was 6-month overall survival (OS) rate (OS-6).
+No formal efficacy comparison was made between the treatment arms.
+RESULTS: Ninety-one patients were enrolled (bevacizumab n = 59; fotemustine n = 32).
+Median age was 57 years (range, 28-78 y), and patients had Eastern Cooperative Oncology Group performance status of 0 (n = 42), 1 (n = 35), or 2 (n = 14).
+OS-6 rate was 62.1% (95% confidence interval [CI], 48.4-74.5) with bevacizumab and 73.3% (95% CI, 54.1-87.7) with fotemustine.
+OS-6 rates were lower in bevacizumab-treated patients with MGMT promoter methylated tumors than in those with unmethylated tumors (50% and 85%, respectively), but higher in fotemustine-treated patients (87.5% and 50%, respectively).
+OS rates at 9 months were 37.9% (95% CI, 25.5-51.6) and 46.7% (95% CI, 28.3-65.7) with bevacizumab and fotemustine, respectively, and median OS was 7.3 months (95% CI, 5.8-9.2) and 8.7 months (95% CI, 6.3-15.4), respectively.
+Toxicity was as expected with the 2 agents.
+CONCLUSION: Single-agent bevacizumab may have a role in patients with recurrent glioblastoma.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

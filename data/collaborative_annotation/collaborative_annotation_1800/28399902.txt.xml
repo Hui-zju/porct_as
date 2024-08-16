@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Efficacy and safety of everolimus in combination with trastuzumab and paclitaxel in Asian patients with HER2+ advanced breast cancer in BOLERO-1.
+BACKGROUND: The current exploratory analysis was performed to evaluate the efficacy and safety of everolimus for treatment of human epidermal growth factor receptor 2-positive (HER2+) advanced breast cancer in the Asian subset of patients in the BOLERO-1 trial.
+METHODS: Postmenopausal women with HER2+ advanced breast cancer, who had not received systemic therapy for advanced disease, were randomized 2:1 to receive everolimus or placebo, plus trastuzumab and paclitaxel.
+The two primary end points were investigator-assessed progression-free survival (PFS) in the full population and in the hormone receptor-negative (HR-) subpopulation.
+Secondary end points included assessment of the objective response rate, the clinical benefit rate, and safety.
+RESULTS: In the Asian subset, median PFS was similar in the everolimus (n = 198) and placebo (n = 105) arms in the full analysis set (hazard ratio = 0.82 (95% CI 0.61-1.11)).
+In the HR- subpopulation, everolimus prolonged median PFS by 10.97 months vs placebo (25.46 vs 14.49 months; hazard ratio = 0.48 (95% CI 0.29-0.79)).
+In the everolimus arm of the Asian subset, the most common adverse events of any grade were stomatitis (62.2%), diarrhea (48.0%), rash (43.4%) and neutropenia (42.3%).
+Neutropenia (grade 3: 27.6%; grade 4: 4.6%) and decreased neutrophil count (grade 3: 11.2%; grade 4: 3.6%)
+were the most frequent grade 3/4 adverse events.
+Serious adverse events included pneumonia (5.1%), pneumonitis (3.1%), and interstitial lung disease (3.1%).
+There were three deaths (1.5%) during treatment in the everolimus arm vs none in the placebo arm.
+CONCLUSIONS: The efficacy and safety of everolimus plus trastuzumab and paclitaxel as first-line treatment for HER2+ advanced breast cancer in the Asian subset was consistent with that reported previously in the overall population.
+TRIAL REGISTRATION: ClinicalTrials.gov, NCT00876395 .
+Registered on 2 April 2009.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

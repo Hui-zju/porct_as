@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Prospective study of DNA methylation at LINE-1 and Alu in peripheral blood and the risk of prostate cancer.
+BACKGROUND: Evidence suggests that global blood DNA methylation levels may be associated with the risk of various cancers, but no studies have evaluated this relationship for prostate cancer.
+METHODS: We used pyrosequencing to quantify DNA methylation levels at the long interspersed nuclear element 1 (LINE-1) and Alu repetitive elements in pre-diagnostic blood samples from 694 prostate cancer cases and 703 controls from the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial.
+We evaluated prostate cancer risk associated with the mean methylation level for each element using logistic regression, adjusting for potential confounders.
+RESULTS: We did not observe a significant association with prostate cancer for LINE-1 [odds ratio (OR) for the highest compared to the lowest quartile = 1.01, 95% confidence interval (CI): 0.73-1.39, Ptrend = 0.99] or Alu (OR = 0.94, 95% CI: 0.68-1.29, Ptrend = 0.69) methylation levels overall.
+However, for Alu, we observed that higher DNA methylation levels were associated with a significant increased risk for those diagnosed 4 or more years after blood draw (OR = 2.26, 95% CI: 1.27-4.00, Ptrend = 4.4 x 10(-3) ).
+In contrast, there was no association for those diagnosed 2 (OR = 1.13, 95% CI: 0.67-1.90, Ptrend = 0.64) or 3 years after draw (OR = 1.22, 95% CI: 0.71-2.07, Ptrend = 0.32), and a decreased risk for those diagnosed less than 2 years after draw (OR = 0.40, 95% CI: 0.25-0.65, Ptrend = 3.8 x 10(-5) ; Pheterogeneity = 5.3 x 10(-6) ).
+CONCLUSIONS: Although LINE-1 DNA methylation levels were not associated with prostate cancer, we observed an association for Alu that varied by time from blood draw to diagnosis.
+Our study suggests that elevated Alu blood DNA methylation levels several years before diagnosis may be associated with an increased prostate cancer risk.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

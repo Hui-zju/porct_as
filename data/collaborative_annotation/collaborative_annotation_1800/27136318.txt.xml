@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Models for change in tumour size, appearance of new lesions and survival probability in patients with advanced epithelial ovarian cancer.
+AIMS: The aims of this study were (i) to develop a modelling framework linking change in tumour size during treatment to survival probability in metastatic ovarian cancer; and (ii) to model the appearance of new lesions and investigate their relationship with survival and disease characteristics.
+METHODS: Data from a randomized Phase III clinical trial comparing carboplatin monotherapy to gemcitabine plus carboplatin combotherapy in 336 patients with metastatic ovarian cancer were used.
+A population model describing change in tumour size based on drug treatment information was established and its relationship with time to appearance of new lesions and survival were investigated with time to event models.
+RESULTS: The tumour size profiles were well characterized as evaluated by visual predictive checks.
+Metastasis in the liver at enrolment and change in tumour size up to week 12 were predictors of time to appearance of new lesions.
+Survival was predicted based on the patient tumour size and ECOG performance status at enrolment and on appearance of new lesions during treatment and change in tumour size up to week 12.
+Tumour size and survival data from a separate study were adequately predicted.
+CONCLUSIONS: The proposed models simulate tumour dynamics following treatment and provide a link to the probability of developing new lesions as well as to survival.
+The models have potential to be used for optimizing the design of late phase clinical trials in metastatic ovarian cancer based on early phase clinical study results and simulation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>TGFbeta receptor inhibitor galunisertib is linked to inflammation- and remodeling-related proteins in patients with pancreatic cancer.
+PURPOSE: Galunisertib, the first small molecule transforming growth factor beta (TGFbeta) receptor inhibitor, plus gemcitabine resulted in the improvement of survival in patients with unresectable pancreatic cancer, but markers to identify patients likely to respond are lacking.
+METHODS: In the Phase 1b/2 JBAJ study, 156 patients were randomized 2:1 to galunisertib + gemcitabine (N = 104) or placebo + gemcitabine (N = 52).
+Clinical outcome data were integrated with baseline markers and pharmacodynamic markers while patients were on treatment, including circulating proteins using a multi-analyte panel, T cell subset evaluation, and miRNA profiling.
+RESULTS: Baseline biomarkers associated with overall prognosis regardless of treatment included CA19-9 and TGF-beta1.
+In addition, IP-10, FSH, MIP-1alpha, and PAI-1 were potential predictive proteins.
+Baseline proteins that were changed during treatment included amphiregulin, CA15-3, cathepsin D, P-selectin, RAGE, sortilin, COMP, eotaxin-2, N-BNP, osteopontin, and thrombospondin-4.
+Plasma miRNA with potential prognostic value included miR-21-5p, miR-301a-3p, miR-210-3p, and miR-141-3p, while those with potential predictive value included miR-424-5p, miR-483-3p, and miR-10b-5p.
+CONCLUSIONS: Galunisertib + gemcitabine resulted in improvement of overall survival, and 4 proteins (IP-10, FSH, MIP-1alpha, PAI-1) were potentially predictive for this combination treatment.
+Future studies should also include baseline evaluation of miR-424-5p, miR-483-3p, and miR-10b-5p.
+TRIAL REGISTRATION: Clinicaltrials.gov NCT01373164.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

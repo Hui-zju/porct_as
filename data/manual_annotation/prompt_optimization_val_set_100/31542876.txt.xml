@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Research-based PAM50 signature and long-term breast cancer survival.
+PURPOSE: Multi-gene signatures provide biological insight and risk stratification in breast cancer.
+Intrinsic molecular subtypes defined by mRNA expression of 50 genes (PAM50) are prognostic in hormone-receptor positive postmenopausal breast cancer.
+Yet, for 25-40% in the PAM50 intermediate risk group, long-term risk remains uncertain.
+Our study aimed to (i) test the long-term prognostic value of the PAM50 signature in pre- and post-menopausal breast cancer; (ii) investigate if the PAM50 model could be improved by addition of other mRNAs implicated in oncogenesis.
+METHODS: We used archived FFPE samples from 1723 breast cancer survivors; high quality reads were obtained on 1253 samples.
+Transcript expression was quantified using a custom codeset with probes for > 100 targets.
+Cox models assessed gene signatures for breast cancer relapse and survival.
+RESULTS: Over 15 + years of follow-up, PAM50 subtypes were (P < 0.01) associated with breast cancer outcomes after accounting for tumor stage, grade and age at diagnosis.
+Results did not differ by menopausal status at diagnosis.
+Women with Luminal B (versus Luminal A) subtype had a > 60% higher hazard.
+Addition of a 13-gene hypoxia signature improved prognostication with > 40% higher hazard in the highest vs lowest hypoxia tertiles.
+CONCLUSIONS: PAM50 intrinsic subtypes were independently prognostic for long-term breast cancer survival, irrespective of menopausal status.
+Addition of hypoxia signatures improved risk prediction.
+If replicated, incorporating the 13-gene hypoxia signature into the existing PAM50 risk assessment tool, may refine risk stratification and further clarify treatment for breast cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

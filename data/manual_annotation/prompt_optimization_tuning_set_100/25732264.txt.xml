@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Pemetrexed and gemcitabine versus carboplatin and gemcitabine in non-small cell lung cancer: a randomized noninferiority phase II study in one center.
+BACKGROUND: The standard treatment for non-small cell lung cancer (NSCLC) stages IIIb and IV is a platinum compound combined with a third-generation cytotoxic agent.
+We decided to conduct a phase II study to assess whether the platinum compound could be replaced with pemetrexed with similar results and without an increase in side effects.
+METHODS: Consecutive eligible patients were randomized to either the standard arm of gemcitabine plus carboplatin (GC) or the experimental arm of gemcitabine plus pemetrexed (GP).
+RESULTS: Fifty evaluable patients were enrolled in the GC arm, and 44 received GP.
+There were 10 partial responses in the GC arm and 16 in the GP arm.
+With GC, mean survival was 9 months compared with 15 months with GP.
+The side effects were similar in both groups.
+CONCLUSION: Pemetrexed can replace platinum compounds in the first-line treatment of stage IIIb and IV NSCLC without increasing the side effects.
+A trend toward better survival was observed in the patients receiving pemetrexed instead of a platinum compound, and this should be studied further.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

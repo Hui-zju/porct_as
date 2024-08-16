@@ -1,0 +1,23 @@
+<MyRCT>
+<TEXT>A comparison of sunitinib with cabozantinib, crizotinib, and savolitinib for treatment of advanced papillary renal cell carcinoma: a randomised, open-label, phase 2 trial.
+BACKGROUND: MET (also known as hepatocyte growth factor receptor) signalling is a key driver of papillary renal cell carcinoma (PRCC).
+Given that no optimal therapy for metastatic PRCC exists, we aimed to compare an existing standard of care, sunitinib, with the MET kinase inhibitors cabozantinib, crizotinib, and savolitinib for treatment of patients with PRCC.
+METHODS: We did a randomised, open-label, phase 2 trial done in 65 centres in the USA and Canada.
+Eligible patients were aged 18 years or older with metastatic PRCC who had received up to one previous therapy (excluding vascular endothelial growth factor-directed and MET-directed agents).
+Patients were randomly assigned to receive sunitinib, cabozantinib, crizotinib, or savolitinib, with stratification by receipt of previous therapy and PRCC subtype.
+All drug doses were administered orally: sunitinib 50 mg, 4 weeks on and 2 weeks off (dose reductions to 37.5 mg and 25 mg allowed); cabozantinib 60 mg daily (reductions to 40 mg and 20 mg allowed); crizotinib 250 mg twice daily (reductions to 200 mg twice daily and 250 mg once daily allowed); and savolitinib 600 mg daily (reductions to 400 mg and 200 mg allowed).
+Progression-free survival (PFS) was the primary endpoint.
+Analyses were done in an intention-to-treat population, with patients who did not receive protocol therapy excluded from safety analyses.
+This trial is registered with ClinicalTrials.gov, NCT02761057.
+FINDINGS: Between April 5, 2016, and Dec 15, 2019, 152 patients were randomly assigned to one of four study groups.
+Five patients were identified as ineligible post-randomisation and were excluded from these analyses, resulting in 147 eligible patients.
+Assignment to the savolitinib (29 patients) and crizotinib (28 patients) groups was halted after a prespecified futility analysis; planned accrual was completed for both sunitinib (46 patients) and cabozantinib (44 patients) groups.
+PFS was longer in patients in the cabozantinib group (median 9.0 months, 95% CI 6-12) than in the sunitinib group (5.6 months, 3-7; hazard ratio for progression or death 0.60, 0.37-0.97, one-sided p=0.019).
+Response rate for cabozantinib was 23% versus 4% for sunitinib (two-sided p=0.010).
+Savolitinib and crizotinib did not improve PFS compared with sunitinib.
+Grade 3 or 4 adverse events occurred in 31 (69%) of 45 patients receiving sunitinib, 32 (74%) of 43 receiving cabozantinib, ten (37%) of 27 receiving crizotinib, and 11 (39%) of 28 receiving savolitinib; one grade 5 thromboembolic event was recorded in the cabozantinib group.
+INTERPRETATION: Cabozantinib treatment resulted in significantly longer PFS compared with sunitinib in patients with metastatic PRCC.
+FUNDING: National Institutes of Health and National Cancer Institute.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

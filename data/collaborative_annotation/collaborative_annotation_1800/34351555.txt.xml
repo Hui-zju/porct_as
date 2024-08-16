@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Three-year outcomes of a randomized phase III trial comparing adjuvant chemotherapy with S-1 plus docetaxel versus S-1 alone in stage III gastric cancer: JACCRO GC-07.
+PURPOSE: The second planned interim analysis (median follow-up 12.5 months) in a phase III trial of postoperative adjuvant chemotherapy for stage III gastric cancer revealed significant improvement in relapse-free survival (RFS) for S-1 plus docetaxel over S-1 alone.
+Although enrollment was terminated on the recommendation of the independent data and safety monitoring committee, we continued follow-up and herein report on 3-year RFS, the primary endpoint.
+PATIENTS AND METHODS: Patients with histologically confirmed stage III gastric cancer who underwent gastrectomy with D2 lymphadenectomy were randomly assigned to receive adjuvant chemotherapy with either S-1 plus docetaxel or S-1 alone.
+In the S-1 plus docetaxel group, S-1 was given orally for 2 weeks followed by 1 week of rest for seven courses, and docetaxel was given intravenously on day 1 of the second to seventh courses.
+The combination therapy was followed by S-1 monotherapy for up to 1 year.
+RESULTS: The 3-year RFS rate of the S-1 plus docetaxel group was 67.7%.
+This was significantly superior to that of 57.4% in the S-1 group (hazard ratio [HR] 0.715, 95% CI 0.587-0.871, P = 0.0008).
+This translated into a significant benefit in the 3-year overall survival (OS) rate in the S-1 plus docetaxel group (77.7% versus 71.2%, HR 0.742, 95% CI 0.596-0.925, P = 0.0076).
+CONCLUSION: On 3-year follow-up data, postoperative adjuvant therapy with S-1 plus docetaxel was confirmed to improve both RFS and OS and can be recommended as a standard of care for patients with stage III gastric cancer treated by D2 dissection.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Neoadjuvant versus adjuvant ipilimumab plus nivolumab in macroscopic stage III melanoma.
+Adjuvant ipilimumab (anti-CTLA-4) and nivolumab (anti-PD-1) both improve relapse-free survival of stage III melanoma patients(1,2).
+In stage IV disease, the combination of ipilimumab + nivolumab is superior to ipilimumab alone and also appears to be more effective than nivolumab monotherapy(3).
+Preclinical work suggests that neoadjuvant application of checkpoint inhibitors may be superior to adjuvant therapy(4).
+To address this question and to test feasibility, 20 patients with palpable stage III melanoma were 1:1 randomized to receive ipilimumab 3 mg kg(-1) and nivolumab 1 mg kg(-1), as either four courses after surgery (adjuvant arm) or two courses before surgery and two courses postsurgery (neoadjuvant arm).
+Neoadjuvant therapy was feasible, with all patients undergoing surgery at the preplanned time point.
+However in both arms, 9/10 patients experienced one or more grade 3/4 adverse events.
+Pathological responses were achieved in 7/9 (78%) patients treated in the neoadjuvant arm.
+None of these patients have relapsed so far (median follow-up, 25.6 months).
+We found that neoadjuvant ipilimumab + nivolumab expand more tumor-resident T cell clones than adjuvant application.
+While neoadjuvant therapy appears promising, with the current regimen it induced high toxicity rates; therefore, it needs further investigation to preserve efficacy but reduce toxicity.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

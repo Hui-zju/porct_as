@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Standard Anthracycline Based Versus Docetaxel-Capecitabine in Early High Clinical and/or Genomic Risk Breast Cancer in the EORTC 10041/BIG 3-04 MINDACT Phase III Trial.
+PURPOSE: MINDACT demonstrated that 46% of patients with early breast cancer at high clinical but low genomic risk on the basis of MammaPrint may safely avoid adjuvant chemotherapy.
+A second random assignment (R-C) compared docetaxel-capecitabine with an anthracycline-based regimen.
+PATIENTS AND METHODS: R-C randomly assigned patients 1:1 between standard anthracycline-based regimens, with or without taxanes (control) and experimental docetaxel 75 mg/m(2) intravenously plus oral capecitabine 825 mg/m(2) two times per day for 14 days (DC) every 3 weeks for 6 cycles.
+The primary end point was disease-free survival (DFS).
+Secondary end points included overall survival and safety.
+RESULTS: Of 2,832 patients, 1,301 (45%) were randomly assigned, and 97% complied with R-C assignment.
+In the control arm, 29.6% only received taxanes (0.5% of N0 patients).
+DFS events (n = 148) were much less than required (n = 422) as a result of a lower-than-expected accrual and event rate.
+At 5 years of median follow-up, DFS was not different between DC (n = 652) and control (n = 649; 90.7% [95% CI, 88% to 92.8%] v 88.8% [95% CI, 85.9% to 91.1%]; hazard ratio [HR], 0.83 [95% CI, 0.60 to 1.15]; P = .26).
+Overall survival (HR, 0.91 [95% CI, 0.54 to 1.53]) and DFS in the clinical high and genomic high-risk subgroup (86.1% v 88.1%; HR, 0.83 [95% CI, 0.58 to 1.21]) were similar in both arms.
+DC led to more grade 1 neuropathy (27.1% v 11.2%) and more grade 2 hand/foot syndrome (28.5% v 3.3%) and diarrhea (13.7% v 5.8%).
+Serious cardiac events occurred in 9 patients (control, n = 4; DC, n = 5).
+Fifty-three patients developed second cancers (control, n = 32; DC, n = 21; leukemia: 2 v 1).
+Five treatment-related deaths occurred (control, 2 [0.3%]; DC, 3 [0.5%]).
+CONCLUSION: Although underpowered, this second randomization in MINDACT did not show any improvement in outcome or safety with the use of DC compared with anthracycline-based chemotherapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

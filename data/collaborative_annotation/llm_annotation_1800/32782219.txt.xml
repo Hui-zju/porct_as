@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Ultrasound-Based Radiomic Nomogram for Predicting Lateral Cervical Lymph Node Metastasis in Papillary Thyroid Carcinoma.
+RATIONALE AND OBJECTIVES: Accurate preoperative identification of lateral cervical lymph node metastasis (LNM) is important for decision-making and clinical management of patients with papillary thyroid carcinoma (PTC).
+The aim of this study was to develop an ultrasound (US)-based radiomic nomogram to preoperatively predict the lateral LNM in PTC patients.
+METHODS: In this retrospective study, a total of 886 patients were enrolled and randomly divided into 2 groups.
+Radiomic features were extracted from the preoperative US images.
+A radiomic signature was constructed using the least absolute shrinkage and selection operator algorithm in the training set.
+Multivariate logistic regression was performed to develop the radiomic nomogram, which incorporating the radiomic signature and the selected clinical characteristics.
+The performance of the nomogram was assessed by its discrimination, calibration, and clinical usefulness in both the training and validation sets.
+RESULTS: The radiomic signature was significantly associated with the lateral LNM in both cohorts (p&lt; 0.001).
+The nomogram that consisted of radiomic signature, US-reported cervical lymph node (CLN) status, and CT-reported CLN status demonstrated good discrimination and calibration in the training and validation sets with an AUC of 0.946 and 0.914, respectively.
+The decision curve analysis indicated that the radiomic nomogram was worthy of clinical application.
+CONCLUSION: The radiomic nomogram proposed here has good performance for noninvasively predicting the lateral LNM and might be used to facilitate clinical decision-making and potentially improve the survival outcome in selected patients.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

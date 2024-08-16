@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Patients' education level and treatment modality for prostate cancer in the Finnish Randomized Study of Screening for Prostate Cancer.
+BACKGROUND: In prostate cancer (PCa), lower education level is associated with less screening, more advanced stage at diagnosis and worse survival.
+The aim of this study was to estimate the association between education level and treatment modality and subsequently survival.
+METHODS: The 9255 men diagnosed with PCa in the Finnish Randomized Study of Screening for Prostate Cancer were included.
+Cancer stage, comorbidity, education level and primary treatment modality were extracted from the patient records, the Finnish Cancer Registry, Statistics Finland and the National Institute of Health and Welfare, and these covariates were used in logistic regression (treatment selection) and Cox regression (survival analysis).
+RESULTS: In high-risk cancers, men with tertiary education were more likely to be treated with radical prostatectomy (odds ratio [OR] = 1.76; 95% confidence interval [CI] = 1.27-2.44) than men with primary education.
+Men with secondary (OR = 0.57; 95% CI = 0.38-0.84) or tertiary (OR = 0.42; 95% CI = 0.29-0.60) education were managed less frequently with mere hormonal therapy.
+In locally advanced cases, tertiary education was associated with more curatively aimed therapies and less hormonal therapy (OR for radical prostatectomy = 2.34; 95% CI = 1.49-3.66; OR for radiotherapy = 1.42; 95% CI = 1.09-1.85; OR for hormonal therapy = 0.45; 95% CI = 0.33-0.60).
+The hazard ratio for PCa death was lower in men with secondary (0.81; 95% CI = 0.69-0.95) and tertiary (0.75; 95% CI = 0.65-0.87) education than in the patients with primary education.
+CONCLUSIONS: When controlled for the cancer risk group, comorbidity and patient's age, low education level is independently associated with less curatively aimed treatment in men with high-risk or locally advanced PCa and subsequently worse prognosis.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

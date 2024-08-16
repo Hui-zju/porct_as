@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Addition of lenalidomide to intensive treatment in younger and middle-aged adults with newly diagnosed AML: the HOVON-SAKK-132 trial.
+Lenalidomide, an antineoplastic and immunomodulatory drug, has therapeutic activity in acute myeloid leukemia (AML), but definitive studies about its therapeutic utility have been lacking.
+In a phase 3 study, we compared 2 induction regimens in newly diagnosed patients age 18 to 65 years with AML: idarubicine-cytarabine (cycle 1) and daunorubicin and intermediate-dose cytarabine (cycle 2) without or with lenalidomide (15 mg orally on days 1-21).
+One final consolidation cycle of chemotherapy or autologous stem cell transplantation (auto-SCT) or allogeneic SCT (allo-SCT) was provided according to a prognostic risk and minimal residual disease (MRD)-adapted approach.
+Event-free survival (EFS; primary end point) and other clinical end points were assessed.
+A second random assignment in patients in complete response or in complete response with incomplete hematologic recovery after cycle 3 or auto-SCT involved 6 cycles of maintenance with lenalidomide (10 mg on days 1-21) or observation.
+In all, 392 patients were randomly assigned to the control group, and 388 patients were randomly assigned to lenalidomide induction.
+At a median follow-up of 41 months, the study revealed no differences in outcome between the treatments (EFS, 44% +/- 2% standard error and overall survival, 54% +/- 2% at 4 years for both arms) although in an exploratory post hoc analysis, a lenalidomide benefit was suggested in SRSF2-mutant AML.
+In relation to the previous Dutch-Belgian Hemato-Oncology Cooperative Group and Swiss Group for Clinical Cancer Research (HOVON-SAKK) studies that used a similar 3-cycle regimen but did not pursue an MRD-guided approach, these survival estimates compare markedly more favorably.
+MRD status after cycle 2 lost prognostic value in intermediate-risk AML in the risk-adjusted treatment context.
+Maintenance with lenalidomide showed no apparent effect on relapse probability in 88 patients randomly assigned for this part of the study.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

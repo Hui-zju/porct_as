@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>The genotype of MLH1 identifies a subgroup of follicular lymphoma patients who do not benefit from doxorubicin: FIL-FOLL study.
+Though most follicular lymphoma biomarkers rely on tumor features, the host genetic background may also be relevant for outcome.
+Here we aimed at verifying the contribution of candidate polymorphisms of FCgamma receptor, DNA repair and detoxification genes to prognostic stratification of follicular lymphoma treated with immunochemotherapy.
+The study was based on 428 patients enrolled in the FOLL05 prospective trial that compared three standard-of-care regimens (rituximab-cyclophosphamide-vincristine-prednisone versus rituximab-cyclophosphamide-doxorubicin-vincristine-prednisone versus rituximab-fludarabine-mitoxantrone) for the first line therapy of advanced follicular lymphoma.
+Polymorphisms were genotyped on peripheral blood DNA samples.
+The primary endpoint was time to treatment failure.
+Polymorphisms of FCGR2A and FCGR3A, which have been suggested to influence the activity of rituximab as a single agent, did not affect time to treatment failure in the pooled analysis of the three FOLL05 treatment arms that combined rituximab with chemotherapy (P=0.742, P=0.252, respectively).
+These results were consistent even when the analysis was conducted by intention to treat, indicating that different chemotherapy regimens and loads did not interact differentially with the FCGR2A and FCGR3A genotypes.
+The genotype of MLH1, which regulates the genotoxic effect of doxorubicin, significantly affected time to treatment failure in patients in the rituximab-cyclophosphamide-doxorubicin-vincristine-prednisone arm (P=0.001; q&lt;0.1), but not in arms in which patients did not receive doxorubicin (i.e., the rituximab-cyclophosphamide-vincristine-prednisone and rituximab-fludarabine-mitoxantrone arms).
+The impact of MLH1 on time to treatment failure was independent after adjusting for the Follicular Lymphoma International Prognostic Index and other potential confounding variables by multivariate analysis.
+These data indicate that MLH1 genotype is a predictor of failure to benefit from rituximab-cyclophosphamide-doxorubicin-vincristine-prednisone treatment in advanced follicular lymphoma and confirm that FCGR2A and FCGR3A polymorphisms have no impact when follicular lymphoma is treated with rituximab plus chemotherapy (clinicaltrials.gov identifier: NCT00774826).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

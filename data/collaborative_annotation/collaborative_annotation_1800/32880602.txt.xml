@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Effect of Eribulin With or Without Pembrolizumab on Progression-Free Survival for Patients With Hormone Receptor-Positive, ERBB2-Negative Metastatic Breast Cancer: A Randomized Clinical Trial.
+Importance: Prior studies have shown that only a small proportion of patients with hormone receptor (HR)-positive metastatic breast cancer (MBC) experience benefit from programmed cell death 1 (PD-1)/programmed cell death ligand 1 (PD-L1) inhibitors given as monotherapy.
+There are data suggesting that activity may be greater with combination strategies.
+Objective: To compare the efficacy of eribulin plus pembrolizumab vs eribulin alone in patients with HR-positive, ERBB2 (formerly HER2)-negative MBC.
+Design, Setting, and Participants: Multicenter phase 2 randomized clinical trial of patients with HR-positive, ERBB2-negative MBC who had received 2 or more lines of hormonal therapy and 0 to 2 lines of chemotherapy.
+Interventions: Patients were randomized 1:1 to eribulin, 1.4 mg/m2 intravenously, on days 1 and 8 plus pembrolizumab, 200 mg/m2 intravenously, on day 1 of a 21-day cycle or eribulin alone.
+At time of progression, patients in the eribulin monotherapy arm could cross over and receive pembrolizumab monotherapy.
+Main Outcomes and Measures: The primary end point was progression-free survival (PFS).
+Secondary end points were objective response rate (ORR) and overall survival (OS).
+Exploratory analyses assessed the association between PFS and PD-L1 status, tumor-infiltrating lymphocytes (TILs), tumor mutational burden (TMB), and genomic alterations.
+Results: Eighty-eight patients started protocol therapy; the median (range) age was 57 (30-76) years, median (range) number of prior lines of chemotherapy was 1 (0-2), and median (range) number of prior lines of hormonal therapy was 2 (0-5).
+Median follow-up was 10.5 (95% CI, 0.4-22.8) months.
+Median PFS and ORR were not different between the 2 groups (PFS, 4.1 vs 4.2 months; hazard ratio, 0.80; 95% CI, 0.50-1.26; P = .33; ORR, 27% vs 34%, respectively; P = .49).
+Fourteen patients started crossover treatment with pembrolizumab; 1 patient experienced stable disease.
+All-cause adverse events occurred in all patients (grade >/=3, 65%) including 2 treatment-related deaths in the combination group, both from immune-related colitis in the setting of sepsis, attributed to both drugs.
+The PD-L1 22C3 assay was performed on archival tumor samples in 65 patients: 24 (37%) had PD-L1-positive tumors.
+Analysis indicated that PD-L1 status, TILs, TMB, and genomic alterations were not associated with PFS.
+Conclusions and Relevance: In this randomized clinical trial of patients with HR-positive, ERBB2-negative MBC, the addition of pembrolizumab to eribulin did not improve PFS, ORR, or OS compared with eribulin alone in either the intention-to-treat or PD-L1-positive populations.
+Further efforts to explore the benefits of adding checkpoint inhibition to chemotherapy among less heavily pretreated patients are needed.
+Trial Registration: ClinicalTrials.gov Identifier: NCT03051659.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

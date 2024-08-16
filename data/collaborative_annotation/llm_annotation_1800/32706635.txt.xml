@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Randomized Phase III Trial of Pegvorhyaluronidase Alfa With Nab-Paclitaxel Plus Gemcitabine for Patients With Hyaluronan-High Metastatic Pancreatic Adenocarcinoma.
+PURPOSE: To evaluate the efficacy and safety of pegvorhyaluronidase alfa (PEGPH20) plus nab-paclitaxel/gemcitabine (AG) in patients with hyaluronan-high metastatic pancreatic ductal adenocarcinoma (PDA).
+PATIENTS AND METHODS: HALO 109-301 was a phase III, randomized, double-blind, placebo-controlled study.
+Patients &gt;/= 18 years of age with untreated, metastatic, hyaluronan-high PDA were randomly assigned 2:1 to PEGPH20 plus AG or placebo plus AG.
+Treatment was administered intravenously in 4-week cycles (3 weeks on, 1 week off) until progression or intolerable adverse events: PEGPH20 3.0 microg/kg twice per week for cycle 1 and once per week thereafter; nab-paclitaxel 125 mg/m(2) once per week; and gemcitabine 1,000 mg/m(2) once per week.
+The primary end point was overall survival (OS); secondary end points included progression-free survival (PFS), objective response rate (ORR), and safety.
+Response was independently assessed per RECIST v1.1.
+RESULTS: At data cutoff, 494 patients were randomly assigned, with 492 (327 for PEGPH20 and 165 for placebo) included in intention-to-treat analyses.
+Baseline characteristics were balanced for PEGPH20 plus AG versus placebo plus AG.
+There were 330 deaths, with a median OS of 11.2 months for PEGPH20 plus AG versus 11.5 months for placebo plus AG (hazard ratio [HR], 1.00; 95% CI, 0.80 to 1.27; P = .97); median PFS was 7.1 months versus 7.1 months (HR, 0.97 [95% CI, 0.75 to 1.26]); ORR was 47% versus 36% (ORR ratio, 1.29 [95% CI, 1.03 to 1.63]).
+Grade &gt;/= 3 adverse events with a &gt;/= 2% higher rate with PEGPH20 plus AG than with placebo plus AG included fatigue (16.0% v 9.6%), muscle spasms (6.5% v 0.6%), and hyponatremia (8.0% v 3.8%).
+CONCLUSION: The addition of PEGPH20 to AG increased the ORR but did not improve OS or PFS.
+The safety profile of PEGPH20 plus AG was consistent with that found in previous studies.
+These results do not support additional development of PEGPH20 in metastatic PDA.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

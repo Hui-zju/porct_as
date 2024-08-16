@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Patient-Reported Outcomes with Durvalumab With or Without Tremelimumab Versus Standard Chemotherapy as First-Line Treatment of Metastatic Non-Small-Cell Lung Cancer (MYSTIC).
+BACKGROUND: The phase 3 MYSTIC study of durvalumab +/- tremelimumab versus chemotherapy in metastatic non-small-cell lung cancer (NSCLC) patients with tumor cell (TC) programmed cell death ligand 1 (PD-L1) expression &gt;
+/= 25% did not meet its primary endpoints.
+We report patient-reported outcomes (PROs).
+PATIENTS AND METHODS: Treatment-naive patients were randomized (1:1:1) to durvalumab, durvalumab+tremelimumab, or chemotherapy.
+PROs were assessed in patients with PD-L1 TC &gt;/= 25% using EORTC Quality of Life Questionnaire (QLQ)-C30/LC13.
+Changes from baseline (12 months) for prespecified PRO endpoints of interest were analyzed by mixed model for repeated measures (MMRM) and time to deterioration (TTD) by stratified log-rank tests.
+RESULTS: There were no between-arm differences in baseline PROs (N=488).
+Between-arm differences in MMRM-adjusted mean changes from baseline favored at least one of the durvalumab-containing arms versus chemotherapy (nominal P &lt; .01) for C30 fatigue: durvalumab (-9.5; 99% confidence interval [CI], -17.0 to -2.0), durvalumab+tremelimumab (-11.7; 99% CI, -19.4 to -4.1); and for C30 appetite loss: durvalumab (-11.9; 99% CI, -21.1 to -2.7).
+TTD was longer with at least one of the durvalumab-containing arms versus chemotherapy (nominal P &lt; .01) for global health status/quality of life: durvalumab (hazard ratio [HR]=0.7; 95% CI, 0.5-1.0), durvalumab+tremelimumab (HR=0.7; 95% CI, 0.5-1.0); and for physical functioning: durvalumab (HR=0.6; 95% CI, 0.4-0.8), durvalumab+tremelimumab (HR=0.6; 95% CI, 0.5-0.9) (both C30); as well as for the key symptoms of dyspnea: durvalumab (HR=0.6; 95% CI, 0.5-0.9), durvalumab+tremelimumab (HR=0.7; 95% CI, 0.5-1.0) (both LC13); fatigue: durvalumab+tremelimumab (HR=0.6; 95% CI, 0.4-0.8); and appetite loss: durvalumab (HR=0.5; 95% CI, 0.4-0.7), durvalumab+tremelimumab (HR=0.7; 95% CI, 0.5-0.9) (both C30).
+CONCLUSION: Durvalumab +/- tremelimumab versus chemotherapy reduced symptom burden and improved TTD of PROs, suggesting it had no detrimental effects on quality of life in metastatic NSCLC patients.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

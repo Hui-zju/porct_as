@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Obesity-related hormones and endometrial cancer among postmenopausal women: a nested case-control study within the B~FIT cohort.
+Endometrial cancer risk is strongly influenced by obesity, but the mechanisms of action remain unclear.
+Leptin and adiponectin, secreted from adipose tissue, reportedly play a role in such carcinogenic processes as cell proliferation, angiogenesis, and insulin regulation.
+In this case-control study, nested within the Breast and Bone Follow-up of the Fracture Intervention Trial (n=15,595), we assessed pre-diagnostic serum leptin, total adiponectin, and high-molecular-weight (HMW) adiponectin in relation to endometrial cancer among postmenopausal women.
+During the 10-year follow-up, 62 incident endometrial cases were identified and matched to 124 controls on age, geographical site, time of fasting blood draw at baseline (1992-1993), and trial participation status.
+Adipokines and C-peptide were measured by ELISA.
+Odds ratios (ORs) and 95% confidence intervals (95% CIs) were estimated via conditional logistic regression, with exposures categorized in tertiles (T).
+Multivariable models considered C-peptide, BMI (kg/m(2)), and estradiol (E2) as potential confounders.
+Endometrial cancer risk was significantly associated with higher leptin levels, adjusted for E2 and C-peptide (OR(T3 vs T1)=2.96; 95% CI, 1.21-7.25; P trend <0.01).
+After further adjustment for BMI, the estimates were attenuated and the positive trend was no longer statistically significant (OR(T3 vs T1)=2.11; 95% CI, 0.69-6.44; P trend=0.18).
+No significant associations were observed with adiponectin or HMW adiponectin and endometrial cancer.
+Our findings with leptin suggest that the leptin-BMI axis might increase endometrial cancer risk through mechanisms other than estrogen-driven proliferation.
+Continued exploration of these pathways in larger prospective studies may help elucidate mechanisms underlying observed obesity-endometrial cancer associations.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

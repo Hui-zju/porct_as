@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Interactions of the Insulin-Like Growth Factor Axis and Vitamin D in Prostate Cancer Risk in the Prostate Cancer Prevention Trial.
+Some, but not all, epidemiologic studies report an association between vitamin D and prostate cancer risk.
+The inconsistent findings might be explained in the context of modification by members of the insulin-like growth factor (IGF) axis.
+Data and specimens for this nested case-control study (n = 1695 cases and n = 1682 controls) are from the Prostate Cancer Prevention Trial (PCPT).
+Baseline serum samples were assayed for 25(OH)D, IGF-1, IGF-2, IGFBP-2, IGFBP-3, and the ratio of IGF1:BP3, along with insulin-related markers c-peptide and leptin.
+The presence of prostate cancer was assessed by prostate biopsy.
+Multivariate logistic regression was used to estimate odds ratios (OR) and 95% confidence intervals (CIs) for prostate cancer risk.
+There were no interactions between serum 25(OH)D and IGF analytes in relation to prostate cancer risk when PCPT treatment arms were combined.
+In the placebo arm, above median serum 25(OH)D levels were associated with increased risk of prostate cancer among men with higher IGF-2 (OR:1.33, 95% CI: 1.00-1.65), with a significant interaction between 25(OH)D and treatment arm (Pinteraction = 0.04).
+Additionally, there was an interaction between treatment arm and serum IGFBP-3 (Pinteraction = 0.03).
+Higher serum 25(OH)D may increase risk of prostate cancer in the presence of higher circulating IGF-2.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

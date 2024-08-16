@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Quality of Life During Treatment With Chemohormonal Therapy: Analysis of E3805 Chemohormonal Androgen Ablation Randomized Trial in Prostate Cancer.
+Purpose Chemohormonal therapy with docetaxel and androgen deprivation therapy (ADT+D) for metastatic hormone-sensitive prostate cancer improves overall survival as compared with androgen deprivation therapy (ADT) alone.
+We compared the quality of life (QOL) between patients with metastatic hormone-sensitive prostate cancer who were treated with ADT+D and those who were treated with ADT alone.
+Methods Men were randomly assigned to ADT+ D (six cycles) or to ADT alone.
+QOL was assessed by Functional Assessment of Cancer Therapy-Prostate (FACT-P), FACT-Taxane, Functional Assessment of Chronic Illness Therapy-Fatigue, and the Brief Pain Inventory at baseline and at 3, 6, 9, and 12 months.
+The Wilcoxon signed rank test was used to examine changes over time.
+Mixed-effect models compared the QOL between arms at each time point.
+Results Seven hundred ninety men were randomly assigned (ADT+D [n = 397] and ADT[ n = 393]) and completed FACT-P (90% at baseline, 86% at 3 months, 83% at 6 months, 78% at 9 months, and 77% at 12 months).
+ADT+D patients reported a statistically significant decline in FACT-P at 3 months ( P < .001) but FACT-P did not differ significantly between baseline and 12 months ( P = .38).
+ADT+D FACT-P scores were significantly lower at 3 months ( P = .02) but significantly higher at 12 months ( P = .04) when compared with ADT FACT-P scores.
+Differences did not exceed the minimal clinically important difference at any time point.
+ADT+D patients reported significantly lower Functional Assessment of Chronic Illness Therapy-Fatigue scores at 3 months than did ADT patients ( P < .001).
+Over time, both arms reported significantly poorer FACT-Taxane scores ( P < .001) when compared with baseline.
+Brief Pain Inventory scores were similar between arms.
+Conclusion Although ADT+D was associated with statistically worse QOL at 3 months, QOL was better at 12 months for ADT+D patients than for ADT patients.
+Both arms reported a similar minimally changed QOL over time, suggesting that ADT+D is not associated with a greater long-term negative impact on QOL.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

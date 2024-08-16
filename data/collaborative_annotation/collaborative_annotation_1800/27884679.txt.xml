@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children's Hepatic tumors International Collaboration.
+BACKGROUND: Comparative assessment of treatment results in paediatric hepatoblastoma trials has been hampered by small patient numbers and the use of multiple disparate staging systems by the four major trial groups.
+To address this challenge, we formed a global coalition, the Children's Hepatic tumors International Collaboration (CHIC), with the aim of creating a common approach to staging and risk stratification in this rare cancer.
+METHODS: The CHIC steering committee-consisting of leadership from the four major cooperative trial groups (the International Childhood Liver Tumours Strategy Group, Children's Oncology Group, the German Society for Paediatric Oncology and Haematology, and the Japanese Study Group for Paediatric Liver Tumours)-created a shared international database that includes comprehensive data from 1605 children treated in eight multicentre hepatoblastoma trials over 25 years.
+Diagnostic factors found to be most prognostic on initial analysis were PRETreatment EXTent of disease (PRETEXT) group; age younger than 3 years, 3-7 years, and 8 years or older; alpha fetoprotein (AFP) concentration of 100 ng/mL or lower and 101-1000 ng/mL; and the PRETEXT annotation factors metastatic disease (M), macrovascular involvement of all hepatic veins (V) or portal bifurcation (P), contiguous extrahepatic tumour (E), multifocal tumour (F), and spontaneous rupture (R).
+We defined five clinically relevant backbone groups on the basis of established prognostic factors: PRETEXT I/II, PRETEXT III, PRETEXT IV, metastatic disease, and AFP concentration of 100 ng/mL or lower at diagnosis.
+We then carried the additional factors into a hierarchical backwards elimination multivariable analysis and used the results to create a new international staging system.
+RESULTS: Within each backbone group, we identified constellations of factors that were most predictive of outcome in that group.
+The robustness of candidate models was then interrogated using the bootstrapping procedure.
+Using the clinically established PRETEXT groups I, II, III, and IV as our stems, we created risk stratification trees based on 5 year event-free survival and clinical applicability.
+We defined and adopted four risk groups: very low, low, intermediate, and high.
+INTERPRETATION: We have created a unified global approach to risk stratification in children with hepatoblastoma on the basis of rigorous statistical interrogation of what is, to the best of our knowledge, the largest dataset ever assembled for this rare paediatric tumour.
+This achievement provides the structural framework for further collaboration and prospective international cooperative study, such as the Paediatric Hepatic International Tumour Trial (PHITT).
+FUNDING: European Network for Cancer Research in Children and Adolescents, funded through the Framework Program 7 of the European Commission (grant number 261474); Children's Oncology Group CureSearch grant contributed by the Hepatoblastoma Foundation; Practical Research for Innovative Cancer Control and Project Promoting Clinical Trials for Development of New Drugs and Medical Devices, Japan Agency for Medical Research; and Swiss Cancer Research grant.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

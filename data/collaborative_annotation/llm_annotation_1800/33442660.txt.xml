@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Concordance of Immunohistochemistry-Based and Gene Expression-Based Subtyping in Breast Cancer.
+Background: Use of immunohistochemistry-based surrogates of molecular breast cancer subtypes is common in research and clinical practice, but information on their comparative validity and prognostic capacity is scarce.
+Methods: Data from 2 PAM50-subtyped Swedish breast cancer cohorts were used: Stockholm tamoxifen trial-3 with 561 patients diagnosed 1976-1990 and Clinseq with 237 patients diagnosed 2005-2012.
+We evaluated 3 surrogate classifications; the immunohistochemistry-3 surrogate classifier based on estrogen receptor, progesterone receptor, and HER2 and the St. Gallen and Prolif surrogate classifiers also including Ki-67.
+Accuracy, kappa, sensitivity, and specificity were computed as compared with PAM50.
+Alluvial diagrams of misclassification patterns were plotted.
+Distant recurrence-free survival was assessed using Kaplan-Meier plots, and tamoxifen treatment benefit for luminal subtypes was modeled using flexible parametric survival models.
+Results: The concordance with PAM50 ranged from poor to moderate (kappa = 0.36-0.57, accuracy = 0.54-0.75), with best performance for the Prolif surrogate classification in both cohorts.
+Good concordance was only achieved when luminal subgroups were collapsed (kappa = 0.71-0.69, accuracy = 0.90-0.91).
+The St. Gallen surrogate classification misclassified luminal A into luminal B; the reverse pattern was seen with the others.
+In distant recurrence-free survival, surrogates were more similar to each other than PAM50.
+The difference in tamoxifen treatment benefit between luminal A and B for PAM50 was not replicated with any surrogate classifier.
+Conclusions: All surrogate classifiers had limited ability to distinguish between PAM50 luminal A and B, but patterns of misclassifications differed.
+PAM50 subtyping appeared to yield larger separation of survival between luminal subtypes than any of the surrogate classifications.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

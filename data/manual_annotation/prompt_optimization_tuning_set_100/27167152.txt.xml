@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Respondent selection in a repeated survey on lifestyle within the randomized colorectal cancer screening programme.
+Screening for colorectal cancer (CRC) has been shown to decrease colorectal cancer mortality in randomized-controlled trials.
+However, screening may have an adverse impact on an individual's lifestyle.
+We describe here the design of a repeated survey study on lifestyle and assess response in the survey target population by randomization to CRC screening and demographic factors.
+The survey study population (n=10271) included Finnish men and women born in 1951 who were randomized for the CRC screening programme in 2011 and received a questionnaire on lifestyle in 2010 and 2012.
+We assessed responding by randomization to CRC screening, calendar time and demographic factors using the population-averaged Poisson model.
+Responding to survey was overall similar in 2010 and 2012.
+Those invited for CRC screening increased responding in time [incidence rate ratio (IRR) 1.06, confidence interval (CI) 1.03-1.09], whereas controls decreased their responding (IRR 0.97, CI 0.94-1.00).
+Women were more likely to respond than men (IRR 1.17, CI 1.12-1.23).
+Also, secondary (IRR 1.20, CI 1.13-1.27) and tertiary (IRR 1.31, CI 1.23-1.40) level education increased the response proportion compared with primary-level education.
+We could reliably assess the effect of CRC screening invitation and demographic factors on survey response.
+Although invitation to CRC screening increased responding, the self-selection was similar on both survey rounds.
+Self-selection should be taken into account when generalizing results from survey studies to their target population.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

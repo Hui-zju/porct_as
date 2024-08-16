@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Decision support for men with prostate cancer: Concordance between treatment choice and tumor risk.
+BACKGROUND: Decision support tools improve decisional conflict and elicit patient preferences related to prostate cancer treatment.
+It was hypothesized that men using the Personal Patient Profile-Prostate (P3P) would be more likely to pursue guideline-concordant treatment.
+METHODS: Men from a trial assessing the P3P decision support intervention were identified.
+The primary exposure was allocation to P3P (vs usual care), and the outcome was appropriate treatment per guidelines (eg, low risk = active surveillance).
+It was assessed whether providers recommended against any treatment options (ie, restricted).
+A multivariable model was fit for men with low-risk cancer that estimated the odds of the outcome of interest.
+RESULTS: This study identified 295 men in the cohort: 113 (38%) had low-risk disease, 119 (40%) had favorable intermediate-risk disease, and 63 (21%) had unfavorable intermediate-risk disease.
+Among low-risk patients, more men pursued active surveillance after using P3P whether they were given unrestricted (62% vs 54% with usual care; P = .54) or restricted options (71% vs 59% with usual care; P = .34).
+After adjustments, only Black race (odds ratio [OR], 0.31; 95% CI, 0.11-0.89) and restricted options (OR, 0.23; 95% CI, 0.08-0.65) had an inverse association with the receipt of surveillance for patients with low-risk prostate cancer.
+An impact associated with P3P versus usual care (OR, 0.89; 95% CI, 0.36-2.20) was not observed.
+CONCLUSIONS: Among men in a trial assessing a decision support tool, Black race and restricted treatment options were associated with less use of active surveillance for low-risk prostate cancer.
+Although the P3P instrument ameliorates decisional conflict, its use was not associated with more appropriate alignment of treatment with disease risk.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

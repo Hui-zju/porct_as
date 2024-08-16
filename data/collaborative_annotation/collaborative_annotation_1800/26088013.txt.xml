@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Development and Validation of a Prognostic Nomogram for Progression-Free Survival in Patients with Advanced Renal Cell Carcinoma Treated with Pazopanib.
+OBJECTIVE: To develop and validate a prognostic nomogram for predicting the probability of 12-month progression-free survival (PFS) for patients receiving first-line pazopanib for advanced renal cell carcinoma (RCC).
+METHODS: Statistical modeling was performed with data from 557 pazopanib-treated patients in the phase 3 COMPARZ trial.
+A multivariable Cox model was fit using known prognostic indicators.
+Variables included neutrophil count, serum levels of albumin and alkaline phosphatase, time from diagnosis to treatment, and bone metastases.
+Data from the pazopanib arm of a placebo-controlled phase 3 trial were used for validation.
+RESULTS: The model included ten prognostic variables and was plotted as a nomogram for predicting the probability of 12-month PFS.
+Calibration plots suggested reasonable correspondence between predicted probabilities and actual proportions of PFS.
+The concordance index for 12-month PFS was 0.625.
+Significant associations (p &lt; 0.05) were observed between PFS and bone metastases, time from diagnosis to treatment, albumin, and alkaline phosphatase.
+Albumin and alkaline phosphatase appeared to be influential predictors.
+CONCLUSION: The nomogram predicts, with reasonable accuracy, PFS in patients with advanced RCC receiving pazopanib, based on their baseline clinical characteristics.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

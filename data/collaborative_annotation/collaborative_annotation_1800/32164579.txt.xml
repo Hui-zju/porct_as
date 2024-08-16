@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A phase II open label, randomised study of ipilimumab with temozolomide versus temozolomide alone after surgery and chemoradiotherapy in patients with recently diagnosed glioblastoma: the Ipi-Glio trial protocol.
+BACKGROUND: Median survival for patients with glioblastoma is less than a year.
+Standard treatment consists of surgical debulking if feasible followed by temozolomide chemo-radiotherapy.
+The immune checkpoint inhibitor ipilimumab targets cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and has shown clinical efficacy in preclinical models of glioblastoma.
+The aim of this study is to explore the addition of ipilimumab to standard therapy in patients with glioblastoma.
+METHODS/DESIGN: Ipi-Glio is a phase II, open label, randomised study of ipilimumab with temozolomide (Arm A) versus temozolomide alone (Arm B) after surgery and chemoradiotherapy in patients with recently diagnosed glioblastoma.
+Planned accrual is 120 patients (Arm A: 80, Arm B: 40).
+Endpoints include overall survival, 18-month survival, 5-year survival, and adverse events.
+The trial is currently recruiting in seven centres in the United Kingdom.
+TRIAL REGISTRATION: ISRCTN84434175.
+Registered 12 November 2018.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

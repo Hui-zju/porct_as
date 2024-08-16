@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Randomized Phase II Trial and Tumor Mutational Spectrum Analysis from Cabozantinib versus Chemotherapy in Metastatic Uveal Melanoma (Alliance A091201).
+PURPOSE: The surface receptor MET is highly expressed on primary uveal melanoma; MET inhibitors demonstrated early clinical signals of efficacy in slowing uveal melanoma growth.
+The primary objective of our study was to compare the progression-free survival rate at 4 months (PFS4) of patients with uveal melanoma treated with cabozantinib or chemotherapy.
+PATIENTS AND METHODS: Patients with metastatic uveal melanoma and RECIST measurable disease were randomized 2:1 to receive either cabozantinib (arm 1) versus temozolomide or dacarbazine (arm 2) with restaging imaging every two cycles.
+Cross-over from arm 2 to cabozantinib after progression was allowed (arm 2X).
+Available tumor specimens were analyzed by whole-exome sequencing (WES) and results were correlated with outcome.
+RESULTS: Forty-six eligible patients were accrued with 31, 15, and 9 in arms 1, 2, and 2X, respectively.
+Median lines of prior therapy, including hepatic embolization, were two.
+Rates of PFS4 in arm 1 and arm 2 were 32.3% and 26.7% (P = 0.35), respectively, with median PFS time of 60 and 59 days (P = 0.964; HR = 0.99).
+Median overall survival (OS) was 6.4 months and 7.3 months (P = 0.580; HR = 1.21), respectively.
+Grade 3-4 Common Terminology Criteria for Adverse Events were present in 61.3%, 46.7%, and 37.5% in arms 1, 2, and 2X, respectively.
+WES demonstrated a mean tumor mutational burden of 1.53 mutations/Mb and did not separate OS &lt;/= or &gt;1 year (P = 0.14).
+Known mutations were identified by WES and novel mutations were nominated.
+CONCLUSIONS: MET/VEGFR blockade with cabozantinib demonstrated no improvement in PFS but an increase in toxicity relative to temozolomide/dacarbazine in metastatic uveal melanoma.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

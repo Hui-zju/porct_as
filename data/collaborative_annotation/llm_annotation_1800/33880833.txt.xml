@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Development and validation of a nomogram to predict intraoperative blood transfusion for gastric cancer surgery.
+OBJECTIVE: To construct and validate a nomogram composed of preoperative variables to predict intraoperative blood transfusion for gastric cancer surgery.
+BACKGROUND: Intraoperative transfusion for gastric cancer surgery is a common medical procedure that is associated with increased postoperative complications.
+METHODS: A total of 999 patients who underwent gastrectomy between January 2010 and June 2019 were randomly allocated into the primary and validation cohorts in a 2:1 ratio.
+In the primary cohort, logistic analyses were performed to identify independent predictors for transfusion.
+Using the Akaike information criterion, selected variables were incorporated to construct a nomogram.
+Validations of the nomogram were performed in the primary and validation cohorts.
+The discrimination ability of the nomogram was assessed by the concordance index (C-index), and calibration was assessed by calibration curves and the Hosmer-Lemeshow goodness-of-fit test.
+RESULTS: The following risk factors for transfusion were identified and used to construct the nomogram: ASA status (III-IV vs I-II: odds ratio [OR] 1.74), comorbidities (yes vs no: OR 1.57), tumour location (diffuse vs lower: OR 4.05), cTNM stage (III vs I: OR 1.95), and a preoperative haemoglobin level less than 80 g/L (vs over 120 g/L: OR 35.30).
+The C-index was 0.859 and 0.850 in the primary and validation cohorts, respectively, which both indicated good discrimination of the nomogram.
+Additionally, both calibration curves and Hosmer-Lemeshow tests (p-value 0.184 and 0.887, respectively) demonstrated high agreement between the predictions and actual outcomes.
+CONCLUSION: A nomogram composed of preoperative variables to predict blood transfusion for gastric cancer surgery was effectively developed and validated.
+This nomogram could be used to improve the utilisation of red blood cells for gastrectomy.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

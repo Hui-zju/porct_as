@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Addition of the PARP inhibitor veliparib plus carboplatin or carboplatin alone to standard neoadjuvant chemotherapy in triple-negative breast cancer (BrighTNess): a randomised, phase 3 trial.
+BACKGROUND: Although several randomised trials in patients with triple-negative breast cancer have shown that the addition of carboplatin, with or without poly(ADP-ribose) polymerase (PARP) inhibitors, to neoadjuvant chemotherapy increases the likelihood of achieving a pathological complete response, the use of these therapies in this setting has remained controversial.
+The BrighTNess trial was designed to assess the addition of the PARP inhibitor veliparib plus carboplatin or carboplatin alone to standard neoadjuvant chemotherapy in triple-negative breast cancer.
+METHODS: We did a phase 3, randomised, double-blind, placebo-controlled trial (BrighTNess) across 145 sites in 15 countries.
+Patients aged 18 years and older with previously untreated histologically or cytologically confirmed clinical stage II-III triple-negative breast cancer, who were candidates for potentially curative surgery and had an Eastern Cooperative Oncology Group performance status of 0 or 1, were randomly assigned (2:1:1) by an interactive response technology system via permuted blocks (block size of four) within strata to receive one of three segment 1 regimens: paclitaxel (80 mg/m(2) intravenously weekly for 12 doses) plus carboplatin (area under the curve 6 mg/mL per min, intravenously every 3 weeks, for four cycles) plus veliparib (50 mg orally, twice a day); paclitaxel plus carboplatin plus veliparib placebo (twice a day); or paclitaxel plus carboplatin placebo (every 3 weeks for four cycles) plus veliparib placebo.
+Following segment 1, all patients were assigned to segment 2 in which they received doxorubicin and cyclophosphamide every 2-3 weeks for four cycles.
+Randomisation for segment 1 was stratified by germline BRCA mutation status, nodal stage, and planned schedule of doxorubicin and cyclophosphamide administration.
+The primary endpoint was pathological complete response in breast and lymph nodes as determined by site pathologists following completion of neoadjuvant therapy.
+Efficacy analyses were done by intention to treat and safety analyses included all patients who received at least one dose of study treatment.
+These are the first results of an ongoing clinical trial; the data cutoff for the analyses presented was Dec 8, 2016.
+This study is registered with ClinicalTrials.gov, number NCT02032277.
+FINDINGS: Between April 4, 2014, and March 18, 2016, 634 patients were randomly assigned: 316 to paclitaxel plus carboplatin plus veliparib, 160 to paclitaxel plus carboplatin, and 158 to paclitaxel alone.
+The proportion of patients who achieved a pathological complete response was higher in the paclitaxel, carboplatin, and veliparib group than in patients receiving paclitaxel alone (168 [53%] of 316 patients vs 49 [31%] of 158, p<0.0001), but not compared with patients receiving paclitaxel plus carboplatin (92 [58%] of 160 patients, p=0.36).
+Grade 3 or 4 toxicities, and serious adverse events were more common in patients receiving carboplatin, whereas veliparib did not substantially increase toxicity.
+The most common grade 3 or 4 events overall were neutropenia (352 [56%] of 628 patients), anaemia (180 [29%]), and thrombocytopenia (75 [12%]) through complete treatment, and febrile neutropenia (88 [15%] of 601 patients) during segment 2.
+The most common serious adverse events were febrile neutropenia (80 [13%] of 628 patients) and anaemia (20 [3%]).
+INTERPRETATION: Although the addition of veliparib and carboplatin to paclitaxel followed by doxorubicin and cyclophosphamide improved the proportion of patients with triple-negative breast cancer who achieved a pathological complete response, the addition of veliparib to carboplatin and paclitaxel did not.
+Increased toxicities with the addition of carboplatin (with or without veliparib) to paclitaxel were manageable and did not substantially affect treatment delivery of paclitaxel followed by doxorubicin and cyclophosphamide.
+Given the consistent results with previous studies, the addition of carboplatin appears to have a favourable risk to benefit profile and might be considered as a potential component of neoadjuvant chemotherapy for patients with high-risk, triple-negative breast cancer.
+FUNDING: AbbVie.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

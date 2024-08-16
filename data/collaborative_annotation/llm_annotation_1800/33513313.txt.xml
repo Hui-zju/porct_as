@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Pembrolizumab Plus Ipilimumab or Placebo for Metastatic Non-Small-Cell Lung Cancer With PD-L1 Tumor Proportion Score &gt;/= 50%: Randomized, Double-Blind Phase III KEYNOTE-598 Study.
+PURPOSE: Pembrolizumab monotherapy is standard first-line therapy for metastatic non-small-cell lung cancer (NSCLC) with programmed death ligand 1 (PD-L1) tumor proportion score (TPS) &gt;
+/= 50% without actionable driver mutations.
+It is not known whether adding ipilimumab to pembrolizumab improves efficacy over pembrolizumab alone in this population.
+METHODS: In the randomized, double-blind, phase III KEYNOTE-598 trial (ClinicalTrials.gov identifier: NCT03302234), eligible patients with previously untreated metastatic NSCLC with PD-L1 TPS &gt;/= 50% and no sensitizing EGFR or ALK aberrations were randomly allocated 1:1 to ipilimumab 1 mg/kg or placebo every 6 weeks for up to 18 doses; all participants received pembrolizumab 200 mg every 3 weeks for up to 35 doses.
+Primary end points were overall survival and progression-free survival.
+RESULTS: Of the 568 participants, 284 were randomly allocated to each group.
+Median overall survival was 21.4 months for pembrolizumab-ipilimumab versus 21.9 months for pembrolizumab-placebo (hazard ratio, 1.08; 95% CI, 0.85 to 1.37; P = .74).
+Median progression-free survival was 8.2 months for pembrolizumab-ipilimumab versus 8.4 months for pembrolizumab-placebo (hazard ratio, 1.06; 95% CI, 0.86 to 1.30; P = .72).
+Grade 3-5 adverse events occurred in 62.4% of pembrolizumab-ipilimumab recipients versus 50.2% of pembrolizumab-placebo recipients and led to death in 13.1% versus 7.5%.
+The external data and safety monitoring committee recommended that the study be stopped for futility and that participants discontinue ipilimumab and placebo.
+CONCLUSION: Adding ipilimumab to pembrolizumab does not improve efficacy and is associated with greater toxicity than pembrolizumab monotherapy as first-line treatment for metastatic NSCLC with PD-L1 TPS &gt;/= 50% and no targetable EGFR or ALK aberrations.
+These data do not support use of pembrolizumab-ipilimumab in place of pembrolizumab monotherapy in this population.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>The impact of DNA input amount and DNA source on the performance of whole-exome sequencing in cancer epidemiology.
+BACKGROUND: Whole-exome sequencing (WES) has recently emerged as an appealing approach to systematically study coding variants.
+However, the requirement for a large amount of high-quality DNA poses a barrier that may limit its application in large cancer epidemiologic studies.
+We evaluated the performance of WES with low input amount and saliva DNA as an alternative source material.
+METHODS: Five breast cancer patients were randomly selected from the Pathways Study.
+From each patient, four samples, including 3 mug, 1 mug, and 0.2 mug blood DNA and 1 mug saliva DNA, were aliquoted for library preparation using the Agilent SureSelect Kit and sequencing using Illumina HiSeq2500.
+Quality metrics of sequencing and variant calling, as well as concordance of variant calls from the whole exome and 21 known breast cancer genes, were assessed by input amount and DNA source.
+RESULTS: There was little difference by input amount or DNA source on the quality of sequencing and variant calling.
+The concordance rate was about 98% for single-nucleotide variant calls and 83% to 86% for short insertion/deletion calls.
+For the 21 known breast cancer genes, WES based on low input amount and saliva DNA identified the same set variants in samples from a same patient.
+CONCLUSIONS: Low DNA input amount, as well as saliva DNA, can be used to generate WES data of satisfactory quality.
+IMPACT: Our findings support the expansion of WES applications in cancer epidemiologic studies where only low DNA amount or saliva samples are available.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

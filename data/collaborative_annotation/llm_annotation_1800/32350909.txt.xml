@@ -1,0 +1,12 @@
+<MyRCT>
+<TEXT>Clinical benefit of ixazomib plus lenalidomide-dexamethasone in myeloma patients with non-canonical NF-kappaB pathway activation.
+OBJECTIVES: Evaluating potential relationships between progression-free survival (PFS) and tumor gene expression patterns and mutational status was an exploratory objective of the phase 3 TOURMALINE-MM1 study (NCT01564537) of ixazomib-lenalidomide-dexamethasone (IRd) vs placebo-Rd in 722 patients with relapsed/refractory multiple myeloma (MM).
+METHODS: We utilized gene expression and mutation data from screening bone marrow aspirates to identify tumors with non-canonical nuclear factor-kappaB (NF-kappaB) signaling pathway activation.
+RESULTS: DNA/RNA sequencing data were available for 339 (47.0%)/399 (55.2%) patients; 49/339 (14.5%) patients had non-canonical NF-kappaB pathway gene mutations (tumor-necrosis-factor receptor-associated factor 2, 3 [TRAF2, TRAF3], baculoviral-inhibitor-of-apoptosis repeat-containing 2/3 [BIRC2/3]), and PFS was significantly longer with IRd vs placebo-Rd in these patients (hazard ratio [HR] 0.23).
+In patients with lower TRAF3 expression (median not reached vs 11 months, HR 0.47) and higher NF-kappaB-inducing kinase (NIK) expression (median not reached vs 14 months, HR 0.45), both associated with non-canonical NF-kappaB pathway activation, PFS was significantly longer with IRd vs placebo-Rd.
+TRAF3 expression was decreased in patients harboring t(4;14) and 1q21 amplification, suggesting increased non-canonical NF-kappaB pathway activation.
+CONCLUSIONS: Adding ixazomib to Rd provides clinical benefit in MM tumors with increased non-canonical NF-kappaB pathway activity.
+This is a potential mechanism for activity in 1q21 amplified high-risk tumors.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

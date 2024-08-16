@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Assessing Treatment Response and Prognosis by Serum and Tissue Metabolomics in Breast Cancer Patients.
+Patients with locally advanced breast cancer have a worse prognosis compared to patients with localized tumors and require neoadjuvant treatment before surgery.
+The aim of this study was to characterize the systemic metabolic effect of neoadjuvant chemotherapy in patients with large primary breast cancers and to relate these changes to treatment response and long-term survival.
+This study included 132 patients with large primary breast tumors randomized to receive neoadjuvant chemotherapy with or without the addition of the antiangiogenic drug Bevacizumab.
+Tumor biopsies and serum were collected before and during treatment and, serum additionally 6 weeks after surgery.
+Samples were analyzed by nuclear magnetic resonance spectroscopy (NMR).
+Correlation analysis showed low correlations between metabolites measured in cancer tissue and serum.
+Multilevel partial least squares discriminant analysis (PLS-DA) showed clear changes in serum metabolite levels during treatment (p-values </= 0.001), including unfavorable changes in lipid levels.
+PLS-DA revealed metabolic differences between tissue samples from survivors and nonsurvivors collected 12 weeks into treatment with an accuracy of 72% (p-value = 0.005); however, this was not evident in serum samples.
+Our results demonstrate a potential clinical application for serum-metabolomics for patient monitoring during and after treatment, and indicate potential for tissue NMR spectroscopy for predicting patient survival.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

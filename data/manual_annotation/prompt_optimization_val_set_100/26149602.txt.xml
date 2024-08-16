@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized controlled trial of irinotecan drug-eluting beads with simultaneous FOLFOX and bevacizumab for patients with unresectable colorectal liver-limited metastasis.
+BACKGROUND: Reports have demonstrated the superior activity of combining both irinotecan and oxaliplatin (FOLFOXIRI) therapy.
+An option for gaining similar benefits with less toxicity would be the administration of irinotecan through a hepatic artery approach.
+The aim of this study was to assess the response and adverse event rates for irinotecan drug-eluting beads (DEBIRI) with folinic acid, 5-fluorouracil, and oxaliplatin (FOLFOX) and bevacizumab as a first-line treatment for unresectable colorectal liver metastasis.
+METHODS: Patients with colorectal liver metastases were randomly assigned to modified FOLFOX (mFOLFOX) and bevacizumab or mFOLFOX6, bevacizumab, and DEBIRI (FOLFOX-DEBIRI).
+The primary endpoint was the response rate.
+The secondary endpoints were adverse events, the rate of conversion to resection, and progression-free survival.
+RESULTS: The intention-to-treat population comprised 70 patients: 10 patients in the pilot and then 30 patients randomly assigned to the FOLFOX-DEBIRI arm and 30 patients randomly assigned to the FOLFOX/bevacizumab arm.
+The 2 groups were similar with respect to the extent of liver involvement (30% vs 30%), but a greater percentage of patients in the FOLFOX-DEBIRI arm had an Eastern Cooperative Oncology Group performance status of 1 or 2 (57% vs 31%) and extrahepatic disease (56% vs 32%, P = .02).
+The median numbers of chemotherapy cycles were similar (10 vs 9), and there were similar rates of grade 3/4 adverse events (54% for the FOLFOX-DEBIRI group vs 46% for the FOLFOX/bevacizumab group).
+The overall response rate was significantly greater in the FOLFOX-DEBIRI arm versus the FOLFOX/bevacizumab arm at 2 (78% vs 54%, P = .02), 4 (95% vs 70%, P = .03), and 6 months (76% vs 60%, P = .05).
+There was significantly more downsizing to resection in the FOLFOX-DEBIRI arm versus the FOLFOX/bevacizumab arm (35% vs 16%, P = .05), and there was improved median progression-free survival (15.3 vs 7.6 months).
+CONCLUSIONS: The simultaneous administration of mFOLFOX6 (with or without bevacizumab) and DEBIRI through the hepatic artery (FOLFOX-DEBIRI) is safe and does not cause treatment delays or increase the systemic toxicity of chemotherapy.
+This strategy leads to improved overall response rates, improved hepatic progression-free survival, and more durable overall progression-free survival in patients downsized to resection.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

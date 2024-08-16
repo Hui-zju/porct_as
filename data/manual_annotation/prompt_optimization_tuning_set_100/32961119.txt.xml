@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Adjuvant nivolumab versus ipilimumab in resected stage IIIB-C and stage IV melanoma (CheckMate 238): 4-year results from a multicentre, double-blind, randomised, controlled, phase 3 trial.
+BACKGROUND: Previously, findings from CheckMate 238, a double-blind, phase 3 adjuvant trial in patients with resected stage IIIB-C or stage IV melanoma, showed significant improvements in recurrence-free survival and distant metastasis-free survival with nivolumab versus ipilimumab.
+This report provides updated 4-year efficacy, initial overall survival, and late-emergent safety results.
+METHODS: This multicentre, double-blind, randomised, controlled, phase 3 trial was done in 130 academic centres, community hospitals, and cancer centres across 25 countries.
+Patients aged 15 years or older with resected stage IIIB-C or IV melanoma and an Eastern Cooperative Oncology Group performance status of 0 or 1 were randomly assigned (1:1) to receive nivolumab or ipilimumab via an interactive voice response system and stratified according to disease stage and baseline PD-L1 status of tumour cells.
+Patients received intravenous nivolumab 3 mg/kg every 2 weeks or intravenous ipilimumab 10 mg/kg every 3 weeks for four doses, and then every 12 weeks until 1 year of treatment, disease recurrence, unacceptable toxicity, or withdrawal of consent.
+The primary endpoint was recurrence-free survival by investigator assessment, and overall survival was a key secondary endpoint.
+Efficacy analyses were done in the intention-to-treat population (all randomly assigned patients).
+All patients who received at least one dose of study treatment were included in the safety analysis.
+The results presented in this report reflect the 4-year update of the ongoing study with a database lock date of Jan 30, 2020.
+This study is registered with ClinicalTrials.gov, NCT02388906.
+FINDINGS: Between March 30 and Nov 30, 2015, 906 patients were assigned to nivolumab (n=453) or ipilimumab (n=453).
+Median follow-up was 51.1 months (IQR 41.6-52.7) with nivolumab and 50.9 months (36.2-52.3) with ipilimumab; 4-year recurrence-free survival was 51.7% (95% CI 46.8-56.3) in the nivolumab group and 41.2% (36.4-45.9) in the ipilimumab group (hazard ratio [HR] 0.71 [95% CI 0.60-0.86]; p=0.0003).
+With 211 (100 [22%] of 453 patients in the nivolumab group and 111 [25%] of 453 patients in the ipilimumab group) of 302 anticipated deaths observed (about 73% of the originally planned 88% power needed for significance), 4-year overall survival was 77.9% (95% CI 73.7-81.5) with nivolumab and 76.6% (72.2-80.3) with ipilimumab (HR 0.87 [95% CI 0.66-1.14]; p=0.31).
+Late-emergent grade 3-4 treatment-related adverse events were reported in three (1%) of 452 and seven (2%) of 453 patients.
+The most common late-emergent treatment-related grade 3 or 4 adverse events reported were diarrhoea, diabetic ketoacidosis, and pneumonitis (one patient each) in the nivolumab group, and colitis (two patients) in the ipilimumab group.
+Two previously reported treatment-related deaths in the ipilimumab group were attributed to study drug toxicity (marrow aplasia in one patient and colitis in one patient); no further treatment-related deaths were reported.
+INTERPRETATION: At a minimum of 4 years' follow-up, nivolumab demonstrated sustained recurrence-free survival benefit versus ipilimumab in resected stage IIIB-C or IV melanoma indicating a long-term treatment benefit with nivolumab.
+With fewer deaths than anticipated, overall survival was similar in both groups.
+Nivolumab remains an efficacious adjuvant treatment for patients with resected high-risk melanoma, with a safety profile that is more tolerable than that of ipilimumab.
+FUNDING: Bristol Myers Squibb and Ono Pharmaceutical.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

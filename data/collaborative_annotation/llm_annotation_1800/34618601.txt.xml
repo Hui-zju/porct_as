@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Ibrutinib Plus Venetoclax for First-Line Treatment of Chronic Lymphocytic Leukemia: Primary Analysis Results From the Minimal Residual Disease Cohort of the Randomized Phase II CAPTIVATE Study.
+PURPOSE: CAPTIVATE (NCT02910583), a randomized phase II study, evaluates minimal residual disease (MRD)-guided treatment discontinuation following completion of first-line ibrutinib plus venetoclax treatment in patients with chronic lymphocytic leukemia (CLL).
+METHODS: Previously untreated CLL patients age &lt; 70 years received three cycles of ibrutinib and then 12 cycles of combined ibrutinib plus venetoclax.
+Patients in the MRD cohort who met the stringent random assignment criteria for confirmed undetectable MRD (Confirmed uMRD) were randomly assigned 1:1 to double-blind placebo or ibrutinib; patients without Confirmed uMRD (uMRD Not Confirmed) were randomly assigned 1:1 to open-label ibrutinib or ibrutinib plus venetoclax.
+Primary end point was 1-year disease-free survival (DFS) rate with placebo versus ibrutinib in the Confirmed uMRD population.
+Secondary end points included response rates, uMRD, and safety.
+RESULTS: One hundred sixty-four patients initiated three cycles of ibrutinib lead-in.
+After 12 cycles of ibrutinib plus venetoclax, best uMRD response rates were 75% (peripheral blood) and 68% (bone marrow).
+Patients with Confirmed uMRD were randomly assigned to receive placebo (n = 43) or ibrutinib (n = 43); patients with uMRD Not Confirmed were randomly assigned to ibrutinib (n = 31) or ibrutinib plus venetoclax (n = 32).
+Median follow-up was 31.3 months.
+One-year DFS rate was not significantly different between placebo (95%) and ibrutinib (100%; arm difference: 4.7% [95% CI, -1.6 to 10.9]; P = .15) in the Confirmed uMRD population.
+After ibrutinib lead-in tumor debulking, 36 of 40 patients (90%) with high tumor lysis syndrome risk at baseline shifted to medium or low tumor lysis syndrome risk categories.
+Adverse events were most frequent during the first 6 months of ibrutinib plus venetoclax and generally decreased over time.
+CONCLUSION: The 1-year DFS rate of 95% in placebo-randomly assigned patients with Confirmed uMRD suggests the potential for fixed-duration treatment with this all-oral, once-daily, chemotherapy-free regimen in first-line CLL.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,23 @@
+<MyRCT>
+<TEXT>Acute hematological toxicity during post-operative bowel sparing image-guided intensity modulated radiation with concurrent cisplatin.
+OBJECTIVE: To report acute hematological toxicity (HT) in patients receiving post-operative bowel sparing intensity-modulated radiotherapy (IMRT) and cisplatin and its dosimetric predictors.
+METHODS: Clinical database of Phase III trial (NCT01279135), that randomized patients to post-operative conformal or intensity modulated radiation therapy, was searched to select patient strata that received bowel sparing IMRT (50 Gy/25#/5 wks) and concurrent cisplatin (40 mg m(-)(2)).
+Pelvic bone marrow (BM) was retrospectively delineated in two sets: whole bone (WB), and freehand (FH) inner cavity of bone.
+Dose volume histograms (DVH) of BM were obtained.
+Receiver operating characteristic (ROC) curve identified DVH thresholds that predicted for Grade&gt;/= II HT with highest specificity.
+Univariate and multivariate analysis was performed.
+RESULTS: Overall 75 patients received concurrent cisplatin.
+Grades I-V HT was observed in 38.7%, 42.7%, 14.7%, 0%, and 0% patients, respectively.
+Grade &gt;/= II leukopenia, neutropenia, anemia, and thrombocytopenia were observed in 26%, 40%, 26.5%, and 1.4% respectively.
+None of the HT resulted in treatment break.
+On univariate analysis, whole pelvis+ lumbar FH V30 &gt;55% &amp; V40&gt;35%, whole pelvis WB and FH V40 &gt; 35%, and lower pelvis WB and FH V40 &gt;20% correlated for Grade &gt;/= II leucopenia and neutropenia.
+None of the BM dose volume constraints predicted for overall HT or neutropenia on multivariate analysis.
+CONCLUSION: The IMRT arm of NCT01279135 (PARCER study) that employed strict bowel constraints had unintentional but desirable BM sparing.
+None of the BM subvolume DVH parameters could be validated on multivariate analysis.
+ADVANCES IN KNOWLEDGE: The prospective study reports feasibility of bone marrow sparing with bowel sparing post-operative pelvic IMRT and concurrent chemotherapy for cervical cancer.
+The present study reports low incidence of hematological and gastrointestinal toxicity during post-operative chemoradiation with IMRT.
+As both whole bone and freehand pelvis BM contours predicted for HT, hence an easier method of whole bone contouring should continue to be used till further validation of more specific BM subvolumes becomes available.
+The study results highlight the need for further research into dose volume constraints during post-operative IMRT.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

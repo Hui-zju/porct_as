@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Adjuvant Whole-Brain Radiation Therapy Compared With Observation After Local Treatment of Melanoma Brain Metastases: A Multicenter, Randomized Phase III Trial.
+PURPOSE: The brain is a common site of metastasis for patients with high-risk melanoma.
+Although surgery or stereotactic radiosurgery are highly effective local treatments for a small number of metastases, there is a high risk of developing additional brain metastases.
+The role of adjuvant whole-brain radiotherapy (WBRT) in reducing new metastases is controversial, with a lack of high-level evidence specifically for melanoma.
+METHODS: In this randomized phase III trial, patients who had local treatment of one to three melanoma brain metastases were randomly assigned to WBRT or observation.
+The primary end point was distant intracranial failure within 12 months, and secondary end points included time to intracranial failure, survival, and time to deterioration in performance status.
+RESULTS: Between April 2009 and September 2017, 215 patients were randomly assigned from 24 centers.
+Median follow-up was 48.1 months (range, 39.6 to 68 months).
+Forty-two percent of patients in the WBRT group and 50.5% of those in the observation developed distant intracranial failure within 12 months (odds ratio, 0.71; 95% CI, 0.41 to 1.23; P = .22) and the rates over the entire follow-up period were 52.0% and 57.9%, respectively (odds ratio, 0.79; 95% CI, 0.45 to 1.36; P = .39).
+Local failure rate was lower after WBRT (20.0% v 33.6%; P = .03).
+At 12 months, 41.5% of patients in the WBRT group and 51.4% of patients in the observation group had died (P = .28), with no difference in the rate of neurologic death.
+Median time to deterioration in performance status was 3.8 months after WBRT and 4.4 months with observation (P = .32).
+WBRT was associated with more grade 1 to 2 acute toxicity.
+CONCLUSION: After local treatment of one to three melanoma brain metastases, adjuvant WBRT does not provide clinical benefit in terms of distant intracranial control, survival, or preservation of performance status.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

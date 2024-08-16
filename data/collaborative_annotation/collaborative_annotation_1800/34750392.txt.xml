@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Genomic signatures define three subtypes of EGFR-mutant stage II-III non-small-cell lung cancer with distinct adjuvant therapy outcomes.
+The ADJUVANT study reported the comparative superiority of adjuvant gefitinib over chemotherapy in disease-free survival of resected EGFR-mutant stage II-IIIA non-small cell lung cancer (NSCLC).
+However, not all patients experienced favorable clinical outcomes with tyrosine kinase inhibitors (TKI), raising the necessity for further biomarker assessment.
+In this work, by comprehensive genomic profiling of 171 tumor tissues from the ADJUVANT trial, five predictive biomarkers are identified (TP53 exon4/5 mutations, RB1 alterations, and copy number gains of NKX2-1, CDK4, and MYC).
+Then we integrate them into the Multiple-gene INdex to Evaluate the Relative benefit of Various Adjuvant therapies (MINERVA) score, which categorizes patients into three subgroups with relative disease-free survival and overall survival benefits from either adjuvant gefitinib or chemotherapy (Highly TKI-Preferable, TKI-Preferable, and Chemotherapy-Preferable groups).
+This study demonstrates that predictive genomic signatures could potentially stratify resected EGFR-mutant NSCLC patients and provide precise guidance towards future personalized adjuvant therapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

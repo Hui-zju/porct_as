@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[nextMONARCH: Abemaciclib Monotherapy or Combined With Tamoxifen for Metastatic Breast Cancer.
+BACKGROUND: Abemaciclib is a selective cyclin-dependent kinase 4 and 6 inhibitor administered continuously for hormone receptor-positive (HR(+)), human epidermal growth factor receptor 2-negative (HER2(-)) advanced breast cancer.
+Abemaciclib is associated with dose-dependent early-onset diarrhea.
+nextMONARCH evaluated abemaciclib monotherapy (with or without prophylactic loperamide) and combined with tamoxifen for endocrine refractory metastatic breast cancer (MBC) after chemotherapy.
+PATIENTS AND METHODS: nextMONARCH is an open-label, controlled, randomized, phase II study of women with endocrine-refractory HR(+), HER2(-) MBC previously treated with chemotherapy.
+Patients received abemaciclib 150 mg plus tamoxifen 20 mg (A+T), abemaciclib 150 mg every 12 hours (A-150), or abemaciclib 200 mg plus prophylactic loperamide (A-200).
+The primary objective was progression-free survival (PFS).
+PFS analyses tested superiority of A+T to A-200 and informal noninferiority of A-150 to A-200.
+The secondary objectives included the objective response rate (ORR), safety, and pharmacokinetics.
+RESULTS: The median PFS was 9.1 months for A+T versus 7.4 months for A-200 (hazard ratio, 0.815; 95% confidence interval, 0.556-1.193; P = .293).
+The A-200 PFS was comparable to that with A-150 at 6.5 months (hazard ratio, 1.045; 95% confidence interval, 0.711-1.535; P = .811).
+The ORR was 34.6%, 24.1%, and 32.5% for A+T, A-150, and A-200, respectively.
+No new safety signals were identified.
+The incidence and severity of diarrhea (62.3%; grade 3, 7.8%) with A-200 was similar to that with A-150 (67.1%; grade 3, 3.8%).
+The pharmacokinetics were comparable to previous observations.
+CONCLUSIONS: The addition of tamoxifen to abemaciclib did not significantly improve PFS or ORR compared with abemaciclib monotherapy but confirmed the single-agent activity of abemaciclib in heavily pretreated HR(+), HER2(-) MBC.
+Dose reductions and antidiarrheal medication generally managed diarrhea while maintaining efficacy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Safety and tolerability of guadecitabine (SGI-110) in patients with myelodysplastic syndrome and acute myeloid leukaemia: a multicentre, randomised, dose-escalation phase 1 study.
+BACKGROUND: Hypomethylating agents are used to treat cancers driven by aberrant DNA methylation, but their short half-life might limit their activity, particularly in patients with less proliferative diseases.
+Guadecitabine (SGI-110) is a novel hypomethylating dinucleotide of decitabine and deoxyguanosine resistant to degradation by cytidine deaminase.
+We aimed to assess the safety and clinical activity of subcutaneously given guadecitabine in patients with acute myeloid leukaemia or myelodysplastic syndrome.
+METHODS: In this multicentre, open-label, phase 1 study, patients from nine North American medical centres with myelodysplastic syndrome or acute myeloid leukaemia that was refractory to or had relapsed after standard treatment were randomly assigned (1:1) to receive subcutaneous guadecitabine, either once-daily for 5 consecutive days (daily x 5), or once-weekly for 3 weeks, in a 28-day treatment cycle.
+Patients were stratified by disease.
+A 3 + 3 dose-escalation design was used in which we treated patients with guadecitabine doses of 3-125 mg/m(2) in separate dose-escalation cohorts.
+A twice-weekly treatment schedule was added to the study after a protocol amendment.
+The primary objective was to assess safety and tolerability of guadecitabine, determine the maximum tolerated and biologically effective dose, and identify the recommended phase 2 dose of guadecitabine.
+Safety analyses included all patients who received at least one dose of guadecitabine.
+Pharmacokinetic and pharmacodynamic analyses to determine the biologically effective dose included all patients for whom samples were available.
+This study is registered with ClinicalTrials.gov, number NCT01261312.
+FINDINGS: Between Jan 4, 2011, and April 11, 2014, we enrolled and treated 93 patients: 35 patients with acute myeloid leukaemia and nine patients with myelodysplastic syndrome in the daily x 5 dose-escalation cohorts, 28 patients with acute myeloid leukaemia and six patients with myelodysplastic syndrome in the once-weekly dose-escalation cohorts, and 11 patients with acute myeloid leukaemia and four patients with myelodysplastic syndrome in the twice-weekly dose-escalation cohorts.
+The most common grade 3 or higher adverse events were febrile neutropenia (38 [41%] of 93 patients), pneumonia (27 [29%] of 93 patients), thrombocytopenia (23 [25%] of 93 patients), anaemia (23 [25%] of 93 patients), and sepsis (16 [17%] of 93 patients).
+The most common serious adverse events were febrile neutropenia (29 [31%] of 93 patients), pneumonia (26 [28%] of 93 patients), and sepsis (16 [17%] of 93 patients).
+Six of the 74 patients with acute myeloid leukaemia and six of the 19 patients with myelodysplastic syndrome had a clinical response to treatment.
+Two dose-limiting toxicities were noted in patients with myelodysplastic syndrome at 125 mg/m(2) daily x 5, thus the maximum tolerated dose in patients with myelodysplastic syndrome was 90 mg/m(2) daily x 5.
+The maximum tolerated dose was not reached in patients with acute myeloid leukaemia.
+Potent dose-related DNA demethylation occurred on the daily x 5 regimen, reaching a plateau at 60 mg/m(2) (designated as the biologically effective dose).
+INTERPRETATION: Guadecitabine given subcutaneously at 60 mg/m(2) daily x 5 is well tolerated and is clinically and biologically active in patients with myelodysplastic syndrome and acute myeloid leukaemia.
+Guadecitabine 60 mg/m(2) daily x 5 is the recommended phase 2 dose, and these findings warrant further phase 2 studies.
+FUNDING: Astex Pharmaceuticals, Stand Up To Cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

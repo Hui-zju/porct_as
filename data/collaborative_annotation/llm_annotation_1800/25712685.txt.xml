@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Rilotumumab exposure-response relationship in patients with advanced or metastatic gastric cancer.
+PURPOSE: Rilotumumab is an investigational, fully human monoclonal antibody to hepatocyte growth factor.
+In a randomized phase II study, trends toward improved survival were observed with rilotumumab (7.5 or 15 mg/kg) plus epirubicin, cisplatin, and capecitabine (ECX) versus placebo plus ECX in gastric/gastroesophageal junction (GEJ) cancer patients, especially in MET-positive patients.
+Here, we quantitatively characterized the longitudinal exposure-response [tumor growth (TG) and overall survival (OS)] relationship for rilotumumab.
+EXPERIMENTAL DESIGN: Rilotumumab concentrations, tumor sizes, and survival time from the phase II study were pooled to develop a longitudinal exposure versus TG model and parametric OS model that explored predictive/prognostic/treatment effects (MET expression, rilotumumab exposure, relative tumor size).
+Model evaluation included visual predictive checks, nonparametric bootstrap, and normalized prediction distribution errors.
+Simulations were undertaken to predict the relationship between rilotumumab dose and OS.
+RESULTS: Rilotumumab exhibited linear time-independent pharmacokinetics not affected by MET expression.
+The TG model adequately described tumor size across arms.
+A Weibull distribution best described OS.
+Rilotumumab exposure and change in tumor size from baseline at week 24 were predictive of OS.
+MET-positive patients showed shorter survival and responded better to rilotumumab than MET-negative patients.
+Simulations predicted a median (95% confidence interval) HR of 0.38 (0.18-0.60) in MET-positive patients treated with 15 mg/kg rilotumumab Q3W.
+CONCLUSIONS: Rilotumumab plus ECX demonstrated concentration-dependent effects on OS, influenced by MET expression, and tumor size in gastric/GEJ cancer patients.
+These findings support the phase II testing of rilotumumab 15 mg/kg every 3 weeks in MET-positive gastric/GEJ cancer (RILOMET-1; NCT01697072).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

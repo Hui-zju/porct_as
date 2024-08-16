@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Prostate cancer mortality in the Finnish randomized screening trial.
+BACKGROUND: Prostate cancer (PC) screening with prostate-specific antigen (PSA) has been shown to decrease PC mortality by the European Randomized Study of Screening for Prostate Cancer (ERSPC).
+We evaluated mortality results in the Finnish Prostate Cancer Screening Trial, the largest component of ERSPC.
+The primary endpoint was PC-specific mortality.
+METHODS: A total of 80 144 men were identified from the population registry and randomized to either a screening arm (SA) or a control arm (CA).
+Men in the SA were invited to serum PSA determination up to three times with a 4-year interval between each scan and referred to biopsy if the PSA concentration was greater than or equal to 4.0 ng/mL or 3.0 to 3.99 ng/mL with a free/total PSA ratio less than or equal to 16%.
+Men in the CA received usual care.
+The analysis covers follow-up to 12 years from randomization for all men.
+Hazard ratios (HRs) were estimated for incidence and mortality using Cox proportional hazard model.
+All statistical tests were two-sided.
+RESULTS: PC incidence was 8.8 per 1000 person-years in the SA and 6.6 in the CA (HR = 1.34, 95% confidence interval [CI] = 1.27 to 1.40).
+The incidence of advanced PC was lower in the SA vs CA arm (1.2 vs 1.6, respectively; HR = 0.73, 95% CI = 0.64 to 0.82; P &lt; .001).
+For PC mortality, no statistically significant difference was observed between the SA and CA (HR = 0.85, 95% CI = 0.69 to 1.04) (with intention-to-screen analysis).
+To avoid one PC death, we needed to invite 1199 men to screening and to detect 25 PCs.
+We observed no difference in all-cause mortality between trial arms.
+CONCLUSIONS: At 12 years, a relatively conservative screening protocol produced a small, non-statistically significant PC-specific mortality reduction in the Finnish trial, at the cost of moderate overdiagnosis.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

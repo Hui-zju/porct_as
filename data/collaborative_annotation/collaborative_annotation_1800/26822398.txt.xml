@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Afatinib plus vinorelbine versus trastuzumab plus vinorelbine in patients with HER2-overexpressing metastatic breast cancer who had progressed on one previous trastuzumab treatment (LUX-Breast 1): an open-label, randomised, phase 3 trial.
+BACKGROUND: Trastuzumab resistance is a key therapeutic challenge in metastatic breast cancer.
+We postulated that broader inhibition of ErbB receptors with afatinib would improve clinical outcomes compared with HER2 inhibition alone in patients who had progressed on previous trastuzumab treatment.
+LUX-Breast 1 compared afatinib plus vinorelbine with trastuzumab plus vinorelbine for such patients with HER2-positive metastatic breast cancer.
+METHODS: We did this open-label trial at 350 hospitals in 41 countries worldwide.
+We enrolled female patients with HER2-overexpressing metastatic breast cancer who had progressed on or following adjuvant trastuzumab or first-line treatment of metastatic disease with trastuzumab.
+Participants were randomly assigned (2:1) to receive oral afatinib (40 mg/day) plus intravenous vinorelbine (25 mg/m(2) per week) or intravenous trastuzumab (2 mg/kg per week after 4 mg/kg loading dose) plus vinorelbine.
+Randomisation was done centrally and stratified by previous trastuzumab treatment (adjuvant vs first-line treatment), hormone receptor status (oestrogen receptor and progesterone receptor positive vs others), and region.
+The primary endpoint was progression-free survival, assessed in the intention-to-treat population.
+This trial is closed to enrolment and is registered with ClinicalTrials.gov, NCT01125566.
+FINDINGS: Between Aug 26, 2010, and April 26, 2013, we enrolled 508 patients: 339 assigned to the afatinib group and 169 assigned to the trastuzumab group.
+Recruitment was stopped on April 26, 2013, after a benefit-risk assessment by the independent data monitoring committee was unfavourable for the afatinib group.
+Patients on afatinib plus vinorelbine had to switch to trastuzumab plus vinorelbine, afatinib monotherapy, vinorelbine monotherapy, or receive treatment outside of the trial.
+Median follow-up was 9.3 months (IQR 3.7-16.0).
+Median progression-free survival was 5.5 months (95% CI 5.4-5.6) in the afatinib group and 5.6 months (5.3-7.3) in the trastuzumab group (hazard ratio 1.10 95% CI 0.86-1.41; p=0.43).
+The most common drug-related adverse events of grade 3 or higher were neutropenia (190 [56%] of 337 patients in the afatinib group vs 102 [60%] of 169 patients in the trastuzumab group), leucopenia (64 [19%] vs 34 [20%]), and diarrhoea (60 [18%] vs none).
+INTERPRETATION: Trastuzumab-based therapy remains the treatment of choice for patients with HER2-positive metastatic breast cancer who had progressed on trastuzumab.
+FUNDING: Boehringer Ingelheim.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Effect of Sulforaphane in Men with Biochemical Recurrence after Radical Prostatectomy.
+Increases in serum levels of prostate-specific antigen (PSA) occur commonly in prostate cancer after radical prostatectomy and are designated "biochemical recurrence." Because the phytochemical sulforaphane has been studied extensively as an anticancer agent, we performed a double-blinded, randomized, placebo-controlled multicenter trial with sulforaphane in 78 patients (mean age, 69 +/- 6 years) with increasing PSA levels after radical prostatectomy.
+Treatment comprised daily oral administration of 60 mg of a stabilized free sulforaphane for 6 months (M0-M6) followed by 2 months without treatment (M6-M8).
+The study was designed to detect a 0.012 log (ng/mL)/month decrease in the log PSA slope in the sulforaphane group from M0 to M6.
+The primary endpoint was not reached.
+For secondary endpoints, median log PSA slopes were consistently lower in sulforaphane-treated men.
+Mean changes in PSA levels between M6 and M0 were significantly lower in the sulforaphane group (+0.099 +/- 0.341 ng/mL) than in placebo (+0.620 +/- 1.417 ng/mL; P = 0.0433).
+PSA doubling time was 86% longer in the sulforaphane than in the placebo group (28.9 and 15.5 months, respectively).
+PSA increases >20% at M6 were significantly greater in the placebo group (71.8%) than in the sulforaphane group (44.4%); P = 0.0163.
+Compliance and tolerance were very good.
+Sulforaphane effects were prominent after 3 months of intervention (M3-M6).
+After treatment, PSA slopes from M6 to M8 remained the same in the 2 arms.
+Daily administration of free sulforaphane shows promise in managing biochemical recurrences in prostate cancer after radical prostatectomy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

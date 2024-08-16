@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Baseline carcinoembryonic antigen as a predictive factor of ramucirumab efficacy in RAISE, a second-line metastatic colorectal carcinoma phase III trial.
+BACKGROUND: The RAISE phase III clinical trial demonstrated that ramucirumab + (folinic acid plus 5-fluorouracil plus irinotecan) FOLFIRI significantly improved overall survival (OS) versus placebo + FOLFIRI for second-line metastatic colorectal carcinoma (mCRC) patients failing bevacizumab- and oxaliplatin-based chemotherapy (hazard ratio [HR] = 0.84, 95% CI = 0.73-0.98, P = 0.022).
+Post hoc analyses of RAISE patient data examined the association of carcinoembryonic antigen (CEA) subgroups with efficacy parameters.
+METHODS: CEA subgroups (</=10 versus >10 ng/ml) were based on 2X upper limit of normal (ULN) (5 ng/ml).
+The Kaplan-Meier method estimated the median OS and the progression-free survival (PFS).
+Log-rank test compared the survival distributions within the subgroups.
+Hazard ratio (HR) (95% confidence interval [CI]) and treatment-by-subgroup interaction p-values were calculated by Cox proportional hazards model.
+RESULTS: Ramucirumab treatment prolonged survival for the CEA </=10 subgroup (HR = 0.68; 95% CI = 0.50-0.92; P = 0.013) and CEA >10 subgroup (HR = 0.90; 95% CI = 0.76-1.07; P = 0.233).
+However, the ramucirumab OS benefit over placebo was greater for the CEA </=10 subgroup than for the CEA >10 subgroup (median OS: 3.6 versus 0.8 months greater, respectively).
+The interaction P-value between CEA level and treatment effect on OS was 0.088.
+This trend was observed across randomisation strata and to a lesser extent for PFS (P = 0.594).
+CONCLUSIONS: Although patients in both high- and low-CEA subgroups derive OS and PFS benefits from ramucirumab treatment, the low baseline CEA level may identify a subgroup of patients with mCRC who obtain greater benefit from ramucirumab.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

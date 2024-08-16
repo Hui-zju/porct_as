@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Bortezomib maintenance after R-CHOP, cytarabine and autologous stem cell transplantation in newly diagnosed patients with mantle cell lymphoma, results of a randomised phase II HOVON trial.
+Rituximab-containing induction followed by autologous stem cell transplantation (ASCT) is the standard first-line treatment for young mantle cell lymphoma patients.
+However, most patients relapse after ASCT.
+We investigated in a randomised phase II study the outcome of a chemo-immuno regimen and ASCT with or without maintenance therapy with bortezomib.
+Induction consisted of three cycles R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, prednisone), two cycles high-dose cytarabine, BEAM (carmustine, etoposide, cytarabine, melphalan) and ASCT.
+Patients responding were randomised between bortezomib maintenance (1.3 mg/m(2) intravenously once every 2 weeks, for 2 years) and observation.
+Of 135 eligible patients, 115 (85%) proceeded to ASCT, 60 (44%) were randomised.
+With a median follow-up of 77.5 months for patients still alive, 5-year event-free survival (EFS) was 51% (95% CI 42-59%); 5-year overall survival (OS) was 73% (95% CI 65-80%).
+The median follow-up of randomised patients still alive was 71.5 months.
+Patients with bortezomib maintenance had a 5-year EFS of 63% (95% CI 44-78%) and 5-year OS of 90% (95% CI 72-97%).
+The patients randomised to observation had 5-year PFS of 60% (95% CI, 40-75%) and OS of 90% (95% CI 72-97%).
+In conclusion, in this phase II study we found no indication of a positive effect of bortezomib maintenance after ASCT.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[High throughput image cytometry for detection of suspicious lesions in the oral cavity.
+The successful management of oral cancer depends upon early detection, which relies heavily on the clinician's ability to discriminate sometimes subtle alterations of the infrequent premalignant lesions from the more common reactive and inflammatory conditions in the oral mucosa.
+Even among experienced oral specialists this can be challenging, particularly when using new wide field-of-view direct fluorescence visualization devices clinically introduced for the recognition of at-risk tissue.
+The objective of this study is to examine if quantitative cytometric analysis of oral brushing samples could facilitate the assessment of the risk of visually ambiguous lesions.
+About 369 cytological samples were collected and analyzed: (1) 148 samples from pathology-proven sites of SCC, carcinoma in situ or severe dysplasia; (2) 77 samples from sites with inflammation, infection, or trauma, and (3) 144 samples from normal sites.
+These were randomly separated into training and test sets.
+The best algorithm correctly recognized 92.5% of the normal samples, 89.4% of the abnormal samples, 86.2% of the confounders in the training set as well as 100% of the normal samples, and 94.4% of the abnormal samples in the test set.
+These data suggest that quantitative cytology could reduce by more than 85% the number of visually suspect lesions requiring further assessment by biopsy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

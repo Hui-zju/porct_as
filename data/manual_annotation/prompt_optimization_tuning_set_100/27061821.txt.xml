@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Updated results of the Gothenburg Trial of Mammographic Screening.
+BACKGROUND: There remain uncertainties about age-specific effects of breast cancer screening on mortality due to the disease.
+METHODS: In 1982, a randomized trial of mammographic screening every 18 months was started in Gothenburg, Sweden.
+Women between the ages of 39 and 49 years were randomized to an invitation to screening (intervention group; n = 11,792) or to usual care (the control group; n = 14,321).
+The corresponding numbers for women between the ages of 50 and 59 years were 10,112 and 15,997.
+Follow-up data for breast cancer mortality were available up to the end of 2007.
+Data were analyzed by Poisson regression with conservative variance estimates.
+RESULTS: There were 79 breast cancer deaths in the intervention arm and 156 in the control arm, and this meant a significant 30% reduction in breast cancer mortality with the offer of screening (relative risk [RR], 0.70; 95% confidence interval [CI], 0.53-0.93; P = .01).
+In women aged 39 to 49 years, there was a significant 40% reduction in breast cancer mortality (RR, 0.60; 95% CI, 0.43-0.85; P = .003).
+In the 50- to 59-year age group, there was a nonsignificant 18% breast cancer mortality reduction (RR, 0.82; 95% CI, 0.54-1.26; P = .4).
+CONCLUSIONS: The policy of offering mammographic screening substantially reduces breast cancer mortality and can do so in women younger than 50 years.
+Cancer 2016;122:1832-5. (c) 2016 The Authors.
+Cancer published by Wiley Periodicals, Inc. on behalf of American Cancer Society.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

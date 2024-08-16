@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Long-term outcome of the REMAGUS 02 trial, a multicenter randomised phase II trial in locally advanced breast cancer patients treated with neoadjuvant chemotherapy with or without celecoxib or trastuzumab according to HER2 status.
+BACKGROUND: The REMAGUS-02 multicenter randomised phase II trial showed that the addition to neoadjuvant chemotherapy (NAC) of trastuzumab in patients with localised HER2-positive breast cancer (BC) increased the pathological complete response (pCR) rate and that the addition of celecoxib in HER2-negative cases did not increase the pCR rate.
+We report here the long-term follow-up results for disease-free survival (DFS) and overall survival (OS).
+PATIENTS AND METHODS: From 2004 to 2007, 340 stage II-III BC patients were randomly assigned to receive neoadjuvant EC-T (four cycles of epirubicin-cyclophosphamide followed by four cycles of docetaxel) +/- celecoxib in HER2-negative cases (n = 220) and +/-
+trastuzumab in HER2-positive cases (n = 120).
+From September 2005, all patients with HER2-positive BC received adjuvant T (n = 106).
+RESULTS: Median follow-up was nearly 8 years (94.4 months, 20-127 m).
+In the HER2-negative subgroup, addition of celecoxib was not associated with a DFS benefit.
+Favourable factors were smaller tumour size, expression of progesterone receptor status (PgR) and pCR.
+In the HER2-positive population, neoadjuvant trastuzumab was not associated with a DFS benefit.
+Axillary pCR was the only prognostic factor associated with DFS in this group [HR = 0.44, 95% CI = 0.2-0.97], p = 0.035].
+To note, DFS and OS were significantly higher in the HER2-positive than in HER2-negative BC patients (HR = 0.58 [0.36-0.92], p = 0.021).
+CONCLUSION: Celecoxib combined with NAC provided neither pCR nor survival benefit in patients with HER2-negative BC.
+Absence of PgR is a major prognostic factor.
+Neoadjuvant trastuzumab increased pCR rates without translation into a DFS or OS benefit compared with adjuvant trastuzumab only.
+Axillary pCR could be a more relevant surrogate of survival than in the breast in HER2-positive population.
+A retrospective comparison shows that patients with HER2-positive tumours have a better outcome than HER2-negative BC patients showing the impact of trastuzumab on the natural history of BC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

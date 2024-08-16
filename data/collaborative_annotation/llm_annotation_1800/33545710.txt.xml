@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Generalized approach for radiotherapy treatment planning by optimizing projected health outcome: preliminary results for prostate radiotherapy patients.
+Research in cancer care increasingly focuses on survivorship issues, e.g. managing disease- and treatment-related morbidity and mortality occurring during and after treatment.
+This necessitates innovative approaches that consider treatment side effects in addition to tumor cure.
+Current treatment-planning methods rely on constrained iterative optimization of dose distributions as a surrogate for health outcomes.
+The goal of this study was to develop a generally applicable method to directly optimize projected health outcomes.
+We developed an outcome-based objective function to guide selection of the number, angle, and relative fluence weight of photon and proton radiotherapy beams in a sample of ten prostate-cancer patients by optimizing the projected health outcome.
+We tested whether outcome-optimized radiotherapy (OORT) improved the projected longitudinal outcome compared to dose-optimized radiotherapy (DORT) first for a statistically significant majority of patients, then for each individual patient.
+We assessed whether the results were influenced by the selection of treatment modality, late-risk model, or host factors.
+The results of this study revealed that OORT was superior to DORT.
+Namely, OORT maintained or improved the projected health outcome of photon- and proton-therapy treatment plans for all ten patients compared to DORT.
+Furthermore, the results were qualitatively similar across three treatment modalities, six late-risk models, and 10 patients.
+The major finding of this work was that it is feasible to directly optimize the longitudinal (i.e. long- and short-term) health outcomes associated with the total (i.e. therapeutic and stray) absorbed dose in all of the tissues (i.e. healthy and diseased) in individual patients.
+This approach enables consideration of arbitrary treatment factors, host factors, health endpoints, and times of relevance to cancer survivorship.
+It also provides a simpler, more direct approach to realizing the full beneficial potential of cancer radiotherapy.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

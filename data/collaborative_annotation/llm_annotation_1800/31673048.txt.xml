@@ -1,0 +1,11 @@
+<MyRCT>
+<TEXT>The 14q32 maternally imprinted locus is a major source of longitudinally stable circulating microRNAs as measured by small RNA sequencing.
+Understanding the normal temporal variation of serum molecules is a critical factor for identifying useful candidate biomarkers for the diagnosis and prognosis of chronic disease.
+Using small RNA sequencing in a longitudinal study of 66 women with no history of cancer, we determined the distribution and dynamics (via intraclass correlation coefficients, ICCs) of the miRNA profile over 3 time points sampled across 2-5 years in the course of the screening trial, UKCTOCS.
+We were able to define a subset of longitudinally stable miRNAs (ICC &gt;0.75) that were individually discriminating of women who had no cancer over the study period.
+These miRNAs were dominated by those originating from the C14MC cluster that is subject to maternal imprinting.
+This assessment was not significantly affected by common confounders such as age, BMI or time to centrifugation nor alternative methods to data normalisation.
+Our analysis provides important benchmark data supporting the development of miRNA biomarkers for the impact of life-course exposure as well as diagnosis and prognostication of chronic disease.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

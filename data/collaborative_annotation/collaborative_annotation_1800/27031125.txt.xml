@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Ocular Myasthenia Gravis: Toward a Risk of Generalization Score and Sample Size Calculation for a Randomized Controlled Trial of Disease Modification.
+BACKGROUND: There is currently no prognostic test to determine the risk of developing generalized myasthenia gravis (GMG) risk in patients who first present with ocular disease.
+Most studies that report risk factors are flawed by the inclusion of patients on immunosuppression, which is likely to reduce the risk.
+OBJECTIVE: To create a prognostic score to predict the risk of GMG.
+METHODS: Multicenter retrospective cohort of patients with ocular myasthenia gravis for minimum 3 months, untreated with immunosuppression for minimum 2 years or until GMG onset.
+RESULTS: One hundred one (57 female) patients were included, with median follow-up of 8.4 years (2-42) from disease onset.
+Thirty-one developed GMG at median of 1.31 years (3.5 months-20.2 years); 19 occurred within 2 years.
+Univariable logistic regression analysis produced 3 significant predictors (P &lt; 0.10), adjusted odds ratios in a multivariable logistic model (chi P = 0.01) with multiple imputations for missing data: seropositivity, 5.64 (95% CI, 1.45-21.97); presence of 1 or more comorbidities including autoimmune disorders, 6.49 (95% CI, 0.78-53.90); thymic hyperplasia, 5.41 (95% CI, 0.39-75.43).
+Prognostic score was derived from the coefficients of the logistic model: sum of the points (1 point for the presence of each of the above predictive factors), classified "low risk" if &lt;/=1 and "high risk" if &gt;/=2.
+Predicted probabilities were 0.07 (SD, 0.03) for low risk and 0.39 (SD, 0.09) for high risk.
+Negative predictive value was 91% (95% CI, 79-98), positive predictive value was 38% (95% CI, 23-54), sensitivity was 79% (95% CI, 54-94), specificity was 63% (95% CI, 50-74), area under receiver operating characteristic curve was 0.74 (95% CI, 0.64-0.85).
+CONCLUSIONS: In this preliminary study, we have shown by proof of principle that it is possible to stratify risk of GMG: an approach that may allow us to better counsel patients at diagnosis, complement decision-making, and move us toward addressing the question of modifying GMG risk in high-risk patients.
+Furthermore, the effect of comorbidities is novel and demands further elucidation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

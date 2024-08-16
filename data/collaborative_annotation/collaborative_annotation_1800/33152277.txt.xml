@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Internal mammary and medial supraclavicular lymph node chain irradiation in stage I-III breast cancer (EORTC 22922/10925): 15-year results of a randomised, phase 3 trial.
+BACKGROUND: 10-year results from several studies showed improved disease-free survival and distant metastasis-free survival, reduced breast cancer-related mortality, and variable effects on overall survival with the addition of partial or comprehensive regional lymph node irradiation after surgery in patients with breast cancer.
+We present the scheduled 15-year analysis of the European Organisation for Research and Treatment of Cancer (EORTC) 22922/10925 trial, which aims to investigate the impact on overall survival of elective internal mammary and medial supraclavicular (IM-MS) irradiation.
+METHODS: EORTC 22922/10925, a randomised, phase 3 trial done across 46 radiation oncology departments from 13 countries, included women up to 75 years of age with unilateral, histologically confirmed, stage I-III breast adenocarcinoma with involved axillary nodes or a central or medially located primary tumour.
+Surgery consisted of mastectomy or breast-conserving surgery and axillary staging.
+Patients were randomly assigned (1:1) centrally using minimisation to receive IM-MS irradiation at 50 Gy in 25 fractions (IM-MS irradiation group) or no IM-MS irradiation (control group).
+Stratification was done for institution, menopausal status, site of the primary tumour within the breast, type of breast and axillary surgery, and pathological T and N stage.
+Patients and investigators were not masked to treatment allocation.
+The primary endpoint was overall survival analysed according to the intention-to-treat principle.
+Secondary endpoints were disease-free survival, distant metastasis-free survival, breast cancer mortality, any breast cancer recurrence, and cause of death.
+Follow-up is ongoing for 20 years after randomisation.
+This study is registered with ClinicalTrials.gov, NCT00002851.
+FINDINGS: Between Aug 5, 1996, and Jan 13, 2004, we enrolled 4004 patients, of whom 2002 were randomly assigned to the IM-MS irradiation group and 2002 to the no IM-MS irradiation group.
+At a median follow-up of 15.7 years (IQR 14.0-17.6), 554 (27.7%) patients in the IM-MS irradiation group and 569 (28.4%) patients in the control group had died.
+Overall survival was 73.1% (95% CI 71.0-75.2) in the IM-MS irradiation group and 70.9% (68.6-72.9) in the control group (HR 0.95 [95% CI 0.84-1.06], p=0.36).
+Any breast cancer recurrence (24.5% [95% CI 22.5-26.6] vs 27.1% [25.1-29.2]; HR 0.87 [95% CI 0.77-0.98], p=0.024) and breast cancer mortality (16.0% [14.3-17.7] vs 19.8% [18.0-21.7]; 0.81 [0.70-0.94], p=0.0055) were lower in the IM-MS irradiation group than in the control group.
+No significant differences in the IM-MS irradiation group versus the control group were seen for disease-free survival (60.8% [95% CI 58.4-63.2] vs 59.9% [57.5-62.2]; HR 0.93 [95% CI 0.84-1.03], p=0.18), or distant metastasis-free survival (70.0% [67.7-72.2] vs 68.2% [65.9-70.3]; 0.93 [0.83-1.04], p=0.18).
+Causes of death between groups were similar.
+INTERPRETATION: The 15-year results show a significant reduction of breast cancer mortality and any breast cancer recurrence by IM-MS irradiation in stage I-III breast cancer.
+However, this is not converted to improved overall survival.
+FUNDING: US National Cancer Institute, Ligue Nationale contre le Cancer, and KWF Kankerbestrijding.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

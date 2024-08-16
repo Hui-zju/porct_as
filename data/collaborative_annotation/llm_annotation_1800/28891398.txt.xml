@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Geometric analysis of loco-regional recurrences in relation to pre-treatment hypoxia in patients with head and neck cancer.
+INTRODUCTION: A previous pattern-of-failure study has suggested that up to 50% of the loco-regional failures (LRF) in head and neck squamous cell carcinoma (HNSCC) occur outside the initial hypoxic volume determined by [(18)F]-fluoromisonidazole-PET ([(18)F]-FMISO-PET).
+The aim of the present analysis was to correlate spatial patterns of failure with respect to the pretherapeutic dynamic [(18)F]-FMISO-PET/CT in HNSCC after radiochemotherapy (RCT).
+MATERIAL AND METHODS: Within a running phase 2 trial using [(18)F]-FMISO-PET imaging prior to RCT in HNSCC patients (n = 54), we have observed so far 11 LRF with a minimum follow-up of 12 months.
+For nine patients, LRF imaging (CT or [(18)F]-FDG-PET/CT) for pattern-of-failure analysis was available.
+Analysis included the static 4-h hypoxic subvolume (VH) as well as a M-parameter volume (VM), which is derived from modeling of dynamic PET.
+Deformable image registration of the CT scan with the recurrent tumor to the pre-treatment [(18)F]-FMISO-PET/CT and the planning CT was done to quantify the hypoxic subvolumes compared to the recurrent tumor volume.
+Moreover, a point-of-origin analysis was performed.
+RESULTS: A total of five local, two regional and two loco-regional recurrences were detected.
+After deformable image registration of the CT scan with the recurrent tumor to the pre-treatment [(18)F]-FMISO-PET/CT and the planning CT, a significant overlap of the recurrence volume with [(18)F]-FMISO-positive subvolumes in the initial gross tumor volume (GTV) was observed.
+Median overlap of 40.2%, range 9.4-100.0%, for VH and 49.0%, range 4.4-96.4%, for VM was calculated.
+The point-of-origin analysis showed median distances of 0.0 mm, range 0.0-11.3 mm to VH and 8.6 mm, range 0.0-15.5 mm to VM, respectively.
+CONCLUSIONS: Our data suggest that loco-regional recurrences after RCT originate from the initial GTV (primary tumor and/or lymph node metastases) containing hypoxic subvolumes, which supports the concept of hypoxia imaging-based dose escalation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

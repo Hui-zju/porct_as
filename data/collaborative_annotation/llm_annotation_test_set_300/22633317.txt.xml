@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Prostate-specific antigen kinetics and outcomes in patients with bone metastases from castration-resistant prostate cancer treated with or without zoledronic acid.
+BACKGROUND: Zoledronic acid (ZOL) is a standard therapy for the prevention of skeletal-related events (SREs) in patients with castration-resistant prostate cancer (CRPC).
+Although prostate-specific antigen (PSA) is an established marker for monitoring prostate cancer patients, correlations between PSA and disease outcomes during ZOL therapy are unclear.
+OBJECTIVE: To evaluate the relationships among PSA kinetics, bone-directed therapy with ZOL, and clinical outcomes in men with bone metastases from CRPC using a ZOL phase 3 trial database.
+DESIGN, SETTING, AND PARTICIPANTS: Exploratory analyses from a phase 3 trial in men with bone metastases from CRPC (n=643) randomized to ZOL or placebo every 3 wk.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: PSA levels during the first 3 mo of the study were evaluated in linear and logarithmic (log) models stratified using prognostic factors established in a ZOL phase 3 trial and a CRPC nomogram.
+Relative risks of SREs, bone disease progression (BDP), and death were calculated per 1 log (nanograms per milliliter) PSA increase.
+Baseline PSA models used the study median (PSA: 77.3 ng/ml) as the high/low cut-off point.
+RESULTS AND LIMITATIONS: A total of 202 placebo- and 434 ZOL-treated patients were assessable.
+In both groups, PSA increases correlated with significantly increased risks of death, BDP, and first SRE.
+In the placebo and ZOL groups, associated increases in risk per 1 log (nanograms per milliliter) PSA increase were 29% (p<0.0001) and 10% (p<0.0074), respectively, for BDP, and 24% (p=0.0010) and 13% (p=0.0079), respectively, for first SRE.
+Limitations include the retrospective nature of these analyses and the potential confounding effects of concurrent antineoplastic therapies.
+CONCLUSIONS: PSA is an important prognostic tool for survival in patients with bone metastases from CRPC, and these analyses show that PSA is also prognostic for BDP and SREs regardless of bone-targeted therapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

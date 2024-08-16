@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Bevacizumab plus hypofractionated radiotherapy versus radiotherapy alone in elderly patients with glioblastoma: the randomized, open-label, phase II ARTE trial.
+Background: The addition of bevacizumab to temozolomide-based chemoradiotherapy (TMZ/RT --&gt; TMZ) did not prolong overall survival (OS) in patients with newly diagnosed glioblastoma in phase III trials.
+Elderly and frail patients are underrepresented in clinical trials, but early reports suggested preferential benefit in this population.
+Patients and methods: ARTE was a 2 : 1 randomized, multi-center, open-label, non-comparative phase II trial of hypofractionated RT (40 Gy in 15 fractions) with bevacizumab (10 mg/kgx14 days) (arm A, N = 50) or without bevacizumab (arm B, N = 25) in patients with newly diagnosed glioblastoma aged &gt;/=65 years.
+The primary objective was to obtain evidence for prolongation of median OS by the addition of bevacizumab to RT.
+Response was assessed by RANO criteria.
+Quality of life (QoL) was monitored by the EORTC QLQ-C30/BN20 modules.
+Exploratory studies included molecular subtyping by 450k whole methylome and gene expression analyses.
+Results: Median PFS was longer in arm A than in arm B (7.6 and 4.8 months, P = 0.003), but OS was similar (12.1 and 12.2 months, P = 0.77).
+Clinical deterioration was delayed and more patients came off steroids in arm A. Prolonged PFS in arm A was confined to tumors with the receptor tyrosine kinase (RTK) I methylation subtype (HR 0.25, P = 0.014) and proneural gene expression (HR 0.29, P = 0.025).
+In a Cox model of OS controlling for established prognostic factors, associations with more favorable outcome were identified for age &lt;70 years (HR 0.52, P = 0.018) and Karnofsky performance score 90%-100% (HR 0.51, P = 0.026).
+Including molecular subtypes into that model identified an association of the RTK II gene methylation subtype with inferior OS (HR 1.73, P = 0.076).
+Conclusion: Efficacy outcomes and exploratory analyses of ARTE do not support the hypothesis that the addition of bevacizumab to RT generally prolongs survival in elderly glioblastoma patients.
+Molecular biomarkers may identify patients with preferential benefit from bevacizumab.
+Clinical trial registration number: NCT01443676.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

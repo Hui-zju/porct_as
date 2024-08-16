@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Pembrolizumab with or without radiation therapy for metastatic non-small cell lung cancer: a randomized phase I/II trial.
+BACKGROUND: In this phase I/II trial, we evaluated the safety and effectiveness of pembrolizumab, with or without concurrent radiotherapy (RT), for lung and liver lesions from metastatic non-small cell lung cancer (mNSCLC).
+METHODS: Patients with lung or liver lesions amenable to RT plus at least one additional non-contiguous lesion were included regardless of programmed death-ligand 1 (PD-L1) status.
+Pembrolizumab was given at 200 mg every 3 weeks for up to 32 cycles with or without concurrent RT.
+Metastatic lesions were treated with stereotactic body RT (SBRT; 50 Gy in 4 fractions) if clinically feasible or with traditionally fractionated RT (45 Gy in 15 fractions) if not.
+The primary end point was the best out-of-field lesion response, and a key secondary end point was progression-free survival (PFS).
+RESULTS: The median follow-up time was 20.4 months.
+One hundred patients (20 phase I, 80 phase II) were evaluable for toxicity, and 72 phase II patients were evaluable for treatment response.
+No patients in the phase I group experienced grade 4-5 events; in the phase II group, two had grade 4 events and nine had grade 3 events.
+The ORR in the combined-modality cohort (irrespective of RT schema) was 22%, vs 25% in the pembrolizumab group (irrespective of receipt of salvage RT) (p=0.99).
+In the concurrent pembrolizumab+RT groups, the out-of-field ORRs were 38% in the pembrolizumab+SBRT group and 10% in the pembrolizumab+traditional RT group.
+When examining the pembrolizumab-alone patients, the out-of-field ORRs were 33% in those designated to receive salvage SBRT (if required) and 17% for salvage traditional RT.
+In all patients, the median PFS for pembrolizumab alone was 5.1 months (95% CI 3.4 to 12.7 months), and pembrolizumab/RT (regardless of schema) was 9.1 months (95% CI 3.6 to 18.4 months) (p=0.52).
+An exploratory analysis revealed that for patients with low PD-L1 expression, the median PFS was 4.6 vs 20.8 months for pembrolizumab with and without RT, respectively (p=0.004).
+CONCLUSIONS: Concurrent immunoradiotherapy for mNSCLC is safe, although larger trials are required to address which patients benefit most from RT.
+TRIAL REGISTRATION NUMBER: NCT02444741.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

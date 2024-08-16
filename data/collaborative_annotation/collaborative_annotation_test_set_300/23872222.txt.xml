@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase II trial of fludarabine/melphalan 100 versus fludarabine/melphalan 140 followed by allogeneic hematopoietic stem cell transplantation for patients with multiple myeloma.
+Allogeneic hematopoietic stem cell transplantation (allo-HCT) is a potentially curative treatment for multiple myeloma (MM); however, because of high treatment-related mortality (TRM), its role is not well defined.
+Patients with newly diagnosed, relapsed, or primary refractory myeloma were enrolled in a randomized phase II trial of 2 reduced-intensity conditioning regimens: fludarabine 120 mg/m(2) + melphalan 100 mg/m(2) (FM100) versus fludarabine 120 mg/m(2) + melphalan 140 mg/m(2) (FM140) before allo-HCT from related or unrelated donors.
+Fifty patients underwent allo-HCT using FM100 (n = 23) or FM140 (n = 27) conditioning between April 2002 and 2011.
+There were no significant differences between FM100 and FM140 in time to neutrophil engraftment (P = .21), acute grade II to IV graft-versus-host disease (GVHD) (P = 1.0), chronic GVHD (P = .24), response rate (P = 1.0), TRM (13% versus 15%, P = 1.0), median progression-free survival (PFS), 11.7 versus 8.4 months, P = .12, and median overall survival (OS), 35.1 versus 19.7 months, P = .38.
+Cumulative incidence of disease progression in FM100 and FM140 was 43% and 70%, respectively (P = .08).
+Recurrent disease was the most common cause of death for both FM100 (26%) and FM140 (44%), P = .24.
+On multivariate analysis, disease status at allo-HCT, complete response or very good partial response (VGPR) was significantly associated with longer PFS (15.6 versus 9.6 months in patients with <VGPR, P = .05).
+OS was similar across all variables.
+We conclude that FM100 and FM140 may result in similar patient outcomes after allo-HCT for MM.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

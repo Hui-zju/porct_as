@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Recurrent glioblastoma treated with bevacizumab: contrast-enhanced T1-weighted subtraction maps improve tumor delineation and aid prediction of survival in a multicenter clinical trial.
+PURPOSE: To compare the capability to aid prediction of clinical outcome measures, including progression-free survival (PFS) and overall survival (OS), between volumetric estimates from contrast material-enhanced (CE) T1-weighted subtraction maps and traditional segmentation in a randomized multicenter clinical trial of recurrent glioblastoma (GBM) patients treated with bevacizumab.
+MATERIALS AND METHODS: All patients participating in this study signed institutional review board-approved informed consent at their respective institutions prior to enrolling in the multicenter clinical trial.
+One-hundred sixty patients with recurrent GBM enrolled as part of a HIPAA-compliant, multicenter clinical trial (AVF3708 g, BRAIN trial).
+Contrast-enhancing tumor volumes and change in volumes as a response to therapy were quantified by using either conventional segmentation or CE T1-weighted subtraction maps created by voxel-by-voxel subtraction of intensity-normalized nonenhanced T1-weighted images from CE T1-weighted images.
+These volumes were then tested as predictors of PFS and OS by using log-rank univariate analysis, the multivariate Cox proportional hazards regression model, and receiver operating characteristic analysis.
+RESULTS: Use of CE T1-weighted subtraction maps qualitatively improved visualization and improved quantification of tumor volume after bevacizumab treatment.
+Significant trends between the volume of tumor and change in tumor volume after therapy on CE T1-weighted subtraction maps were found for both PFS and OS (pretreatment volume &lt; 15 cm(3), P &lt; .003; posttreatment volume &lt; 7.5 cm(3), P &lt; .05; percentage change in volume &gt; 25%, P = .004 for PFS and P = .053 for OS).
+CE T1-weighted subtraction maps were significantly better at aiding prediction of 6-month PFS and 12-month OS compared with conventional segmentation by using receiver operating characteristic analysis (P &lt; .05).
+CONCLUSION: Use of CE T1-weighted subtraction maps improved visualization and aided better prediction of patient survival in recurrent GBM treated with bevacizumab compared with conventional segmentation of CE T1-weighted images.
+Clinical trial registration no. NCT00345163.
+Online supplemental material is available for this article.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

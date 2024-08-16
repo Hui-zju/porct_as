@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Imatinib 800 mg daily induces deeper molecular responses than imatinib 400 mg daily: results of SWOG S0325, an intergroup randomized PHASE II trial in newly diagnosed chronic phase chronic myeloid leukaemia.
+The standard dose of imatinib for newly diagnosed patients with chronic phase chronic myeloid leukaemia (CP-CML) is 400 mg daily (IM400), but the optimal dose is unknown.
+This randomized phase II study compared the rates of molecular, haematological and cytogenetic response to IM400 vs. imatinib 400 mg twice daily (IM800) in 153 adult patients with CP-CML.
+Dose adjustments for toxicity were flexible to maximize retention on study.
+Molecular response (MR) at 12 months was deeper in the IM800 arm (4-log reduction of BCR-ABL1 mRNA: 25% vs. 10% of patients, P = 0.038; 3-log reduction: 53% vs. 35%, P = 0.049).
+During the first 12 months BCR-ABL1 levels in the IM800 arm were an average 2.9-fold lower than in the IM400 arm (P = 0.010).
+Complete haematological response was similar, but complete cytogenetic response was higher with IM800 (85% vs. 67%, P = 0.040).
+Grade 3-4 toxicities were more common for IM800 (58% vs. 31%, P = 0.0007), and were most commonly haematological.
+Few patients have relapsed, progressed or died, but both progression-free (P = 0.048) and relapse-free (P = 0.031) survival were superior for IM800.
+In newly diagnosed CP-CML patients, IM800 induced deeper MRs than IM400, with a trend for improved progression-free and overall survival, but was associated with more severe toxicity.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

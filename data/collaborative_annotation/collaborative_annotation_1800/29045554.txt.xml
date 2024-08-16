@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Veliparib with temozolomide or carboplatin/paclitaxel versus placebo with carboplatin/paclitaxel in patients with BRCA1/2 locally recurrent/metastatic breast cancer: randomized phase II study.
+Background: Homologous recombination defects in BRCA1/2-mutated tumors result in sensitivity to poly(ADP-ribose) polymerase inhibitors, which interfere with DNA damage repair.
+Veliparib, a potent poly(ADP-ribose) polymerase inhibitor, enhanced the antitumor activity of platinum agents and temozolomide in early phase clinical trials.
+This phase II study examined the safety and efficacy of intermittent veliparib with carboplatin/paclitaxel (VCP) or temozolomide (VT) in patients with BRCA1/2-mutated breast cancer.
+Patients and methods: Eligible patients >/=18 years with locally recurrent or metastatic breast cancer and a deleterious BRCA1/2 germline mutation were randomized 1 : 1 : 1 to VCP, VT, or placebo plus carboplatin/paclitaxel (PCP).
+Primary end point was progression-free survival (PFS); secondary end points included overall survival (OS) and overall response rate (ORR).
+Results: Of 290 randomized patients, 284 were BRCA+, confirmed by central laboratory.
+For VCP versus PCP, median PFS was 14.1 and 12.3 months, respectively [hazard ratio (HR) 0.789; 95% CI 0.536-1.162; P = 0.227], interim median OS 28.3 and 25.9 months (HR 0.750; 95% CI 0.503-1.117; P = 0.156), and ORR 77.8% and 61.3% (P = 0.027).
+For VT (versus PCP), median PFS was 7.4 months (HR 1.858; 95% CI 1.278-2.702; P = 0.001), interim median OS 19.1 months (HR 1.483; 95% CI 1.032-2.131; P = 0.032), and ORR 28.6% (P < 0.001).
+Safety profile was comparable between carboplatin/paclitaxel arms.
+Adverse events (all grades) of neutropenia, anemia, alopecia, and neuropathy were less frequent with VT versus PCP.
+Conclusion: Numerical but not statistically significant increases in both PFS and OS were observed in patients with BRCA1/2-mutated recurrent/metastatic breast cancer receiving VCP compared with PCP.
+The addition of veliparib to carboplatin/paclitaxel significantly improved ORR.
+There was no clinically meaningful increase in toxicity with VCP versus PCP.
+VT was inferior to PCP.
+An ongoing phase III trial is evaluating VCP versus PCP, with optional continuation single-agent therapy with veliparib/placebo if chemotherapy is discontinued without progression, in this patient population.
+Clinical trial information: NCT01506609.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

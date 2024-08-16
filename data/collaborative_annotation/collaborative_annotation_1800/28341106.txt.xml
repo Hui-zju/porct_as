@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The APPLE Trial: Feasibility and Activity of AZD9291 (Osimertinib) Treatment on Positive PLasma T790M in EGFR-mutant NSCLC Patients. EORTC 1613.
+The AZD9291 (Osimertinib) Treatment on Positive PLasma T790M in EGFR-mutant NSCLC Patients (APPLE) trial is a randomized, open-label, multicenter, 3-arm, phase II study in advanced, epidermal growth factor receptor (EGFR)-mutant and EGFR tyrosine kinase inhibitor (TKI)-naive non-small-cell lung cancer (NSCLC) patients, to evaluate the best strategy for sequencing gefitinib and osimertinib treatment.
+Advanced EGFR-mutant NSCLC patients, with World Health Organization performance status 0-2 who are EGFR TKI treatment-naive and eligible to receive first-line treatment with EGFR TKI will be randomized to: In all arms, a plasmatic ctDNA T790M test will be performed by a central laboratory at the Medical University of Gdansk (Poland) but will be applied as a predictive marker for making treatment decisions only in arm B. The primary objective is to evaluate the best strategy for sequencing of treatment with gefitinib and osimertinib in advanced NSCLC patients with common EGFR mutations, and to understand the value of liquid biopsy for the decision-making process.
+The progression-free survival rate at 18 months is the primary end point of the trial.
+The activity of osimertinib versus gefitinib to prevent brain metastases will be evaluated.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

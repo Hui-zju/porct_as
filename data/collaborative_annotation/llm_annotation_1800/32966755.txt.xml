@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Aprepitant for Cough in Lung Cancer. A Randomized Placebo-controlled Trial and Mechanistic Insights.
+Rationale: Effective cough treatments are a significant unmet need in patients with lung cancer.
+Aprepitant is a licensed treatment for nausea and vomiting, which blocks substance P activation of NK-1 (neurokinin 1) receptors, a mechanism also implicated in cough.
+Objectives: To assess aprepitant in patients with lung cancer with cough and evaluate mechanisms in vagal nerve tissue.
+Methods: Randomized double-blind crossover trial of patients with lung cancer and bothersome cough.
+They received 3 days of aprepitant or matched placebo; after a 3-day washout, patients crossed to the alternative treatment.
+The primary endpoint was awake cough frequency measured at screening and Day 3 of each treatment; secondary endpoints included patient-reported outcomes.
+In vitro, the depolarization of isolated guinea pig and human vagus nerve sections in grease-gap recording chambers, indicative of sensory nerve activation, was measured to evaluate the mechanism.
+Measurements and Main Results: Twenty patients with lung cancer enrolled, with a mean age 66 years (+/-7.7); 60% were female and 80% had non-small cell cancer, 50% had advanced stage, and 55% had World Health Organization performance status 1.
+Cough frequency improved with aprepitant, reducing by 22.2% (95% confidence interval [CI], 2.8-37.7%) over placebo while awake (P = 0.03), 30.3% (95% CI, 12.7-44.3) over 24 hours (P = 0.002), and 59.8% (95% CI, 15.1-86.0) during sleep (P = 0.081).
+Patient-reported outcomes all significantly improved.
+Substance P depolarized both guinea pig and human vagus nerve.
+Aprepitant significantly inhibited substance P-induced depolarization by 78% in guinea pig (P = 0.0145) and 94% in human vagus (P = 0.0145).Conclusions: Substance P activation of NK-1 receptors appears to be an important mechanism driving cough in lung cancer, and NK-1 antagonists show promise as antitussive therapies.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

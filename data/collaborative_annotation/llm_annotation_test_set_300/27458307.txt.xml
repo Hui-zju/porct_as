@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase III Randomized Trial of Ipilimumab Plus Etoposide and Platinum Versus Placebo Plus Etoposide and Platinum in Extensive-Stage Small-Cell Lung Cancer.
+Purpose Patients with extensive-stage disease small-cell lung cancer (SCLC) have poor survival outcomes despite first-line chemotherapy with etoposide and platinum.
+This randomized, double-blind phase III study evaluated the efficacy and safety of ipilimumab or placebo plus etoposide and platinum in patients with newly diagnosed extensive-stage disease SCLC.
+Patients and Methods Patients were randomly assigned at a ratio of one to one to receive chemotherapy with etoposide and platinum (cisplatin or carboplatin) plus ipilimumab 10 mg/kg or placebo every 3 weeks for a total of four doses each in a phased induction schedule (chemotherapy in cycles one to four; ipilimumab or placebo beginning in cycle three up to cycle six), followed by ipilimumab or placebo maintenance every 12 weeks.
+Primary end point was overall survival (OS) among patients receiving at least one dose of blinded study therapy.
+Results Of 1,132 patients randomly assigned, 954 received at least one dose of study therapy (chemotherapy plus ipilimumab, n = 478; chemotherapy plus placebo, n = 476).
+Median OS was 11.0 months for chemotherapy plus ipilimumab versus 10.9 months for chemotherapy plus placebo (hazard ratio, 0.94; 95% CI, 0.81 to 1.09; P = .3775).
+Median progression-free survival was 4.6 months for chemotherapy plus ipilimumab versus 4.4 months for chemotherapy plus placebo (hazard ratio, 0.85; 95% CI, 0.75 to 0.97).
+Rates and severity of treatment-related adverse events were similar between arms, except for diarrhea, rash, and colitis, which were more frequent with chemotherapy plus ipilimumab.
+Rate of treatment-related discontinuation was higher with chemotherapy plus ipilimumab (18% v 2% with chemotherapy plus placebo).
+Five treatment-related deaths occurred with chemotherapy plus ipilimumab and two with chemotherapy plus placebo.
+Conclusion Addition of ipilimumab to chemotherapy did not prolong OS versus chemotherapy alone in patients with newly diagnosed extensive-stage disease SCLC.
+No new or unexpected adverse events were observed with chemotherapy plus ipilimumab.
+Several ongoing studies are evaluating ipilimumab in combination with programmed death-1 inhibitors in SCLC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

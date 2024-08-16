@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Ramucirumab monotherapy for previously treated advanced gastric or gastro-oesophageal junction adenocarcinoma (REGARD): an international, randomised, multicentre, placebo-controlled, phase 3 trial.
+BACKGROUND: Vascular endothelial growth factor (VEGF) and VEGF receptor-2 (VEGFR-2)-mediated signalling and angiogenesis can contribute to the pathogenesis and progression of gastric cancer.
+We aimed to assess whether ramucirumab, a monoclonal antibody VEGFR-2 antagonist, prolonged survival in patients with advanced gastric cancer.
+METHODS: We did an international, randomised, double-blind, placebo-controlled, phase 3 trial between Oct 6, 2009, and Jan 26, 2012, at 119 centres in 29 countries in North America, Central and South America, Europe, Asia, Australia, and Africa.
+Patients aged 24-87 years with advanced gastric or gastro-oesophageal junction adenocarcinoma and disease progression after first-line platinum-containing or fluoropyrimidine-containing chemotherapy were randomly assigned (2:1), via a central interactive voice-response system, to receive best supportive care plus either ramucirumab 8 mg/kg or placebo, intravenously once every 2 weeks.
+The study sponsor, participants, and investigators were masked to treatment assignment.
+The primary endpoint was overall survival.
+Analysis was by intention to treat.
+This trial is registered with ClinicalTrials.gov, number NCT00917384.
+FINDINGS: 355 patients were assigned to receive ramucirumab (n=238) or placebo (n=117).
+Median overall survival was 5.2 months (IQR 2.3-9.9) in patients in the ramucirumab group and 3.8 months (1.7-7.1) in those in the placebo group (hazard ratio [HR] 0.776, 95% CI 0.603-0.998; p=0.047).
+The survival benefit with ramucirumab remained unchanged after multivariable adjustment for other prognostic factors (multivariable HR 0.774, 0.605-0.991; p=0.042).
+Rates of hypertension were higher in the ramucirumab group than in the placebo group (38 [16%] vs nine [8%]), whereas rates of other adverse events were mostly similar between groups (223 [94%] vs 101 [88%]).
+Five (2%) deaths in the ramucirumab group and two (2%) in the placebo group were considered to be related to study drug.
+INTERPRETATION: Ramucirumab is the first biological treatment given as a single drug that has survival benefits in patients with advanced gastric or gastro-oesophageal junction adenocarcinoma progressing after first-line chemotherapy.
+Our findings validate VEGFR-2 signalling as an important therapeutic target in advanced gastric cancer.
+FUNDING: ImClone Systems.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

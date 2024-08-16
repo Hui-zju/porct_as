@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Artificial Intelligence Algorithm-Based Ultrasound Image Segmentation Technology in the Diagnosis of Breast Cancer Axillary Lymph Node Metastasis.
+This paper aimed to investigate the application of ultrasound image segmentation technology based on the back propagation neural network (BPNN) artificial intelligence algorithm in the diagnosis of breast cancer axillary lymph node metastasis, thereby providing a theoretical basis for clinical diagnosis.
+In this study, 90 breast cancer patients with axillary lymph node metastasis were selected as the research objects and rolled randomly into an experimental group and a control group.
+Besides, all of them were examined by ultrasound.
+The BPNN algorithm for the ultrasound image segmentation diagnosis method was applied to the patiens from the experimental group, while the control group was given routine ultrasound diagnosis.
+Thus, the value of this algorithm in ultrasonic diagnosis was compared and explored.
+The results showed that when the number of hidden layer nodes based on the BPNN artificial intelligence algorithm was 2, 3, 4, 5, 6, 7, and 8, the corresponding segmentation accuracy was 97.3%, 96.5%, 94.8%, 94.8%, and 94.1% in turn.
+Among them, the segmentation accuracy was the highest when the number of hidden layer nodes was 2.
+The correlation of independent variable bubble plot analysis showed that the presence or absence of capsules, the presence of crab feet or burrs in breast cancer lesions was critical influencing factors for the occurrence of axillary lymph node metastasis, and the standardized importance was 99.7% and 70.8%, respectively.
+Besides, the area under the two-dimensional receiver operating characteristic (ROC) curve of the BPNN artificial intelligence algorithm model classification was always greater than the area under the curve of manual segmentation, and the segmentation accuracy was 90.31%, 94.88%, 95.48%, 95.44%, and 97.65% in sequence.
+In addition, the segmentation specificity of different running times was higher than that of manual segmentation.
+In conclusion, the BPNN artificial intelligence algorithm had high accuracy, sensitivity, and specificity for ultrasound image segmentation, with a better segmentation effect.
+Therefore, it had a better diagnostic effect for breast cancer axillary lymph node metastasis.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

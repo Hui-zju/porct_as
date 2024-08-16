@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>MRI and (18)FET-PET Predict Survival Benefit from Bevacizumab Plus Radiotherapy in Patients with Isocitrate Dehydrogenase Wild-type Glioblastoma: Results from the Randomized ARTE Trial.
+PURPOSE: To explore a prognostic or predictive role of MRI and O-(2-(18)F-fluoroethyl)-L-tyrosine ((18)FET) PET parameters for outcome in the randomized multicenter trial ARTE that compared bevacizumab plus radiotherapy with radiotherpay alone in elderly patients with glioblastoma.
+PATIENTS AND METHODS: Patients with isocitrate dehydrogenase wild-type glioblastoma ages 65 years or older were included in this post hoc analysis.
+Tumor volumetric and apparent diffusion coefficient (ADC) analyses of serial MRI scans from 67 patients and serial (18)FET-PET tumor-to-brain intensity ratios (TBRs) from 31 patients were analyzed blinded for treatment arm and outcome.
+Multivariate Cox regression analysis was done to account for established prognostic factors and treatment arm.
+RESULTS: Overall survival benefit from bevacizumab plus radiotherapy compared with radiotherapy alone was observed for larger pretreatment MRI contrast-enhancing tumor [HR per cm(3) 0.94; 95% confidence interval (CI), 0.89-0.99] and for higher ADC (HR 0.18; CI, 0.05-0.66).
+Higher (18)FET-TBR on pretreatment PET scans was associated with inferior overall survival in both arms.
+Response assessed by standard MRI-based Response Assessment in Neuro-Oncology criteria was associated with overall survival in the bevacizumab plus radiotherapy arm by trend only (P = 0.09).
+High (18)FET-TBR of noncontrast-enhancing tumor portions during bevacizumab therapy was associated with inferior overall survival on multivariate analysis (HR 5.97; CI, 1.16-30.8).
+CONCLUSIONS: Large pretreatment contrast-enhancing tumor mass and higher ADCs identify patients who may experience a survival benefit from bevacizumab plus radiotherapy.
+Persistent (18)FET-PET signal of no longer contrast-enhancing tumor after concomitant bevacizumab plus radiotherapy suggests pseudoresponse and predicts poor outcome.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

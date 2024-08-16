@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[MEVITEM-a phase I/II trial of vismodegib + temozolomide vs temozolomide in patients with recurrent/refractory medulloblastoma with Sonic Hedgehog pathway activation.
+BACKGROUND: Vismodegib specifically inhibits Sonic Hedgehog (SHH).
+We report results of a phase I/II evaluating vismodegib + temozolomide (TMZ) in immunohistochemically defined SHH recurrent/refractory adult medulloblastoma.
+METHODS: TMZ-naive patients were randomized 2:1 to receive vismodegib + TMZ (arm A) or TMZ (arm B).
+Patients previously treated with TMZ were enrolled in an exploratory cohort of vismodegib (arm C).
+If the safety run showed no excessive toxicity, a Simon's 2-stage phase II design was planned to explore the 6-month progression-free survival (PFS-6).
+Stage II was to proceed if arm A PFS-6 was >/=3/9 at the end of stage I. RESULTS: A total of 24 patients were included: arm A (10), arm B (5), and arm C (9).
+Safety analysis showed no excessive toxicity.
+At the end of stage I, the PFS-6 of arm A was 20% (2/10 patients, 95% unilateral lower confidence limit: 3.7%) and the study was prematurely terminated.
+The overall response rates (ORR) were 40% (95% CI, 12.2-73.8) and 20% (95% CI, 0.5-71.6) in arm A and B, respectively.
+In arm C, PFS-6 was 37.5% (95% CI, 8.8-75.5) and ORR was 22.2% (95% CI, 2.8-60.0).
+Among 11 patients with an expected sensitivity according to new generation sequencing (NGS), 3 had partial response (PR), 4 remained stable disease (SD) while out of 7 potentially resistant patients, 1 had PR and 1 SD.
+CONCLUSION: The addition of vismodegib to TMZ did not add toxicity but failed to improve PFS-6 in SHH recurrent/refractory medulloblastoma.
+Prediction of sensitivity to vismodegib needs further refinements.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

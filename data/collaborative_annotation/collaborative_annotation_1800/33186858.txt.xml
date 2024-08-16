@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Quality of life with adjuvant gefitinib versus vinorelbine plus cisplatin in patients with completely resected stage II-IIIA (N1-N2) EGFR-mutant non-small-cell lung cancer: Results from the ADJUVANT (CTONG1104) study.
+OBJECTIVES: Health-related quality of life (HRQoL) data complement conventional clinical endpoints when comparing adjuvant gefitinib with chemotherapy in patients with early-stage non-small-cell lung cancer (NSCLC) and epidermal growth factor receptor (EGFR) mutations.
+This study aimed to assess changes in HRQoL with adjuvant gefitinib vs chemotherapy in this patient group.
+MATERIALS AND METHODS: In the phase III ADJUVANT trial, patients with completely resected, stage II-IIIA (N1-N2), EGFR-mutant NSCLC were randomized (1:1) to receive either gefitinib for 24 months or vinorelbine plus cisplatin (VP) every 3 weeks for four cycles.
+HRQoL was assessed as a secondary endpoint using the Functional Assessment of Cancer Therapy-Lung Cancer (FACT-L), Lung Cancer Symptom Scale (LCSS) questionnaires, and Trial Outcome Index (TOI) composite score.
+HRQoL dynamics, improvements, and time to deterioration were compared between groups.
+RESULTS: At baseline, 104 of 106, and 80 of 87 patients receiving gefitinib and VP, respectively, completed two questionnaires (FACT-L and LCSS).
+Baseline scores were balanced between groups.
+Although HRQoL fluctuated and gradually improved in both groups, longitudinally higher scores were reported with gefitinib than VP (FACT-L, odds ratio 418.16, 95 % confidence interval [CI] 2.75-63509.05, p= 0.019; LCSS, 1.13, 1.04-1.22, p= 0.003; TOI, 88.39, 4.40-1775.05, p= 0.003).
+Time to deterioration in HRQoL was delayed with gefitinib compared with VP (FACT-L, median 69 vs 6 weeks, hazard ratio 0.62, 95 % CI 0.42-0.90, p= 0.013; LCSS, median 45 vs 6 weeks, 0.63, 0.43-0.93, p= 0.020; TOI, median 164 vs 9 weeks, 0.51, 0.33-0.77, p= 0.001).
+CONCLUSION: Adjuvant gefitinib is associated with improved HRQoL over VP, supporting its use in patients with stage II-IIIA (N1-N2), EGFR-mutant NSCLC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

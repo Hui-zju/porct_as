@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[PPX and Concurrent Radiation for Newly Diagnosed Glioblastoma Without MGMT Methylation: A Randomized Phase II Study: BrUOG 244.
+PURPOSE: Efficacy signals but substantial myelosuppression were demonstrated in a single arm phase II study of paclitaxel poliglumex (PPX) in combination with temozolomide (TMZ) and radiation therapy (RT) for first-line treatment of glioblastoma.
+The objective of this randomized phase II trial was to assess the efficacy and safety of single-agent PPX with RT (PPX/RT) versus TMZ with RT (TMZ/RT) for glioblastoma without O-methylguanine-DNA methyltransferase (MGMT) methylation.
+MATERIALS AND METHODS: Patients with glioblastoma with unmethylated MGMT without prior chemotherapy or RT were eligible.
+Patients were randomly assigned 2:1 to PPX, 50 mg/m/wk for 6 weeks, or standard TMZ, with concurrent 60.0 Gy RT.
+One month after completion of chemoradiation all patients received standard maintenance TMZ.
+The primary endpoint was progression-free survival (PFS).
+RESULTS: Of the 164 patients enrolled, 86 were MGMT unmethylated.
+Of these, 63 patients were randomized (42 to PPX/RT and 21 to TMZ/RT).
+Fifty-nine patients could be analyzed.
+The median PFS was 9 months in the PPX/RT group and 9.5 months in the TMZ/RT group (hazard ratio in the PPX/RT group, 1.10; 95% confidence interval, 0.79-2.08; P=0.75).
+Median overall survival was 16 versus 14.8 months for PPX/RT and TMZ/RT groups, respectively (hazard ratio, 1.44; 95% confidence interval, 0.75-2.77; P=0.27).
+In the PPX and TMZ groups 44% versus 22% of patients, respectively, experienced one or more grade 3 or higher toxicities during chemoradiation.
+CONCLUSIONS: PPX/RT did not improve PFS or overall survival.
+This study provides an effective trial design for screening RT sensitizers in glioblastoma.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

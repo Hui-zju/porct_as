@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[EQ-5D-5L and SF-6D Utility Measures in Symptomatic benign Thyroid Nodules: Acceptability and Psychometric Evaluation.
+PURPOSE: The aim of this study was to examine the acceptability, validity, and reliability of the EuroQoL Five-Dimension Five-Level (EQ-5D-5L) and Short-Form Six-Dimension (SF-6D) health utility measures in patients with symptomatic benign thyroid nodules.
+METHODS: Data from a randomized controlled trial (ClinicalTrials.gov identifier: NCT02398721) of 294 patients with symptomatic benign thyroid nodules were utilized for this psychometric evaluation of health-related quality of life (HR-QOL) measurement.
+Three HR-QOL questionnaires-the generic 12-item Short Form Health Survey (SF-12v2), EQ-5D-5L, and SF-6D-were interviewer-administered at baseline and 2 weeks afterwards.
+Responses to SF-6D were transformed to SF-6D utility scores using a Hong Kong population scoring algorithm derived by standard gamble, whereas responses to EQ-5D-5L were mapped onto EQ-5D-3L response via interim mapping algorithms and then converted to EQ-5D-5L utility scores using a Chinese-specific value set.
+Construct validity was determined by evaluating Spearman correlation between SF-12v2 scores and utility scores.
+Two-week test-retest reliability was assessed using intra-class correlation coefficient.
+RESULTS: No significant (>15%) floor and ceiling effects were observed for SF-6D utility scores.
+The SF-6D utility scores had a moderate Spearman rank correlation with the SF-12v2 domain score providing evidence for adequate construct validity.
+The SF-6D utility scores showed good test-retest reliability (0.794; range 0.696-0.860).
+Better reliability was observed in SF-6D utility scores than in EQ-5D-5L utility scores.
+CONCLUSIONS: While the EQ-5D-5L instrument was less reproducible, the SF-6D instrument appeared to be an applicable, valid, and reliable measure in assessing the HR-QOL of Chinese patients with symptomatic benign thyroid nodules.
+The impact of utility score selection on the effectiveness and cost effectiveness of clinical interventions targeted to these patients needs further exploration.
+CLINICAL TRIAL NUMBER AND REGISTRY: NCT02398721, ClinicalTrials.gov.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

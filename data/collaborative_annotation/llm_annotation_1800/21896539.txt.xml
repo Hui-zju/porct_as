@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Capecitabine versus 5-fluorouracil/folinic acid as adjuvant therapy for stage III colon cancer: final results from the X-ACT trial with analysis by age and preliminary evidence of a pharmacodynamic marker of efficacy.
+BACKGROUND: This multicenter randomized trial compared oral capecitabine with bolus i.v.
+5-fluorouracil (5-FU)/folinic acid (FA) as adjuvant therapy for stage III colon cancer.
+PATIENTS AND METHODS: Patients were assigned to 24 weeks of capecitabine 1250 mg/m(2) twice daily on days 1-14 every 3 weeks or 5-FU/FA (Mayo Clinic regimen).
+The primary end point was disease-free survival (DFS).
+RESULTS: The intent-to-treat population received capecitabine (n = 1004) or 5-FU/FA (n = 983).
+With a median follow-up of 6.9 years, capecitabine was at least equivalent to 5-FU/FA in terms of DFS [hazard ratio (HR) = 0.88; 95% confidence interval (CI) 0.77-1.01] and overall survival (OS) (HR = 0.86; 95% CI 0.74-1.01); the 95% CI upper limits were significantly less than the predefined noninferiority margins of 1.20 (P < 0.0001) and 1.14 (P < 0.001), respectively.
+This pattern was maintained in all subgroups, including patients aged >/= 70 years.
+Preplanned multivariate analyses showed that capecitabine had statistically significant beneficial effects on DFS (P = 0.021) and OS (P = 0.020) versus 5-FU/FA.
+A post hoc analysis suggested that the occurrence of hand-foot syndrome may be associated with better outcomes in capecitabine recipients.
+CONCLUSION: Oral capecitabine is an effective alternative to bolus 5-FU/FA as adjuvant treatment of patients with stage III colon cancer with efficacy benefits maintained at 5 years and in older patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

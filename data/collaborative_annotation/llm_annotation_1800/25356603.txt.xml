@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>One-year and long-term molecular response to nilotinib and dasatinib for newly diagnosed chronic myeloid leukemia: a matching-adjusted indirect comparison.
+BACKGROUND: Nilotinib and dasatinib have shown superior rates of molecular response (MR) compared to imatinib for the treatment of newly diagnosed chronic myeloid leukemia (CML) in chronic phase (CP).
+This study indirectly compares MR in patients taking nilotinib 300 mg bid with that in those taking dasatinib 100 mg qd by 12 months and through 48 months.
+METHODS: Patients in ENESTnd were re-weighted to match published baseline characteristics reported for DASISION using a propensity score model.
+After matching, differences in rates of major MR (MMR, measured as a 3 log reduction on the International Scale [IS]), MR(4.0) (4 log reduction on IS), and MR(4.5) (4.5 log reduction on IS) relative to imatinib were indirectly compared between nilotinib and dasatinib.
+Hazard ratios (HRs) were used to indirectly compare MR outcomes between nilotinib and dasatinib through 48 months of follow-up, while rate differences were used to compare progression to AP/BC between nilotinib and dasatinib by 48 months.
+RESULTS: After matching, rates of MR by 12 months were higher with nilotinib vs dasatinib by 11.7% for MMR (p = 0.045), 8.2% for MR(4.0) (p = 0.029), and 8.5% for MR(4.5) (p &lt; 0.001).
+Higher rates of MMR (HR = 1.44, p = 0.018) and MR(4.0) (HR = 1.58, p = 0.013) achievement were maintained with nilotinib compared to dasatinib through 48 months of follow-up.
+No statistically significant differences were observed for MR(4.5) through 48 months or progression to AP/BC by 48 months.
+LIMITATIONS: LIMITATIONS include comparisons based solely on indirect evidence and HRs for MR(4.0) and MR(4.5) from the DASISION trial being extracted from cumulative incidence curves.
+CONCLUSIONS: This indirect comparison suggests that nilotinib is associated with higher rates of achieving MMR, MR(4.0), and MR(4.5) by 12 months compared to dasatinib for the treatment of newly diagnosed CML-CP.
+In addition, higher rates of MR achievement with nilotinib were also maintained through 48 months of follow-up.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

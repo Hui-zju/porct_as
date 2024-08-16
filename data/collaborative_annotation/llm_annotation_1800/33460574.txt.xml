@@ -1,0 +1,25 @@
+<MyRCT>
+<TEXT>Palbociclib with adjuvant endocrine therapy in early breast cancer (PALLAS): interim analysis of a multicentre, open-label, randomised, phase 3 study.
+BACKGROUND: Palbociclib added to endocrine therapy improves progression-free survival in hormone-receptor-positive, HER2-negative, metastatic breast cancer.
+The PALLAS trial aimed to investigate whether the addition of 2 years of palbociclib to adjuvant endocrine therapy improves invasive disease-free survival over endocrine therapy alone in patients with hormone-receptor-positive, HER2-negative, early-stage breast cancer.
+METHODS: PALLAS is an ongoing multicentre, open-label, randomised, phase 3 study that enrolled patients at 406 cancer centres in 21 countries worldwide with stage II-III histologically confirmed hormone-receptor-positive, HER2-negative breast cancer, within 12 months of initial diagnosis.
+Eligible patients were aged 18 years or older with an Eastern Cooperative Oncology Group performance score of 0 or 1.
+Patients were randomly assigned (1:1) in permuted blocks of random size (4 or 6), stratified by anatomic stage, previous chemotherapy, age, and geographical region, by use of central telephone-based and web-based interactive response technology, to receive either 2 years of palbociclib (125 mg orally once daily on days 1-21 of a 28-day cycle) with ongoing standard provider or patient-choice adjuvant endocrine therapy (tamoxifen or aromatase inhibitor, with or without concurrent luteinising hormone-releasing hormone agonist), or endocrine therapy alone, without masking.
+The primary endpoint of the study was invasive disease-free survival in the intention-to-treat population.
+Safety was assessed in all randomly assigned patients who started palbociclib or endocrine therapy.
+This report presents results from the second pre-planned interim analysis triggered on Jan 9, 2020, when 67% of the total number of expected invasive disease-free survival events had been observed.
+The trial is registered with ClinicalTrials.gov (NCT02513394) and EudraCT (2014-005181-30).
+FINDINGS: Between Sept 1, 2015, and Nov 30, 2018, 5760 patients were randomly assigned to receive palbociclib plus endocrine therapy (n=2883) or endocrine therapy alone (n=2877).
+At the time of the planned second interim analysis, at a median follow-up of 23.7 months (IQR 16.9-29.2), 170 of 2883 patients assigned to palbociclib plus endocrine therapy and 181 of 2877 assigned to endocrine therapy alone had invasive disease-free survival events.
+3-year invasive disease-free survival was 88.2% (95% CI 85.2-90.6) for palbociclib plus endocrine therapy and 88.5% (85.8-90.7) for endocrine therapy alone (hazard ratio 0.93 [95% CI 0.76-1.15]; log-rank p=0.51).
+As the test statistic comparing invasive disease-free survival between groups crossed the prespecified futility boundary, the independent data monitoring committee recommended discontinuation of palbociclib in patients still receiving palbociclib and endocrine therapy.
+The most common grade 3-4 adverse events were neutropenia (1742 [61.3%] of 2840 patients on palbociclib and endocrine therapy vs 11 [0.3%] of 2903 on endocrine therapy alone), leucopenia (857 [30.2%] vs three [0.1%]), and fatigue (60 [2.1%] vs ten [0.3%]).
+Serious adverse events occurred in 351 (12.4%) of 2840 patients on palbociclib plus endocrine therapy versus 220 (7.6%) of 2903 patients on endocrine therapy alone.
+There were no treatment-related deaths.
+INTERPRETATION: At the planned second interim analysis, addition of 2 years of adjuvant palbociclib to adjuvant endocrine therapy did not improve invasive disease-free survival compared with adjuvant endocrine therapy alone.
+On the basis of these findings, this regimen cannot be recommended in the adjuvant setting.
+Long-term follow-up of the PALLAS population and correlative studies are ongoing.
+FUNDING: Pfizer.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Intracranial Efficacy of Crizotinib Versus Chemotherapy in Patients With Advanced ALK-Positive Non-Small-Cell Lung Cancer: Results From PROFILE 1014.
+PURPOSE: Intracranial efficacy of first-line crizotinib versus chemotherapy was compared prospectively in the phase III PROFILE 1014 study in ALK-positive non-small-cell lung cancer.
+PATIENTS AND METHODS: Patients were randomly assigned to receive crizotinib (250 mg twice daily; n = 172) or chemotherapy (pemetrexed 500 mg/m(2) plus cisplatin 75 mg/m(2) or carboplatin at area under the curve 5 to 6, every 3 weeks for </= six cycles; n = 171).
+Patients with stable treated brain metastases (tBM) were eligible.
+Intracranial efficacy was assessed at baseline and every 6 or 12 weeks in patients with or without known brain metastases (BM), respectively; intracranial time to tumor progression (IC-TTP; per protocol) and intracranial disease control rate (IC-DCR; post hoc) were measured.
+The intent-to-treat population was also assessed.
+RESULTS: Of 343 patients in the intent-to-treat population, 23% had tBM at baseline.
+A nonsignificant IC-TTP improvement was observed with crizotinib in the intent-to-treat population (hazard ratio [HR], 0.60; P = .069), patients with tBM (HR, 0.45; P = .063), and patients without BM (HR, 0.69; P = .323).
+Among patients with tBM, IC-DCR was significantly higher with crizotinib versus chemotherapy at 12 weeks (85% v 45%, respectively; P < .001) and 24 weeks (56% v 25%, respectively; P = .006).
+Progression-free survival was significantly longer with crizotinib versus chemotherapy in both subgroups (tBM present: HR, 0.40; P < .001; median, 9.0 v 4.0 months, respectively; BM absent: HR, 0.51; P < .001; median, 11.1 v 7.2 months, respectively) and in the intent-to-treat population (HR, 0.45; P < .001; median, 10.9 v 7.0 months, respectively).
+CONCLUSION: Compared with chemotherapy, crizotinib demonstrated a significantly higher IC-DCR in patients with tBM.
+Improvements in IC-TTP were not statistically significant in patients with or without tBM, although sensitivity to detect treatment differences in or between the two subgroups was low.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

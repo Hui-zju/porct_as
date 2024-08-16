@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Multicenter randomized controlled trial of percutaneous cryoablation versus radiofrequency ablation in hepatocellular carcinoma.
+UNLABELLED: Radiofrequency ablation (RFA) is considered a curative treatment option for hepatocellular carcinoma (HCC).
+Growing data have demonstrated that cryoablation represents a safe and effective alternative therapy for HCC, but no randomized controlled trial (RCT) has been reported to compare cryoablation with RFA in HCC treatment.
+The present study was a multicenter RCT aimed to compare the outcomes of percutaneous cryoablation with RFA for the treatment of HCC.
+In all, 360 patients with Child-Pugh class A or B cirrhosis and one or two HCC lesions </= 4 cm, treatment-naive, without metastasis were randomly assigned to cryoablation (n = 180) or RFA (n = 180).
+The primary endpoints were local tumor progression at 3 years after treatment and safety.
+Local tumor progression rates at 1, 2, and 3 years were 3%, 7%, and 7% for cryoablation and 9%, 11%, and 11% for RFA, respectively (P = 0.043).
+For lesions >3 cm in diameter, the local tumor progression rate was significantly lower in the cryoablation group versus the RFA group (7.7% versus 18.2%, P = 0.041).
+The 1-, 3-, and 5-year overall survival rates were 97%, 67%, and 40% for cryoablation and 97%, 66%, and 38% for RFA, respectively (P = 0.747).
+The 1-, 3-, and 5-year tumor-free survival rates were 89%, 54%, and 35% in the cryoablation group and 84%, 50%, and 34% in the RFA group, respectively (P = 0.628).
+Multivariate analyses demonstrated that Child-Pugh class B and distant intrahepatic recurrence were significant negative predictors for overall survival.
+Major complications occurred in seven patients (3.9%) following cryoablation and in six patients (3.3%) following RFA (P = 0.776).
+CONCLUSION: Cryoablation resulted in a significantly lower local tumor progression than RFA, although both cryoablation and RFA were equally safe and effective, with similar 5-year survival rates.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

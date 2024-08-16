@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Racial differences in survival and response to therapy in patients with metastatic colorectal cancer: A secondary analysis of CALGB/SWOG 80405 (Alliance A151931).
+BACKGROUND: The objective of this study was to evaluate the association between self-identified race and overall survival (OS), progression-free survival (PFS), and response to therapy among patients enrolled in the randomized Cancer and Leukemia Group B (CALGB)/SWOG 80405 trial.
+METHODS: Patients with advanced or metastatic colorectal cancer who were enrolled in the CALGB/SWOG 80405 trial were identified by race.
+On the basis of covariates (treatment arm, KRAS status, sex, age, and body mass index), each Black patient was exact matched with a White patient.
+The association between race and OS and PFS was examined using a marginal Cox proportional hazard model for matched pairs.
+The interaction between KRAS status and race was tested in the model.
+The association between race and response to therapy and adverse events were examined using a marginal logistic regression model.
+RESULTS: In total, 392 patients were matched and included in the final data set.
+No difference in OS (hazard ratio [HR], 0.92; 95% confidence interval [CI], 0.73-1.16), PFS (HR, 0.97; 95% CI, 0.78-1.20), or response to therapy (odds ratio [OR], 1.00; 95% CI, 0.65-1.52) was observed between Black and White patients.
+Patients with KRAS mutant status (HR, 1.31; 95% CI, 1.02-1.67), a performance statusscore of 1 (reference, a performance status of 0; HR, 1.49; 95% CI, 1.18-1.88), or &gt;/=3 metastatic sites (reference, 1 metastatic site; HR, 1.67; 95% CI, 1.22-2.28) experienced worse OS.
+Black patients experienced lower rates and risk of grade &gt;/=3 fatigue (6.6% vs 13.3%; OR, 0.46; 95% CI, 0.24-0.91) but were equally likely to be treated with a dose reduction (OR, 1.09; 95% CI, 0.72-1.65).
+CONCLUSIONS: No difference in OS, PFS, or response to therapy was observed between Black patients and White patients in an equal treatment setting of the CALGB/SWOG 80405 randomized controlled trial.
+LAY SUMMARY: Despite improvements in screening and treatment, studies have demonstrated worse outcomes in Black patients with colorectal cancer.
+The purpose of this study was to determine whether there was a difference in cancer-specific outcomes among Black and White patients receiving equivalent treatment on the CALGB/SWOG 80405 randomized clinical trial.
+In this study, there was no difference in overall survival, progression-free survival, or response to therapy between Black and White patients treated on a clinical trial.
+These findings suggest that access to care and differences in treatment may be responsible for racial disparities in colorectal cancer.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

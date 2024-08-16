@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase 2 study of MK-2206 versus everolimus in refractory renal cell carcinoma.
+Background: Activation of the phosphoinisitide-3 kinase (PI3K) pathway through mutation and constitutive upregulation has been described in renal cell carcinoma (RCC), making it an attractive target for therapeutic intervention.
+We performed a randomized phase II study in vascular endothelial growth factor (VEGF) therapy refractory patients to determine whether MK-2206, an allosteric inhibitor of AKT, was more efficacious than the mammalian target of rapamycin inhibitor everolimus.
+Patients and methods: A total of 43 patients were randomized in a 2:1 distribution, with 29 patients assigned to the MK-2206 arm and 14 to the everolimus arm.
+Progression-free survival (PFS) was the primary endpoint.
+Results: The trial was closed at the first futility analysis with an observed PFS of 3.68 months in the MK-2206 arm and 5.98 months in the everolimus arm.
+Dichotomous response rate profiles were seen in the MK-2206 arm with one complete response and three partial responses in the MK-2206 arm versus none in the everolimus arm.
+On the other hand, progressive disease was best response in 44.8% of MK2206 versus 14.3% of everolimus-treated patients.
+MK-2206 induced significantly more rash and pruritis than everolimus, and dose reduction occurred in 37.9% of MK-2206 versus 21.4% of everolimus-treated patients.
+Genomic analysis revealed that 57.1% of the patients in the PD group had either deleterious TP53 mutations or ATM mutations or deletions.
+In contrast, none of the patients in the non-PD group had TP53 or ATM defects.
+No predictive marker for response was observed in this small dataset.
+Conclusions: Dichotomous outcomes are observed when VEGF therapy refractory patients are treated with MK-2206, and MK-2206 does not demonstrate superiority to everolimus.
+Additionally, mutations in DNA repair genes are associated with early disease progression, indicating that dysregulation of DNA repair is associated with a more aggressive tumor phenotype in RCC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

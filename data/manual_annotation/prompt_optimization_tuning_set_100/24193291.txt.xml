@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase III trial of postoperative adjuvant therapy for completely resected stage IA-IIIA lung cancer using an antiangiogenetic agent: irsogladine maleate.
+AIM: Although angiogenesis plays an important role in the invasion and metastasis of solid tumors, very few anti-angiogenetic drugs have been developed.
+Reexamining the anti-angiogenetic effects of existing drugs such as Thalidomide is another possible strategy for drug discovery.
+Irsogladine maleate (IM) is a drug invented to treat gastric ulcers; however, several reports have shown that IM also exerts anti-angiogenetic effects in vitro, in vivo and in humans.
+In order to elucidate whether treatment with IM would improve the prognoses of patients with resected lung cancer, we conducted a randomized trial.
+METHODS: In the control group, uracil-tegafur (250 mg/m2/day) was administered for two years to patients with resected stage IB - IIIA lung cancer, and no adjuvant therapy was administered to those with stage IA disease.
+In the study group, IM (4 mg/body/day) was additionally administered for two years.
+RESULTS: No significant differences were observed in the major prognostic factors among 305 eligible patients between the study and control groups.
+Adverse effects were minimal.
+The overall survival of the patients in the study and control groups were not statistically different.
+When the analysis was stratified by regimen, among the patients with resected stage IA disease, disease-specific survival in the study group was slightly higher than that in the control group; however, the difference was not significant (p=0.07).
+CONCLUSION: Although it could not be proven that IM improves the prognoses of resected lung cancer patients, IM might have some effect on resected stage IA disease, and another trial should be conducted.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

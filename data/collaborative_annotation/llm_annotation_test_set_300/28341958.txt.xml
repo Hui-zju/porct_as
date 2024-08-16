@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase II study comparing weekly docetaxel-cisplatin vs. gemcitabine-cisplatin in elderly or poor performance status patients with advanced non-small cell lung cancer.
+BACKGROUND: Docetaxel/cisplatin (DP) and gemcitabine/cisplatin (GP) are standard treatment regimens for advanced non-small cell lung cancer (NSCLC).
+In spite of potent efficacy, the conventional 1-day DP is regarded as having more toxicity as compared with GP.
+There is increasing interest in a biweekly split administration of DP to reduce its toxicity.
+Hypothesis was that first-line biweekly DP is as safe as GP in the elderly or poor performance status (PS) patients.
+METHODS: Chemotherapy-naive patients with advanced NSCLC (IIIB/IV) who were elderly (65<) or PS (ECOG 2) were randomized to DP or GP arm by balancing for ECOG (0-1 vs. 2) and stage (IIIB vs. IV).
+DP comprised docetaxel (35 mg/m(2))/cisplatin (30 mg/m(2)) iv on days 1 and 8, every 3 weeks.
+GP comprised gemcitabine (1000 mg/m(2))/cisplatin (30 mg/m(2)) iv on days 1 and 8, every 3 weeks.
+Chemotherapy lasted up to 4-6 cycles or until progression.
+Primary endpoint was safety (proportion of grade 3/4 toxicities).
+Planned sample size was 49 patients in each arm.
+RESULTS: From November 2009 to August 2012, a total of 99 patients were randomized (DP 50/GP 49) from nine institutions.
+Adenocarcinoma and squamous cell carcinoma were observed in 62% and 33% of patients, respectively.
+Toxicity profiles were comparable for both arms and the differences were not statistically significant except for anemia and leucocytopenia.
+Any grade of anemia (86 vs. 98%) and of leucocytopenia (18 vs. 43%) was more common in the GP arm with statistical significance.
+Oral mucositis tended to be predominant in the DP arm.
+Patients in the DP arm (51%) suffered grade 3 or higher toxicities as did 47% in the GP arm (47%).
+The most common grade 3 or higher toxicities were as follows: In the DP arm, neutropenia (8%), leucopenia (8%), anemia (4%), pneumonia with normal ANC (4%) and febrile neutropenia (2%) were observed.
+In the GP arm, anemia (15%), neutropenia (15%), pneumonia with normal ANC (4%), thrombocytopenia (4%) and leucopenia (2%) were observed.
+The best overall response rates (CR + PR) for the DP and GP arms were 20.0 and 21% with no CR, respectively, and disease control rates (CR + PR + SD) were 70.0 and 76%, respectively.
+Median progression-free survival and median overall survival were 3.7 and 14.9 months in the DP arm and 5.6 and 20.8 months in the GP arm, respectively.
+CONCLUSION: This study showed that DP is similar to GP in terms of efficacy and toxicity in treatment of elderly or poor performance patients.
+Both regimens showed similar grade 3/4 toxicities with different profiles.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

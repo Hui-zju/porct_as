@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Clinical and Translational Results of a Phase II, Randomized Trial of an Anti-IGF-1R (Cixutumumab) in Women with Breast Cancer That Progressed on Endocrine Therapy.
+PURPOSE: This phase II trial evaluated the efficacy and safety of cixutumumab, a human anti-insulin-like growth factor receptor 1 (IGF-1R) monoclonal IgG1 antibody, and explored potential biomarkers in postmenopausal women with hormone receptor-positive breast cancer.
+EXPERIMENTAL DESIGN: Patients with hormone receptor-positive breast cancer that progressed on antiestrogen therapy received (2:1 randomization) cixutumumab 10 mg/kg and the same antiestrogen (arm A) or cixutumumab alone (arm B) every 2 weeks (q2w).
+Primary endpoint was progression-free survival (PFS); secondary endpoints included overall survival (OS) and safety.
+Correlative analyses of IGF-1R, total insulin receptor (IR), and IR isoforms A (IR-A) and B (IR-B) expression in tumor tissue were explored.
+RESULTS: Ninety-three patients were randomized (arm A, n = 62; arm B, n = 31).
+Median PFS was 2.0 and 3.1 months for arm A and arm B, respectively.
+Secondary efficacy measures were similar between the arms.
+Overall, cixutumumab was well tolerated.
+IGF-1R expression was not associated with clinical outcomes.
+Regardless of the treatment, lower IR-A, IR-B, and total IR mRNA expression in tumor tissue was significantly associated with longer PFS [IR-A: HR, 2.62 (P = 0.0062); IR-B: HR, 2.21 (P = 0.0202); and total IR: HR, 2.18 (P = 0.0230)] and OS [IR-A: HR, 2.94 (P = 0.0156); IR-B: HR, 2.69 (P = 0.0245); and total IR: HR, 2.72 (P = 0.0231)].
+CONCLUSIONS: Cixutumumab (10 mg/kg) with or without antiestrogen q2w had an acceptable safety profile, but no significant clinical efficacy.
+Patients with low total IR, IR-A, and IR-B mRNA expression levels had significantly longer PFS and OS, independent of the treatment.
+The prognostic or predictive value of IR as a biomarker for IGF-1R-targeted therapies requires further validation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

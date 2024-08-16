@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Randomized Controlled Trial Testing Provision of Fecal and Blood Test Options on Participation for Colorectal Cancer Screening.
+Suboptimal participation is commonly observed in colorectal cancer screening programs utilizing fecal tests.
+This randomized controlled trial tested whether the offer of a blood test as either a "rescue" strategy for fecal test nonparticipants or an upfront choice, could improve participation.
+A total of 1,800 people (50-74 years) were randomized to control, rescue, or choice groups (n = 600/group).
+All were mailed a fecal immunochemical test (FIT, OC-Sensor, Eiken Chemical Company) and a survey assessing awareness of the screening tests.
+The rescue group was offered a blood test 12 weeks after FIT nonparticipation.
+The choice group was given the opportunity to choose to do a blood test (Colvera, Clinical Genomics) instead of FIT at baseline.
+Participation with any test after 24 weeks was not significantly different between groups (control, 37.8%; rescue, 36.9%; choice, 33.8%; P > 0.05).
+When the rescue strategy was offered after 12 weeks, an additional 6.5% participated with the blood test, which was greater than the blood test participation when offered as an upfront choice (1.5%; P < 0.001).
+Awareness of the tests was greater for FIT than for blood (96.2% vs. 23.1%; P < 0.0001).
+In a population familiar with FIT screening, provision of a blood test either as a rescue of FIT nonparticipants or as an upfront choice did not increase overall participation.
+This might reflect a lack of awareness of the blood test for screening compared with FIT.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

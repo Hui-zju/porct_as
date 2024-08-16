@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Next-Generation Sequencing in Diffuse Large B-Cell Lymphoma Highlights Molecular Divergence and Therapeutic Opportunities: a LYSA Study.
+PURPOSE: Next-generation sequencing (NGS) has detailed the genomic characterization of diffuse large B-cell lymphoma (DLBCL) by identifying recurrent somatic mutations.
+We set out to design a clinically feasible NGS panel focusing on genes whose mutations hold potential therapeutic impact.
+Furthermore, for the first time, we evaluated the prognostic value of these mutations in prospective clinical trials.
+EXPERIMENTAL DESIGN: A Lymphopanel was designed to identify mutations in 34 genes, selected according to literature and a whole exome sequencing study of relapsed/refractory DLBCL patients.
+The tumor DNA of 215 patients with CD20(+)de novo DLBCL in the prospective, multicenter, and randomized LNH-03B LYSA clinical trials was sequenced to deep, uniform coverage with the Lymphopanel.
+Cell-of-origin molecular classification was obtained through gene expression profiling with HGU133+2.0 Affymetrix GeneChip arrays.
+RESULTS: The Lymphopanel was informative for 96% of patients.
+A clear depiction of DLBCL subtype molecular heterogeneity was uncovered with the Lymphopanel, confirming that activated B-cell-like (ABC), germinal center B-cell like (GCB), and primary mediastinal B-cell lymphoma (PMBL) are frequently affected by mutations in NF-kappaB, epigenetic, and JAK-STAT pathways, respectively.
+Novel truncating immunity pathway, ITPKB, MFHAS1, and XPO1 mutations were identified as highly enriched in PMBL.
+Notably, TNFAIP3 and GNA13 mutations in ABC patients treated with R-CHOP were associated with significantly less favorable prognoses.
+CONCLUSIONS: This study demonstrates the contribution of NGS with a consensus gene panel to personalized therapy in DLBCL, highlighting the molecular heterogeneity of subtypes and identifying somatic mutations with therapeutic and prognostic impact.
+Clin Cancer Res; 22(12); 2919-28.
+(c)2016 AACRSee related commentary by Lim and Elenitoba-Johnson, p. 2829.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

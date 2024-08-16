@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Regorafenib compared with lomustine in patients with relapsed glioblastoma (REGOMA): a multicentre, open-label, randomised, controlled, phase 2 trial.
+BACKGROUND: Glioblastoma is a highly vascularised tumour and there are few treatment options after disease recurrence.
+Regorafenib is an oral multikinase inhibitor of angiogenic, stromal, and oncogenic receptor tyrosine kinases.
+We aimed to assess the efficacy and safety of regorafenib in the treatment of recurrent glioblastoma.
+METHODS: REGOMA is a randomised, multicentre, open-label phase 2 trial done in ten centres in Italy.
+Eligible patients (aged >/=18 years) with histologically confirmed glioblastoma, Eastern Cooperative Oncology Group performance status 0 or 1, and documented disease progression after surgery followed by radiotherapy and temozolomide chemoradiotherapy were randomly assigned (1:1) by a web-based system, stratified by centre and surgery at recurrence (yes vs no), to receive regorafenib 160 mg once daily for the first 3 weeks of each 4-week cycle or lomustine 110 mg/m(2) once every 6 weeks until disease progression, death, unacceptable toxicity, or consent withdrawal.
+The primary endpoint was overall survival in the intention-to-treat population.
+This trial is registered with ClinicalTrials.gov, NCT02926222, and is currently in follow-up.
+FINDINGS: Between Nov 27, 2015, and Feb 23, 2017, 124 patients were screened and 119 eligible patients were randomly assigned to receive regorafenib (n=59) or lomustine (n=60).
+Median follow-up was 15.4 months (IQR 13.8-18.1).
+At the analysis cutoff date, 99 (83%) of 119 patients had died: 42 (71%) of 59 in the regorafenib group and 57 (95%) of 60 in the lomustine group.
+Overall survival was significantly improved in the regorafenib group compared with the lomustine group, with a median overall survival of 7.4 months (95% CI 5.8-12.0) in the regorafenib group and 5.6 months (4.7-7.3) in the lomustine group (hazard ratio 0.50, 95% CI 0.33-0.75; log-rank p=0.0009).
+Grade 3-4 treatment-related adverse events occurred in 33 (56%) of 59 patients treated with regorafenib and 24 (40%) of 60 with lomustine.
+The most frequent grade 3 or 4 adverse events related to regorafenib were hand-foot skin reaction, increased lipase, and blood bilirubin increased (in six [10%] of 59 patients each).
+In the lomustine group, the most common grade 3 or 4 adverse events were decreased platelet count (eight [13%] of 60 patients), decreased lymphocyte count (eight [13%]), and neutropenia (seven [12%]).
+No death was considered by the investigators to be drug related.
+INTERPRETATION: REGOMA showed an encouraging overall survival benefit of regorafenib in recurrent glioblastoma.
+This drug might be a new potential treatment for these patients and should be investigated in an adequately powered phase 3 study.
+FUNDING: Veneto Institute of Oncology and Bayer Italy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

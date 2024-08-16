@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase II randomised trial of autologous tumour lysate dendritic cell plus best supportive care compared with best supportive care in pre-treated advanced colorectal cancer patients.
+BACKGROUND: Autologous tumour lysate dendritic cell vaccine (ADC) has T-cell stimulatory capacity and, therefore, potential antitumour activity.
+We designed a phase II randomised trial of ADC + best supportive care (BSC) (experimental arm [EA]) compared with BSC (control arm [CA]), in pre-treated metastatic colorectal cancer (mCRC) patients.
+PATIENTS AND METHODS: Patients with progressive mCRC, at least to two chemotherapy regimens and Eastern Cooperative Oncology Group performance status (ECOG PS) 0-2, were randomised to EA versus CA.
+Stratification criteria: ECOG PS (0-1 versus 2) and lactate dehydrogenase (<Upper Limit of Normal [ULN] versus >ULN).
+EA was administered subcutaneously till progressive disease.
+Primary end-point was progression-free survival (PFS) at 4 months.
+RESULTS: Fifty-two patients were included (28 EA/24 CA).
+An interim analysis recommended early termination for futility.
+No objective radiological response was observed in EA.
+Median PFS in EA was 2.7 months (95% confidence interval [CI], 2.3-3.2 months) versus 2.3 months (95% CI, 2.1-2.5 months) in CA (p = 0.628).
+Median overall survival (OS) was 6.2 months (95% CI, 4.4-7.9 months) in EA versus 4.7 months (95% CI, 2.3-7 months) in CA (p = 0.41).
+No ADC-related adverse events were reported.
+Immunization induces tumour-specific T-cell response in 21 of 25 (84%) patients.
+Responder patients have an OS of 7.3 months (95% CI, 5.2-9.4 months) versus 3.8 months (95% CI, 0.6-6.9 months) in non-responders; p = 0.026).
+CONCLUSION: Our randomised clinical trial comparing ADC + BSC versus BSC in mCRC demonstrates that ADC generates a tumour-specific immune response but not benefit on PFS and OS.
+Our results do not support the use of ADC alone, in a phase III trial.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

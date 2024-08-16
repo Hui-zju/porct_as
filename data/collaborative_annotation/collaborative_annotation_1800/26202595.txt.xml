@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase II study evaluating veliparib (ABT-888) with temozolomide in patients with metastatic melanoma.
+BACKGROUND: Veliparib (ABT-888) is a potent, orally bioavailable, small-molecule inhibitor of the DNA repair enzymes poly ADP-ribose polymerase-1 and -2.
+Veliparib enhances the efficacy of temozolomide (TMZ) and other cytotoxic agents in preclinical tumor models.
+PATIENTS AND METHODS: In this multicenter, double-blind trial, adults with unresectable stage III or IV metastatic melanoma were randomized 1:1:1 to TMZ plus veliparib 20 or 40 mg, or placebo twice daily.
+Efficacy end points included progression-free survival (PFS), overall survival (OS), and objective response rate (ORR).
+RESULTS: Patients (N = 346) were randomized between February 2009 and January 2010.
+Median [95% confidence interval (CI)] PFS was 3.7 (3.0-5.5), 3.6 (1.9-4.1), and 2 (1.9-3.7) months in the 20-mg, 40-mg, and placebo arms, respectively.
+Median (95% CI) OS was 10.8 (9.0-13.1), 13.6 (11.4-15.9), and 12.9 (9.8-14.3) months, respectively; ORR was 10.3%, 8.7%, and 7.0%.
+Exploratory analyses showed patients with low ERCC1 expression had longer PFS when TMZ was combined with veliparib.
+Toxicities were as expected for TMZ.
+The frequencies of thrombocytopenia, neutropenia, and leukopenia were significantly increased in the veliparib groups.
+Grade 3 or 4 adverse events, mainly hematologic toxicities, were seen in 55%, 63%, and 41% of patients in the 20-mg, 40-mg, and placebo arms, respectively.
+CONCLUSIONS: Median PFS with 20 and 40 mg veliparib almost doubled numerically compared with placebo, but the improvements did not reach statistical significance.
+OS was not increased with veliparib.
+Toxicities were similar to TMZ monotherapy, but with increased frequency.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

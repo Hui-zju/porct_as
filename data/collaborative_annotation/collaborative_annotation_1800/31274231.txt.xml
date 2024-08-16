@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Final analysis of a phase I/IIa trial of the folate-binding protein-derived E39 peptide vaccine to prevent recurrence in ovarian and endometrial cancer patients.
+BACKGROUND: E39, an HLA-A2-restricted, immunogenic peptide derived from the folate-binding protein (FBP), is overexpressed in multiple malignancies.
+We conducted a phase I/IIa trial of the E39 + GM-CSF vaccine with booster inoculations of either E39 or E39' (an attenuated version of E39) to prevent recurrences in disease-free endometrial and ovarian cancer patients(pts).
+Here, we present the final 24-month landmark analysis.
+PATIENTS AND METHODS: HLA-A2 + patients receiving E39 + GM-CSF were included in the vaccine group (VG), and HLA-A2- pts (or HLA-A2 + patients refusing vaccine) were followed as the control group (CG).
+VG group received 6 monthly inoculations as the primary vaccine series (PVS) and were randomized to receive either E39 or E39' booster inoculations.
+Demographic, safety, immunologic, and disease-free survival (DFS) data were collected and evaluated.
+RESULTS: Fifty-one patients were enrolled; 29 in the VG and 22 in the CG.
+Fourteen patients received <1000 mug and 15 received 1000 mug of E39.
+There were no clinicopathologic differences between VG and CG or between dose groups.
+E39 was well tolerated.
+At the 24 months landmark, DFS was 55.5% (VG) vs 40.0% (CG), P = 0.339.
+Patients receiving 1000 mug and boosted patients also showed improved DFS (P < 0.03).
+DFS was improved in the 1000 mug group after treatment of primary disease (90.0% vs CG:42.9%, P = 0.007), but not in recurrent patients.
+In low-FBP expressing patients, DFS was 100.0% (1000 mug), 50.0% (<1000 mug), and 25.0% (CG), P = 0.029.
+CONCLUSIONS: This phase I/IIa trial reveals that E39 + GM-CSF is safe and may be effective in preventing recurrence in high-risk ovarian and endometrial cancer when optimally dosed (1000 mug) to FBP low patients being treated for primary disease.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

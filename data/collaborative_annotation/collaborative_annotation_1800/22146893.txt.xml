@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>An immune-active tumor microenvironment favors clinical response to ipilimumab.
+PURPOSE: Ipilimumab, a fully human monoclonal antibody specific to CTLA-4, has been shown to improve overall survival in metastatic melanoma patients.
+As a consequence of CTLA-4 blockade, ipilimumab treatment is associated with proliferation and activation of peripheral T cells.
+To better understand various tumor-associated components that may influence the clinical outcome of ipilimumab treatment, gene expression profiles of tumors from patients treated with ipilimumab were characterized.
+EXPERIMENTAL DESIGN: Gene expression profiling was performed on tumor biopsies collected from 45 melanoma patients before and 3 weeks after the start of treatment in a phase II clinical trial.
+RESULTS: Analysis of pre-treatment tumors indicated that patients with high baseline expression levels of immune-related genes were more likely to respond favorably to ipilimumab.
+Furthermore, ipilimumab appeared to induce two major changes in tumors from patients who exhibited clinical activity: genes involved in immune response showed increased expression, whereas expression of genes for melanoma-specific antigens and genes involved in cell proliferation decreased.
+These changes were associated with the total lymphocyte infiltrate in tumors, and there was a suggestion of association with prolonged overall survival in these patients.
+Many IFN-gamma-inducible genes and Th1-associated markers showed increased expression after ipilimumab treatment, suggesting an accumulation of this particular type of T cell at the tumor sites, which might play an important role in mediating the antitumor activity of ipilimumab.
+CONCLUSIONS: These results support the proposed mechanism of action of ipilimumab, suggesting that cell-mediated immune responses play an important role in the antitumor activity of ipilimumab.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

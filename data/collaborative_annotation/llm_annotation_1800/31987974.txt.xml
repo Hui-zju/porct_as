@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Derivation of Dose/Volume Constraints for the Anorectum from Clinician- and Patient-Reported Outcomes in the CHHiP Trial of Radiation Therapy Fractionation.
+PURPOSE: The CHHiP trial randomized 3216 men with localized prostate cancer (1:1:1) to 3 radiation therapy fractionation schedules: 74 Gy in 37 fractions over 7.4 weeks; 60 Gy in 20 fractions over 4 weeks; and 57 Gy in 19 fractions over 3.8 weeks.
+Literature-based dose constraints were applied with arithmetic adjustment for the hypofractionated arms.
+This study aimed to derive anorectal dose constraints using prospectively collected clinician-reported outcomes (CROs) and patient-reported outcomes (PROs) and to assess the added predictive value of spatial dose metrics.
+METHODS AND MATERIALS: A case-control study design was used; 7 CRO and 5 PRO bowel symptoms were evaluated.
+Cases experienced a moderate or worse symptom 1 to 5 years after-radiation therapy and did not have the symptom before radiation therapy.
+Controls did not experience the symptom at baseline or between 1 to 5 years after radiation therapy.
+The anorectum was recontoured from the anal verge to the rectosigmoid junction; dose/volume parameters were extracted.
+Univariate logistic regression, atlases of complication indices, and bootstrapped receiver-operating-characteristic analysis (1000 replicates, balanced outcomes) were used to derive dose constraints for the whole cohort (hypofractionated schedules were converted to 2-Gy equivalent schedules using alpha/beta = 3 Gy) and separate hypofractionated/conventional fractionation cohorts.
+Only areas under the curve with 95% confidence interval lower limits &gt;0.5 were considered statistically significant.
+Any constraint derived in &lt;95% to 99% of bootstraps was excluded.
+RESULTS: Statistically significant dose constraints were derived for CROs but not PROs.
+Intermediate to high doses were important for rectal bleeding, whereas intermediate doses were important for increased bowel frequency, fecal incontinence, and rectal pain.
+Spatial dose metrics did not improve prediction of CROs or PROs.
+A new panel of dose constraints for hypofractionated schedules to 60 Gy or 57 Gy are V20Gy &lt;85%, V30Gy &lt;57%, V40Gy &lt;38%, V50Gy &lt;22%, and V60Gy &lt;0.01%.
+CONCLUSIONS: Dose constraints differed among symptoms, indicating potentially different pathogenesis of radiation-induced side effects.
+Derived dose constraints were stricter than those used in CHHiP and may reduce bowel symptoms after radiation therapy.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Efficacy and Safety of Cabazitaxel Versus Abiraterone or Enzalutamide in Older Patients with Metastatic Castration-resistant Prostate Cancer in the CARD Study.
+BACKGROUND: In the CARD study (NCT02485691), cabazitaxel significantly improved median radiographic progression-free survival (rPFS) and overall survival (OS) versus abiraterone/enzalutamide in patients with metastatic castration-resistant prostate cancer (mCRPC) who had previously received docetaxel and progressed </=12 mo on the alternative agent (abiraterone/enzalutamide).
+OBJECTIVE: To assess cabazitaxel versus abiraterone/enzalutamide in older (>/=70 yr) and younger (<70 yr) patients in CARD.
+DESIGN, SETTING, AND PARTICIPANTS: Patients with mCRPC were randomized 1:1 to cabazitaxel (25 mg/m(2) plus prednisone and granulocyte colony-stimulating factor) versus abiraterone (1000 mg plus prednisone) or enzalutamide (160 mg).
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: Analyses of rPFS (primary endpoint) and safety by age were prespecified; others were post hoc.
+Treatment groups were compared using stratified log-rank or Cochran-Mantel-Haenszel tests.
+RESULTS AND LIMITATIONS: Of the 255 patients randomized, 135 were aged >/=70
+yr (median 76 yr).
+Cabazitaxel, compared with abiraterone/enzalutamide, significantly improved median rPFS in older (8.2 vs 4.5 mo; hazard ratio [HR] = 0.58; 95% confidence interval [CI] = 0.38-0.89; p = 0.012) and younger (7.4 vs 3.2 mo; HR = 0.47; 95% CI = 0.30-0.74; p < 0.001) patients.
+The median OS of cabazitaxel versus abiraterone/enzalutamide was 13.9 versus 9.4 mo in older patients (HR = 0.66; 95% CI = 0.41-1.06; p = 0.084), and it was 13.6 versus 11.8 mo in younger patients (HR = 0.66; 95% CI = 0.41-1.08; p = 0.093).
+Progression-free survival, prostate-specific antigen, and tumor and pain responses favored cabazitaxel, regardless of age.
+Grade >/=3 treatment-emergent adverse events (TEAEs) occurred in 58% versus 49% of older patients receiving cabazitaxel versus abiraterone/enzalutamide and 48% versus 42% of younger patients.
+In older patients, cardiac adverse events were more frequent with abiraterone/enzalutamide; asthenia and diarrhea were more frequent with cabazitaxel.
+CONCLUSIONS: Cabazitaxel improved efficacy outcomes versus abiraterone/enzalutamide in patients with mCRPC after prior docetaxel and abiraterone/enzalutamide, regardless of age.
+TEAEs were more frequent among older patients.
+The cabazitaxel safety profile was manageable across age groups.
+PATIENT SUMMARY: Clinical trial data showed that cabazitaxel improved survival versus abiraterone/enzalutamide with manageable side effects in patients with metastatic castration-resistant prostate cancer who had previously received docetaxel and the alternative agent (abiraterone/enzalutamide), irrespective of age.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

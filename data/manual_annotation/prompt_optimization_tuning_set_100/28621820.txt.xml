@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The efficacy of Internet-based cognitive behavioral therapy for severely fatigued survivors of breast cancer compared with care as usual: A randomized controlled trial.
+BACKGROUND: Severe fatigue is a common and distressing symptom affecting approximately one in four survivors of breast cancer.
+The current study examined the efficacy of Internet-based cognitive behavioral therapy (ICBT) for severe fatigue in survivors of breast cancer compared with care as usual (CAU).
+METHODS: The authors conducted a parallel-group randomized controlled trial.
+Severely fatigued, disease-free survivors of breast cancer who had completed cancer treatment at least 3 months previously were eligible.
+Participants were randomly allocated to ICBT or CAU using computer-generated stratified block randomization.
+The primary outcome of fatigue severity was assessed at baseline and after 6 months, as were the secondary outcomes of functional impairment, psychological distress, and quality of life.
+Statistical effects were tested with analyses of covariance (intention-to-treat analysis).
+RESULTS: Participants were recruited between January 2014 and March 2016 and assigned to ICBT (66 patients) or CAU (66 patients).
+Compared with the participants who had received CAU, those who had received ICBT reported lower fatigue scores at 6 months (mean difference [Delta], 11.5; 95% confidence interval [95% CI], 7.7-15.3) and a large effect size (Cohen d = 1.0), with the majority of patients (73%) demonstrating clinically significant improvement.
+ICBT also was found to lead to lower functional impairment (Delta, 297.8; 95% CI, 145.5-450.1) and psychological distress scores (Delta, 5.7; 95% CI, 3.4-7.9) and higher quality-of-life scores (Delta, 11.7; 95% CI, 5.8-17.7) compared with CAU, with medium to large effect sizes (Cohen d = 0.6-0.8).
+CONCLUSIONS: ICBT appears to be effective in reducing severe fatigue and related symptoms and meets the current need for easy accessible and more efficient evidence-based treatment options for severely fatigued survivors of breast cancer.
+Cancer 2017;123:3825-34. (c) 2017 American Cancer Society.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

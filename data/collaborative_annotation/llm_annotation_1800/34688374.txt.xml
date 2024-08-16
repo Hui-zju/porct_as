@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Neoadjuvant PD-1 blockade with toripalimab, with or without celecoxib, in mismatch repair-deficient or microsatellite instability-high, locally advanced, colorectal cancer (PICC): a single-centre, parallel-group, non-comparative, randomised, phase 2 trial.
+BACKGROUND: PD-1 blockade is highly effective in patients with mismatch repair-deficient or microsatellite instability-high metastatic colorectal cancer.
+The role of single-agent PD-1 blockade in the neoadjuvant setting for resectable mismatch repair-deficient or microsatellite instability-high colorectal cancer remains unclear.
+We investigated the efficacy and safety of PD-1 blockade with toripalimab, with or without the COX-2 inhibitor celecoxib, as neoadjuvant treatment for mismatch repair-deficient or microsatellite instability-high, locally advanced, colorectal cancers.
+METHODS: The PD-1 Inhibitor in Microsatellite Instability Colorectal Cancer (PICC) trial was a single-centre, open-label, parallel-group, non-comparative, randomised, phase 2 study undertaken at the Sixth Affiliated Hospital of Sun Yat-sen University (Guangzhou, China).
+Eligible patients were aged 18-75 years, had histologically confirmed mismatch repair-deficient or microsatellite instability-high colorectal cancer, had clinical stage T3-T4 or any T with lymph node positivity (N+), Eastern Cooperative Oncology Group performance score of 0 or 1, and adequate haematological, hepatic, and renal function.
+Participants were randomly assigned (1:1), without any stratification or balanced blocking, to receive toripalimab 3 mg/kg intravenously on day 1, with or without celecoxib 200 mg orally twice daily from day 1 to 14 of each 14-day cycle, for six cycles before surgical resection.
+Adjuvant treatment with toripalimab with or without celecoxib was permitted at the investigators' discretion.
+The primary endpoint was the proportion of patients with pathological complete response, defined as tumours without any viable tumour cells in the resected primary tumour sample and all sampled regional lymph nodes.
+All efficacy and safety analyses were assessed in the modified intention-to-treat population, which included all patients who were randomly assigned to treatment and who received at least one dose of toripalimab.
+This trial is registered with ClinicalTrials.gov, NCT03926338, and is ongoing.
+FINDINGS: Between May 1, 2019, and April 1, 2021, 53 patients were screened, of whom 34 were randomly assigned to either the toripalimab plus celecoxib group (n=17) or the toripalimab monotherapy group (n=17).
+As of data cutoff (Aug 10, 2021), median follow-up was 14.9 months (IQR 8.8-17.0).
+All patients received study treatment and underwent surgical resection; there were no treatment-related surgical delays.
+All 34 patients had an R0 resection (>1 mm resection margin).
+15 of 17 patients (88% [95% CI 64-99]) in the toripalimab plus celecoxib group and 11 of 17 patients (65% [38-86]) in the toripalimab monotherapy group had a pathological complete response.
+All patients continued to receive adjuvant toripalimab with or without celecoxib for a total perioperative duration of 6 months and were alive and free of recurrence at data cutoff.
+During neoadjuvant treatment, ten (59%) patients in the toripalimab plus celecoxib group and ten (59%) in the toripalimab monotherapy group had grade 1-2 treatment-related adverse events.
+Only one (3%) of 34 patients, who was in the toripalimab plus celecoxib group, had a grade 3 or higher treatment-related adverse event during the neoadjuvant phase, which was grade 3 increased aspartate aminotransferase levels.
+In the adjuvant phase, only one (3%) of 34 patients, who was in the toripalimab monotherapy group, had a grade 3 or higher treatment-related adverse events, which was grade 3 increased aspartate aminotransferase and alanine aminotransferase levels.
+INTERPRETATION: Neoadjuvant toripalimab with or without celecoxib could be a potential therapeutic option for patients with mismatch repair deficient or microsatellite instability-high, locally advanced, colorectal cancer.
+This treatment was associated with a high pathological complete response rate and an acceptable safety profile, which did not compromise surgery.
+Longer term follow-up is needed to assess effects on survival-related endpoints.
+FUNDING: The National Key R&D Program of China, the National Natural Science Foundation of China, and the Chinese Society of Clinical Oncology-Junshi Biosciences Oncology Immunity Research.
+TRANSLATION: For the Chinese translation of the abstract see Supplementary Materials section.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

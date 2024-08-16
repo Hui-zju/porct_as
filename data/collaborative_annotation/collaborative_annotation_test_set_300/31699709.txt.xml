@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Combined Vaccination with NY-ESO-1 Protein, Poly-ICLC, and Montanide Improves Humoral and Cellular Immune Responses in Patients with High-Risk Melanoma.
+Given its ability to induce both humoral and cellular immune responses, NY-ESO-1 has been considered a suitable antigen for a cancer vaccine.
+Despite promising results from early-phase clinical studies in patients with melanoma, NY-ESO-1 vaccine immunotherapy has not been widely investigated in larger trials; consequently, many questions remain as to the optimal vaccine formulation, predictive biomarkers, and sequencing and timing of vaccines in melanoma treatment.
+We conducted an adjuvant phase I/II clinical trial in high-risk resected melanoma to optimize the delivery of poly-ICLC, a TLR-3/MDA-5 agonist, as a component of vaccine formulation.
+A phase I dose-escalation part was undertaken to identify the MTD of poly-ICLC administered in combination with NY-ESO-1 and montanide.
+This was followed by a randomized phase II part investigating the MTD of poly-ICLC with NY-ESO-1 with or without montanide.
+The vaccine regimens were generally well tolerated, with no treatment-related grade 3/4 adverse events.
+Both regimens induced integrated NY-ESO-1-specific CD4(+) T-cell and humoral responses.
+CD8(+) T-cell responses were mainly detected in patients receiving montanide.
+T-cell avidity toward NY-ESO-1 peptides was higher in patients vaccinated with montanide.
+In conclusion, NY-ESO-1 protein in combination with poly-ICLC is safe, well tolerated, and capable of inducing integrated antibody and CD4(+) T-cell responses in most patients.
+Combination with montanide enhances antigen-specific T-cell avidity and CD8(+) T-cell cross-priming in a fraction of patients, indicating that montanide contributes to the induction of specific CD8(+) T-cell responses to NY-ESO-1.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

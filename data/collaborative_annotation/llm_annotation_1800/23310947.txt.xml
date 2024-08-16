@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Body mass index at diagnosis and survival among colon cancer patients enrolled in clinical trials of adjuvant chemotherapy.
+BACKGROUND: Although obesity is an established risk factor for developing colon cancer, its prognostic impact and relation to patient sex in colon cancer survivors remains unclear.
+METHODS: The authors examined the prognostic and predictive impact of the body mass index (BMI) in patients with stage II and III colon carcinoma (N = 25,291) within the Adjuvant Colon Cancer Endpoints (ACCENT) database.
+BMI was measured at enrollment in randomized trials of 5-fluorouracil-based adjuvant chemotherapy.
+Association of BMI with the time to recurrence (TTR), disease-free survival (DFS), and overall survival (OS) were determined using Cox regression models.
+Statistical tests were 2-sided.
+RESULTS: During a median follow-up of 7.8 years, obese and underweight patients had significantly poorer survival compared with overweight and normal-weight patients.
+In a multivariable analysis, the adverse prognostic impact of BMI was observed among men but not among women (Pinteraction = .0129).
+Men with class 2 and 3 obesity (BMI &gt;/= 35.0 kg/m(2) ) had a statistically significant reduction in DFS (hazard ratio [HR], 1.16; 95% confidence interval [CI], 1.01-1.33; P = .0297) compared with normal-weight patients.
+Underweight patients had a significantly shorter TTR and reduced DFS (HR, 1.18; 95% CI, 1.09-1.28; P &lt; .0001) that was more significant among men (HR, 1.31; 95% CI, 1.15-1.50; P &lt; .0001) than among women (HR, 1.11; 95% CI, 1.01-1.23; P = .0362; Pinteraction = .0340).
+BMI was not predictive of a benefit from adjuvant treatment.
+CONCLUSIONS: Obesity and underweight status were associated independently with inferior outcomes in patients with colon cancer who received treatment in adjuvant chemotherapy trials.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

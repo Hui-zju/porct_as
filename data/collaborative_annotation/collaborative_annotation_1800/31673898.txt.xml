@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Methodology and results of real-world cost-effectiveness of carfilzomib in combination with lenalidomide and dexamethasone in relapsed multiple myeloma using registry data.
+OBJECTIVE: To predict the real-world (RW) cost-effectiveness of carfilzomib in combination with lenalidomide and dexamethasone (KRd) versus lenalidomide and dexamethasone (Rd) in relapsed multiple myeloma (MM) patients after one to three prior therapies.
+METHODS: A partitioned survival model that included three health states (progression-free, progressed disease and death) was built.
+Progression-free survival (PFS), overall survival (OS) and time to discontinuation (TTD) data for the Rd arm were derived using the Registry of Monoclonal Gammopathies in the Czech Republic; the relative treatment effects of KRd versus Rd were estimated from the phase 3, randomised, ASPIRE trial, and were used to predict PFS, OS and TTD for KRd.
+The model was developed from the payer perspective and included drug costs, administration costs, monitoring costs, palliative care costs and adverse-event related costs collected from Czech sources.
+RESULTS: The base case incremental cost effectiveness ratio for KRd compared with Rd was euro73,156 per quality-adjusted life year (QALY) gained.
+Patients on KRd incurred costs of euro117,534 over their lifetime compared with euro53,165 for patients on Rd.
+The QALYs gained were 2.63 and 1.75 for patients on KRd and Rd, respectively.
+CONCLUSIONS: Combining the strengths of randomised controlled trials and observational databases in cost-effectiveness models can generate policy-relevant results to allow well-informed decision-making.
+The current model showed that KRd is likely to be cost-effective versus Rd in the RW and, therefore, the reimbursement of KRd represents an efficient allocation of resources within the healthcare system.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

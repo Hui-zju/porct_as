@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[[A Randomized Controlled Study of Intravesical Instillation Therapy of Bacillus Calmette-Guerin vs. Epirubicinin Treating Non-muscular Invasive Bladder Cancer].
+Objective: To explore the best treatment plan of intravesical instillation for patients with non-muscular invasive bladder cancer (NMIBC), to explore recurrence-related clinicopathological factors after intravesical instillation, and to evaluate the value of the prognosis and prediction models currently used for NMIBC patients.
+Methods: Starting from 2016, patients who underwent transurethral resection of bladder tumor (TURBT) in our hospital and who received post-surgery diagnosis of having intermediate or high risks for NMIBC were enrolled in the study.
+They were randomly assigned to different group sat a ratio of 2ratio2ratio1 for receiving intravesical instillation therapy of Bacillus Calmette-Guerin (BCG) for 19 times, BCG for 15 times, and epirubicin (EPI) for 18 times.
+The clinicopathological data of the patients were recorded before, during and after instillation therapy, and survival curves were drawn to evaluate the effects of the three regimens, using recurrence-free survival as the endpoint.
+Clinicopathological data were analyzed to study the associations between various factors and post-instillation recurrence.
+The consistency index (c-index) was used to evaluate the predictive accuracy of the scoring model of the Spanish Urological Club for Oncological Treatment (CUETO) and the risk tables of European Organization for Research and Treatment of Cancer (EORTC).
+Results: A total of 93 NMIBC patients (35 in the 19-time BCG group, 37 in the 15-time BCG group, and 21 in the EPI group) were included, with a median follow-up time of 33.46 months.
+Twenty-two patients experienced tumor recurrence and eight, tumor progression.
+The survival curve showed that the BCG group had better recurrence-free survival than the EPI group ( P=0.002), while the difference in recurrence-free survival between 19-time BCG and 15-time BCG groups was not statistically significant.
+Higher general complication rate was seen in the BCG groups compared with the EPI group (84.7% vs. 61.9%, P=0.022), but there was no grade 3-5 adverse events in any group.
+The c-index of CUETO scoring model and EORTC risk tables was higher than that of the prediction based solely on T stage, nuclear grade, or EAU risk stratification.
+In addition, the c-index in the BCG group was higher than that in the whole cohort.
+Conclusion: Among the subjects of this study, the recurrence rate of bladder cancer in the intravesical BCG instillation groups was lower than that of the epirubicin group.
+EORTC risk tables and CUETO scoring model exhibited higher predictive accuracies in BCG-treated patients than its performance for the whole NMIBC cohort.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

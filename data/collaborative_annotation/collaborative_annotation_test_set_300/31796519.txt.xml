@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Phase II Trial of Pembrolizumab and Vorinostat in Recurrent Metastatic Head and Neck Squamous Cell Carcinomas and Salivary Gland Cancer.
+PURPOSE: This clinical trial combined pembrolizumab and vorinostat in recurrent/metastatic squamous cell carcinomas of the head and neck (HN), and salivary gland cancer (SGC).
+PATIENTS AND METHODS: Patients with progressing incurable HN and SGC, Eastern Cooperative Oncology Group (ECOG) </=1, no prior immunotherapy, RECIST1.1 measurable disease, and normal organ function were eligible.
+Pembrolizumab 200 mg was given intravenous every 21 days, and vorinostat 400 mg given orally 5 days on and 2 days off during each 21-day cycle.
+Primary endpoints were safety and objective response rates.
+RESULTS: From November 2015 to August 2017, 25 patients with HN and 25 SGC were enrolled.
+Median age was 61 (range, 33-86) years, 39 (78%) were male, 21 (62%) were never smokers, and 27 (54%) had ECOG 0.
+In HN, 13 (52%) were p16+ oropharynx.
+Most common SGC histologies were adenoid cystic 12 (48%), acinic cell 3 (12%), and mucoepidermoid 3 (12%).
+Adverse events (AEs) in all patients were: 27 (54%) with grade >/= 1 and 18 (36%) with grade >/= 3.
+The most common AEs in all patients were renal insufficiency in seven, (14%), fatigue in six, (12%), and nausea in three (6%).
+There were three (12%) deaths on study.
+Responses in HN were complete response (CR) 0, partial response (PR) eight (32%), and stable disease (SD) five (20%).
+Efficacy in SGCs was CR 0, PR four (16%) in one lymphoepithelioma-like carcinoma, two acinic cell, one adenoid cystic, and SD 14 (56%).
+In the HN group, median follow-up (mFUP) was 12.6 months, median overall survival (mOS) was 12.6 months, and median progression-free survival (mPFS) was 4.5 months.
+In SGC, mFUP was 13.1 months, mOS was 14.0 months, and mPFS was 6.9 months.
+CONCLUSIONS: This combination demonstrated activity in HN, with fewer responses in SGC.
+Toxicities were higher than reported with pembrolizumab alone.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

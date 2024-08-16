@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Safety and efficacy of regorafenib in patients with advanced soft tissue sarcoma (REGOSARC): a randomised, double-blind, placebo-controlled, phase 2 trial.
+BACKGROUND: Regorafenib is a multikinase inhibitor with proven activity in refractory gastrointestinal stromal tumours and chemotherapy-refractory advanced colorectal cancers.
+We assessed this agent's efficacy and safety in patients with metastatic soft tissue sarcomas previously treated with anthracycline.
+METHODS: In this randomised, double-blind, phase 2 trial undertaken in France and Austria, we enrolled patients aged 18 years and older with advanced soft tissue sarcomas who had received previous doxorubicin or other anthracycline treatment.
+These patients were randomly assigned (1:1) into one of the following four cohorts: liposarcoma, leiomyosarcoma, synovial sarcoma, and other sarcomas.
+Participants were treated with oral regorafenib (160 mg per day 3 weeks on and 1 week off) or matched placebo.
+Patients receiving placebo were offered optional crossover in case of centrally confirmed disease progression.
+The random allocation schedule was computer-generated with permuted blocks of four patients, with two stratification factors: country (France or Austria) and previous exposure to pazopanib (yes or no).
+Eligibility criteria included patients with histologically proven advanced and inoperable soft tissue sarcomas with intolerance or failure to doxorubicin or other anthracycline-based chemotherapy and at least one unidimensionally or bidimensionally measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST; version 1.1).
+The primary endpoint was RECIST-based progression-free survival after central radiological review in the intention-to-treat population.
+Patients, physicians, and radiologists of the panel were masked to treatment allocation.
+This study is still open for recruitment for an additional stratum (patients previously treated with pazopanib) and registered with ClinicalTrials.gov, NCT01900743.
+FINDINGS: From Aug 5, 2013, to Nov 26, 2014, 182 patients were randomly assigned to one of four cohorts and included in the final analysis.
+At the cutoff date (Jan 7, 2016), the number of required events was reached for the four cohorts.
+In the liposarcoma cohort, progression-free survival was 1.1 months (95% CI 0.9-2.3) with regorafenib versus 1.7 months (0.9-1.8) with placebo (HR 0.89 [95% CI 0.48-1.64] p=0.70).
+In the leiomyosarcoma cohort, progression-free survival was 3.7 months (95% CI 2.5-5.0) with regorafenib versus 1.8 (1.0-2.8) months with placebo (HR 0.46 [95% CI 0.46-0.80] p=0.0045).
+In the synovial sarcoma cohort, progression-free survival was 5.6 months (95% CI 1.4-11.6) with regorafenib versus 1.0 (0.8-1.4) with placebo (HR 0.10 [95% CI 0.03-0.35] p<0.0001).
+In the other sarcoma cohort, progression-free survival was 2.9 months (95% CI 1.0-7.8) with regorafenib versus 1.0 (0.9-1.9) with placebo (HR 0.46 [95% CI 0.25-0.81] p=0.0061).
+Before crossover, the most common clinically significant grade 3 or higher adverse events were arterial hypertension (17 [19%] events in the 89 patients in the regorafenib group vs two [2%] events in the 92 patients in the placebo group), hand and foot skin reaction (14 [15%] vs no events) and asthenia (12 [13%] vs six [6%]).
+One treatment-related death occurred in the regorafenib group due to liver failure.
+INTERPRETATION: Regorafenib has an important clinical antitumour effect in non-adipocytic soft tissue sarcomas, improving progression-free survival.
+Regorafenib should be further evaluated in this setting, and its therapeutic role has to be defined in the context of the growing therapeutic armamentarium, already including one approved multikinase inhibitor, pazopanib.
+FUNDING: Bayer HealthCare.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

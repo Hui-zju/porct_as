@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Oncology nurse phone calls halve the risk of reduced dose intensity of immunochemotherapy: results of the randomized FORTIS study in chronic lymphocytic leukemia.
+Delivering of &gt; 80% planned relative dose intensity (RDI) of fludarabine-cyclophosphamide-rituximab (FCR) is key to benefit from longer progression free survival (PFS) and survivals in CLL.
+In this randomized trial, we sought to investigate whether a telephone intervention strategy (called AMA) delivered by an oncology nurse could reduce the risk of RDI &lt; 80% by alleviating adverse events and supporting patients' adherence.
+Sixty FCR patients were randomized 1:1 for AMA (stratified on Binet stage C).
+As per guidelines, patients received pegfilgrastim as primary prophylaxis of febrile neutropenia.
+At the end of therapy, RDI &lt; 80% was reported in 31% of patients, shortening PFS (median 26 months versus not reached, P = 0.021) and OS at 3 years (100 vs 70%, P = 0.0089).
+Oncology nurse interventions tended to significantly reduce this event (RDI &lt; 80%: 41.4% in non-AMA versus 20.7% in AMA patients (p = 0.09)).
+By adjusting our logistic regression model on published parameters exposing to RDI &lt; 80%, we found that AMA protected significantly against the risk of reduced RDI (OR = 0.22, IC95% 0.05-0.84, p = 0.04), independently of grade 3/4 neutropenia (&lt; 15% per cycle) and febrile neutropenia (&lt; 5% per cycle) events.
+As a conclusion, we confirmed that &gt; 20% reduction of FCR dose-intensity was detrimental for PFS/OS, but that oncology nurse interventions reduced the risk of dose concessions.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Panitumumab in combination with gemcitabine and oxaliplatin does not prolong survival in wild-type KRAS advanced biliary tract cancer: A randomized phase 2 trial (Vecti-BIL study).
+BACKGROUND: Biliary tract cancer (BTC) is a rare and lethal disease with few therapeutic options.
+Preclinical data suggest that the epidermal growth factor receptor (EGFR) pathway could be involved in its progression.
+METHODS: This open-label, randomized phase 2 trial recruited chemotherapy-naive patients with advanced BTC displaying a wild-type (WT) KRAS status.
+Patients were randomized to gemcitabine (1000 mg/m(2) ) and oxaliplatin (100 mg/m(2) ) with (arm A) or without (arm B) panitumumab (6 mg/kg) for up to 12 cycles.
+The primary endpoint was progression-free survival (PFS) analyzed in an intention-to-treat fashion.
+RESULTS: Eighty-nine patients (45 in arm A and 44 in arm B) were enrolled between June 2010 and September 2013.
+After a median follow-up of 10.1 months, the median PFS was 5.3 months (95% confidence interval, 3.3-7.2 months) in arm A and 4.4 months (95% confidence interval, 2.6-6.2 months) in arm B (P = .27).
+No survival differences were observed: the median overall survival was 9.9 months in arm A and 10.2 months in arm B (P = .42).
+In a subgroup analysis, no differences in PFS according to the site of the primary tumor were observed; patients with intrahepatic cholangiocarcinoma treated with panitumumab may have had a survival benefit in comparison with the control group (15.1 vs 11.8 months, P = .13).
+As for safety, skin toxicity was the main adverse event in arm A (80% of the patients).
+A higher incidence of diarrhea (55.5% vs 31.8%), mucositis (22.2% vs 13.6%), and constipation (24.4% vs 15.9%) was seen in arm A. CONCLUSIONS: These results confirm the marginal role of anti-EGFR therapy even for WT KRAS-selected BTC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

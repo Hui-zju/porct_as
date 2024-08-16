@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Association of EGFR expression level and cetuximab activity in patient-derived xenograft models of human non-small cell lung cancer.
+PURPOSE: To explore in a panel of patient-derived xenograft models of human non-small cell lung cancer (NSCLC) whether high EGFR expression, was associated with cetuximab activity.
+EXPERIMENTAL DESIGN: NSCLC patient-derived xenograft models (n=45) were implanted subcutaneously into panels of nude mice and randomization cohorts were treated with either cetuximab, cisplatin, cisplatin plus cetuximab, vehicle control, or else were left untreated.
+Responses according to treatment were assessed at week 3 by analyzing the relative change in tumor volume and an experimental analogue of the Response Evaluation Criteria in Solid Tumors (RECIST) guidelines.
+An EGFR IHC score was calculated for each patient-derived xenograft model and response was assessed according to EGFR expression level.
+RESULTS: When tumors were stratified into high and low EGFR expression groups (IHC score threshold 200; scale 0-300), a stronger antitumor activity was seen in the high EGFR expression group compared with the low EGFR expression group in both the cetuximab monotherapy and cisplatin plus cetuximab combination therapy settings.
+For tumors treated with cisplatin plus cetuximab, the objective response rate was significantly higher in the high EGFR expression group compared with the low EGFR expression group (68% vs. 29%).
+Objective response rates were similar in high and low expression groups for tumors treated with cisplatin alone (27% vs. 24%, respectively).
+CONCLUSION: Cetuximab activity in NSCLC patient-derived xenograft models was demonstrated clearly only in tumors that expressed high levels of EGFR, as defined by an IHC score of &gt;/=200.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

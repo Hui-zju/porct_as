@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Clinical and genetic predictors of paclitaxel neurotoxicity based on patient- versus clinician-reported incidence and severity of neurotoxicity in the ICON7 trial.
+Background: Chemotherapy-induced peripheral neuropathy (CIPN) is a dose-limiting toxicity of paclitaxel, with no reliable method to identify at-risk patients.
+We investigated the incidence and risk factors including genetic polymorphisms associated with the development of CIPN based on clinician and patient reporting of neuropathic symptoms.
+Patients and methods: Risk factors for the development of CIPN were examined in 454 patients treated with paclitaxel/carboplatin from the International Collaboration on Ovarian Neoplasms 7 (ICON7) trial.
+Neuropathy was graded by clinicians by standard adverse event reporting and by patients utilising OV28 questionnaire.
+Genetic risk factors were examined by selecting six single nucleotide polymorphisms in genes associated with microtubule function.
+Risk factors were assessed via dose-to-event cox regression models.
+Results: Grade &gt;2 neuropathy was reported by clinicians in 28% of patients, while 67% of patients reported 'quite a bit' or 'very much' tingling or numbness.
+Agreement between clinicians and patients was poor (kappa = 0.236, 95% confidence interval, 0.177-0.296, P &lt; 0.001).
+Older age, bevacizumab treatment and bowel resection were associated with clinician reported CIPN, while older age and volume of residual disease were associated with patient-reported neuropathy.
+There were no significant associations between clinician-reported neuropathy or patient-reported neuropathy and TUBB2, CEP72 or individual MAPT or GSK3B SNPs, however MAPT additive polymorphisms were associated with patient-reported neuropathy and GSK3B additive polymorphisms were associated with clinician reported CIPN.
+Conclusions: There was significant discordance between patient- and clinician-reported neurotoxicity.
+The lack of consensus regarding optimal outcome measures and whose opinion with regard to CIPN takes precedence is a limitation in the investigation of risk factors for CIPN.
+Care must be taken to select and include patient-reported outcome measures in CIPN assessment to enable accurate identification of genetic and other risk factors for neuropathy.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

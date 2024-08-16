@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>A thymidylate synthase polymorphism is associated with increased risk for bone toxicity among children treated for acute lymphoblastic leukemia.
+BACKGROUND: Bone fractures and osteonecrosis frequently complicate therapy for childhood acute lymphoblastic leukemia (ALL).
+Bone toxicity has been associated with exposure to corticosteroids and methotrexate (MTX) and age greater than 10 years.
+We tested whether common genetic polymorphisms were associated with bone toxicity during treatment for ALL.
+PROCEDURE: A total of 615 of 794 children enrolled on Dana Farber Cancer Institute ALL Consortium protocol 05-001 (NCT00400946) met eligibility criteria for inclusion in this analysis.
+Nineteen candidate polymorphisms were selected a priori, targeting genes related to glucocorticoid metabolism, oxidative damage, and folate physiology.
+Polymorphisms were genotyped using either PCR-based allelic discrimination or PCR product length analysis.
+RESULTS: Twenty percent of subjects were homozygous for two 28 bp repeats (2R/2R, where 2R is two 28-nucleotide repeats within the 5' untranslated region [UTR] of the thymidylate synthase [TS] gene) within the 5' UTR of the gene for TS.
+This 2R/2R genotype was associated with increased risk of osteonecrosis among children younger than 10 years at diagnosis (multivariable hazard ratio [HR] 2.71; 95% confidence interval [CI] 1.23-5.95; P = 0.013), and with bone fracture among children &gt;/= 10 years (multivariable HR 2.10; 95% CI 1.11-3.96; P = 0.022).
+No significant association was observed between TS genotype and red blood cell (RBC) folate, RBC MTX, or relapse risk.
+CONCLUSIONS: A common genetic variant is associated with increased risk of osteonecrosis among children younger than 10 years at diagnosis and with bone fractures among older children.
+These findings suggest that children and adolescents with the 2R/2R TS genotype should be closely monitored for the development of bone toxicity during therapy for ALL, and support a clinical trial testing the efficacy of protective interventions specifically in this vulnerable population.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Addition of docetaxel to hormonal therapy in low- and high-burden metastatic hormone sensitive prostate cancer: long-term survival results from the STAMPEDE trial.
+BACKGROUND: STAMPEDE has previously reported that the use of upfront docetaxel improved overall survival (OS) for metastatic hormone naive prostate cancer patients starting long-term androgen deprivation therapy.
+We report on long-term outcomes stratified by metastatic burden for M1 patients.
+METHODS: We randomly allocated patients in 2 : 1 ratio to standard-of-care (SOC; control group) or SOC + docetaxel.
+Metastatic disease burden was categorised using retrospectively-collected baseline staging scans where available.
+Analysis used Cox regression models, adjusted for stratification factors, with emphasis on restricted mean survival time where hazards were non-proportional.
+RESULTS: Between 05 October 2005 and 31 March 2013, 1086 M1 patients were randomised to receive SOC (n = 724) or SOC + docetaxel (n = 362).
+Metastatic burden was assessable for 830/1086 (76%) patients; 362 (44%) had low and 468 (56%) high metastatic burden.
+Median follow-up was 78.2 months.
+There were 494 deaths on SOC (41% more than the previous report).
+There was good evidence of benefit of docetaxel over SOC on OS (HR = 0.81, 95% CI 0.69-0.95, P = 0.009) with no evidence of heterogeneity of docetaxel effect between metastatic burden sub-groups (interaction P = 0.827).
+Analysis of other outcomes found evidence of benefit for docetaxel over SOC in failure-free survival (HR = 0.66, 95% CI 0.57-0.76, P < 0.001) and progression-free survival (HR = 0.69, 95% CI 0.59-0.81, P < 0.001) with no evidence of heterogeneity of docetaxel effect between metastatic burden sub-groups (interaction P > 0.5 in each case).
+There was no evidence that docetaxel resulted in late toxicity compared with SOC: after 1 year, G3-5 toxicity was reported for 28% SOC and 27% docetaxel (in patients still on follow-up at 1 year without prior progression).
+CONCLUSIONS: The clinically significant benefit in survival for upfront docetaxel persists at longer follow-up, with no evidence that benefit differed by metastatic burden.
+We advocate that upfront docetaxel is considered for metastatic hormone naive prostate cancer patients regardless of metastatic burden.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

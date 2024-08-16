@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Comparison of volumetric and linear serial CT assessments of lung metastases in renal cell carcinoma patients in a clinical phase IIB study.
+RATIONALE AND OBJECTIVES: Accuracy of radiologic assessment may have a crucial impact on clinical studies and therapeutic decisions.
+We compared the variability of a central radiologic assessment (RECIST) and computer-aided volume-based assessment of lung lesions in patients with metastatic renal cell carcinoma (RCC).
+MATERIALS AND METHODS: The investigation was prospectively planned as a substudy of a clinical randomized phase IIB therapeutic trial in patients with RCC.
+Starting with the manual study diameter (SDM) of the central readers using RECIST in the clinical study, we performed computer-aided volume measurements.
+We compared SDM to an automated RECIST diameter (aRDM) and the diameter of a volume-equivalent sphere (effective diameter [EDM]), both for the individual size measurements and for the change rate (CR) between consecutive time points.
+One hundred thirty diameter pairs of 30 lung lesions from 14 patients were evaluable, forming 55 change pairs over two consecutive time points each.
+RESULTS: The SDMs of two different readers showed a correlation of 95.6%, whereas the EDMs exhibited an excellent correlation of 99.4%.
+Evaluation of CRs showed an SDM-CR correlation of 63.9%, which is substantially weaker than the EDM-CR correlation of 87.6%.
+The variability of SDM-CR is characterized by a median absolute difference of 11.4% points versus the significantly lower 1.8% points EDM-CRs variability (aRDM: 3.2% points).
+The limits of agreement between readers suggest that an EDM change of 10% or 1 mm can already be significant.
+CONCLUSIONS: Computer-aided volume-based assessments result in markedly reduced variability of parameters describing size and change, which may offer an advantage of earlier response evaluations and treatment decisions for patients.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

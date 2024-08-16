@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Incidence of cancer and mortality in patients from the Simvastatin and Ezetimibe in Aortic Stenosis (SEAS) trial.
+The Simvastatin and Ezetimibe in Aortic Stenosis (SEAS) clinical trial, including 1,873 patients found an increased risk for cancer with lipid-lowering therapy with ezetimibe/simvastatin 10/40 mg/day, relative to placebo.
+In a registry-based follow-up study over 21 months from the conclusion of the SEAS trial, new incident cancer and total mortality were investigated in the SEAS study cohort from Denmark, Finland, Norway, Sweden, and the United Kingdom.
+Among 1,359 subjects eligible for follow-up (73% of the original total cohort), 1,194 had no history of cancer (primary follow-up cohort).
+New cancers and deaths were identified in the national cancer and mortality registries and classified by an Expert Review Committee.
+Data were analyzed using Cox proportional-hazards models of new cancers and mortality during follow-up according to treatment group assigned in the SEAS base study and with age, gender, smoking history, and previous cancers as covariates.
+The primary follow-up cohort had 12 patients with new cancers in the ezetimibe/simvastatin group and 22 in the placebo group (hazard ratio 0.55, 95% confidence interval 0.27 to 1.11), indicating no significant difference between the treatment groups.
+During follow-up, 43 patients assigned to ezetimibe/simvastatin and 33 assigned to placebo died (hazard ratio 1.29, 95% confidence interval 0.82 to 2.03).
+In conclusion, in this registry-based observational follow-up study of the original SEAS study patient population, treatment with ezetimibe/simvastatin was not associated with an increased risk for cancer or mortality in the 21-month period after the completion of the original SEAS study.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

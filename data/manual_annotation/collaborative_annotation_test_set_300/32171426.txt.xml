@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Pertuzumab, trastuzumab, and docetaxel for HER2-positive metastatic breast cancer (CLEOPATRA): end-of-study results from a double-blind, randomised, placebo-controlled, phase 3 study.
+BACKGROUND: CLEOPATRA was a phase 3 study comparing the efficacy and safety of pertuzumab, trastuzumab, and docetaxel with placebo, trastuzumab, and docetaxel in patients with HER2-positive metastatic breast cancer.
+In the primary analysis and subsequent reports, progression-free and overall survival were significantly improved in the pertuzumab group compared with the placebo group.
+Here, we report the end-of-study analysis of CLEOPATRA.
+METHODS: This was a double-blind, randomised, placebo-controlled, phase 3 trial that was done at 204 centres in 25 countries.
+Eligible patients were 18 years or older, had HER2-positive, metastatic breast cancer, had not received previous chemotherapy or biological treatment for their metastatic disease, and had an Eastern Cooperative Oncology Group performance status of 0 or 1.
+All study drugs were given intravenously, every 3 weeks.
+Patients were assigned to receive either pertuzumab or placebo at a loading dose of 840 mg, and 420 mg thereafter; plus trastuzumab at 8 mg/kg loading dose and 6 mg/kg thereafter; and docetaxel at 75 mg/m(2), escalating to 100 mg/m(2) if tolerated.
+Pertuzumab or placebo and trastuzumab were given until disease progression; docetaxel was given for six cycles, or longer at the investigators' discretion.
+Randomisation (1:1) was done by use of an interactive voice-response system and was stratified by geographical region (Asia, Europe, North America, or South America) and previous treatment (previous adjuvant or neoadjuvant chemotherapy vs none).
+The primary endpoint was independent review facility-assessed progression-free survival, which has been reported previously.
+Since the confirmatory overall survival analysis had also occurred before this prespecified end-of-study analysis, analyses presented here are descriptive.
+Overall survival analyses were based on the intention-to-treat population with crossover patients analysed in the placebo group; analyses were not adjusted for crossover to the pertuzumab group and are likely to be conservative.
+Safety analyses were based on treatment received; crossover patients were counted in the placebo group up to the day before first pertuzumab dose.
+This trial is registered with ClinicalTrials.gov, number NCT00567190.
+FINDINGS: Between Feb 12, 2008, and July 7, 2010, 1196 patients were assessed for eligibility, of whom 808 were enrolled and randomly assigned.
+402 patients were assigned to receive docetaxel plus trastuzumab plus pertuzumab, and 406 patients were assigned to receive docetaxel plus trastuzumab plus placebo.
+Clinical cutoff for this analysis was Nov 23, 2018.
+Between July 2012 and clinical cutoff, 50 patients crossed from the placebo to the pertuzumab group.
+Median follow-up was 99.9 months in the pertuzumab group (IQR 92.9-106.4) and 98.7 months (90.9-105.7) in the placebo group.
+Median overall survival was 57.1 months (95% CI 50-72) in the pertuzumab group and 40.8 months (36-48) in the placebo group (hazard ratio 0.69, 95% CI 0.58-0.82); 8-year landmark overall survival rates were 37% (95% CI 31-42) in the pertuzumab group and 23% (19-28) in the placebo group.
+The most common grade 3-4 adverse event was neutropenia (200 [49%] of 408 patients in the pertuzumab group, 183 [46%] of 396 patients in the placebo group).
+Five (1%) of 408 patients in the pertuzumab group and six (2%) of 396 patients in the placebo group had treatment-related deaths.
+One new serious adverse event suggestive of congestive heart failure (pertuzumab group) and one new symptomatic left ventricular systolic dysfunction (post-crossover) occurred since the previous analysis.
+INTERPRETATION: Our analysis shows that the previously observed improvements in overall survival with pertuzumab, trastuzumab, and docetaxel versus placebo, trastuzumab, and docetaxel were maintained after a median of more than 8 years of follow-up.
+The long-term safety and cardiac safety profiles of pertuzumab, trastuzumab, and docetaxel were maintained in the overall safety population and within crossover patients.
+HER2-targeted therapy has changed the natural history of HER2-positive metastatic breast cancer, with the dual blockade of pertuzumab and trastuzumab, with docetaxel, demonstrating an 8-year landmark overall survival rate of 37%.
+FUNDING: F Hoffmann-La Roche and Genentech.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

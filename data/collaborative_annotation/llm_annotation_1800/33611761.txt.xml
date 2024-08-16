@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>MMSE is an independent prognostic factor for survival in primary central nervous system lymphoma.
+INTRODUCTION: To assess the value of the Mini-Mental State Examination (MMSE)-score at baseline in predicting survival in adult primary central nervous system lymphoma (PCNSL) patients.
+METHODS: In the HOVON 105/ ALLG NHL 24 phase III study patients with newly-diagnosed PCNSL were randomized between high-dose methotrexate-based chemotherapy with or without rituximab.
+Data on potential (MMSE-score), and known baseline prognostic factors (age, performance status, serum LDH, cerebrospinal fluid total protein, involvement of deep brain structures, multiple cerebral lesions, and the IELSG-score) were collected prospectively.
+Multivariable stepwise Cox regression analyses were used to assess the prognostic value of all factors on progression-free survival (PFS) and overall survival (OS) among patients with available MMSE score at baseline.
+Age was analyzed as continuous variable, the MMSE-score both as a continuous and as a categorical variable.
+RESULTS: In univariable analysis, age, MMSE-score and whether the patient received rituximab were statistically significantly prognostic factors for PFS.
+Age and MMSE-score were statistically significantly associated with OS.
+In a multivariable analysis of the univariately significant factors only MMSE-score was independently associated with the survival endpoints, as a continuous variable (HR for PFS 1.04, 95% CI 1.01-1.08; OS 1.06 (95% CI 1.02-1.10) and as categorical variable HR (&lt; 27 versus &gt;/= 27 for PFS 1.55 (1.02-2.35); OS 1.68 (1.05-2.70).
+In our population, performance status, serum LDH, and CSF protein level were not of prognostic value.
+CONCLUSION: Neurocognitive disturbances, measured with the MMSE at baseline, are an unfavorable prognostic factor for both PFS and OS in adult PCNSL patients up to 70 years-old.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

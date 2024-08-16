@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Sunitinib in pancreatic neuroendocrine tumors: updated progression-free survival and final overall survival from a phase III randomized study.
+BACKGROUND: In a phase III trial in patients with advanced, well-differentiated, progressive pancreatic neuroendocrine tumors, sunitinib 37.5 mg/day improved investigator-assessed progression-free survival (PFS) versus placebo (11.4 versus 5.5 months; HR, 0.42; P &lt; 0.001).
+Here, we present PFS using retrospective blinded independent central review (BICR) and final median overall survival (OS), including an assessment highlighting the impact of patient crossover from placebo to sunitinib.
+PATIENTS AND METHODS: In this randomized, double-blind, placebo-controlled study, cross-sectional imaging from patients was evaluated retrospectively by blinded third-party radiologists using a two-reader, two-time-point lock, followed by a sequential locked-read, batch-mode paradigm.
+OS was summarized using the Kaplan-Meier method and Cox proportional hazards model.
+Crossover-adjusted OS effect was derived using rank-preserving structural failure time (RPSFT) analyses.
+RESULTS: Of 171 randomized patients (sunitinib, n = 86; placebo, n = 85), 160 (94%) had complete scan sets/time points.
+By BICR, median (95% confidence interval [CI]) PFS was 12.6 (11.1-20.6) months for sunitinib and 5.8 (3.8-7.2) months for placebo (HR, 0.32; 95% CI 0.18-0.55; P = 0.000015).
+Five years after study closure, median (95% CI) OS was 38.6 (25.6-56.4) months for sunitinib and 29.1 (16.4-36.8) months for placebo (HR, 0.73; 95% CI 0.50-1.06; P = 0.094), with 69% of placebo patients having crossed over to sunitinib.
+RPSFT analysis confirmed an OS benefit for sunitinib.
+CONCLUSIONS: BICR confirmed the doubling of PFS with sunitinib compared with placebo.
+Although the observed median OS improved by nearly 10 months, the effect estimate did not reach statistical significance, potentially due to crossover from placebo to sunitinib.
+TRIAL REGISTRATION NUMBER: NCT00428597.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

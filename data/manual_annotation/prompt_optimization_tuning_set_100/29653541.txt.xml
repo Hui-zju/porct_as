@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Cosmetic outcome as rated by patients, doctors, nurses and BCCT.core software assessed over 5 years in a subset of patients in the TARGIT-A Trial.
+BACKGROUND: The purpose of this research was to assess agreement between four rating systems of cosmetic outcome measured in a subset of patients with early breast cancer participating in the randomised TARGIT-A trial.
+TARGIT-A compared risk-adapted single-dose intra-operative radiotherapy (TARGIT-IORT) to whole breast external beam radiotherapy (EBRT).
+METHODS: Patients, their Radiation Oncologist and Research Nurse completed a subjective cosmetic assessment questionnaire before radiotherapy and annually thereafter for five years.
+Objective data previously calculated by the validated BCCT.core software which utilizes digital photographs to score symmetry, colour and scar was also used.
+Agreement was assessed by the Kappa statistic and longitudinal changes were assessed by generalized estimating equations.
+RESULTS: Overall, an Excellent-Good (EG) cosmetic result was scored more often than a Fair-Poor (FP) result for both treatment groups across all time points, with patients who received TARGIT-IORT scoring EG more often than those who received EBRT however this was statistically significant at Year 5 only.
+There was modest agreement between the four rating systems with the highest Kappa score being moderate agreement which was between nurse and doctor scores at Year 1 with Kappa = 0.46 (p < 0.001), 95% CI (0.24, 0.68).
+CONCLUSION: Despite similar overall findings between treatment groups and rating systems, the inter-rater agreement was only modest.
+This suggests that the four rating systems utilized may not necessarily be used interchangeably and it is arguable that for an outcome such as cosmetic appearance, the patient's point of view is the most important.
+TRIAL REGISTRATION: TARGIT-A ISRCTN34086741 , Registered 21 July 2004, retrospectively registered.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

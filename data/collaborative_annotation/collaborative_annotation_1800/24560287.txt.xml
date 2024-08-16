@@ -1,0 +1,22 @@
+<MyRCT>
+<TEXT>A comparison of two methods for estimating DCE-MRI parameters via individual and cohort based AIFs in prostate cancer: a step towards practical implementation.
+Multi-parametric Magnetic Resonance Imaging, and specifically Dynamic Contrast Enhanced (DCE) MRI, play increasingly important roles in detection and staging of prostate cancer (PCa).
+One of the actively investigated approaches to DCE MRI analysis involves pharmacokinetic (PK) modeling to extract quantitative parameters that may be related to microvascular properties of the tissue.
+It is well-known that the prescribed arterial blood plasma concentration (or Arterial Input Function, AIF) input can have significant effects on the parameters estimated by PK modeling.
+The purpose of our study was to investigate such effects in DCE MRI data acquired in a typical clinical PCa setting.
+First, we investigated how the choice of a semi-automated or fully automated image-based individualized AIF (iAIF) estimation method affects the PK parameter values; and second, we examined the use of method-specific averaged AIF (cohort-based, or cAIF) as a means to attenuate the differences between the two AIF estimation methods.
+Two methods for automated image-based estimation of individualized (patient-specific) AIFs, one of which was previously validated for brain and the other for breast MRI, were compared.
+cAIFs were constructed by averaging the iAIF curves over the individual patients for each of the two methods.
+Pharmacokinetic analysis using the Generalized kinetic model and each of the four AIF choices (iAIF and cAIF for each of the two image-based AIF estimation approaches) was applied to derive the volume transfer rate (K(trans)) and extravascular extracellular volume fraction (ve) in the areas of prostate tumor.
+Differences between the parameters obtained using iAIF and cAIF for a given method (intra-method comparison) as well as inter-method differences were quantified.
+The study utilized DCE MRI data collected in 17 patients with histologically confirmed PCa.
+Comparison at the level of the tumor region of interest (ROI) showed that the two automated methods resulted in significantly different (p&lt;0.05) mean estimates of ve, but not of K(trans).
+Comparing cAIF, different estimates for both ve, and K(trans) were obtained.
+Intra-method comparison between the iAIF- and cAIF-driven analyses showed the lack of effect on ve, while K(trans) values were significantly different for one of the methods.
+Our results indicate that the choice of the algorithm used for automated image-based AIF determination can lead to significant differences in the values of the estimated PK parameters.
+K(trans)
+estimates are more sensitive to the choice between cAIF/iAIF as compared to ve, leading to potentially significant differences depending on the AIF method.
+These observations may have practical consequences in evaluating the PK analysis results obtained in a multi-site setting.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

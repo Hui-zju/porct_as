@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Strength and endurance training in the treatment of lung cancer patients in stages IIIA/IIIB/IV.
+PURPOSE: This randomized controlled trial tested the effects of a specially designed strength and endurance training on the independence and quality of life in lung cancer patients in stages IIIA/IIIB/IV during palliative chemotherapy.
+METHODS: Between August 2010 and December 2011, 46 patients were randomized into two groups receiving either conventional physiotherapy or special physiotherapeutic training.
+The Barthel Index served as primary endpoint.
+The secondary endpoints were the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core-30 (EORTC QLQ C-30/LC-13) questionnaire, the 6-Minute Walk Test (6MWT), stair walking, the Modified Borg Scale, and muscle strength.
+Nonparametrical data were analyzed with the Wilcoxon and Mann-Whitney U test.
+For parametric, data student t tests were used.
+A p value of </=.05 was accepted.
+RESULTS: Twenty-nine patients completed the trial (Intervention group (IG), n = 18; control group (CG), n = 11).
+Significant differences were detectable in the Barthel Index (IGmean = 92.08; CGmean = 81.67; p = .041), in single scores of the EORTC QLQ C-30/LC-13 questionnaire (physical functioning, p = .025; hemoptysis, p = .019; pain in arms or shoulder, p = .048; peripheral neuropathy, p = .050; cognitive functioning, p = .050), in the 6MWT, stair walking, strength capacity, and in the patient's dyspnoea perception during submaximal walking activities (IG > CG).
+CONCLUSION: According to these findings, lung cancer patients should receive enhanced physical activity intervention during palliative chemotherapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

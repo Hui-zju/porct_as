@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized Phase II trial of paclitaxel and carboplatin followed by gemcitabine switch-maintenance therapy versus gemcitabine and carboplatin followed by gemcitabine continuation-maintenance therapy in previously untreated advanced non-small cell lung cancer.
+BACKGROUND: In recent years, maintenance chemotherapy is increasingly being recognized as a new treatment strategy to improve the outcome of advanced non-small cell lung cancer (NSCLC).
+However, the optimal maintenance strategy is still controversial.
+Gemcitabine is a promising candidate for single-agent maintenance therapy because of little toxicity and good tolerability.
+We have conducted a randomized phase II study to evaluate the validity of single-agent maintenance chemotherapy of gemcitabine and to compare continuation- and switch-maintenance.
+METHODS: Chemonaive patients with stage IIIB/IV NSCLC were randomly assigned 1:1 to either arm A or B. Patients received paclitaxel (200 mg/m2, day 1) plus carboplatin (AUC 6 mg/mL/min, day 1) every 3 weeks in arm A, or gemcitabine (1000 mg/m2, days 1 and 8) plus carboplatin (AUC 5 mg/mL/min, day1) every 3 weeks in arm B. Non-progressive patients following 3 cycles of induction chemotherapy received maintenance gemcitabine (1000 mg/m2, days 1 and 8) every 3 weeks.
+( TRIAL REGISTRATION: UMIN000008252)
+RESULTS: The study was stopped because of delayed accrual at interim analysis.
+Of the randomly assigned 50 patients, 49 except for one in arm B were evaluable.
+Median progression-free survival (PFS) was 4.6 months for arm A vs. 3.5 months for arm B (HR = 1.03; 95% CI, 0.45-2.27; p = 0.95) and median overall survival (OS) was 15.0 months for arm A vs. 14.8 months for arm B (HR = 0.79; 95% CI, 0.40-1.51; p = 0.60), showing no difference between the two arms.
+The response rate, disease control rate, and the transit rate to maintenance phase were 36.0% (9/25), 64.0% (16/25), and 48% (12/25) for arm A vs. 16.7% (4/24), 50.0% (12/24), and 33% (8/24) for arm B, which were also statistically similar between the two arms (p = 0.13, p = 0.32, and p = 0.30, respectively).
+Both induction regimens were tolerable, except that more patients experienced peripheral neuropathy in arm A. Toxicities during the maintenance phase were also minimal.
+CONCLUSION: Survival and overall response were not significantly different between the two arms.
+Gemcitabine may be well-tolerable and feasible for maintenance therapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

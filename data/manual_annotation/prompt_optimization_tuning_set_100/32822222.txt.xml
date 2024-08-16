@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Clinical Study on Microwave Ablation in Combination with Chemotherapy in Treating Peripheral IIIB-IV Non-Small Cell Lung Cancer.
+Background: This study investigated the efficacy and complications of microwave ablation in combination with chemotherapy in treating peripheral IIIB-IV non-small cell lung cancer (NSCLC).
+Materials and Methods: A total of 100 patients with peripheral IIIB-IV NSCLC were randomly divided into two groups: combination group (n = 52) and chemotherapy group (n = 48).
+Patients in the combination group were treated with microwave ablation, radiotherapy, and chemotherapy, whereas the patients in the chemotherapy group were treated with pemetrexed disodium or gemcitabine hydrochloride, cisplatin chemotherapy, and conventional radiotherapy.
+Results: The effectiveness and disease control rates were significantly higher in the combination group than in the chemotherapy group (p < 0.05).
+The second- and third-year survival rates were significantly higher in the combination group than in the chemotherapy group (p < 0.05).
+However, patients in the combination group had no serious complications, and there were no intraoperative and perioperative deaths.
+Conclusions: Microwave ablation is safe and effective.
+Combination chemotherapy is superior to chemotherapy in treating peripheral IIIB-IV NSCLC in terms of effectiveness rate, disease control rate, and extended patient survival time.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

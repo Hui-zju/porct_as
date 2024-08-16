@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Homoharringtonine-based induction regimens for patients with de-novo acute myeloid leukaemia: a multicentre, open-label, randomised, controlled phase 3 trial.
+BACKGROUND: Homoharringtonine-based induction regimens have been widely used in China for patients with acute myeloid leukaemia.
+However, their efficacy has not been tested in a multicentre randomised controlled trial in a large population.
+We assessed the efficacy and safety of homoharringtonine-based induction treatment for management of newly diagnosed acute myeloid leukaemia.
+METHODS: This open-label, randomised, controlled, phase 3 study was done in 17 institutions in China between September, 2007, and July, 2011.
+Untreated patients aged 14-59 years with acute myeloid leukaemia were randomly assigned (by a computer-generated allocation schedule without stratification) to receive one of three induction regimens in a 1:1:1 ratio: homoharringtonine 2 mg/m(2) per day on days 1-7, cytarabine 100 mg/m(2) per day on days 1-7, and aclarubicin 20 mg/day on days 1-7 (HAA); homoharringtonine 2 mg/m(2) per day on days 1-7, cytarabine 100 mg/m(2) per day on days 1-7, and daunorubicin 40 mg/m(2) per day on days 1-3 (HAD); or daunorubicin 40-45 mg/m(2) per day on days 1-3 and cytarabine 100 mg/m(2) per day on days 1-7 (DA).
+Patients in complete remission were offered two cycles of intermediate-dose cytarabine (2 g/m(2) every 12 h on days 1-3).
+The primary endpoints were the proportion of patients who achieved complete remission after two cycles of induction treatment and event-free survival in the intention-to-treat population.
+The trial is registered in the Chinese Clinical Trial Register, number ChiCTR-TRC-06000054.
+FINDINGS: We enrolled 620 patients, of whom 609 were included in the intention-to-treat analysis.
+150 of 206 patients (73%) in the HAA group achieved complete remission versus 125 of 205 (61%) in the DA group (p=0.0108); 3-year event-free survival was 35.4% (95% CI 28.6-42.2) versus 23.1% (95% CI 17.4-29.3; p=0.0023).
+133 of 198 patients (67%) in the HAD group had complete remission (vs DA, p=0.20) and 3-year event-free survival was 32.7% (95% CI 26.1-39.5; vs DA, p=0.08).
+Adverse events were much the same in all groups, except that more patients in the HAA (12 of 206 [5.8%]) and HAD (13 of 198 [6.6%]) groups died within 30 days than in the DA group (two of 205 [1%]; p=0.0067 vs HAA; p=0.0030 vs HAD).
+INTERPRETATION: A regimen of homoharringtonine, cytarabine, and aclarubicin is a treatment option for young, newly diagnosed patients with acute myeloid leukaemia.
+FUNDING: Chinese National High Tech Programme, Key Special Research Foundation of the Ministry of Science and Technology of China, National Nature Science Foundation of China, National Clinical Key Specialty Construction Project.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

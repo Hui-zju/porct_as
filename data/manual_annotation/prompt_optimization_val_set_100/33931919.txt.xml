@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[CIRCULATE-Japan: Circulating tumor DNA-guided adaptive platform trials to refine adjuvant therapy for colorectal cancer.
+Adjuvant chemotherapy has reduced the risk of tumor recurrence and improved survival in patients with resected colorectal cancer.
+Potential utility of circulating tumor DNA (ctDNA) prior to and post surgery has been reported across various solid tumors.
+We initiated a new type of adaptive platform trials to evaluate the clinical benefits of ctDNA analysis and refine precision adjuvant therapy for resectable colorectal cancer, named CIRCULATE-Japan including three clinical trials.
+The GALAXY study is a prospectively conducted large-scale registry designed to monitor ctDNA for patients with clinical stage II to IV or recurrent colorectal cancer who can undergo complete surgical resection.
+The VEGA trial is a randomized phase III study designed to test whether postoperative surgery alone is noninferior to the standard therapy with capecitabine plus oxaliplatin for 3 months in patients with high-risk stage II or low-risk stage III colon cancer if ctDNA status is negative at week 4 after curative surgery in the GALAXY study.
+The ALTAIR trial is a double-blind, phase III study designed to establish the superiority of trifluridine/tipiracil as compared with placebo in patients with resected colorectal cancer who show circulating tumor-positive status in the GALAXY study.
+Therefore, CIRCULATE-Japan encompasses both "de-escalation" and "escalation" trials for ctDNA-negative and -positive patients, respectively, and helps to answer whether measuring ctDNA postoperatively has prognostic and/or predictive value.
+Our ctDNA-guided adaptive platform trials will accelerate clinical development toward further precision oncology in the field of adjuvant therapy.
+Analysis of ctDNA status could be utilized as a predictor of risk stratification for recurrence and to monitor the effectiveness of adjuvant chemotherapy.
+ctDNA is a promising, noninvasive tumor biomarker that can aid in tumor monitoring throughout disease management.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

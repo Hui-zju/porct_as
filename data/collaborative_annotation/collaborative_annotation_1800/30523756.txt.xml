@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized Phase II Trial of Cisplatin and Etoposide in Combination With Veliparib or Placebo for Extensive-Stage Small-Cell Lung Cancer: ECOG-ACRIN 2511 Study.
+PURPOSE: Veliparib, a poly (ADP ribose) polymerase inhibitor, potentiated standard chemotherapy against small-cell lung cancer (SCLC) in preclinical studies.
+We evaluated the combination of veliparib with cisplatin and etoposide (CE; CE+V) doublet in untreated, extensive-stage SCLC (ES-SCLC).
+MATERIALS AND METHODS: Patients with ES-SCLC, stratified by sex and serum lactate dehydrogenase levels, were randomly assigned to receive four 3-week cycles of CE (75 mg/m(2) intravenously on day 1 and 100 mg/m(2) on days 1 through 3) along with veliparib (100 mg orally twice per day on days 1 through 7) or placebo (CE+P).
+The primary end point was progression-free survival (PFS).
+Using an overall one-sided 0.10-level log-rank test, the study had 88% power to demonstrate a 37.5% reduction in the PFS hazard rate.
+RESULTS: A total of 128 eligible patients received treatment on protocol.
+The median age was 66 years, 52% of patients were men, and Eastern Cooperative Oncology Group performance status was 0 for 29% of patients and 1 for 71%.
+The respective median PFS for the CE+V arm versus the CE+P arm was 6.1 versus 5.5 months (unstratified hazard ratio [HR], 0.75 [one-sided P = .06]; stratified HR, 0.63 [one-sided P = .01]), favoring CE+V. The median overall survival was 10.3 versus 8.9 months (stratified HR, 0.83; 80% CI, 0.64 to 1.07; one-sided P = .17) for the CE+V and CE+P arms, respectively.
+The overall response rate was 71.9% versus 65.6% (two-sided P = .57) for CE+V and CE+P, respectively.
+There was a significant treatment-by-strata interaction in PFS: Male patients with high lactate dehydrogenase levels derived significant benefit (PFS HR, 0.34; 80% CI, 0.22 to 0.51) but there was no evidence of benefit among patients in other strata (PFS HR, 0.81; 80% CI, 0.60 to 1.09).
+The following grade >/= 3 hematology toxicities were more frequent in the CE+V arm than the CE+P arm: CD4 lymphopenia (8% v 0%; P = .06) and neutropenia (49% v 32%; P = .08), but treatment delivery was comparable.
+CONCLUSION: The addition of veliparib to frontline chemotherapy showed signal of efficacy in patients with ES-SCLC and the study met its prespecified end point.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>HALO 202: Randomized Phase II Study of PEGPH20 Plus Nab-Paclitaxel/Gemcitabine Versus Nab-Paclitaxel/Gemcitabine in Patients With Untreated, Metastatic Pancreatic Ductal Adenocarcinoma.
+Purpose Metastatic pancreatic ductal adenocarcinoma is characterized by excessive hyaluronan (HA) accumulation in the tumor microenvironment, elevating interstitial pressure and impairing perfusion.
+Preclinical studies demonstrated pegvorhyaluronidase alfa (PEGPH20) degrades HA, thereby increasing drug delivery.
+Patients and Methods Patients with previously untreated metastatic pancreatic ductal adenocarcinoma were randomly assigned to treatment with PEGPH20 plus nab-paclitaxel/gemcitabine (PAG) or nab-paclitaxel/gemcitabine (AG).
+Tumor HA levels were measured retrospectively using a novel affinity histochemistry assay.
+Primary end points were progression-free survival (PFS; overall) and thromboembolic (TE) event rate.
+Secondary end points included overall survival, PFS by HA level, and objective response rate.
+An early imbalance in TE events in the PAG arm led to a clinical hold; thereafter, patients with TE events were excluded and enoxaparin prophylaxis was initiated.
+Results A total of 279 patients were randomly assigned; 246 had HA data; 231 were evaluable for efficacy; 84 (34%) had HA-high tumors (ie, extracellular matrix HA staining &gt;/= 50% of tumor surface at any intensity).
+PFS was significantly improved with PAG treatment overall (hazard ratio [HR], 0.73; 95% CI, 0.53 to 1.00; P = .049) and for patients with HA-high tumors (HR, 0.51; 95% CI, 0.26 to 1.00; P = .048).
+In patients with HA-high tumors (PAG v AG), the objective response rate was 45% versus 31%, and median overall survival was 11.5 versus 8.5 months (HR, 0.96; 95% CI, 0.57 to 1.61).
+The most common treatment-related grade 3/4 adverse events with significant differences between arms (PAG v AG) included muscle spasms (13% v 1%), neutropenia (29% v 18%), and myalgia (5% v 0%).
+TE events were comparable after enoxaparin initiation (14% PAG v 10% AG).
+Conclusion This study met its primary end points of PFS and TE event rate.
+The largest improvement in PFS was observed in patients with HA-high tumors who received PAG.
+A similar TE event rate was observed between the treatment groups in stage 2 of the trial.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

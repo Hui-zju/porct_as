@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Olaparib tablets as maintenance therapy in patients with platinum-sensitive, relapsed ovarian cancer and a BRCA1/2 mutation (SOLO2/ENGOT-Ov21): a double-blind, randomised, placebo-controlled, phase 3 trial.
+BACKGROUND: Olaparib, a poly(ADP-ribose) polymerase (PARP) inhibitor, has previously shown efficacy in a phase 2 study when given in capsule formulation to all-comer patients with platinum-sensitive, relapsed high-grade serous ovarian cancer.
+We aimed to confirm these findings in patients with a BRCA1 or BRCA2 (BRCA1/2) mutation using a tablet formulation of olaparib.
+METHODS: This international, multicentre, double-blind, randomised, placebo-controlled, phase 3 trial evaluated olaparib tablet maintenance treatment in platinum-sensitive, relapsed ovarian cancer patients with a BRCA1/2 mutation who had received at least two lines of previous chemotherapy.
+Eligible patients were aged 18 years or older with an Eastern Cooperative Oncology Group performance status at baseline of 0-1 and histologically confirmed, relapsed, high-grade serous ovarian cancer or high-grade endometrioid cancer, including primary peritoneal or fallopian tube cancer.
+Patients were randomly assigned 2:1 to olaparib (300 mg in two 150 mg tablets, twice daily) or matching placebo tablets using an interactive voice and web response system.
+Randomisation was stratified by response to previous platinum chemotherapy (complete vs partial) and length of platinum-free interval (6-12 months vs >/=12 months) and treatment assignment was masked for patients, those giving the interventions, data collectors, and data analysers.
+The primary endpoint was investigator-assessed progression-free survival and we report the primary analysis from this ongoing study.
+The efficacy analyses were done on the intention-to-treat population; safety analyses included patients who received at least one dose of study treatment.
+This trial is registered with ClinicalTrials.gov, number NCT01874353, and is ongoing and no longer recruiting patients.
+FINDINGS: Between Sept 3, 2013, and Nov 21, 2014, we enrolled 295 eligible patients who were randomly assigned to receive olaparib (n=196) or placebo (n=99).
+One patient in the olaparib group was randomised in error and did not receive study treatment.
+Investigator-assessed median progression-free survival was significantly longer with olaparib (19.1 months [95% CI 16.3-25.7]) than with placebo (5.5 months [5.2-5.8]; hazard ratio [HR] 0.30 [95% CI 0.22-0.41], p<0.0001).
+The most common adverse events of grade 3 or worse severity were anaemia (38 [19%] of 195 patients in the olaparib group vs two [2%] of 99 patients in the placebo group), fatigue or asthenia (eight [4%] vs two [2%]), and neutropenia (ten [5%] vs four [4%]).
+Serious adverse events were experienced by 35 (18%) patients in the olaparib group and eight (8%) patients in the placebo group.
+The most common in the olaparib group were anaemia (seven [4%] patients), abdominal pain (three [2%] patients), and intestinal obstruction (three [2%] patients).
+The most common in the placebo group were constipation (two [2%] patients) and intestinal obstruction (two [2%] patients).
+One (1%) patient in the olaparib group had a treatment-related adverse event (acute myeloid leukaemia) with an outcome of death.
+INTERPRETATION: Olaparib tablet maintenance treatment provided a significant progression-free survival improvement with no detrimental effect on quality of life in patients with platinum-sensitive, relapsed ovarian cancer and a BRCA1/2 mutation.
+Apart from anaemia, toxicities with olaparib were low grade and manageable.
+FUNDING: AstraZeneca.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

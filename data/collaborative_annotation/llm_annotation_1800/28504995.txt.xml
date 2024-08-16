@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Remote Ischemic Preconditioning Decreases Oxidative Lung Damage After Pulmonary Lobectomy: A Single-Center Randomized, Double-Blind, Controlled Trial.
+BACKGROUND: During lobectomy in patients with lung cancer, the operated lung is often collapsed and hypoperfused.
+Ischemia/reperfusion injury may then occur when the lung is re-expanded.
+We hypothesized that remote ischemic preconditioning (RIPC) would decrease oxidative lung damage and improve gas exchange in the postoperative period.
+METHODS: We conducted a single-center, randomized, double-blind trial in patients with nonsmall cell lung cancer undergoing elective lung lobectomy.
+Fifty-three patients were randomized to receive limb RIPC immediately after anesthesia induction (3 cycles: 5 minutes ischemia/5 minutes reperfusion induced by an ischemia cuff applied on the thigh) and/or control therapy without RIPC.
+Oxidative stress markers were measured in exhaled breath condensate (EBC) and arterial blood immediately after anesthesia induction and before RIPC and surgery (T0, baseline); during operated lung collapse, immediately before resuming two-lung ventilation (TLV) (T1); immediately after resuming TLV (T2); and 120 minutes after resuming TLV (T3).
+The primary outcome was 8-isoprostane levels in EBC at T1, T2, and T3.
+Secondary outcomes included the following: NO2+NO3, H2O2 levels, and pH in EBC and in blood (8-isoprostane, NO2+NO3) and pulmonary gas exchange variables (PaO2/FiO2, A-aDO2, a/A ratio, and respiratory index).
+RESULTS: Patients subjected to RIPC had lower EBC 8-isoprostane levels when compared with controls at T1, T2, and T3 (differences between means and 95% confidence intervals): -15.3 (5.8-24.8), P = .002; -20.0 (5.5-34.5), P = .008; and -10.4 (2.5-18.3), P = .011, respectively.
+In the RIPC group, EBC NO2+NO3 and H2O2 levels were also lower than in controls at T2 and T1-T3, respectively (all P < .05).
+Blood levels of 8-isoprostane and NO2+NO3 were lower in the RIPC group at T2 (P < .05).
+The RIPC group had better PaO2/FiO2 compared with controls at 2 hours, 8 hours, and 24 hours after lobectomy in 95% confidence intervals for differences between means: 78 (10-146), 66 (14-118), and 58 (12-104), respectively.
+CONCLUSIONS: Limb RIPC decreased EBC 8-isoprostane levels and other oxidative lung injury markers during lung lobectomy.
+RIPC also improved postoperative gas exchange as measured by PaO2/FiO2 ratio.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[When does an episode of care for cancer begin?
+BACKGROUND: Little is known about the medical care resources devoted to diagnosing and treating cancer-related symptoms before a definitive cancer diagnosis.
+Previous research using SEER-Medicare data to measure incremental costs and utilization associated with cancer started with the date of diagnosis.
+We hypothesized that health care use increases before diagnosis of a new primary cancer.
+METHODS: We used a longitudinal case-control design to estimate incremental medical care utilization rates.
+Cases were 121,293 persons enrolled between January 2000 and December 2008 with >/=1 primary cancers.
+We selected 522,839 controls randomly from among all health plan members who had no tumor registry evidence of cancer before January 2009, and we frequency matched controls to cancer cases on a 5:1 ratio by age group, sex, and having health plan eligibility in the year of diagnosis of the index cancer case.
+Utilization data were extracted for all cases and controls for the period 2000 to 2008 from standardized distributed data warehouses.
+To determine when and the extent to which patterns of medical care use change preceding a cancer diagnosis, we compute hospitalization rates, hospital days, emergency department visits, same-day surgical procedures, ambulatory medical office visits, imaging procedures, laboratory tests, and ambulatory prescription dispensings per 1000 persons per month within integrated delivery systems.
+RESULTS: One- to 3-fold increases in monthly utilization rates were observed during the 3 to 5 months before a cancer diagnosis, compared with matched noncancer control groups.
+This pattern was consistent for both aged and nonaged cancer patients.
+Aged cancer patients had higher utilization rates than nonaged cancer patients throughout the year before a cancer diagnosis.
+CONCLUSIONS: The prediagnosis phase is a resource-intensive component of cancer care episodes and should be included in cost of cancer estimates.
+More research is needed to determine whether reliable prognostic markers can be identified as the start of a cancer episode before a pathology-based diagnosis.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

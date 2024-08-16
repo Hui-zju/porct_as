@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Pharmacokinetic and pharmacodynamic properties of calaspargase pegol Escherichia coli L-asparaginase in the treatment of patients with acute lymphoblastic leukemia: results from Children's Oncology Group Study AALL07P4.
+PURPOSE: Asparaginase is a critical agent used to treat acute lymphoblastic leukemia (ALL).
+Pegaspargase (SS-PEG), a pegylated form of Escherichia coli L-asparaginase with a succinimidyl succinate (SS) linker, is the first-line asparaginase product used in Children's Oncology Group (COG) ALL trials.
+Calaspargase pegol (SC-PEG) replaces the SS linker in SS-PEG with a succinimidyl carbamate linker, creating a more stable molecule.
+COG AALL07P4 was designed to determine the pharmacokinetic and pharmacodynamic comparability of SC-PEG to SS-PEG in patients with newly diagnosed high-risk (HR) B-cell ALL.
+PATIENTS AND METHODS: A total of 165 evaluable patients were randomly assigned at a 2:1 ratio to receive SC-PEG at 2,100 (SC-PEG2100; n = 69) or 2,500 IU/m(2) (SC-PEG2500; n = 42) versus SS-PEG 2,500 IU/m(2) (SS-PEG2500; n = 54) as part of an otherwise identical chemotherapy regimen.
+The groups were similar demographically, except more female patients received SC-PEG2500.
+RESULTS: The mean half-life of plasma asparaginase activity for both SC-PEG doses was approximately 2.5x longer than that of SS-PEG2500.
+The total systemic exposure, as defined by induction area under the curve from time 0 to 25 days, was greater with SC-PEG2500 than with SS-PEG2500 or SC-PEG2100.
+The proportion of patients with plasma asparaginase activity >/= 100 mIU/mL and >/= 400 mIU/mL was higher in patients who received SC-PEG as compared with SS-PEG2500.
+After one dose of pegylated asparaginase on induction day 4, plasma asparagine was undetectable for 11 days for SS-PEG2500 and 18 days for both SC-PEG groups.
+CONCLUSION: SC-PEG2500 achieves a significantly longer period of asparaginase activity above defined thresholds and asparagine depletion compared with SS-PEG2500 and has a comparable toxicity profile in children with HR B-cell ALL.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Serum Alpha-fetoprotein Levels and Clinical Outcomes in the Phase III CELESTIAL Study of Cabozantinib versus Placebo in Patients with Advanced Hepatocellular Carcinoma.
+PURPOSE: The phase III CELESTIAL study demonstrated improved overall survival (OS) and progression-free survival (PFS) with cabozantinib versus placebo in patients with previously treated, advanced hepatocellular carcinoma (HCC).
+We analyzed outcomes by baseline alpha-fetoprotein (AFP) and on-treatment AFP changes.
+PATIENTS AND METHODS: Serum AFP was measured every 8 weeks by blinded, centralized testing.
+Outcomes were analyzed by baseline AFP bifurcated at 400 ng/mL and by on-treatment AFP response (&gt;/=20% decrease from baseline at Week 8).
+The optimal cutoff for change in AFP at Week 8 was evaluated using maximally selected rank statistics.
+RESULTS: Median OS for cabozantinib versus placebo was 13.9 versus 10.3 months [HR, 0.81; 95% confidence interval (CI), 0.62-1.04] for patients with baseline AFP &lt;400 ng/mL, and 8.5 versus 5.2 months (HR, 0.71; 95% CI, 0.54-0.94) for patients with baseline AFP &gt;/=400 ng/mL. Week 8 AFP response rate was 50% for cabozantinib versus 13% for placebo.
+In the cabozantinib arm, median OS for patients with and without AFP response was 16.1 versus 9.1 months (HR, 0.61; 95% CI, 0.45-0.84).
+AFP response was independently associated with longer OS.
+The optimal cutoff for association with OS in the cabozantinib arm was &lt;/=0% change in AFP at Week 8 [AFP control; HR 0.50 (95% CI, 0.35-0.71)].
+HRs for PFS were consistent with those for OS.
+CONCLUSIONS: Cabozantinib improved outcomes versus placebo across a range of baseline AFP levels.
+On-treatment AFP response and control rates were higher with cabozantinib than placebo, and were associated with longer OS and PFS with cabozantinib.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

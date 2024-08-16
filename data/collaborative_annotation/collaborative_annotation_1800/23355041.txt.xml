@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase II study of gemcitabine and S-1 combination therapy versus gemcitabine monotherapy for advanced biliary tract cancer.
+PURPOSE: In order to confirm the impact of adding S-1 to gemcitabine, we conducted a randomized phase II study to compare the combination therapy of gemcitabine plus S-1 to gemcitabine monotherapy in patients with advanced biliary tract cancer.
+METHODS: Sixty-two patients with advanced cholangiocarcinoma or gallbladder cancer were randomized to either the combination therapy of gemcitabine and S-1 (gemcitabine 1,000 mg/m(2) on days 1 and 15 and S-1 40 mg/m(2) b.i.d.
+on days 1-14, repeated every 4 weeks) or gemcitabine monotherapy (gemcitabine 1,000 mg/m(2) on days 1, 8, and 15, repeated every 4 weeks).
+The primary endpoint of this study was response rate, and the regimen which showed the better response rate was selected as a candidate of phase III study.
+Tumor response was assessed every two cycles using Response Evaluation Criteria in Solid Tumors criteria version 1.0.
+RESULTS: The response rates of the combination therapy and the monotherapy were 20.0 and 9.4 %, respectively.
+The median time-to-progressions and overall survivals of these two treatments were nearly the same (5.6 vs. 4.3 months; 8.9 vs. 9.2 months).
+Adverse events occurred more frequently in the combination arm.
+CONCLUSIONS: The combination therapy of gemcitabine and S-1 showed the better response rate, but the superiority of this combination therapy was not clear in total.
+Because the standard of care changed to the combination therapy with gemcitabine and cisplatin during this study, it is difficult to select this combination therapy with a 4-week regimen as a candidate of phase III study.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

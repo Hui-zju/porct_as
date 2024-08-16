@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Correlation between eight-gene expression profiling and response to therapy of newly diagnosed multiple myeloma patients treated with thalidomide-dexamethasone incorporated into double autologous transplantation.
+We performed a molecular study aimed at identifying a gene expression profile (GEP) signature predictive of attainment of at least near complete response (CR) to thalidomide-dexamethasone (TD) as induction regimen in preparation for double autologous stem cell transplantation in 112 younger patients with newly diagnosed multiple myeloma.
+A GEP supervised analysis was performed on a training set of 32 patients, allowing to identify 157 probe sets differentially expressed in patients with CR versus those failing CR to TD.
+We then generated an eight-gene GEP signature whose performance was subsequently validated in a training set of 80 patients.
+A correct prediction of response to TD was found in 71 % of the cases analyzed.
+The eight genes were downregulated in patients who achieved CR to TD.
+Comparisons between post-autotransplantation outcomes of the 44 non-CR-predicted patients and of the 36 CR-predicted patients showed that this latter subgroup had a statistically significant benefit in terms of higher rate of CR after autotransplant(s) and longer time to progression, event-free survival, and overall survival.
+These results can be an important first step to identify at diagnosis those patients who will respond more favourably to a particular treatment strategy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

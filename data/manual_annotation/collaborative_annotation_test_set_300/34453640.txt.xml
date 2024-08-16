@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase II study of CPT-11 versus PTX versus each combination chemotherapy with S-1 for advanced gastric cancer that is refractory to S-1 or S-1 plus CDDP: OGSG0701.
+BACKGROUND: To compare irinotecan-alone, paclitaxel-alone, and each combination chemotherapy with S-1 in patients with advanced gastric cancer (AGC) that is refractory to S-1 or S-1 plus cisplatin (SP).
+METHODS: Patients with AGC after first-line chemotherapy with S-1 or SP, or patients during adjuvant chemotherapy or within 26 weeks after adjuvant chemotherapy completion with S-1 with confirmed disease progression were eligible.
+Patients were randomly divided into four groups based on treatment: irinotecan-alone (irinotecan; 150 mg/m(2), day 1, q14 days), paclitaxel-alone (paclitaxel; 80 mg/m(2), days 1, 8, 15, q28 days), S-1 plus irinotecan (irinotecan; 80 mg/m(2), days 1, 15, S-1; 80 mg/m(2), days 1-21, q35 days), and S-1 plus paclitaxel (paclitaxel; 50 mg/m(2), day1, 8, S-1; 80 mg/m(2), days 1-14, q21 days).
+The primary endpoint was overall survival (OS) and secondary endpoints were progression-free survival (PFS), response rate, and safety.
+RESULTS: From July 2008 to March 2012, 127 patients were enrolled.
+No difference in median OS was observed in the irinotecan vs. paclitaxel groups or in the monotherapy groups vs. the S-1 combination therapy groups.
+Median PFS was longer in the paclitaxel group compared with the irinotecan group (4.1 vs. 3.6 months, p = 0.035), although no difference was observed when comparing monotherapy vs. S-1 combination.
+The most common grade 3 to 4 hematological adverse events were neutropenia with no difference in incidence rate across the treatment groups.
+CONCLUSIONS: There was no difference in OS between irinotecan and paclitaxel no in OS prolongation of S-1 combination therapy in second-line chemotherapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

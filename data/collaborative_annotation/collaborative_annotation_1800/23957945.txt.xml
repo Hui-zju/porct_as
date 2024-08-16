@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Initial biopsy Gleason score as a predictive marker for survival benefit in patients with castration-resistant prostate cancer treated with docetaxel: data from the TAX327 study.
+BACKGROUND: Since 2004, docetaxel has been the standard first-line systemic therapy for patients with metastatic castration-resistant prostate cancer (mCRPC).
+With abiraterone recently becoming available in the predocetaxel setting, it is warranted to identify subgroups of patients who may obtain the greatest benefit from docetaxel and particularly qualify for receiving docetaxel as first-line treatment for mCRPC.
+OBJECTIVE: We aimed to identify factors that could characterize subgroups of patients who obtain the greatest benefit from the use of docetaxel.
+DESIGN, SETTING, AND PARTICIPANTS: TAX327 was multinational, randomized, phase 3 study that was conducted from 2000 to 2002 in 1006 men with mCRPC.
+INTERVENTION: Patients were randomized to receive docetaxel every 3 wk (D3), weekly docetaxel (D1), or mitoxantrone every 3 wk (M3), each with prednisone.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: We investigated whether patients with poorly differentiated tumors (Gleason score >/=7) at diagnosis had greater benefit from D3 compared with M3 than patients with better differentiated tumors (Gleason score </=6).
+Using a Cox model, we compared overall survival (OS) between the treatment groups within each subgroup of Gleason score.
+RESULTS AND LIMITATIONS: The TAX 327 data showed that the OS benefit of D3 versus M3 was greater in patients with high-grade tumors (median OS: 18.9 vs 14.5 mo; p=0.009) than in patients with low-grade tumors (median OS: 21.6 vs 20.7 mo; p=0.674).
+Limitations of a retrospective analysis apply.
+CONCLUSIONS: The survival benefit obtained with docetaxel is most pronounced in patients with high-Gleason-score tumors (Gleason >/=7).
+In a time of shifting paradigms in mCRPC, with abiraterone becoming available prior to docetaxel chemotherapy, Gleason score may help in selecting patients who obtain the greatest benefit from docetaxel as first-line treatment for mCRPC.
+Prospective validation of these findings is warranted.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

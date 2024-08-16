@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Impact of gemtuzumab ozogamicin on MRD and relapse risk in patients with NPM1-mutated AML: results from the AMLSG 09-09 trial.
+Monitoring of measurable residual disease (MRD) provides prognostic information in patients with Nucleophosmin1-mutated (NPM1mut) acute myeloid leukemia (AML) and represents a powerful tool to evaluate treatment effects within clinical trials.
+We determined NPM1mut transcript levels (TLs) by quantitative reverse-transcription polymerase chain reaction and evaluated the prognostic impact of NPM1mut MRD and the effect of gemtuzumab ozogamicin (GO) on NPM1mut TLs and the cumulative incidence of relapse (CIR) in patients with NPM1mut AML enrolled in the randomized phase 3 AMLSG 09-09 trial.
+A total of 3733 bone marrow (BM) samples and 3793 peripheral blood (PB) samples from 469 patients were analyzed.
+NPM1mut TL log10 reduction &gt;/= 3 and achievement of MRD negativity in BM and PB were significantly associated with a lower CIR rate, after 2 treatment cycles and at end of treatment (EOT).
+In multivariate analyses, MRD positivity was consistently revealed to be a poor prognostic factor in BM and PB.
+With regard to treatment effect, the median NPM1mut TLs were significantly lower in the GO-Arm across all treatment cycles, resulting in a significantly greater proportion of patients achieving MRD negativity at EOT (56% vs 41%; P = .01).
+The better reduction in NPM1mut TLs after 2 treatment cycles in MRD positive patients by the addition of GO led to a significantly lower CIR rate (4-year CIR, 29.3% vs 45.7%, P = .009).
+In conclusion, the addition of GO to intensive chemotherapy in NPM1mut AML resulted in a significantly better reduction in NPM1mut TLs across all treatment cycles, leading to a significantly lower relapse rate.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

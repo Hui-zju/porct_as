@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase II/III clinical trial of elpamotide for patients with advanced pancreatic cancer: PEGASUS-PC Study.
+Gemcitabine is a key drug for the treatment of pancreatic cancer; however, with its limitation in clinical benefits, the development of another potent therapeutic is necessary.
+Vascular endothelial growth factor receptor 2 is an essential target for tumor angiogenesis, and we have conducted a phase I clinical trial using gemcitabine and vascular endothelial growth factor receptor 2 peptide (elpamotide).
+Based on the promising results of this phase I trial, a multicenter, randomized, placebo-controlled, double-blind phase II/III clinical trial has been carried out for pancreatic cancer.
+The eligibility criteria included locally advanced or metastatic pancreatic cancer.
+Patients were assigned to either the Active group (elpamotide + gemcitabine) or Placebo group (placebo + gemcitabine) in a 2:1 ratio by the dynamic allocation method.
+The primary endpoint was overall survival.
+The Harrington-Fleming test was applied to the statistical analysis in this study to evaluate the time-lagged effect of immunotherapy appropriately.
+A total of 153 patients (Active group, n = 100; Placebo group, n = 53) were included in the analysis.
+No statistically significant differences were found between the two groups in the prolongation of overall survival (Harrington-Fleming P-value, 0.918; log-rank P-value, 0.897; hazard ratio, 0.87, 95% confidence interval [CI], 0.486-1.557).
+Median survival time was 8.36 months (95% CI, 7.46-10.18) for the Active group and 8.54 months (95% CI, 7.33-10.84) for the Placebo group.
+The toxicity observed in both groups was manageable.
+Combination therapy of elpamotide with gemcitabine was well tolerated.
+Despite the lack of benefit in overall survival, subgroup analysis suggested that the patients who experienced severe injection site reaction, such as ulceration and erosion, might have better survival.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Apalutamide plus Androgen Deprivation Therapy for Metastatic Castration-Sensitive Prostate Cancer: Analysis of Pain and Fatigue in the Phase 3 TITAN Study.
+PURPOSE: We performed an exploratory analysis of prostate cancer-related pain and fatigue on health-related quality of life in patients with metastatic castration-sensitive prostate cancer receiving apalutamide (240 mg/day) or placebo, with continuous androgen deprivation therapy (ADT), in the phase 3, randomized, double-blind, placebo controlled TITAN trial (NCT02489318).
+MATERIALS AND METHODS: Patient-reported outcomes for pain and fatigue were evaluated using the Brief Pain Inventory-Short Form and Brief Fatigue Inventory.
+Time to deterioration (TTD) was estimated by Kaplan-Meier method; hazard ratios and 95% confidence intervals were calculated using Cox proportional hazards model.
+General estimating equations for logistic regression estimated treatment-related differences in the likelihood of worsening pain or fatigue.
+RESULTS: Compliance for completing the Brief Pain Inventory-Short Form and Brief Fatigue Inventory was high (96% to 97%) in the first year.
+Median followup times were similar between treatments (19 to 22 months).
+Median pain TTD was longer with apalutamide than placebo for "pain at its least in the last 24 hours" (28.7 vs 21.8 months, respectively; p=0.0146), "pain interfered with mood" (not estimable vs 22.4 months; p=0.0017), "pain interfered with walking ability" (28.7 vs 20.2 months; p=0.0027), "pain interfered with relations" (not estimable vs 23.0 months; p=0.0139) and "pain interfered with sleep" (28.7 vs 20.9 months; p=0.0167).
+Likelihood for fatigue and worsening fatigue were similar between groups.
+CONCLUSIONS: Patients with metastatic castration-sensitive prostate cancer receiving apalutamide plus ADT vs placebo plus ADT reported consistently favorable TTD of pain.
+No difference for change in fatigue was observed with apalutamide vs placebo.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

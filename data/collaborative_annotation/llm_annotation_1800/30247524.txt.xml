@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>The prognostic impact of consensus molecular subtypes (CMS) and its predictive effects for bevacizumab benefit in metastatic colorectal cancer: molecular analysis of the AGITG MAX clinical trial.
+Background: The consensus molecular subtypes (CMS) is a transcriptome-based classification of colorectal cancer (CRC) initially described in early-stage cohorts, but the associations of CMS with treatment outcomes in the metastatic setting are yet to be established.
+This study aimed to evaluate the prognostic impact of CMS classification and its predictive effects for bevacizumab benefit in metastatic CRC by correlative analysis of the AGITG MAX trial.
+Patients and methods: The MAX trial previously reported improved progression-free survival (PFS) for the addition of bevacizumab (B) to chemotherapy [capecitabine (C)+/-mitomycin (M)].
+Archival primary tumours from 237 patients (50% of trial population) underwent gene expression profiling and classification into CMS groups.
+CMS groups were correlated to PFS and overall survival (OS).
+The interaction of CMS with treatment was assessed by proportional hazards model.
+Results: The distribution of CMS in MAX were CMS1 18%, CMS2 47%, CMS3 12%, CMS4 23%.
+CMS1 was the predominant subtype in right-sided primary tumours, while CMS2 was the predominant subtype in left-sided.
+CMS was prognostic of OS (P = 0.008), with CMS2 associated with the best outcome and CMS1 the worst.
+CMS remained an independent prognostic factor in a multivariate analysis.
+There was a significant interaction between CMS and treatment (P-interaction = 0.03), for PFS, with hazard ratios (95% CI) for CB+CBM versus C arms in CMS1, 2, 3 and 4: 0.83 (0.43-1.62), 0.50 (0.33-0.76), 0.31 (0.13-0.75) and 1.24 (0.68-2.25), respectively.
+Conclusions: This exploratory study found that CMS stratified OS outcomes in metastatic CRC regardless of first-line treatment, with prognostic effects of CMS groups distinct from those previously reported in early-stage cohorts.
+In CMS associations with treatment, CMS2 and possibly CMS3 tumours may preferentially benefit from the addition of bevacizumab to first-line capecitabine-based chemotherapy, compared with other CMS groups.
+Validation of these findings in additional cohorts is warranted.
+Clinical trial number: This is a molecular sub-study of MAX clinical trial (NCT00294359).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

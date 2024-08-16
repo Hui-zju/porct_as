@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Docetaxel Alone or in Combination With a Therapeutic Cancer Vaccine (PANVAC) in Patients With Metastatic Breast Cancer: A Randomized Clinical Trial.
+IMPORTANCE: Previous phase 1 and 2 trials of PANVAC, a poxviral-based cancer vaccine, have suggested clinical efficacy in some patients with breast, ovarian, and colorectal cancer and have shown evidence of immunologic activity.
+Preclinical data have shown that docetaxel can modify tumor phenotype, making tumor cells more amenable to T cell-mediated killing.
+OBJECTIVE: The goal of this study was to determine if the treatment combination of docetaxel and PANVAC improves clinical outcomes in patients with metastatic breast cancer compared with docetaxel treatment alone.
+DESIGN, SETTING, AND PARTICIPANTS: Between May 2006 and February 2012, this open-label, phase 2 randomized clinical trial enrolled 48 patients with metastatic breast cancer of all subtypes, without limitation on other lines of previous therapy, to receive treatment with either docetaxel with PANVAC (arm A) or docetaxel alone (arm B).
+Final clinical data were collected on September 16, 2013.
+All patients were treated at either the National Cancer Institute or the Department of Breast Medical Oncology, MD Anderson Cancer Center.
+MAIN OUTCOMES AND MEASURES: The primary end point was progression-free survival (PFS), using a phase 2.5 statistical design, with the intent of identifying a trend toward benefit (defined as 1-sided P</=.10) to guide a larger trial design.
+Secondary end points included safety and immunologic correlative studies.
+RESULTS: Forty-eight participants were enrolled: 25 were randomized to the combination treatment arm A, and 23 to arm B. No patient remained in the study at the time of the final analysis.
+Patient and tumor characteristics were well matched.
+Analysis of adverse events in both treatment arms demonstrated very little difference between the 2 groups.
+In the combination treatment arm (arm A), statistically significant increases were noted in the frequency of grades 1 and 2 edema (P=.02, likely related to greater median number of docetaxel cycles) and injection-site reactions (P<.001).
+In the final data analysis, median PFS was 7.9 months in arm A vs 3.9 months in arm B (hazard ratio, 0.65 [95% CI, 0.34-1.14]; P=.09).
+CONCLUSIONS AND RELEVANCE: The results suggest that the combination of PANVAC with docetaxel in metastatic breast cancer may provide a clinical benefit.
+This study was hypothesis generating and provides both rationale and statistical assumptions for a larger definitive randomized study.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00179309.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

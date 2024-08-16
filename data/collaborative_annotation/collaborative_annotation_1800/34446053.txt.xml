@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Durvalumab (MEDI 4736) in combination with extended neoadjuvant regimens in rectal cancer: a study protocol of a randomised phase II trial (PRIME-RT).
+BACKGROUND: Advances in multi-modality treatment of locally advanced rectal cancer (LARC) have resulted in low local recurrence rates, but around 30% of patients will still die from distant metastatic disease.
+In parallel, there is increasing recognition that with radiotherapy and systemic treatment, some patients achieve a complete response and may avoid surgical resection, including in many cases, the need for a permanent stoma.
+Extended neoadjuvant regimes have emerged to address these concerns.
+The inclusion of immunotherapy in the neoadjuvant setting has the potential to further enhance this strategy by priming the local immune microenvironment and engaging the systemic immune response.
+METHODS: PRIME-RT is a multi-centre, open label, phase II, randomised trial for patients with newly diagnosed LARC.
+Eligible patients will be randomised to receive either: short course radiotherapy (25 Gray in 5 fractions over one week) with concomitant durvalumab (1500 mg administered intravenously every 4 weeks), followed by FOLFOX (85 mg/m(2) oxaliplatin, 350 mg folinic acid and 400 mg/m(2) bolus 5-fluorouracil (5-FU) given on day 1 followed by 2400 mg/m(2) 5-FU infusion over 46-48 h, all administered intravenously every 2 weeks), and durvalumab, or long course chemoradiotherapy (50 Gray to primary tumour in 25 fractions over 5 weeks with concomitant oral capecitabine 825 mg/m(2) twice per day on days of radiotherapy) with durvalumab followed by FOLFOX and durvalumab.
+The primary endpoint is complete response rate in each arm.
+Secondary endpoints include treatment compliance, toxicity, safety, overall recurrence, proportion of patients with a permanent stoma, and survival.
+The study is translationally rich with collection of bio-specimens prior to, during, and following treatment in order to understand the molecular and immunological factors underpinning treatment response.
+The trial opened and the first patient was recruited in January 2021.
+The main trial will recruit up to 42 patients with LARC and commence after completion of a safety run-in that will recruit at least six patients with LARC or metastatic disease.
+DISCUSSION: PRIME-RT will explore if adding immunotherapy to neoadjuvant radiotherapy and chemotherapy for patients with LARC can prime the tumour microenvironment to improve complete response rates and stoma free survival.
+Sequential biopsies are a key component within the trial design that will provide new knowledge on how the tumour microenvironment changes at different time-points in response to multi-modality treatment.
+This expectation is that the trial will provide information to test this treatment within a large phase clinical trial.
+Trial registration Clinicaltrials.gov NCT04621370 (Registered 9th Nov 2020) EudraCT number 2019-001471-36 (Registered 6th Nov 2020).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

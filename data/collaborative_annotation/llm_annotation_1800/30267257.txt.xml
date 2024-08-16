@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Cost-utility of Sunitinib Versus Pazopanib in Metastatic Renal Cell Carcinoma in Canada using Real-world Evidence.
+BACKGROUND AND OBJECTIVE: The development of new targeted therapies in kidney cancer has shaped disease management in the metastatic phase.
+Our study aims to conduct a cost-utility analysis of sunitinib versus pazopanib in first-line setting in Canada for metastatic renal cell carcinoma (mRCC) patients using real-world data.
+METHODS: A Markov model with Monte-Carlo microsimulations was developed to estimate the clinical and economic outcomes of patients treated in first-line with sunitinib versus pazopanib.
+Transition probabilities were estimated using observational data from a Canadian database where real-life clinical practice was captured.
+The costs of therapies, disease progression, and management of adverse events were included in the model in Canadian dollars ($Can).
+Utility and disutility values were included for each health state.
+Incremental cost-utility ratio (ICUR) and incremental cost-effectiveness ratios (ICER) were calculated for a time horizon of 5 years, from the Canadian Healthcare System perspective.
+RESULTS: The cost difference was $36,303 and the difference in quality-adjusted life year (QALY) was 0.54 in favour of sunitinib with an ICUR of $67,227/QALY for sunitinib versus pazopanib.
+The major cost component (56%) is related to best supportive care (BSC) where patients tend to stay for a longer period of time compared to other states.
+The difference in life years gained (LYG) between sunitinib and pazopanib was 1.21 LYG (33.51 vs 19.03 months) and the ICER was $30,002/LYG.
+Sensitivity analysis demonstrated the robustness of the model with a high probability of sunitinib being a cost-effective option when compared to pazopanib.
+CONCLUSION: When using real-world evidence, sunitinib is found to be a cost-effective treatment compared to pazopanib in mRCC patients in Canada.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

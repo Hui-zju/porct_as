@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Development and validation of a clinical score for predicting risk of adenoma at screening colonoscopy.
+BACKGROUND: Currently, no clinical tools use demographic and risk factor information to predict the risk of finding an adenoma in individuals undergoing colon cancer screening.
+Such a tool would be valuable for identifying those who would most benefit from screening colonoscopy.
+METHODS: We used baseline data from men and women who underwent screening colonoscopy from the randomized, multicenter National Colonoscopy Study (NCS) to develop and validate an adenoma risk model.
+The study, conducted at three sites in the United States (Minneapolis, MN; Seattle, WA; and Shreveport, LA) asked all participants to complete baseline questionnaires on clinical risk factors and family history.
+Model parameters estimated from logistic regression yielded an area under the receiver operating characteristic curve (AUROCC) used to assess prediction.
+RESULTS: Five hundred forty-one subjects were included in the development model, and 1,334 in the validation of the risk score.
+Variables in the prediction of adenoma risk for colonoscopy screening were age (likelihood ratio test for overall contribution to model, P &lt; 0.001), male sex (P &lt; 0.001), body mass index (P &lt; 0.001), family history of at least one first-degree relative with colorectal cancer (P = 0.036), and smoking history (P &lt; 0.001).
+The adjusted AUROCC of 0.67 [95% confidence interval (CI), 0.61-0.74] for the derivation cohort was not statistically significantly different from that in the validation cohort.
+The adjusted AUROCC for the entire cohort was 0.64 (95% CI, 0.60-0.67).
+CONCLUSION: We developed and validated a simple well-calibrated risk score.
+IMPACT: This tool may be useful for estimating risk of adenomas in screening eligible men and women.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Met Receptor Tyrosine Kinase and Chemoprevention of Oral Cancer.
+Background: We have previously shown that gene expression profiles of oral leukoplakia (OL) may improve the prediction of oral cancer (OC) risk.
+To identify new targets for prevention, we performed a systematic survey of transcripts associated with an increased risk of oral cancer and overexpressed in OC vs normal mucosa (NM).
+Methods: We used gene expression profiles of 86 patients with OL and available outcomes from a chemoprevention trial of OC and NM.
+MET expression was evaluated using immunohistochemistry in 120 OL patients, and its association with OC development was tested in multivariable analysis.
+Sensitivity to pharmacological Met inhibition was tested invitro in premalignant and OC cell lines (n = 33) and invivo using the 4-NQO model of oral chemoprevention (n = 20 mice per group).
+All statistical tests were two-sided.
+Results: The overlap of 693 transcripts associated with an increased risk of OC with 163 transcripts overexpressed in OC compared with NM led to the identification of 23 overlapping transcripts, including MET.
+MET overexpression in OL was associated with a hazard ratio of 3.84 (95% confidence interval = 1.59 to 9.27, P = .003) of developing OC.
+Met activation was found in OC and preneoplastic cell lines.
+Crizotinib activity in preneoplastic and OC cell lines was comparable.
+ARQ 197 was more active in preneoplastic compared with OC cell lines.
+In the 4-NQO model, squamous cell carcinoma, dysplasia, and hyperkeratosis were observed in 75.0%, 15.0%, and 10.0% in the control group, and in 25.0%, 70.0%, and 5.0% in the crizotinib group (P < .001).
+Conclusion: Together, these data suggest that MET activation may represent an early driver in oral premalignancy and a target for chemoprevention of OC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

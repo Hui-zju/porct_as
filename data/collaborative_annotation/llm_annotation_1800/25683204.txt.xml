@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Prostate cancer screening using risk stratification based on a multi-state model of genetic variants.
+BACKGROUND: Risk-stratified screening for prostate cancer (PCa) with prostate-specific antigen (PSA) testing incorporating genetic variants has received some attention but has been scarcely investigated.
+We developed a model to stratify the Finnish population by different risk profiles related to genetic variants to optimize the screening policy.
+METHODS: Data from the Finnish randomized controlled trial on screening for PCa with PSA testing were used to estimate a six-state Markov model of disease progression.
+Blood samples from Finnish men were used to assess the risk of PCa related to three genetic variants (rs4242382, rs138213197, and rs200331695).
+A risk score-based approach combined with a series of computer simulation models was applied to optimize individual screening policies.
+RESULTS: The 10-year risk of having progressive prostate cancer detected ranged from 43% in the top 5% risk group to approximately 11% in the bottom half of the population.
+Using the median group, with screening every four years beginning at 55 years-old, as the reference group, the recommended age beginning screening was approximately 47 years-old for the top 5% risk group and 55 years-old for those in the lower 60% risk group.
+The recommended interscreening interval has been shortened for individuals in the high risk group.
+The increased availability of genomic information allows the proposed multistate model to be more discriminating with respect to risk stratification and the suggested screening policy, particularly for the lowest risk groups-. -- CONCLUSIONS: A multi-state genetic variant-based model was developed for further application to population risk stratification to optimize the interscreening interval and the age at which to begin screening for PSA.
+A small sub-group of the population is likely to benefit from more intensive screening with early start and short interval, while half of the population is unlikely to benefit from such protocol (compared with four-year interval after age 55 years).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

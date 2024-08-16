@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[HELOISE: Phase IIIb Randomized Multicenter Study Comparing Standard-of-Care and Higher-Dose Trastuzumab Regimens Combined With Chemotherapy as First-Line Therapy in Patients With Human Epidermal Growth Factor Receptor 2-Positive Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma.
+Purpose To compare standard-of-care (SoC) trastuzumab plus chemotherapy with higher-dose (HD) trastuzumab plus chemotherapy to investigate whether HD trastuzumab increases trastuzumab serum trough concentration (Ctrough) levels and increases overall survival (OS) in first-line human epidermal growth factor receptor 2-positive metastatic gastric or gastroesophageal junction adenocarcinoma.
+Patients and Methods Patients with Eastern Cooperative Oncology Group performance status 2, no prior gastrectomy, and >/= two metastatic sites were randomly assigned at a one-to-one ratio to loading-dose trastuzumab 8 mg/kg followed by SoC trastuzumab maintenance 6 mg/kg every 3 weeks or loading-dose trastuzumab 8 mg/kg followed by HD trastuzumab maintenance 10 mg/kg every 3 weeks until progression; treatment in each arm was combined with cisplatin 80 mg/m(2) plus capecitabine 800 mg/m(2) twice per day in cycles 1 to 6.
+The primary objective was HD trastuzumab OS superiority (all randomly assigned patients [full-analysis set]).
+Final results are from an interim analysis for futility (boundary hazard ratio [HR] >/= 0.95) at 125 deaths.
+Results At clinical cutoff, 248 patients had been randomly assigned.
+A marked increase in mean trastuzumab Ctrough was observed after the first HD trastuzumab cycle versus SoC trastuzumab.
+In the full-analysis set, median OS was 12.5 months in the SoC trastuzumab arm and 10.6 months in the HD trastuzumab arm (stratified HR, 1.24; 95% CI, 0.86 to 1.78; P = .2401).
+Results were similar in the per-protocol set (cycle 1 trastuzumab Ctrough < 12 microg/mL).
+Safety was comparable between arms.
+Conclusion HD trastuzumab maintenance dosing was associated with higher trastuzumab concentrations, no increased efficacy, and no new safety signals.
+HELOISE confirms standard-dose trastuzumab (loading dose of 8 mg/kg followed by 6 mg/kg maintenance dose every 3 weeks) with chemotherapy as the SoC for first-line treatment of human epidermal growth factor receptor 2-positive metastatic gastric or gastroesophageal junction adenocarcinoma.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

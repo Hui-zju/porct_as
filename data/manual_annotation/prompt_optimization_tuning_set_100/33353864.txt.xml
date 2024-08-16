@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Decision regret, adverse outcomes, and treatment choice in men with localized prostate cancer: Results from a multi-site randomized trial.
+INTRODUCTION: Men diagnosed with localized prostate cancer must navigate a highly preference-sensitive decision between treatment options with varying adverse outcome profiles.
+We evaluated whether use of a decision support tool previously shown to decrease decisional conflict also impacted the secondary outcome of post-treatment decision regret.
+METHODS: Participants were randomized to receive personalized decision support via the Personal Patient Profile-Prostate or usual care prior to a final treatment decision.
+Symptoms were measured just before randomization and 6 months later; decision regret was measured at 6 months along with records review to ascertain treatment choices.
+Regression modeling explored associations between baseline variables including race and D`Amico risk, study group, and 6-month variables regret, choice, and symptoms.
+RESULTS: At 6 months, 287 of 392 (73%) men returned questionnaires of which 257 (89%) had made a treatment choice.
+Of that group, 201 of 257 (78%) completely answered the regret scale.
+Regret was not significantly different between participants randomized to the P3P intervention compared to the control group (P=0.360).
+In univariate analyses, we found that Black men, men with hormonal symptoms, and men with bowel symptoms reported significantly higher decision regret (all P < 0.01).
+Significant interactions were detected between race and study group (intervention vs. usual care) in the multivariable model; use of the Personal Patient Profile-Prostate was associated with significantly decreased decisional regret among Black men (P=0.037).
+Interactions between regret, symptoms and treatment revealed that (1) men choosing definitive treatment and reporting no hormonal symptoms reported lower regret compared to all others; and (2) men choosing active surveillance and reporting bowel symptoms had higher regret compared to all others.
+CONCLUSION: The Personal Patient Profile-Prostate decision support tool may be most beneficial in minimizing decisional regret for Black men considering treatment options for newly-diagnosed prostate cancer.
+TRIAL REGISTRATION: NCT01844999.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

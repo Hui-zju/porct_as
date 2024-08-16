@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized, placebo-controlled window trial of EGFR, Src, or combined blockade in head and neck cancer.
+BACKGROUND.
+EGFR and Src family kinases are upregulated in head and neck squamous cell carcinoma (HNSCC).
+EGFR interacts with Src to activate STAT3 signaling, and dual EGFR-Src targeting is synergistic in HNSCC preclinical models.
+pSrc overexpression predicted resistance to the EGFR inhibitor, erlotinib, in a prior window trial.
+We conducted a 4-arm window trial to identify biomarkers associated with response to EGFR and/or Src inhibition.
+METHODS.
+Patients with operable stage II-IVa HNSCC were randomized to 7-21 days of neoadjuvant erlotinib, the Src inhibitor dasatinib, the combination of both, or placebo.
+Paired tumor specimens were collected before and after treatment.
+Pharmacodynamic expression of EGFR and Src pathway components was evaluated by IHC of tissue microarrays and reverse-phase protein array of tissue lysates.
+Candidate biomarkers were assessed for correlation with change in tumor size.
+RESULTS.
+From April 2009 to December 2012, 58 patients were randomized and 55 were treated.
+There was a significant decrease in tumor size in both erlotinib arms (P = 0.0014); however, no effect was seen with dasatinib alone (P = 0.24).
+High baseline pMAPK expression was associated with response to erlotinib (P = 0.03).
+High baseline pSTAT3 was associated with resistance to dasatinib (P = 0.099).
+CONCLUSIONS.
+Brief exposure to erlotinib significantly decreased tumor size in operable HNSCC, with no additive effect from dasatinib.
+Baseline pMAPK expression warrants further study as a response biomarker for anti-EGFR therapy.
+Basal expression of pSTAT3 may be independent of Src, explain therapeutic resistance, and preclude development of dasatinib in biomarker-unselected cohorts.
+TRIAL REGISTRATION.
+NCT00779389.
+FUNDING.
+National Cancer Institute, American Cancer Society, Pennsylvania Department of Health, V Foundation for Cancer Research, Bristol-Myers Squibb, and Astellas Pharma.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

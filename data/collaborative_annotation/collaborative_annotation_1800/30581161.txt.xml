@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Prophylactic Use of Entecavir for Lymphoma Patients With Past Hepatitis B Virus Infection: A Randomized Controlled Trial.
+BACKGROUND: The value of prophylactic antiviral therapy in patients with past hepatitis B virus (HBV) infection (HBV surface antigen-negative/anti-HBV core antibody-positive/HBV DNA negative) is still controversial.
+PATIENTS AND METHODS: This study compared the safety, efficacy, and cost-effectiveness of prophylactic entecavir (ETV) with regular monitoring alone in lymphoma patients with past HBV infection.
+Patients were randomly assigned to chemotherapy alone (control) or prophylactic ETV before chemotherapy and at least 6 months after completion of chemotherapy.
+All patients underwent close virologic and biochemical surveillance.
+The primary end points were the incidence rates of HBV reactivation (appearance of HBV DNA) and HBV reactivation-related hepatitis (defined as a greater than 3-fold increase in serum alanine aminotransferase levels exceeding 100 IU/L).
+RESULTS: A total of 190 patients were included, 141 (74.2%) of whom were positive for anti-HBV surface antibody (HBs).
+The incidence rates of HBV reactivation and HBV reactivation-related hepatitis were 0 (0/95) and 0 (0/95) in the prophylactic ETV group, respectively, and 3.2% (3/95) and 1.1% (1/95) in the control group, respectively (P = .246 and 1.000, respectively).
+One patient experienced HBV reactivation-related hepatitis, resulting in premature termination of chemotherapy.
+All 3 patients with HBV reactivation recovered after therapeutic ETV treatment.
+No HBV-related deaths were observed during the follow-up period.
+The cost in the prophylactic ETV group was higher than that in the control group ($125 per month).
+CONCLUSION: Prophylactic antiviral therapy is not a cost-effective strategy for the management of lymphoma patients with past HBV infection, especially those positive for anti-HBs.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

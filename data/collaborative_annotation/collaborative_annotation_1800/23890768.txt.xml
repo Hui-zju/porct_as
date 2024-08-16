@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Three-arm randomised controlled phase 2 study comparing pemetrexed and erlotinib to either pemetrexed or erlotinib alone as second-line treatment for never-smokers with non-squamous non-small cell lung cancer.
+BACKGROUND: This randomised controlled phase 2 study compared pemetrexed and erlotinib in combination with either agent alone in terms of efficacy and safety as second-line treatment in a clinically selected population of never-smokers with non-squamous non-small cell lung cancer (NSCLC).
+METHODS: Patients who had failed only one prior chemotherapy regimen and had Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) </=2 were randomised to either: pemetrexed 500 mg/m(2) on day 1 plus erlotinib 150 mg daily on days 2-14; erlotinib 150 mg daily; or pemetrexed 500 mg/m(2) on day 1 of a 21-day cycle until discontinuation criteria were met.
+The primary endpoint, progression-free survival (PFS), was analysed using a multivariate Cox model.
+Firstly, a global comparison across the three arms was performed.
+If the global null hypothesis was rejected at a two-sided 0.2 significance level, pairwise comparisons of pemetrexed-erlotinib versus erlotinib or pemetrexed were then conducted using the same model.
+Statistical significance was claimed only if both global and pairwise null hypotheses were rejected at a two-sided 0.05 significance level.
+FINDINGS: A total of 240 patients (male, 35%; East Asian, 55%; ECOG PS 0-1, 93%) were included.
+A statistically significant difference in PFS was found across the three arms (global p=0.003), with pemetrexed-erlotinib significantly better than either single agent: HR=0.57, 95% confidence interval (CI): 0.40-0.81, p=0.002 versus erlotinib; HR=0.58, 95% CI: 0.39-0.85, p=0.005 versus pemetrexed.
+Median PFS (95% CI) was 7.4 (4.4, 12.9) months in pemetrexed-erlotinib, 3.8 (2.7, 6.3) months in erlotinib and 4.4 (3.0, 6.0) months in pemetrexed.
+Safety analyses showed a higher incidence of drug-related grade 3/4 toxicity in pemetrexed-erlotinib (60.0%) than in pemetrexed (28.9%) or erlotinib (12.0%); the majority being neutropenia, anaemia, rash and diarrhoea.
+INTERPRETATION: Pemetrexed-erlotinib significantly improved PFS compared to either drug alone in this clinically selected population.
+The combination had more toxicity, but was clinically manageable.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

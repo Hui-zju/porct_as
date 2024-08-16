@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Early results of a randomized two-by-two factorial phase II trial comparing neoadjuvant chemotherapy with two and four courses of cisplatin/S-1 and docetaxel/cisplatin/S-1 as neoadjuvant chemotherapy for locally advanced gastric cancer.
+BACKGROUND: Neoadjuvant chemotherapy (NAC) is a promising method of improving the survival of resectable gastric cancer.
+Cisplatin/S-1 (CS) and docetaxel/cisplatin/S-1 (DCS) are both effective against metastatic gastric cancer.
+This report clarified the impact of these regimens on early endpoints, including the pathological responses, chemotherapy-related toxicities, and surgical results.
+METHODS: Patients with M0 and either T4 or T3 in case of junctional cancer or scirrhous type received two or four courses of cisplatin (60 mg/m2 at day 8)/S-1 (80 mg/m2 for 21 days with 1 week rest) or docetaxel (40 mg/m2 at day 1)/cisplatin (60 mg/m2 at day 1)/S-1 (80 mg/m2 for 14 days with 2 weeks rest) as NAC.
+Patients then underwent D2 gastrectomy and adjuvant S-1 chemotherapy for 1 year.
+The primary endpoint was the 3-year overall survival.
+RESULTS: Between October 2011 and September 2014, 132 patients were assigned to receive CS (n = 66; 33 in 2 courses and 33 in 4 courses) or DCS (n = 66; 33 in 2 courses and 33 in 4 courses).
+The respective major grade 3 or 4 hematological toxicities (CS/DCS) were leukocytopenia (14.1%/26.2%), neutropenia (29.7%/47.7%), anemia (14.1%/12.3%), and platelet reduction (3.1%/1.5%).
+The rate of pathological response, defined as a complete response or < 10% residual cancer remaining, was 19.4% in the CS group and 15.4% in the DCS group, and 15.6% in the two-course group and 19.0% in the 4-course group.
+The R0 resection rate was 72.7% in the CS group and 81.8% in the DCS group and 80.3% in the two-course group and the 74.2% in the four-course group.
+No treatment-related deaths were observed.
+CONCLUSIONS: Our results do not support three-drug therapy with a taxane over two-drug therapy, or any further treatment beyond two cycles as an attractive candidate for the test arm of NAC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

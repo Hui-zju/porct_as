@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Maintenance Olaparib for Germline BRCA-Mutated Metastatic Pancreatic Cancer.
+BACKGROUND: Patients with a germline BRCA1 or BRCA2 mutation make up a small subgroup of those with metastatic pancreatic cancer.
+The poly(adenosine diphosphate-ribose) polymerase (PARP) inhibitor olaparib has had antitumor activity in this population.
+METHODS: We conducted a randomized, double-blind, placebo-controlled, phase 3 trial to evaluate the efficacy of olaparib as maintenance therapy in patients who had a germline BRCA1 or BRCA2 mutation and metastatic pancreatic cancer and disease that had not progressed during first-line platinum-based chemotherapy.
+Patients were randomly assigned, in a 3:2 ratio, to receive maintenance olaparib tablets (300 mg twice daily) or placebo.
+The primary end point was progression-free survival, which was assessed by blinded independent central review.
+RESULTS: Of the 3315 patients who underwent screening, 154 underwent randomization and were assigned to a trial intervention (92 to receive olaparib and 62 to receive placebo).
+The median progression-free survival was significantly longer in the olaparib group than in the placebo group (7.4 months vs. 3.8 months; hazard ratio for disease progression or death, 0.53; 95% confidence interval [CI], 0.35 to 0.82; P = 0.004).
+An interim analysis of overall survival, at a data maturity of 46%, showed no difference between the olaparib and placebo groups (median, 18.9 months vs. 18.1 months; hazard ratio for death, 0.91; 95% CI, 0.56 to 1.46; P = 0.68).
+There was no significant between-group difference in health-related quality of life, as indicated by the overall change from baseline in the global quality-of-life score (on a 100-point scale, with higher scores indicating better quality of life) based on the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (between-group difference, -2.47 points; 95% CI, -7.27 to 2.33).
+The incidence of grade 3 or higher adverse events was 40% in the olaparib group and 23% in the placebo group (between-group difference, 16 percentage points; 95% CI, -0.02 to 31); 5% and 2% of the patients, respectively, discontinued the trial intervention because of an adverse event.
+CONCLUSIONS: Among patients with a germline BRCA mutation and metastatic pancreatic cancer, progression-free survival was longer with maintenance olaparib than with placebo.
+(Funded by AstraZeneca and others; POLO ClinicalTrials.gov number, NCT02184195.).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

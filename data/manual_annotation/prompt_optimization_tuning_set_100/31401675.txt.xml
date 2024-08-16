@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[High-intensity interval training can modulate the systemic inflammation and HSP70 in the breast cancer: a randomized control trial.
+OBJECTIVE: Exercise training is recently considered as a trend in adjuvant therapies for cancer patients, but its mechanisms need to be scrutinized further.
+This study is aimed to test the hypothesis that the patients who perform the high-intensity interval exercise training (HIIT) during hormone therapy would show improvements in low-grade inflammation and HSP70 compared to the controls receiving standard care.
+METHODS: Fifty two non-metastatic and hormone-responsive breast cancer patients were randomly assigned to high-intensity interval exercise (HIIT) (n = 26) and usual care (n = 26) groups.
+The HIIT groups participated in a high-intensity interval training protocol on a treadmill 3 days/week for 12 weeks.
+The training intensity was determined according to the predicted maximal heart rate.
+Demographic characteristics and medical history were collected via an interviewer-administered questionnaire at the baseline visit.
+Body fat was estimated based on skinfold thickness measured with calipers on the participant's nonsurgery side at the triceps, suprailiac crest.
+[Formula: see text] was estimated by 1-Mile Rockport Walk Test.
+Blood samples were collected 48 h before starting the exercise protocol and 48 h after the last exercise session.
+TNF-alpha, IL-6, IL-1beta, IL-10, and HSP70 levels in serum were measured using the enzyme-linked immunosorbent assay (ELISA) method according to the manufacture's instruction.
+Supernatant cytokine concentrations were determined by ELISA for IL-4 and IFN-gamma.
+The data were analyzed by ANCOVA test that the pretest values were considered as covariate at P </= 0.05.
+RESULTS: HIIT improved [Formula: see text] in the HIIT group compared to the usual care group (P = 0.002).
+The serum levels of TNF-alpha (P = 0.001), IL-6 (P = 0.007), and IL-10 (P = 0.001) were lower in the HIIT group.
+The level of IL-4 (P = 0.050) in the stimulated peripheral blood mononuclear cells significantly increased in the HIIT group compared to the usual care group.
+Furthermore, the serum level of the HSP70 was significantly higher in the HIIT group in comparison to the usual care group (P = 0.050).
+The TNF-alpha/IL-10 (P = 0.050) and IL-6/IL-10 (P = 0.042) ratios were lower in the HIIT group.
+CONCLUSION: The results of this study indicated that HIIT has positive impacts on the cardiorespiratory fitness and inflammatory cytokines in the breast cancer patients undergoing hormone therapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

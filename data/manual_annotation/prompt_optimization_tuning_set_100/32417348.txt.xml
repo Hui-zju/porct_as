@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Concurrent cisplatin and dose escalation with intensity-modulated radiotherapy (IMRT) versus conventional radiotherapy for locally advanced head and neck squamous cell carcinomas (HNSCC): GORTEC 2004-01 randomized phase III trial.
+BACKGROUND: Concurrent chemoradiotherapy (CRT) is the standard of care (SoC) in locally advanced (LA) head and neck squamous cell carcinomas (HNSCC).
+This trial was designed to test whether dose-escalated IMRT and cisplatin could improve locoregional control without increasing complications over 3D-radiotherapy.
+METHODS: Patients were randomized between 70 Gy/35F in 7 weeks with 3D-RT (Arm A) versus 75 Gy/35F with IMRT (Arm B).
+Both arms received 50 Gy in 25 fractions followed by a sequential boost of 20 Gy/10F in Arm A and 25 Gy/10F to gross tumor volume in Arm B, as well as 3 cycles of cisplatin at 100 mg/m2 during RT.
+The primary endpoint was locoregional progression (LRP).
+RESULTS: 188 patients were randomized: 85% oropharynx and 73% stage IVa.
+P16 status was documented for 137 oropharyngeal tumors with P16+ in 53 (39%) patients; and 90% were smokers.
+Median follow-up was 60.5 months.
+Xerostomia was markedly decreased in arm B (p < 0.0001).
+The 1-year grade >/=2 xerostomia (RTOG criteria) was 63% vs 23% and 3-year 45% vs 11% in arms A and B, respectively.
+Xerostomia LENT-SOMA scale was also reduced in arm B. Dose-escalated IMRT did not reduce LRP with an adjusted HR of 1.13 [95%CI = 0.64-1.98] (p = 0.68).
+Survival was not different (adjusted HR: 1.19 [95%CI = 0.78-1.81], p = 0.42).
+No interaction between p16 and treatment effect was found.
+CONCLUSION: Dose-escalated IMRT did not improve LRC in LA-HNSCC patients treated with concomitant CRT over standard 3D-RT.
+This trial reinforces the evidence showing IMRT reduces xerostomia in LA-HNSCC treated with radiotherapy.
+Clinicaltrial.gov: NCT00158678.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

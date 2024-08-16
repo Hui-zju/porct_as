@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized Controlled Study to Evaluate the Efficacy of a Preoperative Respiratory Rehabilitation Program to Prevent Postoperative Pulmonary Complications after Esophagectomy.
+BACKGROUND/AIMS: Patients with postoperative pulmonary complications after esophagectomy often have increased mortality.
+The purpose of the study was to examine the efficacy of preventing postoperative pulmonary complications by an intensive preoperative respiratory rehabilitation (PR) program for esophageal cancer patients.
+METHODS: This study was a prospective randomized controlled study.
+Thirty patients in the PR group and 30 patients in the no preoperative respiratory rehabilitation (NPR) group were included.
+The PR group received preoperative rehabilitation for more than 7 days, while the NPR group did not receive any preoperative rehabilitation.
+All patients underwent postoperative rehabilitation from the first postoperative day.
+The postoperative pulmonary complications were evaluated using the Clavien-Dindo classification (CDC) and the Utrecht Pneumonia Scoring System (UPSS).
+RESULTS: The CDC grade in the PR group was significantly lower than that in the NPR group (p = 0.014).
+The UPSS score in the PR group was significantly lower than that in the NPR group at postoperative day 1 (p = 0.031).
+In the multivariate analysis, NPR was an independent risk factor for postoperative pulmonary complications greater than CDC grade II (OR: 3.99, 95% CI: 1.28-12.4, p = 0.017).
+CONCLUSIONS: This study showed that the intensive PR program was capable of reducing the postoperative pulmonary complications in esophageal cancer patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

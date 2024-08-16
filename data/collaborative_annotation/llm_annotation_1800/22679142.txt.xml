@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Development of a clinical prediction rule for risk stratification of recurrent venous thromboembolism in patients with cancer-associated venous thromboembolism.
+BACKGROUND: Long-term low-molecular-weight heparin (LMWH) is the current standard for treatment of venous thromboembolism (VTE) in cancer patients.
+Whether treatment strategies should vary according to individual risk of VTE recurrence remains unknown.
+We performed a retrospective cohort study and a validation study in patients with cancer-associated VTE to derive a clinical prediction rule that stratifies VTE recurrence risk.
+METHODS AND RESULTS: The cohort study of 543 patients determined the model with the best classification performance included 4 independent predictors (sex, primary tumor site, stage, and prior VTE) with 100% sensitivity, a wide separation of recurrence rates, 98.1% negative predictive value, and a negative likelihood ratio of 0.16.
+In this model, the score sum ranged between -3 and 3 score points.
+Patients with a score &lt;/= 0 had low risk (&lt;/= 4.5%) for recurrence and patients with a score &gt;1 had a high risk (&gt;/= 19%) for VTE recurrence.
+Subsequently, we applied and validated the rule in an independent set of 819 patients from 2 randomized, controlled trials comparing low-molecular-weight heparin to coumarin treatment in cancer patients.
+CONCLUSIONS: By identifying VTE recurrence risk in cancer patients with VTE, we may be able to tailor treatment, improving clinical outcomes while minimizing costs.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

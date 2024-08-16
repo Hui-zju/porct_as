@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Preference for subcutaneous or intravenous administration of trastuzumab in patients with HER2-positive early breast cancer (PrefHer): an open-label randomised study.
+BACKGROUND: Subcutaneous trastuzumab has shown non-inferior efficacy and a similar pharmacokinetic and safety profile when compared with intravenous trastuzumab in patients with HER2-positive early breast cancer.
+We assessed patient preference for either subcutaneous or intravenous trastuzumab in the international, randomised PrefHer study.
+METHODS: Eligible patients were women aged 18 years or older with HER2-positive, histologically confirmed primary invasive breast adenocarcinoma, no evidence of residual, locally recurrent, or metastatic disease after completion of surgery and chemotherapy (neoadjuvant or adjuvant), an Eastern Cooperative Oncology Group performance status of 0 or 1, and a baseline left-ventricular ejection fraction of 55% or more before the first dose of trastuzumab.
+Radiotherapy or hormone therapy was allowed.
+Patients were randomised (randomly permuted blocks of four) to receive four cycles of 600 mg fixed-dose subcutaneous adjuvant trastuzumab via a single-use injection device or hand-held syringe followed by four cycles of standard intravenous trastuzumab, or the reverse sequence.
+Randomisation was stratified by de-novo versus non-de-novo use of intravenous trastuzumab.
+The primary endpoint was the proportion of patients indicating an overall preference for subcutaneous or intravenous trastuzumab, assessed by patient interview in the evaluable intention-to-treat (ITT) population (patients who completed both interviews and had at least one administration of both subcutaneous and intravenous trastuzumab).
+Data collection for PrefHer is ongoing.
+This study is registered with ClinicalTrials.gov, number NCT01401166.
+FINDINGS: 124 patients were randomly allocated to receive subcutaneous followed by intravenous trastuzumab, and 124 to receive the reverse sequence.
+117 patients in the subcutaneous first group and 119 in the intravenous first group were included in the evaluable ITT population.
+Subcutaneous trastuzumab via the single-use injection device was preferred by 216 patients (91.5%, 95% CI 87.2-94.7; p<0.0001).
+Only 16 patients preferred intravenous trastuzumab (6.8%, 3.9-10.8), and four had no preference (1.7%, 0.5-4.3).
+Clinician-reported adverse events occurred in 141 of 242 (58%) patients during the pooled subcutaneous periods and 105 of 241 (44%) patients during the pooled intravenous periods; seven (3%) and five (2%) were grade 3, no patients had a grade 4 or 5 event.
+The most common grade 3 adverse event was influenza (two [0.8%] patients).
+INTERPRETATION: Patient preference and safety results from PrefHer, combined with the known non-inferior efficacy and pharmacokinetic and safety profile data, suggest that a fixed dose of 600 mg trastuzumab administered subcutaneously every 3 weeks is a validated, well tolerated treatment option for HER2-positive breast cancer, and is the preferred treatment of patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

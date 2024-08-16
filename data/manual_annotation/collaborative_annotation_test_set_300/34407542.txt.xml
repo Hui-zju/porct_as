@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A phase 3, open-label, randomized study of asciminib, a STAMP inhibitor, vs bosutinib in CML after 2 or more prior TKIs.
+Patients with chronic myeloid leukemia in chronic phase (CML-CP) resistant/intolerant to >/=2 tyrosine kinase inhibitors (TKIs) are at high risk of experiencing poor outcomes because of disease biology and inadequate efficacy and/or safety of current therapies.
+Asciminib, a first-in-class BCR-ABL1 inhibitor Specifically Targeting the ABL Myristoyl Pocket (STAMP), has the potential to overcome resistance/intolerance to approved TKIs.
+In this phase 3, open-label study, patients with CML-CP previously treated with >/=2 TKIs were randomized (2:1) to receive asciminib 40 mg twice daily vs bosutinib 500 mg once daily.
+Randomization was stratified by major cytogenetic response (MCyR) status at baseline.
+The primary objective was to compare the major molecular response (MMR) rate at week 24 for asciminib vs bosutinib.
+A total of 233 patients were randomized to asciminib (n = 157) or bosutinib (n = 76).
+Median follow-up was 14.9 months.
+The MMR rate at week 24 was 25.5% with asciminib and 13.2% with bosutinib.
+The difference in MMR rate between treatment arms, after adjusting for MCyR at baseline, was 12.2% (95% confidence interval, 2.19-22.30; 2-sided P = .029).
+Fewer grade >/=3 adverse events (50.6% vs 60.5%) and adverse events leading to treatment discontinuation (5.8% vs 21.1%) occurred with asciminib than with bosutinib.
+The study showed a superior efficacy of asciminib compared with that of bosutinib, together with a favorable safety profile.
+These results support the use of asciminib as a new therapy in patients with CML-CP who are resistant/intolerant to >/=2 prior TKIs.
+This trial was registered at www.clinicaltrials.gov as #NCT03106779.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

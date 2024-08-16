@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized, double-blind, placebo-controlled study of B-cell lymphoma 2 homology 3 mimetic gossypol combined with docetaxel and cisplatin for advanced non-small cell lung cancer with high expression of apurinic/apyrimidinic endonuclease 1.
+Background Overexpression of apurinic/apyrimidinic endonuclease 1 (APE1) is an important cause of poor chemotherapeutic efficacy in advanced non-small cell lung cancer (NSCLC) patients.
+Gossypol, a new inhibitor of APE1, in combination with docetaxel and cisplatin is believed to improve the efficacy of chemotherapy for advanced NSCLC with high APE1 expression.
+Methods Sixty-two patients were randomly assigned to two groups.
+Thirty-one patients in the experimental group received 75 mg/m(2) docetaxel and 75 mg/m(2) cisplatin on day 1 with gossypol administered at 20 mg once daily on days 1 to 14 every 21 days.
+The control group received placebo with the same docetaxel and cisplatin regimen.
+The primary endpoint was progression-free survival (PFS); secondary endpoints included overall survival (OS), response rate, and toxicity.
+Results There were no significant differences in PFS and OS between the experimental group and the control group.
+The median PFS (mPFS) in the experimental and control groups was 7.43 and 4.9 months, respectively (HR = 0.54; p = 0.06), and the median OS (mOS) was 18.37 and 14.7 months, respectively (HR = 0.68; p = 0.27).
+No significant differences in response rate and serious adverse events were found between the groups.
+Conclusion The experimental group had a better mPFS and mOS than did the control group, though no significant difference was observed.
+Because the regimen of gossypol combined with docetaxel and cisplatin was well tolerated, future studies with larger sample sizes should be performed.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

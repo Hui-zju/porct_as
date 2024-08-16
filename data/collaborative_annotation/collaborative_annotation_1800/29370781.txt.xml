@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The PANDA study: a randomized phase II study of first-line FOLFOX plus panitumumab versus 5FU plus panitumumab in RAS and BRAF wild-type elderly metastatic colorectal cancer patients.
+BACKGROUND: Few data are available regarding the treatment of metastatic colorectal cancer elderly patients with anti-EGFR agents in combination with chemotherapy.
+FOLFOX plus panitumumab is a standard first-line option for RAS wild-type metastatic colorectal cancer.
+Slight adjustments in chemo-dosage are commonly applied in clinical practice to elderly patients, but those modified schedules have never been prospectively tested.
+Clinical definition of elderly (>/=70 years old) patients that may deserve a more or less intensive combination therapy is still debated.
+Several geriatric screening tools have been developed to predict survival and risk of toxicity from treatment.
+Among those, the G8 screening tool has been tested in cancer patients showing the strongest prognostic value for overall survival, while the CRASH score can stratify patients according to an estimated risk of treatment-related toxicities.
+METHODS: The PANDA study is a prospective, open-label, multicenter, randomized phase II trial of first-line therapy with panitumumab in combination with dose-adjusted FOLFOX or with 5-fluorouracil monotherapy, in previously untreated elderly patients (>/=70 years) with RAS and BRAF wild-type unresectable metastatic colorectal cancer.
+RAS and BRAF analyses are centralized.
+Geriatric assessment by means of G8 and CRASH score is planned at baseline and G8 will be re-evaluated at disease progression.
+The primary endpoint is duration of progression-free survival in both arms.
+Secondary endpoints include prospective evaluation of the prognostic role of G8 score and the correlation of CRASH risk categories with toxicity.
+DISCUSSION: The PANDA study aims at exploring safety and efficacy of panitumumab in combination with FOLFOX or with 5FU/LV in elderly patients affected by RAS and BRAF wild-type metastatic colorectal cancer, to identify the most promising treatment strategy in this setting.
+Additionally, this is the first trial in which the prognostic role of the G8 score will be prospectively evaluated.
+Results of this study will drive further experimental developments for one or both combinations.
+TRIAL REGISTRATION: PANDA is registered at Clinicaltrials.gov : NCT02904031 , July 11, 2016.
+PANDA is registered at EudraCT-No.: 2015-003888-10, September 3, 2015.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

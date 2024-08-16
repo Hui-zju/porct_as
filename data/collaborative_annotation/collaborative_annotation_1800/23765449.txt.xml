@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Testing the measurement equivalence of paper and interactive voice response system versions of the EORTC QLQ-C30.
+PURPOSE: The objective of this study was to evaluate the measurement equivalence of an interactive voice response system (IVRS) version and the original paper-based version of the EORTC QLQ-C30.
+METHODS: The QLQ-C30 is a cancer-specific, health-related quality of life questionnaire consisting of nine multi-item scales (physical, role, emotional, cognitive and social functioning, fatigue, nausea/vomiting, pain, and quality of life) and six single item measures (dyspnea, insomnia, appetite loss, constipation, diarrhea, and financial problems).
+This study utilized a crossover design with subjects randomly assigned to one of two assessment orders: (1) paper then IVRS or (2) IVRS then paper.
+Equivalence between the two administration modes was established by comparing the 95% lower confidence interval (CI) of the intraclass correlation coefficients (ICCs) for each scale, with a critical value of 0.70.
+RESULTS: The ICCs for the nine multi-item scales were all above 0.79, ranging from 0.791 to 0.899 (ICC 95% lower CI range 0.726-0.865) and significantly different from our threshold reliability of 0.70.
+The ICCs for the six single items ranged from 0.689 to 0.896 (ICC 95% lower CI range 0.611-0.888).
+Two of the items, insomnia and appetite loss, were not statistically different from 0.70.
+When considered together, the per-protocol analysis results support the equivalence of the paper and IVRS versions of the QLQ-C30 for 13 of the 15 scores.
+CONCLUSION: This analysis provides evidence that the scores obtained from the IVRS version of the QLQ-C30 are equivalent to those obtained with the original paper version except for the insomnia and appetite loss items.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

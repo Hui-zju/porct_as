@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Adapted Treatment Guided by Interim PET-CT Scan in Advanced Hodgkin's Lymphoma.
+BACKGROUND: We tested interim positron-emission tomography-computed tomography (PET-CT) as a measure of early response to chemotherapy in order to guide treatment for patients with advanced Hodgkin's lymphoma.
+METHODS: Patients with newly diagnosed advanced classic Hodgkin's lymphoma underwent a baseline PET-CT scan, received two cycles of ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine) chemotherapy, and then underwent an interim PET-CT scan.
+Images were centrally reviewed with the use of a 5-point scale for PET findings.
+Patients with negative PET findings after two cycles were randomly assigned to continue ABVD (ABVD group) or omit bleomycin (AVD group) in cycles 3 through 6.
+Those with positive PET findings after two cycles received BEACOPP (bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine, procarbazine, and prednisone).
+Radiotherapy was not recommended for patients with negative findings on interim scans.
+The primary outcome was the difference in the 3-year progression-free survival rate between randomized groups, a noninferiority comparison to exclude a difference of 5 or more percentage points.
+RESULTS: A total of 1214 patients were registered; 937 of the 1119 patients (83.7%) who underwent an interim PET-CT scan according to protocol had negative findings.
+With a median follow-up of 41 months, the 3-year progression-free survival rate and overall survival rate in the ABVD group were 85.7% (95% confidence interval [CI], 82.1 to 88.6) and 97.2% (95% CI, 95.1 to 98.4), respectively; the corresponding rates in the AVD group were 84.4% (95% CI, 80.7 to 87.5) and 97.6% (95% CI, 95.6 to 98.7).
+The absolute difference in the 3-year progression-free survival rate (ABVD minus AVD) was 1.6 percentage points (95% CI, -3.2 to 5.3).
+Respiratory adverse events were more severe in the ABVD group than in the AVD group.
+BEACOPP was given to the 172 patients with positive findings on the interim scan, and 74.4% had negative findings on a third PET-CT scan; the 3-year progression-free survival rate was 67.5% and the overall survival rate 87.8%.
+A total of 62 patients died during the trial (24 from Hodgkin's lymphoma), for a 3-year progression-free survival rate of 82.6% and an overall survival rate of 95.8%.
+CONCLUSIONS: Although the results fall just short of the specified noninferiority margin, the omission of bleomycin from the ABVD regimen after negative findings on interim PET resulted in a lower incidence of pulmonary toxic effects than with continued ABVD but not significantly lower efficacy.
+(Funded by Cancer Research UK and Others; ClinicalTrials.gov number, NCT00678327.).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>A prognostic index model for predicting overall survival in patients with metastatic castration-resistant prostate cancer treated with abiraterone acetate after docetaxel.
+BACKGROUND: Few prognostic models for overall survival (OS) are available for patients with metastatic castration-resistant prostate cancer (mCRPC) treated with recently approved agents.
+We developed a prognostic index model using readily available clinical and laboratory factors from a phase III trial of abiraterone acetate (hereafter abiraterone) in combination with prednisone in post-docetaxel mCRPC.
+PATIENTS AND METHODS: Baseline data were available from 762 patients treated with abiraterone-prednisone.
+Factors were assessed for association with OS through a univariate Cox model and used in a multivariate Cox model with a stepwise procedure to identify those of significance.
+Data were validated using an independent, external, population-based cohort.
+RESULTS: Six risk factors individually associated with poor prognosis were included in the final model: lactate dehydrogenase &gt; upper limit of normal (ULN) [hazard ratio (HR) = 2.31], Eastern Cooperative Oncology Group performance status of 2 (HR = 2.19), presence of liver metastases (HR = 2.00), albumin &lt;/=4 g/dl (HR = 1.54), alkaline phosphatase &gt; ULN (HR = 1.38) and time from start of initial androgen-deprivation therapy to start of treatment &lt;/=36 months (HR = 1.30).
+Patients were categorized into good (n = 369, 46%), intermediate (n = 321, 40%) and poor (n = 107, 13%) prognosis groups based on the number of risk factors and relative HRs.
+The C-index was 0.70 +/- 0.014.
+The model was validated by the external dataset (n = 286).
+CONCLUSION: This analysis identified six factors used to model survival in mCRPC and categorized patients into three distinct risk groups.
+Prognostic stratification with this model could assist clinical practice decisions for follow-up and monitoring, and may aid in clinical trial design.
+TRIAL REGISTRATION NUMBERS: NCT00638690.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

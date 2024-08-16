@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Overall Survival Benefit with Tebentafusp in Metastatic Uveal Melanoma.
+BACKGROUND: Uveal melanoma is a disease that is distinct from cutaneous melanoma, with a low tumor mutational burden and a 1-year overall survival of approximately 50% in patients with metastatic uveal melanoma.
+Data showing a proven overall survival benefit with a systemic treatment are lacking.
+Tebentafusp is a bispecific protein consisting of an affinity-enhanced T-cell receptor fused to an anti-CD3 effector that can redirect T cells to target glycoprotein 100-positive cells.
+METHODS: In this open-label, phase 3 trial, we randomly assigned previously untreated HLA-A*02:01-positive patients with metastatic uveal melanoma in a 2:1 ratio to receive tebentafusp (tebentafusp group) or the investigator's choice of therapy with single-agent pembrolizumab, ipilimumab, or dacarbazine (control group), stratified according to the lactate dehydrogenase level.
+The primary end point was overall survival.
+RESULTS: A total of 378 patients were randomly assigned to either the tebentafusp group (252 patients) or the control group (126 patients).
+Overall survival at 1 year was 73% in the tebentafusp group and 59% in the control group (hazard ratio for death, 0.51; 95% confidence interval [CI], 0.37 to 0.71; P&lt;0.001) in the intention-to-treat population.
+Progression-free survival was also significantly higher in the tebentafusp group than in the control group (31% vs. 19% at 6 months; hazard ratio for disease progression or death, 0.73; 95% CI, 0.58 to 0.94; P = 0.01).
+The most common treatment-related adverse events in the tebentafusp group were cytokine-mediated events (due to T-cell activation) and skin-related events (due to glycoprotein 100-positive melanocytes), including rash (83%), pyrexia (76%), and pruritus (69%).
+These adverse events decreased in incidence and severity after the first three or four doses and infrequently led to discontinuation of the trial treatment (2%).
+No treatment-related deaths were reported.
+CONCLUSIONS: Treatment with tebentafusp resulted in longer overall survival than the control therapy among previously untreated patients with metastatic uveal melanoma.
+(Funded by Immunocore; ClinicalTrials.gov number, NCT03070392; EudraCT number, 2015-003153-18.).</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

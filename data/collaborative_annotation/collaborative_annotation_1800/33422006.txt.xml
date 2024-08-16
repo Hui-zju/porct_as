@@ -1,0 +1,22 @@
+<MyRCT>
+<TEXT>Impact of time-varying cumulative bevacizumab exposures on survival: re-analysis of data from randomized clinical trial in patients with metastatic colo-rectal cancer.
+BACKGROUND: As cancer treatment, biotherapies can be as effective as chemotherapy while reducing the risk of secondary effects, so that they can be taken over longer periods than conventional chemotherapy.
+Thus, some trials aimed at assessing the benefit of maintaining biotherapies during chemotherapy-free intervals (CFI).
+For example, the recent PRODIGE9 trial assessed the effect of maintaining bevacizumab during CFI in metastatic colorectal cancer (mCRC) patients.
+However, its analysis was hindered by a small difference of exposure to the treatment between the randomized groups and by a large proportion of early drop outs, leading to a potentially unbalanced distribution of confounding factors among the trial completers.
+To address these limitations, we re-analyzed the PRODIGE9 data to assess the effects of different exposure metrics on all-cause mortality of patients with mCRC using methods originally developed for observational studies.
+METHODS: To account for the actual patterns of drug use by individual patients and for possible cumulative effects, we used five alternative time-varying exposure metrics: (i) cumulative dose, (ii) quantiles of the cumulative dose, (iii) standardized cumulative dose, (iv) Theoretical Blood Concentration (TBC), and (v) Weighted Cumulative Exposure (WCE).
+The last two metrics account for the timing of drug use.
+Treatment effects were estimated using adjusted Hazard Ratio from multivariable Cox proportional hazards models.
+RESULTS: After excluding 112 patients who died during the induction period, we analyzed data on 382 patients, among whom 320 (83.8%) died.
+All time-varying exposures improved substantially the model's fit to data, relative to using only the time-invariant randomization group.
+All exposures indicated a protective effect for higher cumulative bevacizumab doses.
+The best-fitting WCE and TBC models accounted for both the cumulative effects and the different impact of doses taken at different times.
+CONCLUSIONS: All time-varying analyses, regardless of the exposure metric used, consistently suggested protective effects of higher cumulative bevacizumab doses.
+However, the results may partly reflect the presence of a confusion bias.
+Complementing the main ITT analysis of maintenance trials with an analysis of potential cumulative effects of treatment actually taken can provide new insights, but the results must be interpreted with caution because they do not benefit from the randomization.
+TRIAL REGISTRATION: clinicaltrials.gov, NCT00952029 .
+Registered 8 August 2009.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

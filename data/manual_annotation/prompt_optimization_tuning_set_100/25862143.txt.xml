@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Randomized Controlled Trial To Assess and Compare the Outcomes of Two-core Prostate Biopsy Guided by Fused Magnetic Resonance and Transrectal Ultrasound Images and Traditional 12-core Systematic Biopsy.
+BACKGROUND: Prostate biopsy guided by computer-assisted fusion of magnetic resonance imaging (MRI) and transrectal ultrasound (TRUS) images (MRI group) has not yet been compared with 12-core random biopsy (RB; control group) in a randomized controlled trial (RCT).
+OBJECTIVE: To compare the rate of detection of clinically significant prostate cancer (csPCa) between the two groups.
+DESIGN, SETTING, AND PARTICIPANTS: This RCT included 175 biopsy-naive patients with suspicion for prostate cancer, randomized to an MRI group (n=86) and a control group (n=89) between September 2011 and June 2013.
+INTERVENTION: In the MRI group, two-core targeted biopsy (TB) guided by computer-assisted fusion of MRI/TRUS images of MRI-suspicious lesions was followed by 12-core RB.
+In the control group, both two-core TB for abnormal digital rectal examination (DRE) and/or TRUS-suspicious lesions and 12-core RB were performed.
+In patients with normal MRI or DRE/TRUS, only 12-core RB was performed.
+OUTCOMES MEASUREMENTS AND STATISTICAL ANALYSIS: The detection rates for any cancer and csPCa were compared between the two groups and between TB and RB.
+RESULTS AND LIMITATIONS: Detection rates for any cancer (MRI group 51/86, 59%; control group 48/89, 54%; p=0.4) and csPCa (38/86, 44% vs 44/89, 49%; p=0.5) did not significantly differ between the groups.
+Detection of csPCa was comparable between two-core MRI/TRUS-TB (33/86, 38%) and 12-core RB in the control group (44/89, 49%; p=0.2).
+In a subset analysis of patients with normal DRE, csPCa detection was similar between two-core MRI/TRUS-TB (14/66, 21%) and 12-core RB in the control group (15/60, 25%; p=0.7).
+Among biopsy-proven csPCas in MRI group, 87% (33/38) were detected by MRI/TRUS-TB.
+The definition of csPCa was only based on biopsy outcomes.
+CONCLUSION: Overall csPCa detection was similar between the MRI and control groups.
+Two-core MRI/TRUS-TB was comparable to 12-core RB for csPCa detection.
+PATIENT SUMMARY: Our randomized controlled trial revealed a similar rate of prostate cancer detection between targeted biopsy guided by magnetic resonance imaging (MRI) and transrectal ultrasound (TRUS) and 12-core random biopsy.
+The traditional 12-core random biopsy may be replaced by two-core MRI/TRUS targeted biopsy for detection of clinically significant prostate cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

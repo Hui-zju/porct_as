@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Prognostic Impact of IL6 Genetic Variants in Patients with Metastatic Colorectal Cancer Treated with Bevacizumab-Based Chemotherapy.
+PURPOSE: The IL6/STAT3 axis promotes inflammation, angiogenesis, and cancer.
+The effect of genetic variants within this pathway on benefit from antiangiogenic cancer therapy is unknown.
+We tested whether SNPs in genes involved in IL6/STAT3 signaling can predict efficacy of bevacizumab-based chemotherapy in metastatic colorectal cancer (mCRC) patients.
+EXPERIMENTAL DESIGN: Associations between potentially functional IL6 (rs2069837 and rs1800795) and STAT3 (rs744166 and rs4796793) SNPs and clinical outcomes [progression-free survival (PFS), overall survival, and tumor response rate] were evaluated in mCRC patients receiving first-line FOLFIRI plus bevacizumab in two randomized phase III trials: TRIBE (n = 223, training cohort) and FIRE-3 (n = 288, validation cohort).
+Patients receiving FOLFIRI plus cetuximab in FIRE-3 (n = 264) served as a control cohort.
+The interaction between genotype and primary tumor location with clinical outcomes was examined.
+Genomic DNA isolated from whole blood or tumor tissue was analyzed by PCR-based direct sequencing.
+RESULTS: Patients with an IL6 rs2069837 G allele treated with FOLFIRI plus bevacizumab had an inferior PFS than those with the A/A genotype in TRIBE [9.4 vs. 11.1 months; HR = 1.53; 95% confidence interval (CI), 1.12-2.10; P = 0.004] and FIRE-3 (8.8 vs. 10.9 months; HR = 1.40; 95% CI, 1.06-1.85; P = 0.015).
+These associations were confirmed in multivariable analyses and were not seen in the control cohort.
+In subgroup analysis, the effect of IL6 rs2069837 on PFS was present only in patients with left-sided cancers, but the test for interaction was not significant.
+CONCLUSIONS: IL6 rs2069837 genotype is a clinically relevant prognostic factor in mCRC patients treated with first-line bevacizumab-based chemotherapy.
+Clin Cancer Res; 22(13); 3218-26.
+(c)2016 AACR.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

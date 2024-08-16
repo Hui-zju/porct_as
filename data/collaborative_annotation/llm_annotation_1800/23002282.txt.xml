@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase II study evaluating the combination of carboplatin-based chemotherapy with pertuzumab versus carboplatin-based therapy alone in patients with relapsed, platinum-sensitive ovarian cancer.
+BACKGROUND: Pertuzumab, a humanized monoclonal antibody targeting human epidermal growth factor receptor (HER)-mediated signalling, has shown activity in ovarian cancer in preclinical models and in the clinic.
+This randomized phase II study evaluated efficacy and safety of pertuzumab in combination with carboplatin-based chemotherapy in patients with platinum-sensitive, recurrent advanced ovarian cancer.
+PATIENTS AND METHODS: Patients were randomized to receive six cycles of chemotherapy (carboplatin and either paclitaxel (Taxol) or gemcitabine) with or without pertuzumab.
+The primary end point was progression-free survival (PFS) as determined by Response Evaluation Criteria in Solid Tumors and/or by CA 125 measurements.
+Secondary end points evaluated the response rate, safety profile, duration of response, time to progression and overall survival for both treatment arms.
+RESULTS: A total of 149 patients received either chemotherapy with pertuzumab (arm A, n=74) or chemotherapy alone (arm B, n=75).
+There was no significant difference either in median PFS or in the secondary end points between the two arms.
+No differences were seen in an exploratory biomarker analysis of HER3 mRNA expression between the two arms.
+Pertuzumab was well tolerated, with no increase in cardiac adverse events compared with chemotherapy alone.
+CONCLUSIONS: The addition of pertuzumab to carboplatin-based chemotherapy did not substantially prolong PFS in unselected patients with platinum-sensitive ovarian cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

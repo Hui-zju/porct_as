@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A non-comparative randomized phase II study of 2 doses of ATN-224, a copper/zinc superoxide dismutase inhibitor, in patients with biochemically recurrent hormone-naive prostate cancer.
+OBJECTIVE: ATN-224 (choline tetrathiomolybdate) is an oral Cu(2+)/Zn(2+)-superoxide dismutase 1 (SOD1) inhibitor with preclinical antitumor activity.
+We hypothesized that ATN-224 may induce antitumor effects as an antiangiogenic agent at low dose-levels while possessing direct antitumor activity at higher dose-levels.
+The objective of this study was to screen its clinical activity in patients with biochemically recurrent hormone-naive prostate cancer.
+METHODS: Biochemically-recurrent prostate cancer patients with prostate specific antigen doubling times (PSADT) < 12 months, no radiographic evidence of metastasis, and no hormonal therapy within 6 months (with serum testosterone levels > 150 ng/dl) were eligible.
+ATN-224 was administered at 2 dose-levels, 300 mg (n = 23) or 30 mg (n = 24) daily, by way of randomization.
+PSA progression was defined as a >/= 50% increase (and >5 ng/ml) in PSA from baseline or post-treatment nadir.
+Endpoints included the proportion of patients who were free of PSA progression at 24 weeks, changes in PSA slope/PSADT, and safety.
+The study was not powered to detect differences between the 2 treatment groups.
+RESULTS: At 24 weeks, 59% (95% CI 33%-82%) of men in the low-dose arm and 45% (95% CI 17%-77%) in the high-dose arm were PSA progression-free.
+Median PSA progression-free survival was 30 weeks (95% CI 21-40(+)) and 26 weeks (95% CI 24-39(+)) in the low-dose and high-dose groups, respectively.
+Pre- and on-treatment PSA kinetics analyses showed a significant mean PSA slope decrease (P = 0.006) and a significant mean PSADT increase (P = 0.032) in the low-dose arm only.
+Serum ceruloplasmin levels, a biomarker for ATN-224 activity, were lowered in the high-dose group, but did not correlate with PSA changes.
+CONCLUSIONS: Low-dose ATN-224 (30 mg daily) may have biologic activity in men with biochemically-recurrent prostate cancer, as suggested by an improvement in PSA kinetics.
+However, the clinical significance of PSA kinetics changes in this patient population remains uncertain.
+The absence of a dose-response effect also reduces enthusiasm, and there are currently no plans to further develop this agent in prostate cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

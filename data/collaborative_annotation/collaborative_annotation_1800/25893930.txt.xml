@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>A randomized double-blind placebo controlled phase I-II study on clinical and molecular effects of dietary supplements in men with precancerous prostatic lesions. Chemoprevention or "chemopromotion"?
+BACKGROUND: Antioxidants effectiveness in prostate cancer (PCa) chemoprevention has been severely questioned, especially after the recent results of the Selenium and Vitamin E Cancer Prevention Trial.
+We present the results of a double-blind randomized controlled trial (dbRCT) on the pharmacokinetic, clinical, and molecular activity of dietary supplements containing lycopene, selenium, and green tea catechins (GTCs) in men with multifocal high grade prostatic intraepithelial neoplasia (mHGPIN) and/or atypical small acinar proliferation (ASAP).
+METHODS: From 2009 to 2014, we conducted a dbRCT including 60 patients with primary mHGPIN and/or ASAP receiving daily lycopene 35 mg, selenium 55 microg, and GTCs 600 mg, or placebo for 6 months.
+Pharmacokinetic analysis were performed with UV-Visible spectrophotometric assay under standard (SC) and accelerated (AC) conditions.
+Upon plasma lycopene concentrations falling within the expected range (1.2-90 mcg/l) and no side-effects of grade &gt;1, study proceeded to phase II (n = 50).
+After unblinding of results, eight men (4 per arm, 2 without and 2 with PCa, respectively) were randomly selected and totRNA extracted from "non-pathological" tissues.
+MicroRNA profiling was performed with the Agilent platform.
+Raw data processing used R-statistical language and linear models for microarray analysis.
+RESULTS: Samples were stable except for lycopene, showing significant degradation (SC = 56%, AC = 59%) and consequently stabilized under vacuum in a dark packaging.
+Mean plasmatic lycopene concentration was 1,45 +/- 0,4 muM. At 6 months, 53 men underwent re-biopsy and 13 (24.5%) were diagnosed with PCa (supplementation n = 10, placebo n = 3 [P = 0.053]).
+At a mean 37 months follow-up, 3 additional PCa were found in the placebo group.
+No significant variations in PSA, IPSS, and PR25 questionnaires were observed.
+Stronger modulation of miRNAs was present on re-biopsy in the supplementation group compared to the placebo, including: (i) overexpression of miRNAs present in PCa versus non-cancer tissue; (ii) underexpression of miRNAs suppressing PCa proliferation; (iii) detection of 35 miRNAs in PCa patients versus disease-free men, including androgen-regulated miR-125b-5p and PTEN-targeting miR-92a-3p (both upregulated).
+CONCLUSION: Administration of high doses of lycopene, GTCs, and selenium in men harboring HGPIN and/or ASAP was associated with a higher incidence of PCa at re-biopsy and expression of microRNAs implicated in PCa progression at molecular analysis.
+The use of these supplements should be avoided.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

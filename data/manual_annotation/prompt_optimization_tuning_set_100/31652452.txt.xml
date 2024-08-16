@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Association between PHOX2B gene rs28647582 T>C polymorphism and Wilms tumor susceptibility.
+Wilms tumor is one of the most common pediatric solid tumors.
+The pair-like homeobox 2b (PHOX2B) gene is an important transcription factor that regulates cellular proliferation and differentiation in early life.
+The association between PHOX2B single nucleotide polymorphisms (SNPs) and Wilms tumor risk has not been investigated.
+Therefore, we conducted a case-control study involving 145 Wilms tumor patients and 531 controls to explore the association between the PHOX2B rs28647582 T>C polymorphism and Wilms tumor susceptibility.
+The association between the PHOX2B rs28647582 T>C polymorphism and Wilms tumor susceptibility was assessed by odds ratios (ORs) and 95% confidence intervals (CIs).
+Our results indicated that PHOX2B rs28647582 T>C polymorphism did not significantly alter Wilms tumor susceptibility.
+However, in the stratified analysis, we found that TC/CC genotypes significantly increased Wilms tumor risk among children older than 18 months (adjusted OR = 1.77, 95% CI = 1.07-2.95, P=0.027) and those with clinical stages III+IV (adjusted OR = 1.75, 95% CI = 1.09-2.82, P=0.022), when compared with those with TT genotype.
+Our study suggested that PHOX2B rs28647582 T>C was weakly associated with Wilms tumor susceptibility.
+Our conclusions need further validation with a larger sample size.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Prostate-Specific Antigen After Neoadjuvant Androgen Suppression in Prostate Cancer Patients Receiving Short-Term Androgen Suppression and External Beam Radiation Therapy: Pooled Analysis of Four NRG Oncology Radiation Therapy Oncology Group Randomized Clinical Trials.
+PURPOSE: To validate whether prostate-specific antigen (PSA) level after neoadjuvant androgen suppression (neoAS) is associated with long-term outcome after neoAS and external beam radiation therapy (RT) with concurrent short-term androgen suppression (AS) in patients with prostate cancer.
+METHODS AND MATERIALS: This study included 2404 patients.
+The patients were treated with neoAS before RT and concurrent AS (without post-RT AS) and were pooled from NRG Oncology/RTOG trials 9202, 9408, 9413, and 9910.
+Multivariable models were used to test associations between the prespecified dichotomized post-neoAS, pre-RT PSA level (&lt;/=0.1 vs &gt;0.1 ng/mL) groupings, and clinical outcomes.
+RESULTS: The median follow-up for surviving patients was 9.4 years.
+The median post-neoAS, pre-RT PSA level was 0.3 ng/mL, with 32% of patients having levels &lt;/=0.1 ng/mL. Race, Gleason score, tumor stage, node stage, pretreatment PSA level, and duration of neoAS were associated with the groups of patients with PSA levels &lt;/=0.1 and &gt;0.1 ng/mL. In univariate analyses, post-neoAS, pre-RT PSA level &gt;0.1 ng/mL was associated with increased risks of biochemical failure (hazard ratio [HR], 2.04; P &lt; .0001); local failure (HR, 2.51; P &lt; .0001); distant metastases (HR, 1.73; P = .0006); cause-specific mortality (HR, 2.36; P &lt; .0001); and all-cause mortality (HR, 1.24; P = .005).
+In multivariable models that also included baseline and treatment variables, post-neoAS, pre-RT PSA level &gt;0.1 ng/mL was independently associated with increased risk of biochemical failure (HR, 2.00; P &lt; .0001); local failure (HR, 2.33; P &lt; .0001); and cause-specific mortality (HR, 1.75; P = .03).
+CONCLUSIONS: Patients with a PSA level &gt;0.1 ng/mL after neoAS and before the start of RT had less favorable clinical outcomes than patients whose PSA level was &lt;/=0.1 ng/mL. The role of post-neoAS, pre-RT PSA level relative to PSA levels obtained along the continuum of medical care is not presently defined but could be tested in future clinical trials.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

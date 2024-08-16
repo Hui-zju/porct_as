@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Exposure-Response Analyses of Ramucirumab from Two Randomized, Phase III Trials of Second-line Treatment for Advanced Gastric or Gastroesophageal Junction Cancer.
+Ramucirumab is an IgG1 monoclonal antibody specific for the vascular endothelial growth factor receptor-2.
+Ramucirumab, 8 mg/kg every 2 weeks, administered as monotherapy (REGARD) or in combination with paclitaxel (RAINBOW), was safe and effective in patients with previously treated advanced gastric or gastroesophageal junction (GEJ) cancer.
+We evaluated exposure-efficacy and exposure-safety relationships of ramucirumab from two randomized, placebo-controlled phase III trials.
+Sparse pharmacokinetic samples were collected, and a population pharmacokinetic analysis was conducted to predict ramucirumab minimum trough concentration at steady state (Cmin,ss).
+Kaplan-Meier methods and Cox proportional hazards models were used to evaluate the ramucirumab exposure (Cmin,ss)-efficacy relationship to overall survival (OS) and progression-free survival (PFS).
+Logistic regression analyses were used to evaluate exposure-safety relationships.
+Analyses included 321 ramucirumab + paclitaxel and 335 placebo + paclitaxel patients from RAINBOW and 72 ramucirumab and 35 placebo patients from REGARD.
+Exposure-efficacy analysis showed ramucirumab Cmin,ss was a significant predictor of OS and PFS in both trials.
+Higher ramucirumab exposure was associated with longer OS and PFS.
+In RAINBOW, grade >/=3 hypertension, leukopenia, and neutropenia, but not febrile neutropenia, significantly correlated with Cmin,ss, with increased exposure leading to increased incidence.
+Exploratory exposure-response analyses suggest a positive relationship between efficacy and ramucirumab exposure with manageable toxicities at exposures generated from a dose of 8 mg/kg ramucirumab given every 2 weeks for patients with advanced gastric/GEJ cancer.
+These findings suggest an opportunity to further optimize benefit versus risk profiles of ramucirumab treatment in patients with gastric/GEJ cancer.
+Mol Cancer Ther; 16(10); 2215-22.
+(c)2017 AACR.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

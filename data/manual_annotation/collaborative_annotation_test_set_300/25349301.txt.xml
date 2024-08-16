@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase III study of iniparib plus gemcitabine and carboplatin versus gemcitabine and carboplatin in patients with metastatic triple-negative breast cancer.
+PURPOSE: There is a lack of treatments providing survival benefit for patients with metastatic triple-negative breast cancer (mTNBC), with no standard of care.
+A randomized phase II trial showed significant benefit for gemcitabine, carboplatin, and iniparib (GCI) over gemcitabine and carboplatin (GC) in clinical benefit rate, response rate, progression-free survival (PFS), and overall survival (OS).
+Here, we formally compare the efficacy of these regimens in a phase III trial.
+PATIENTS AND METHODS: Patients with stage IV/locally recurrent TNBC who had received no more than two previous chemotherapy regimens for mTNBC were randomly allocated to gemcitabine 1,000 mg/m(2) and carboplatin area under the curve 2 (days 1 and 8) alone or GC plus iniparib 5.6 mg/kg (days 1, 4, 8, and 11) every 3 weeks.
+Random assignment was stratified by the number of prior chemotherapies.
+The coprimary end points were OS and PFS.
+Patients receiving GC could cross over to iniparib on progression.
+RESULTS: Five hundred nineteen patients were randomly assigned (261 GCI; 258 GC).
+In the primary analysis, no statistically significant difference was observed for OS (hazard ratio [HR] = 0.88; 95% CI, 0.69 to 1.12; P = .28) nor PFS (HR = 0.79; 95% CI, 0.65 to 0.98; P = .027).
+An exploratory analysis showed that patients in the second-/third-line had improved OS (HR = 0.65; 95% CI, 0.46 to 0.91) and PFS (HR = 0.68; 95% CI, 0.50 to 0.92) with GCI.
+The safety profile for GCI was similar to GC.
+CONCLUSION: The trial did not meet the prespecified criteria for the coprimary end points of PFS and OS in the ITT population.
+The potential benefit with iniparib observed in second-/third-line subgroup warrants further evaluation.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

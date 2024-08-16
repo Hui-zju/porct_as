@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Cost-effectiveness analysis of gemcitabine plus cisplatin versus fluorouracil plus cisplatin in the first-line setting for Chinese patients with metastatic nasopharyngeal carcinoma.
+PURPOSE: A randomized phase III trial demonstrated that gemcitabine plus cisplatin (GP) prolonged progression-free survival and overall survival compared with fluorouracil plus cisplatin (FP) as first-line chemotherapy in patients with metastatic nasopharyngeal carcinoma (NPC).
+The cost-effectiveness analysis was designed to identify the economic option for metastatic NPC from a Chinese societal perspective.
+METHODS: We established a Markov model that involved three health states representing the stages of disease to simulate therapy.
+Survival data of clinical outcomes were derived from the trial and adjusted to quality-adjusted life years (QALYs).
+Transition probabilities and health utilities were obtained from the clinical trial and published literatures.
+The cost-effective strategy was estimated for these treatments using a willing-to-pay (WTP) threshold.
+A one-way sensitivity analysis was conducted to study the influences of parameters.
+RESULTS: GP treatment group produced a gain of 0.37 QALYs with an incremental cost of $2520.80, yielding an incremental cost-effectiveness ratio (ICER) of $6812.97 per QALY, compared with FP treatment ($15,530.96 versus $13,010.16).
+The ICER was lower than the accepted WTP threshold, which was 3 times gross domestic product per capita of China ($25,749 per QALY).
+CONCLUSION: GP regimen is more cost-effective compared with FP regimen as the first-line treatment for Chinese patients with metastatic NPC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

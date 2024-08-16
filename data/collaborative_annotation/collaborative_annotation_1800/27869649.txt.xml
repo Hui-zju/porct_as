@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized trial of calcipotriol combined with 5-fluorouracil for skin cancer precursor immunotherapy.
+BACKGROUND: Actinic keratosis is a precursor to cutaneous squamous cell carcinoma.
+Long treatment durations and severe side effects have limited the efficacy of current actinic keratosis treatments.
+Thymic stromal lymphopoietin (TSLP) is an epithelium-derived cytokine that induces a robust antitumor immunity in barrier-defective skin.
+Here, we investigated the efficacy of calcipotriol, a topical TSLP inducer, in combination with 5-fluorouracil (5-FU) as an immunotherapy for actinic keratosis.
+METHODS: The mechanism of calcipotriol action against skin carcinogenesis was examined in genetically engineered mouse models.
+The efficacy and safety of 0.005% calcipotriol ointment combined with 5% 5-FU cream were compared with Vaseline plus 5-FU for the field treatment of actinic keratosis in a randomized, double-blind clinical trial involving 131 participants.
+The assigned treatment was self-applied to the entirety of the qualified anatomical sites (face, scalp, and upper extremities) twice daily for 4 consecutive days.
+The percentage of reduction in the number of actinic keratoses (primary outcome), local skin reactions, and immune activation parameters were assessed.
+RESULTS: Calcipotriol suppressed skin cancer development in mice in a TSLP-dependent manner.
+Four-day application of calcipotriol plus 5-FU versus Vaseline plus 5-FU led to an 87.8% versus 26.3% mean reduction in the number of actinic keratoses in participants (P < 0.0001).
+Importantly, calcipotriol plus 5-FU treatment induced TSLP, HLA class II, and natural killer cell group 2D (NKG2D) ligand expression in the lesional keratinocytes associated with a marked CD4+ T cell infiltration, which peaked on days 10-11 after treatment, without pain, crusting, or ulceration.
+CONCLUSION: Our findings demonstrate the synergistic effects of calcipotriol and 5-FU treatment in optimally activating a CD4+ T cell-mediated immunity against actinic keratoses and, potentially, cancers of the skin and other organs.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT02019355.
+FUNDING: Not applicable (investigator-initiated clinical trial).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="other" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Cytokeratin-18 fragments predict treatment response and overall survival in gastric cancer in a randomized controlled trial.
+BACKGROUND: Gastric cancer is common malignancy and exhibits a poor prognosis.
+At the time of diagnosis, the majority of patients present with metastatic disease which precludes curative treatment.
+Non-invasive biomarkers which discriminate early from advanced stages or predict the response to treatment are urgently required.
+This study explored the cytokeratin-18 fragment M30 and full-length cytokeratin-18 M65 in predicting treatment response and survival in a randomized, placebo-controlled trial of advanced gastric cancer.
+METHODS: Patients enrolled in the SUN-CASE study received sunitinib or placebo as an adjunct to standard therapy with leucovorin (Ca-folinate), 5-fluorouracil, and irinotecan in second or third line.
+Treatment response rates, progression-free survival and overall survival were assessed during a follow-up period of 12 months.
+Cytokeratin-18 fragments were analyzed in 52 patients at baseline and day 14 of therapy.
+RESULTS: Levels of M30 correlated with the presence of metastasis and lymph node involvement and decreased significantly during chemotherapy.
+Importantly, baseline levels of M30 were significantly higher in patients who failed therapy.
+In addition, patients who did not respond to treatment were also identifiable at day 14 based on elevated M30 levels.
+By stepwise regression analysis, M30 at day 14 was identified as independent predictor of treatment response.
+Likewise, serum levels of full-length cytokeratin-18 M65 at baseline also correlated with treatment failure and progression-free survival.
+The addition of sunitinib did not exert any effects on serum levels of M30 or M65.
+CONCLUSION: The cytokeratin-18 fragment M30 at day 14 identifies patients that fail to second- or third-line therapy for advanced gastric cancer.
+Validation of this non-invasive biomarker in gastric cancer is warranted.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

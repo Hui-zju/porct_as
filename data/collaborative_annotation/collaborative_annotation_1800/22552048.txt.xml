@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Efficacy of docetaxel-based chemotherapy following ketoconazole in metastatic castration-resistant prostate cancer: implications for prior therapy in clinical trials.
+OBJECTIVES: Abiraterone acetate (AA) is a CYP17 inhibitor of androgen synthesis approved for use following docetaxel for metastatic castration-resistant prostate cancer (mCRPC); evaluation in the pre-docetaxel setting is ongoing.
+Given that the reported efficacy of AA is lower following docetaxel vs. pre-docetaxel, the potential exists for cross resistance given docetaxel's partly androgen receptor targeting activity.
+The efficacy of docetaxel following ketoconazole (KC), a weaker and nonspecific inhibitor of CYP17, may provide some insights into this potential interaction.
+We retrospectively evaluated the efficacy of every 3-week docetaxel with prednisone (DP) in mCRPC previously exposed to KC compared to KC-naive patients.
+MATERIALS AND METHODS: A randomized phase II trial of men with mCRPC treated with DP + AT-101 (bcl-2 inhibitor) vs. DP plus placebo was analyzed.
+Both arms were combined for analysis as no significant differences were seen.
+Overall survival (OS), progression-free survival (PFS), objective response (ORR), pain, and prostate-specific antigen (PSA) response rates were estimated with and without prior KC.
+Cox proportional hazards regression models were used to estimate the effect of covariates on OS.
+RESULTS: Of 220 evaluable men, 40 (18.2%) received prior KC.
+The median OS with DP-based therapy of KC-naive patients (18.3 months, 95% CI: 15.0, 24.5) and post-KC patients (17.0 months, 95% CI: 9.9, 20.4) was not statistically different (P = 0.20).
+After controlling for prognostic classifications, analyses demonstrated consistent trends for worsening of OS after KC, with (hazard ratios (HRs) 1.33-1.46.
+Similar unfavorable trends were observed for ORR, PSA declines, and PFS.
+CONCLUSIONS: In this hypothesis-generating analysis, patients treated with docetaxel-based chemotherapy following prior KC had numerically and consistently worse outcomes than patients not exposed to prior KC.
+Although the estimated differences did not attain statistical significance, evaluation of outcomes with docetaxel in particular, and all classes of novel and emerging agents following AA, is of clinical importance, given its more potent androgen synthesis inhibition compared with KC.
+Drug development should take into account the potential impact of previous therapy.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Prospective, randomized study of coil embolization versus Surefire infusion system during yttrium-90 radioembolization with resin microspheres.
+PURPOSE: To compare standard coil embolization versus the use of an antireflux microcatheter (ARM) in patients undergoing planning angiography before selective internal radiation therapy (SIRT).
+MATERIALS AND METHODS: A prospective, single-center trial was performed in which 30 patients were randomly assigned to undergo SIRT with coil embolization or the use of an ARM.
+The coil group underwent detachable coil embolization of nontarget vessels, and the ARM group underwent infusion of macroaggregated albumin with use of an ARM system, without coil embolization.
+Single-photon emission computed tomography (CT)/CT was then performed to assess for nontarget distribution.
+The primary endpoint was fluoroscopy time during planning angiography.
+Secondary endpoints included deployment time, total procedure time, radiation dose-area product, contrast agent used, and adverse events.
+Endpoints were evaluated during planning angiography and SIRT.
+RESULTS: Over a 9-month period, 30 consecutive patients were randomized at a 1:1 ratio between coil embolization and ARM groups.
+Technical success rates were 100% in both groups.
+Mean fluoroscopy time was significantly reduced in the ARM group versus the coil embolization group (1.8 min [range, 0.4-4.9 min] vs 6.0 min [range, 1.9-15.7 min]; P = .002).
+The planning procedure time (P < .001), deployment time (P < .001), dose-area product (P = .04), and amount of contrast agent used (P < .001) were also significantly less in the ARM group than in the coil embolization group.
+No nontarget distribution was detected in either group.
+There was no difference between groups in dose delivered on the day of SIRT (P = .71).
+There were no major or minor adverse events at 30 days.
+CONCLUSIONS: The use of an ARM during planning angiography can significantly reduce fluoroscopy time, procedure time, and radiation dose.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Prolonged adjuvant capecitabine chemotherapy improved survival of stage IIIA gastric cancer after D2 gastrectomy.
+GOALS: This study aims to investigate the safety and efficacy of prolonged adjuvant capecitabine chemotherapy on survival of gastric cancer after D2 gastrectomy.
+BACKGROUND: Inadequate evidence is available on optimal duration of chemotherapy and the number of administered cycles is generally based on patient responsiveness and individual tolerability as well as physician preferences.
+STUDY: We randomly assigned 307 gastric cancer patients after D2 gastrectomy between January 2006 and December 2010 to XELOX group and Prolonged group.
+XELOX consisted of a 2-h intravenous infusion of oxaliplatin 130mg/mg on day 1 and oral capecitabine 1000mg/m(2) twice daily on days 1-14 of a 3-week cycle for eight cycles in half a year.
+In Prolonged group, patients underwent extra oral capecitabine 1000mg/m(2) twice daily on days 1-14 of a 3-week cycle for eight cycles after eight cycles of XELOX.
+The disease-free survival and overall survival were compared.
+RESULTS: Significant differences were found in 3-year disease-free survival (Prolonged group 56.6%, XELOX group 48.4%, P=0.0357).
+Subgroup analysis by TNM staging showed that patients with stage IIIA gastric cancer in the Prolonged group had significantly higher DFS (50.00% vs 40.96, P=0.0178) and OS (71.95% vs 57.83, P=0.0230) than that of patients in the XELOX group.
+No grade 4 adverse effects or treatment-related deaths were reported.
+More patients in the Prolonged group experienced hand-foot syndrome than in the XELOX group.
+CONCLUSIONS: Prolonged capecitabine chemotherapy prevents improves the prognosis of patients with stage IIIA gastric cancer after D2 gastrectomy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

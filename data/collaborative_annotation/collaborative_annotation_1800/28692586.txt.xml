@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Bioactivity and prostate tissue distribution of metformin in a preprostatectomy prostate cancer cohort.
+Metformin has recently been shown to have potential to reduce prostate cancer risk.
+We conducted a randomized, double-blind, placebo-controlled trial to determine the modulating effects of metformin on tissue and systemic biomarkers of drug activity and its distribution into the prostate tissue.
+Twenty patients with prostate cancer scheduled to undergo prostatectomy were randomly assigned to receive either extended-release metformin or placebo for a median of 34 days before surgery.
+Prostatectomy and serum samples were analyzed for metformin concentrations, serum biomarkers of drug activity (prostate-specific antigen, insulin, insulin-like growth factor-1, insulin-like growth factor binding protein 3, sex hormone-binding globulin, and testosterone) and tissue biomarkers of proliferation, apoptosis, cell cycle regulation, and mTOR inhibition.
+For participants in the metformin arm, the prostate tissue and serum metformin concentrations ranged from 0.88 to 51.2 mug/g tissue and from not detectable to 3.6 mug/ml, respectively.
+There were no differences between the two groups in either the postintervention tissue biomarker expression in the prostatectomy tissue or pre to postintervention changes in serum biomarkers.
+We conclude that metformin distributes to human prostate tissue, suggesting that metformin could exert its effects directly on tissue targets.
+However, there was no difference in tissue and systemic drug effect biomarkers between the two treatment arms.
+Future studies with longer intervention duration and larger sample size should be considered in order to evaluate the potential of metformin for prostate cancer prevention.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

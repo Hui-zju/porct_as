@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Comparison of dosimetric parameters and acute toxicity of intensity-modulated and three-dimensional radiotherapy in patients with cervix carcinoma: A randomized prospective study.
+PURPOSE: The use of intensity-modulated radiotherapy (IMRT) to treat cervix carcinoma has increased, however prospective randomized trials are still lacking.
+AIM: To compare the dosimetric parameters and associated acute toxicity in patients with cervix carcinoma treated with three-dimensional (3D) conformal radiotherapy and IMRT.
+PATIENTS AND METHODS: Forty patients were randomized in two arms each consisting of 20 patients.
+Patients in both arms received concurrent chemoradiation (cisplatin 40mg/m(2) weekly; 50Gy/25 fractions).
+Patients were treated with 3D conformal radiotherapy in one arm and with IMRT in another arm.
+After external beam radiotherapy, all patients received brachytherapy (21Gy/3 fractions at weekly interval).
+For dosimetric comparison, both kinds of the plans were done for all the patients.
+All patients were assessed throughout and until 90 days after completion of treatment for acute gastrointestinal, genitourinary and hematologic toxicities.
+RESULTS: Both plans achieved adequate planning target volume coverage, while mean conformity index was found significantly better in IMRT plans (P-value=0.001).
+D35 (dose to 35% volume) and D50 for bladder was reduced by 14.62 and 32.57% and for rectum by 23.82 and 43.68% in IMRT.
+For IMRT, V45 (volume receiving 45Gy) of bowel were found significantly lesser (P-value=0.0001), non-tumour integral dose was found significantly higher (P-value=0.0240) and V20 of bone marrow was found significantly reduced (P-value=0.019) in comparison to that in 3D conformal radiotherapy.
+Significant reduction of grade 2 or more (20 vs 45%; P-value=0.058) and grade>/=3 (5 vs 15%, P-value=0.004) acute genitourinary toxicity and grade 2 or more (20 vs 45%, P-value=0.003) and grade 3 or more (5 vs. 20%, P-value=0.004) acute gastrointestinal toxicity while no significant difference for grade 2 and 3 or more haematological toxicity was noted in patients treated with IMRT compared to 3D conformal radiotherapy.
+CONCLUSION: IMRT provide a good alternative for treatment of cervix carcinoma with lower acute gastrointestinal and acute genitourinary toxicity with similar target coverage compared to 3D conformal radiotherapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

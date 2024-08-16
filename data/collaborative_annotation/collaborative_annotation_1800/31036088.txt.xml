@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A multicenter phase III study comparing Simultaneous Integrated Boost (SIB) radiotherapy concurrent and consolidated with S-1 versus SIB alone in elderly patients with esophageal and esophagogastric cancer - the 3JECROG P-01 study protocol.
+BACKGROUND: The importance of definitive radiotherapy for elderly patients with esophageal and esophagogastric-junction cancer is pronounced.
+However, little is known in terms of the best way to combine radiotherapy with other treatment options.
+This study aims to compare the efficiency of SIB radiotherapy alone with SIB radiotherapy concurrent and consolidated with S-1 for elderly patients.
+Comprehensive geriatric assessment is also incorporated in the procedure of treatment.
+METHODS/DESIGN: The study is a two arm, open, randomized multicenter Phase III trial with patients over 70 years old with stage IIA-IVB (UICC 2002, IVB only with metastasis to supraclavicular or celiac lymph nodes) squamous cell carcinoma or adenocarcinoma of esophagus or gastroesophageal junction.
+A total of 300 patients will be randomized using a 1:1 allocation ratio stratified by disease stage and study site.
+Patients allocated to the SIB arm will receive definitive SIB radiotherapy (95%PTV/PGTV 50.4Gy/59.92Gy/28f) while those randomized to SIB + S-1 arm will receive definitive SIB radiotherapy concurrent and consolidated with S-1.
+The primary endpoint of the trial is 1-year overall survival.
+Secondary objectives include progression-free survival, recurrence-free survival (local-regional and distant), disease failure pattern, toxicity profile as well as quality of life.
+Besides, detailed radiotherapy protocol and quality assurance procedure have been incorporated into this trial.
+DISCUSSION: The proportion of elderly patients in esophageal cancer is now growing, but there is a lack of evidence in term of treatment standard for this group of patients, which is what we aim to obtain through this prospective phase III study.
+TRIAL REGISTRATION: clinicaltrials.gov NCT02979691 .
+Registered November 22, 2016.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

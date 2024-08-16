@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The RAD51 135G>C polymorphism is related to the effect of adjuvant therapy in early breast cancer.
+PURPOSE: RAD51, a central player in the response to DNA damage, has been suspected to contribute to tumour resistance to therapy.
+A single-nucleotide polymorphism, RAD51 135G>C, in the untranslated region of the RAD51 gene elevates breast cancer risk among BRCA2 carriers.
+In this study, it was investigated whether this polymorphism is related to prognosis of breast cancer and RAD51 protein expression and whether it is indicative of resistance to radiotherapy or cyclophosphamide/methotrexate/5-fluorouracil (CMF) chemotherapy.
+PATIENTS AND METHODS: We genotyped 306 patients with early breast cancer, who were randomised to receive post-operative radiotherapy or CMF chemotherapy, for the RAD51 135G>C polymorphism.
+RAD51 protein expression was evaluated with immunohistochemistry.
+RESULTS: 15.4 % of the patients had at least one C-allele (three were C homozygotes).
+There was no correlation between genotype and protein expression.
+Patients who were G homozygotes benefitted from radiotherapy with decreased risk of local recurrences (RR = 0.32, 95 % C.I. 0.16-0.64, p = 0.001).
+CMF chemotherapy reduced the risk of distant recurrence for patients carrying at least one C-allele (RR = 0.29, 95 % C.I. 0.10-0.88, p = 0.03), whereas G homozygotes had no benefit from chemotherapy.
+There was a significant interaction between chemotherapy and genotype (p = 0.02).
+CONCLUSION: The results suggest that the RAD51 135G>C polymorphism predicts CMF chemotherapy effect in early breast cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

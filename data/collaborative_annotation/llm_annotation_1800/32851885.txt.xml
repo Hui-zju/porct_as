@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Development and Validation of Prognostic Nomograms to Predict Overall and Cancer-Specific Survival for Patients with Adenocarcinoma of the Urinary Bladder: A Population-Based Study.
+BACKGROUNDS: Adenocarcinoma of the bladder (ACB) rarely occurs but is associated with poor outcome.
+We aim to establish reliable nomograms for estimating cancer-specific survival (CSS) and overall survival (OS) of ACB patients.
+METHODS: ACB patients were retrieved from the Surveillance, Epidemiology, and End Results (SEER) database (2004-2015).
+A total of 1,149 patients were randomly divided into training cohort (n = 692) and validation cohort (n = 457).
+Multivariate Cox proportional hazards regression models were employed to identify independent prognostic factors.
+Nomograms predicting OS and CSS were constructed utilizing screened factors.
+The performance of nomograms was internally and externally validated by calibration curves, the receiver operating characteristic (ROC) curves, concordance index (C-index), and decision curve analysis (DCA).
+RESULTS: OS nomogram incorporated age, race, histologic grade, American Joint Committee of Cancer (AJCC) stage, metastasis, surgery, chemotherapy, and tumor size.
+The C-indices were 0.754 (95% CI: 0.732-0.775) for training set and 0.743 (95% CI: 0.712-0.767) for validation set.
+Meanwhile, the calibration plots for 3- and 5-year OS displayed fine concordance between actual and predicted outcomes.
+In addition, higher areas under the curve (AUCs) were seen in training cohort (3-year: 0.799 vs. 0.630; 5-year: 0.797 vs. 0.648) and validation cohort (3-year: 0.802 vs. 0.662; 5-year: 0.752 vs. 0.660).
+Finally, DCA curves of the nomograms exhibited larger net benefits than AJCC stage.
+CSS nomogram showed similar results.
+CONCLUSION: Our study constructed and validated nomograms with improved discriminative abilities and clinical benefits to predict the survival outcomes of ACB patients.
+The models might assist clinicians in optimizing therapeutic management on individual levels.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

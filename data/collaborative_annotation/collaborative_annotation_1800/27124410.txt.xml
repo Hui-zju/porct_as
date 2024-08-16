@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Exploratory Cost-Effectiveness Analysis of Response-Guided Neoadjuvant Chemotherapy for Hormone Positive Breast Cancer Patients.
+PURPOSE: Guiding response to neoadjuvant chemotherapy (guided-NACT) allows for an adaptative treatment approach likely to improve breast cancer survival.
+In this study, our primary aim is to explore the expected cost-effectiveness of guided-NACT using as a case study the first randomized controlled trial that demonstrated effectiveness (GeparTrio trial).
+MATERIALS AND METHODS: As effectiveness was shown in hormone-receptor positive (HR+) early breast cancers (EBC), our decision model compared the health-economic outcomes of treating a cohort of such women with guided-NACT to conventional-NACT using clinical input data from the GeparTrio trial.
+The expected cost-effectiveness and the uncertainty around this estimate were estimated via probabilistic cost-effectiveness analysis (CEA), from a Dutch societal perspective over a 5-year time-horizon.
+RESULTS: Our exploratory CEA predicted that guided-NACT as proposed by the GeparTrio, costs additional euro110, but results in 0.014 QALYs gained per patient.
+This scenario of guided-NACT was considered cost-effective at any willingness to pay per additional QALY.
+At the prevailing Dutch willingness to pay threshold (euro80.000/QALY) cost-effectiveness was expected with 78% certainty.
+CONCLUSION: This exploratory CEA indicated that guided-NACT (as proposed by the GeparTrio trial) is likely cost-effective in treating HR+ EBC women.
+While prospective validation of the GeparTrio findings is advisable from a clinical perspective, early CEAs can be used to prioritize further research from a broader health economic perspective, by identifying which parameters contribute most to current decision uncertainty.
+Furthermore, their use can be extended to explore the expected cost-effectiveness of alternative guided-NACT scenarios that combine the use of promising imaging techniques together with personalized treatments.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

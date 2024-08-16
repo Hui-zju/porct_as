@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Real world treatment patterns in chronic myeloid leukemia patients newly initiated on tyrosine kinase inhibitors in an U.S. integrated healthcare system.
+Purpose To evaluate treatment patterns in patients diagnosed with incident chronic myelogenous leukemia (CML) newly initiating therapy with imatinib, dasatinib, or nilotinib.
+Patients were followed to determine switching and discontinuation rates.
+Factors associated with switching or discontinuation from index TKI therapy, reasons for discontinuation based on electronic chart notes, and frequency of laboratory monitoring were assessed during the follow-up period.
+Methods A retrospective cohort study was conducted in chronic myelogenous leukemia patients aged &gt;/= 18 years who were identified from the Kaiser Permanente Southern California (KPSC) Cancer Registry database during the study time period of 1 January 2007 to 12 December 2013.
+The index date was defined as the date of the first TKI prescription (imatinib, dasatinib, or nilotinib) identified during the study time period with no prior history of TKI use within 12 months.
+Patients had to have continuous membership with drug benefit eligibility and no prior history of stem cell transplant (SCT) or other cancers during the 12 months prior to the index date.
+Baseline characteristics were identified during 12 months prior to the index date and outcomes were identified during the follow-up period after the index date.
+All patients were followed from index TKI therapy until end of study time period (12 December 2014), death, stem cell transplant, or disenrollment from the health plan unless one of the following occurred first: a patient switched their index therapy, or a patient discontinued their index therapy.
+Forward stepwise selection multivariable logistic regression models were used to evaluate factors associated with patients who continued therapy compared to those who switched or discontinued therapy with the index TKI.
+Chart notes were reviewed 30 days prior and 30 days post index TKI discontinuation to evaluate reasons for discontinuation.
+Molecular and cytogenetic testing frequency was also assessed during the follow-up period among the different patient groups.
+Results Two hundred sixteen patients were identified with incident chronic myelogenous leukemia and use of TKI therapy: 189 (87.5%) received imatinib, 19 (8.8%) received dasatinib, and 8 (3.7%) received nilotinib.
+The mean age on index date was 53 years and 63% were male; 103 patients (48%) continued on their index therapy, while 62 patients (28%) switched, and 51 patients (24%) discontinued.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

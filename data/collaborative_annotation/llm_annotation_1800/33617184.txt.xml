@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Deep learning applied to two-dimensional color Doppler flow imaging ultrasound images significantly improves diagnostic performance in the classification of breast masses: a multicenter study.
+BACKGROUND: The current deep learning diagnosis of breast masses is mainly reflected by the diagnosis of benign and malignant lesions.
+In China, breast masses are divided into four categories according to the treatment method: inflammatory masses, adenosis, benign tumors, and malignant tumors.
+These categorizations are important for guiding clinical treatment.
+In this study, we aimed to develop a convolutional neural network (CNN) for classification of these four breast mass types using ultrasound (US) images.
+METHODS: Taking breast biopsy or pathological examinations as the reference standard, CNNs were used to establish models for the four-way classification of 3623 breast cancer patients from 13 centers.
+The patients were randomly divided into training and test groups (n = 1810 vs. n = 1813).
+Separate models were created for two-dimensional (2D) images only, 2D and color Doppler flow imaging (2D-CDFI), and 2D-CDFI and pulsed wave Doppler (2D-CDFI-PW) images.
+The performance of these three models was compared using sensitivity, specificity, area under receiver operating characteristic curve (AUC), positive (PPV) and negative predictive values (NPV), positive (LR+) and negative likelihood ratios (LR-), and the performance of the 2D model was further compared between masses of different sizes with above statistical indicators, between images from different hospitals with AUC, and with the performance of 37 radiologists.
+RESULTS: The accuracies of the 2D, 2D-CDFI, and 2D-CDFI-PW models on the test set were 87.9%, 89.2%, and 88.7%, respectively.
+The AUCs for classification of benign tumors, malignant tumors, inflammatory masses, and adenosis were 0.90, 0.91, 0.90, and 0.89, respectively (95% confidence intervals [CIs], 0.87-0.91, 0.89-0.92, 0.87-0.91, and 0.86-0.90).
+The 2D-CDFI model showed better accuracy (89.2%) on the test set than the 2D (87.9%) and 2D-CDFI-PW (88.7%) models.
+The 2D model showed accuracy of 81.7% on breast masses &lt;/=1 cm and 82.3% on breast masses &gt;1 cm; there was a significant difference between the two groups (P &lt; 0.001).
+The accuracy of the CNN classifications for the test set (89.2%) was significantly higher than that of all the radiologists (30%).
+CONCLUSIONS: The CNN may have high accuracy for classification of US images of breast masses and perform significantly better than human radiologists.
+TRIAL REGISTRATION: Chictr.org, ChiCTR1900021375; http://www.chictr.org.cn/showproj.aspx?proj=33139.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

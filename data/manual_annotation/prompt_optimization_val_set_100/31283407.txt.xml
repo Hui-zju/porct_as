@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Outcome of Infants Younger Than 1 Year With Acute Lymphoblastic Leukemia Treated With the Interfant-06 Protocol: Results From an International Phase III Randomized Study.
+PURPOSE: Infant acute lymphoblastic leukemia (ALL) is characterized by KMT2A (MLL) gene rearrangements and coexpression of myeloid markers.
+The Interfant-06 study, comprising 18 national and international study groups, tested whether myeloid-style consolidation chemotherapy is superior to lymphoid style, the role of stem-cell transplantation (SCT), and which factors had independent prognostic value.
+MATERIALS AND METHODS: Three risk groups were defined: low risk (LR): KMT2A germline; high risk (HR): KMT2A-rearranged and older than 6 months with WBC count 300 x 10(9)/L or more or a poor prednisone response; and medium risk (MR): all other KMT2A-rearranged cases.
+Patients in the MR and HR groups were randomly assigned to receive the lymphoid course low-dose cytosine arabinoside [araC], 6-mercaptopurine, cyclophosphamide (IB) or experimental myeloid courses, namely araC, daunorubicin, etoposide (ADE) and mitoxantrone, araC, etoposide (MAE).
+RESULTS: A total of 651 infants were included, with 6-year event-free survival (EFS) and overall survival of 46.1% (SE, 2.1) and 58.2% (SE, 2.0).
+In West European/North American groups, 6-year EFS and overall survival were 49.4% (SE, 2.5) and 62.1% (SE, 2.4), which were 10% to 12% higher than in other countries.
+The 6-year probability of disease-free survival was comparable for the randomized arms (ADE+MAE 39.3% [SE 4.0; n = 169] v IB 36.8% [SE, 3.9; n = 161]; log-rank P = .47).
+The 6-year EFS rate of patients in the HR group was 20.9% (SE, 3.4) with the intention to undergo SCT; only 46% of them received SCT, because many had early events.
+KMT2A rearrangement was the strongest prognostic factor for EFS, followed by age, WBC count, and prednisone response.
+CONCLUSION: Early intensification with postinduction myeloid-type chemotherapy courses did not significantly improve outcome for infant ALL compared with the lymphoid-type course IB.
+Outcome for infant ALL in Interfant-06 did not improve compared with that in Interfant-99.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

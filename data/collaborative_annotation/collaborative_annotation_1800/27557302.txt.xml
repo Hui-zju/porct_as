@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Daratumumab, Bortezomib, and Dexamethasone for Multiple Myeloma.
+BACKGROUND: Daratumumab, a human IgGkappa monoclonal antibody that targets CD38, induces direct and indirect antimyeloma activity and has shown substantial efficacy as monotherapy in heavily pretreated patients with multiple myeloma, as well as in combination with bortezomib in patients with newly diagnosed multiple myeloma.
+METHODS: In this phase 3 trial, we randomly assigned 498 patients with relapsed or relapsed and refractory multiple myeloma to receive bortezomib (1.3 mg per square meter of body-surface area) and dexamethasone (20 mg) alone (control group) or in combination with daratumumab (16 mg per kilogram of body weight) (daratumumab group).
+The primary end point was progression-free survival.
+RESULTS: A prespecified interim analysis showed that the rate of progression-free survival was significantly higher in the daratumumab group than in the control group; the 12-month rate of progression-free survival was 60.7% in the daratumumab group versus 26.9% in the control group.
+After a median follow-up period of 7.4 months, the median progression-free survival was not reached in the daratumumab group and was 7.2 months in the control group (hazard ratio for progression or death with daratumumab vs. control, 0.39; 95% confidence interval, 0.28 to 0.53; P<0.001).
+The rate of overall response was higher in the daratumumab group than in the control group (82.9% vs. 63.2%, P<0.001), as were the rates of very good partial response or better (59.2% vs. 29.1%, P<0.001) and complete response or better (19.2% vs. 9.0%, P=0.001).
+Three of the most common grade 3 or 4 adverse events reported in the daratumumab group and the control group were thrombocytopenia (45.3% and 32.9%, respectively), anemia (14.4% and 16.0%, respectively), and neutropenia (12.8% and 4.2%, respectively).
+Infusion-related reactions that were associated with daratumumab treatment were reported in 45.3% of the patients in the daratumumab group; these reactions were mostly grade 1 or 2 (grade 3 in 8.6% of the patients), and in 98.2% of these patients, they occurred during the first infusion.
+CONCLUSIONS: Among patients with relapsed or relapsed and refractory multiple myeloma, daratumumab in combination with bortezomib and dexamethasone resulted in significantly longer progression-free survival than bortezomib and dexamethasone alone and was associated with infusion-related reactions and higher rates of thrombocytopenia and neutropenia than bortezomib and dexamethasone alone.
+(Funded by Janssen Research and Development; ClinicalTrials.gov number, NCT02136134.).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

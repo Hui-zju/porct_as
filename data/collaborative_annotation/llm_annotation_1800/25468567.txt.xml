@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>A genome-wide association study of susceptibility to acute lymphoblastic leukemia in adolescents and young adults.
+Acute lymphoblastic leukemia (ALL) in adolescents and young adults (AYA) is characterized by distinct presenting features and inferior prognosis compared with pediatric ALL.
+We performed a genome-wide association study (GWAS) to comprehensively identify inherited genetic variants associated with susceptibility to AYA ALL.
+In the discovery GWAS, we compared genotype frequency at 635 297 single nucleotide polymorphisms (SNPs) in 308 AYA ALL cases and 6,661 non-ALL controls by using a logistic regression model with genetic ancestry as a covariate.
+SNPs that reached P &lt;/= 5 x 10(-8) in GWAS were tested in an independent cohort of 162 AYA ALL cases and 5,755 non-ALL controls.
+We identified a single genome-wide significant susceptibility locus in GATA3: rs3824662, odds ratio (OR), 1.77 (P = 2.8 x 10(-10)) and rs3781093, OR, 1.73 (P = 3.2 x 10(-9)).
+These findings were validated in the replication cohort.
+The risk allele at rs3824662 was most frequent in Philadelphia chromosome (Ph)-like ALL but also conferred susceptibility to non-Ph-like ALL in AYAs.
+In 1,827 non-selected ALL cases, the risk allele frequency at this SNP was positively correlated with age at diagnosis (P = 6.29 x 10(-11)).
+Our results from this first GWAS of AYA ALL susceptibility point to unique biology underlying leukemogenesis and potentially distinct disease etiology by age group.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

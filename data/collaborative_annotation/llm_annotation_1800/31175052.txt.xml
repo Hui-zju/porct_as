@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Personalized Decision Making in Early Stage Breast Cancer: Applying Clinical Prediction Models for Anthracycline Cardiotoxicity and Breast Cancer Mortality Demonstrates Substantial Heterogeneity of Benefit-Harm Trade-off.
+BACKGROUND: Anthracycline agents can cause cardiotoxicity.
+We used multivariable risk prediction models to identify a subset of patients with breast cancer at high risk of cardiotoxicity, for whom the harms of anthracycline chemotherapy may balance or exceed the benefits.
+PATIENTS AND METHODS: A clinical prediction model for anthracycline cardiotoxicity was created in 967 patients with human epidermal growth factor receptor-negative breast cancer treated with doxorubicin in the ECOG-ACRIN study E5103.
+Cardiotoxicity was defined as left ventricular ejection fraction (LVEF) decline of &gt;/= 10% to &lt; 50% and/or a centrally adjudicated clinical heart failure diagnosis.
+Patient-specific incremental absolute benefit of anthracyclines (compared with non-anthracycline taxane chemotherapy) was estimated using the PREDICT model to assess breast cancer mortality risk.
+RESULTS: Of the 967 women who initiated therapy, 51 (5.3%) developed cardiotoxicity (12 with clinical heart failure).
+In a multivariate model, increasing age (odds ratio [OR], 1.04; 95% confidence interval [CI], 1.01-1.08), higher body mass index (OR, 1.06; 95% CI, 1.02-1.10), and lower baseline LVEF (OR, 0.93; 95% CI, 0.89-0.98) at baseline were significantly associated with cardiotoxicity.
+The concordance statistic of the risk model was 0.70 (95% CI, 0.63-0.77).
+In patients with low anticipated treatment benefit (n = 176) from the addition of anthracycline (&lt; 2% absolute risk difference of breast cancer mortality at 10 years), 16 (9%) of 176 had a &gt; 10% risk of cardiotoxicity and 61 (35%) of 176 had a 5% to 10% risk of cardiotoxicity at 1 year.
+CONCLUSION: Older age, higher body mass index, and lower baseline LVEF were associated with increased risk of cardiotoxicity.
+We identified a subgroup with low predicted absolute benefit of anthracyclines but with high predicted risk of cardiotoxicity.
+Additional studies are needed incorporating long-term cardiac outcomes and cardiotoxicity model external validation prior to implementation in routine clinical practice.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

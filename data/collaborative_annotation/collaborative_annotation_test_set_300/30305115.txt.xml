@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Molecular profiling of hormone receptor-positive, HER2-negative breast cancers from patients treated with neoadjuvant endocrine therapy in the CARMINA 02 trial (UCBG-0609).
+BACKGROUND: Postmenopausal women with large, hormone receptor (HR)-positive/HER2-negative and low-proliferative breast cancer derived a benefit from neoadjuvant endocrine therapy (NET) in the CARMINA02 trial.
+This study was designed to correlate gene expression and mutation profiles with both response to NET and prognosis.
+METHODS: Gene expression profiling using RNA sequencing was performed in 86 pre-NET and post-NET tumor samples.
+Targeted next-generation sequencing of 91 candidate breast cancer-associated genes was performed on DNA samples from 89 patients.
+Molecular data were correlated with radiological response and relapse-free survival.
+RESULTS: The transcriptional profile of tumors to NET in responders involved immune-associated genes enriched in activated Th1 pathway, which remained unchanged in non-responders.
+Immune response was confirmed by analysis of tumor-infiltrating lymphocytes (TILs).
+The percentage of TILs was significantly increased post-NET compared to pre-NET samples in responders (p = 0.0071), but not in non-responders (p = 0.0938).
+Gene expression revealed that lipid metabolism was the main molecular function related to prognosis, while PPARgamma is the most important upstream regulator gene.
+The most frequently mutated genes were PIK3CA (48.3%), CDH1 (20.2%), PTEN (15.7%), TP53 (10.1%), LAMA2 (10.1%), BRCA2 (9.0%), MAP3K1 (7.9%), ALK (6.7%), INPP4B (6.7%), NCOR1 (6.7%), and NF1 (5.6%).
+Cell cycle and apoptosis pathway and PIK3CA/AKT/mTOR pathway were altered significantly more frequently in non-responders than in responders (p = 0.0017 and p = 0.0094, respectively).
+The average number of mutations per sample was significantly higher in endocrine-resistant tumors (2.88 vs. 1.64, p = 0.03), but no difference was observed in terms of prognosis.
+ESR1 hotspot mutations were detected in 3.4% of treatment-naive tumors.
+CONCLUSIONS: The Th1-related immune system and lipid metabolism appear to play key roles in the response to endocrine therapy and prognosis in HR-positive/HER2-negative breast cancer.
+Deleterious somatic mutations in the cell cycle and apoptosis pathway and PIK3CA/AKT/mTOR pathway may be relevant for clinical management.
+TRIAL REGISTRATION: This trial is registered with ClinicalTrials.gov ( NCT00629616 ) on March 6, 2008, retrospectively registered.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,25 @@
+<MyRCT>
+<TEXT>Occurrence and lung cancer probability of new solid nodules at incidence screening with low-dose CT: analysis of data from the randomised, controlled NELSON trial.
+BACKGROUND: US guidelines now recommend lung cancer screening with low-dose CT for high-risk individuals.
+Reports of new nodules after baseline screening have been scarce and are inconsistent because of differences in definitions used.
+We aimed to identify the occurrence of new solid nodules and their probability of being lung cancer at incidence screening rounds in the Dutch-Belgian Randomized Lung Cancer Screening Trial (NELSON).
+METHODS: In the ongoing, multicentre, randomised controlled NELSON trial, between Dec 23, 2003, and July 6, 2006, 15 822 participants who had smoked at least 15 cigarettes a day for more than 25 years or ten cigarettes a day for more than 30 years and were current smokers, or had quit smoking less than 10 years ago, were enrolled and randomly assigned to receive either screening with low-dose CT (n=7915) or no screening (n=7907).
+From Jan 28, 2004, to Dec 18, 2006, 7557 individuals underwent baseline screening with low-dose CT; 7295 participants underwent second and third screening rounds.
+We included all participants with solid non-calcified nodules, registered by the NELSON radiologists as new or smaller than 15 mm(3) (study detection limit) at previous screens.
+Nodule volume was generated semiautomatically by software.
+We calculated the maximum volume doubling time for nodules with an estimated percentage volume change of 25% or more, representing the minimum growth rate for the time since the previous scan.
+Lung cancer diagnosis was based on histology, and benignity was based on histology or stable size for at least 2 years.
+The NELSON trial is registered at trialregister.nl, number ISRCTN63545820.
+FINDINGS: We analysed data for participants with at least one solid non-calcified nodule at the second or third screening round.
+In the two incidence screening rounds, the NELSON radiologists registered 1222 new solid nodules in 787 (11%) participants.
+A new solid nodule was lung cancer in 49 (6%) participants with new solid nodules and, in total, 50 lung cancers were found, representing 4% of all new solid nodules.
+34 (68%) lung cancers were diagnosed at stage I. Nodule volume had a high discriminatory power (area under the receiver operating curve 0.795 [95% CI 0.728-0.862]; p&lt;0.0001).
+Nodules smaller than 27 mm(3) had a low probability of lung cancer (two [0.5%] of 417 nodules; lung cancer probability 0.5% [95% CI 0.0-1.9]), nodules with a volume of 27 mm(3) up to 206 mm(3) had an intermediate probability (17 [3.1%] of 542 nodules; lung cancer probability 3.1% [1.9-5.0]), and nodules of 206 mm(3) or greater had a high probability (29 [16.9%] of 172 nodules; lung cancer probability 16.9% [12.0-23.2]).
+A volume cutoff value of 27 mm(3) or greater had more than 95% sensitivity for lung cancer.
+INTERPRETATION: Our study shows that new solid nodules are detected at each screening round in 5-7% of individuals who undergo screening for lung cancer with low-dose CT.
+These new nodules have a high probability of malignancy even at a small size.
+These findings should be considered in future screening guidelines, and new solid nodules should be followed up more aggressively than nodules detected at baseline screening.
+FUNDING: Zorgonderzoek Nederland Medische Wetenschappen and Koningin Wilhelmina Fonds Kankerbestrijding.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

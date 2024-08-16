@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Antitumor activity and safety of tivozanib (AV-951) in a phase II randomized discontinuation trial in patients with renal cell carcinoma.
+PURPOSE: The antitumor activity and safety of tivozanib, which is a potent and selective vascular endothelial growth factor receptor-1, -2, and -3 inhibitor, was assessed in patients with advanced/metastatic renal cell carcinoma (RCC).
+PATIENTS AND METHODS: In this phase II, randomized discontinuation trial, 272 patients received open-label tivozanib 1.5 mg/d (one cycle equaled three treatment weeks followed by a 1-week break) orally for 16 weeks.
+Thereafter, 78 patients who demonstrated >/= 25% tumor shrinkage continued to take tivozanib, and 118 patients with less than 25% tumor change were randomly assigned to receive tivozanib or a placebo in a double-blind manner; patients with >/= 25% tumor growth were discontinued.
+Primary end points included safety, the objective response rate (ORR) at 16 weeks, and the percentage of randomly assigned patients who remained progression free after 12 weeks of double-blind treatment; secondary end points included progression-free survival (PFS).
+RESULTS: Of 272 patients enrolled onto the study, 83% of patients had clear-cell histology, 73% of patients had undergone nephrectomy, and 54% of patients were treatment naive.
+The ORR after 16 weeks of tivozanib treatment was 18% (95% CI, 14% to 23%).
+Of the 118 randomized patients, significantly more patients who were randomly assigned to receive double-blind tivozanib remained progression free after 12 weeks versus patients who received the placebo (49% v 21%; P = .001).
+Throughout the study, the ORR was 24% (95% CI, 19% to 30%), and the median PFS was 11.7 months (95% CI, 8.3 to 14.3 months) in the overall study population.
+The most common grade 3 and 4 treatment-related adverse event was hypertension (12%).
+CONCLUSION: Tivozanib was active and well tolerated in patients with advanced RCC.
+These data support additional development of tivozanib in advanced RCC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

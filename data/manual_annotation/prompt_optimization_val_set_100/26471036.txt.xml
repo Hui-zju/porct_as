@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Cost-effectiveness simulation and analysis of colorectal cancer screening in Hong Kong Chinese population: comparison amongst colonoscopy, guaiac and immunologic fecal occult blood testing.
+BACKGROUND: The aim of this study was to evaluate the cost-effectiveness of CRC screening strategies from the healthcare service provider perspective based on Chinese population.
+METHODS: A Markov model was constructed to compare the cost-effectiveness of recommended screening strategies including annual/biennial guaiac fecal occult blood testing (G-FOBT), annual/biennial immunologic FOBT (I-FOBT), and colonoscopy every 10 years in Chinese aged 50 year over a 25-year period.
+External validity of model was tested against data retrieved from published randomized controlled trials of G-FOBT.
+Recourse use data collected from Chinese subjects among staging of colorectal neoplasm were combined with published unit cost data ($USD in 2009 price values) to estimate a stage-specific cost per patient.
+Quality-adjusted life-years (QALYs) were quantified based on the stage duration and SF-6D preference-based value of each stage.
+The cost-effectiveness outcome was the incremental cost-effectiveness ratio (ICER) represented by costs per life-years (LY) and costs per QALYs gained.
+RESULTS: In base-case scenario, the non-dominated strategies were annual and biennial I-FOBT.
+Compared with no screening, the ICER presented $20,542/LYs and $3155/QALYs gained for annual I-FOBT, and $19,838/LYs gained and $2976/QALYs gained for biennial I-FOBT.
+The optimal screening strategy was annual I-FOBT that attained the highest ICER at the threshold of $50,000 per LYs or QALYs gained.
+CONCLUSION: The Markov model informed the health policymakers that I-FOBT every year may be the most effective and cost-effective CRC screening strategy among recommended screening strategies, depending on the willingness-to-pay of mass screening for Chinese population.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier NCT02038283.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

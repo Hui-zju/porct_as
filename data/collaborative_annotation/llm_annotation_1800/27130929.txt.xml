@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Comparing Breast Cancer Multiparameter Tests in the OPTIMA Prelim Trial: No Test Is More Equal Than the Others.
+BACKGROUND: Previous reports identifying discordance between multiparameter tests at the individual patient level have been largely attributed to methodological shortcomings of multiple in silico studies.
+Comparisons between tests, when performed using actual diagnostic assays, have been predicted to demonstrate high degrees of concordance.
+OPTIMA prelim compared predicted risk stratification and subtype classification of different multiparameter tests performed directly on the same population.
+METHODS: Three hundred thirteen women with early breast cancer were randomized to standard (chemotherapy and endocrine therapy) or test-directed (chemotherapy if Oncotype DX recurrence score &gt;25) treatment.
+Risk stratification was also determined with Prosigna (PAM50), MammaPrint, MammaTyper, NexCourse Breast (IHC4-AQUA), and conventional IHC4 (IHC4).
+Subtype classification was provided by Blueprint, MammaTyper, and Prosigna.
+RESULTS: Oncotype DX predicted a higher proportion of tumors as low risk (82.1%, 95% confidence interval [CI] = 77.8% to 86.4%) than were predicted low/intermediate risk using Prosigna (65.5%, 95% CI = 60.1% to 70.9%), IHC4 (72.0%, 95% CI = 66.5% to 77.5%), MammaPrint (61.4%, 95% CI = 55.9% to 66.9%), or NexCourse Breast (61.6%, 95% CI = 55.8% to 67.4%).
+Strikingly, the five tests showed only modest agreement when dichotomizing results between high vs low/intermediate risk.
+Only 119 (39.4%) tumors were classified uniformly as either low/intermediate risk or high risk, and 183 (60.6%) were assigned to different risk categories by different tests, although 94 (31.1%) showed agreement between four of five tests.
+All three subtype tests assigned 59.5% to 62.4% of tumors to luminal A subtype, but only 121 (40.1%) were classified as luminal A by all three tests and only 58 (19.2%) were uniformly assigned as nonluminal A. Discordant subtyping was observed in 123 (40.7%) tumors.
+CONCLUSIONS: Existing evidence on the comparative prognostic information provided by different tests suggests that current multiparameter tests provide broadly equivalent risk information for the population of women with estrogen receptor (ER)-positive breast cancers.
+However, for the individual patient, tests may provide differing risk categorization and subtype information.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

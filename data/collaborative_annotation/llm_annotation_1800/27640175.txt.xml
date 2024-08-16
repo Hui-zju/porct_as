@@ -1,0 +1,10 @@
+<MyRCT>
+<TEXT>Design of thermal neutron beam based on an electron linear accelerator for BNCT.
+An electron linear accelerator (Linac) can be used for boron neutron capture therapy (BNCT) by producing thermal neutron flux.
+In this study, we used a Varian 2300 C/D Linac and MCNPX.2.6.0 code to simulate an electron-photoneutron source for use in BNCT.
+In order to decelerate the produced fast neutrons from the photoneutron source, which optimize the thermal neutron flux, a beam-shaping assembly (BSA) was simulated.
+After simulations, a thermal neutron flux with sharp peak at the beam exit was obtained in the order of 3.09x10(8)n/cm(2) s and 6.19x10(8)n/cm(2) s for uranium and enriched uranium (10%) as electron-photoneutron sources respectively.
+Also, in-phantom dose analysis indicates that the simulated thermal neutron beam can be used for treatment of shallow skin melanoma in time of about 85.4 and 43.6min for uranium and enriched uranium (10%) respectively.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

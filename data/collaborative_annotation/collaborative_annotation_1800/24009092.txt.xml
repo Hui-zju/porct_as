@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>ROC curves for low-dose CT in the National Lung Screening Trial.
+The National Lung Screening Trial (NLST) reported a 20% reduction in lung cancer specific mortality using low-dose chest CT (LDCT) compared with chest radiograph (CXR) screening.
+The high number of false positive screens with LDCT (around 25%) raises concerns.
+NLST radiologists reported LDCT screens as either positive or not positive, based primarily on the presence of a 4+ mm non-calcified lung nodule (NCN).
+They did not explicitly record a propensity score for lung cancer.
+However, by using maximum NCN size, or alternatively, radiologists' recommendations for diagnostic follow-up categorized hierarchically, surrogate propensity scores (PSSZ and PSFR) were created.
+These scores were then used to compute ROC curves, which determine possible operating points of sensitivity versus false positive rate (1-Specificity).
+The area under the ROC curve (AUC) was 0.934 and 0.928 for PSFR and PSSZ, respectively; the former was significantly greater than the latter.
+With the NLST definition of a positive screen, sensitivity and specificity of LDCT was 93.1% and 76.5%, respectively.
+With cutoffs based on PSFR, a specificity of 92.4% could be achieved while only lowering sensitivity to 86.9%.
+Radiologists using LDCT have good predictive ability; the optimal operating point for sensitivity and specificity remains to be determined.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

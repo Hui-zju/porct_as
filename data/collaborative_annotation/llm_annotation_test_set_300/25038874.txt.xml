@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[HER2 screening data from ToGA: targeting HER2 in gastric and gastroesophageal junction cancer.
+BACKGROUND: In the Trastuzumab for GAstric cancer (ToGA) study, trastuzumab plus chemotherapy improved median overall survival by 2.7 months in patients with human epidermal growth factor receptor 2 (HER2)-positive [immunohistochemistry (IHC) 3+/fluorescence in situ hybridization-positive] gastric/gastroesophageal junction cancer compared with chemotherapy alone (hazard ratio 0.74).
+Post hoc exploratory analyses in patients expressing higher HER2 levels (IHC 2+/fluorescence in situ hybridization-positive or IHC 3+) demonstrated a 4.2-month improvement in median overall survival with trastuzumab (hazard ratio 0.65).
+The ToGA study provides the largest screening dataset available on HER2 overexpression/amplification in this indication.
+We further analyzed correlation(s) of HER2 overexpression/amplification with clinical and epidemiological factors.
+METHODS: HER2-positivity was analyzed by histological subtype, tumor location, geographic region, and specimen type.
+Exploratory efficacy analyses were performed.
+RESULTS: The HER2-positivity rate was 22.1 % across analyzed tumor samples.
+Rates were similar between European and Asian patients (23.6 % vs. 23.9 %), but higher in intestinal- vs. diffuse-type (31.8 % vs. 6.1 %), and gastroesophageal junction cancer versus gastric tumors (32.2 % vs. 21.4 %).
+Across all IHC scores, variability in HER2 staining (</=30 % stained cells) was observed in almost 50 % of cases, with increasing rates in lower IHC categories, and did not affect treatment outcome.
+The polysomy rate was 4 %.
+CONCLUSIONS: HER2 expression varies by tumor location and type.
+All patients with advanced gastric or gastroesophageal junction cancer should be tested for HER2 status, preferably using IHC initially.
+Due to the unique characteristics of gastric cancer, specific testing/scoring guidelines should be adhered to.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

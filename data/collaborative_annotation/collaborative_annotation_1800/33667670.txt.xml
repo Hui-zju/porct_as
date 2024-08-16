@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase III, randomized trial of mirvetuximab soravtansine versus chemotherapy in patients with platinum-resistant ovarian cancer: primary analysis of FORWARD I.
+BACKGROUND: Mirvetuximab soravtansine (MIRV) is an antibody-drug conjugate comprising a folate receptor alpha (FRalpha)-binding antibody, cleavable linker, and the maytansinoid DM4, a potent tubulin-targeting agent.
+The randomized, open-label, phase III study FORWARD I compared MIRV and investigator's choice chemotherapy in patients with platinum-resistant epithelial ovarian cancer (EOC).
+PATIENTS AND METHODS: Eligible patients with 1-3 prior lines of therapy and whose tumors were positive for FRalpha expression were randomly assigned, in a 2 : 1 ratio, to receive MIRV (6 mg/kg, adjusted ideal body weight) or chemotherapy (paclitaxel, pegylated liposomal doxorubicin, or topotecan).
+The primary endpoint was progression-free survival [PFS, Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, blinded independent central review] in the intention-to-treat (ITT) population and in the prespecified FRalpha high population.
+RESULTS: A total of 366 patients were randomized; 243 received MIRV and 109 received chemotherapy.
+The primary endpoint, PFS, did not reach statistical significance in either the ITT [hazard ratio (HR), 0.98, P = 0.897] or the FRalpha high population (HR, 0.69, P = 0.049).
+Superior outcomes for MIRV over chemotherapy were observed in all secondary endpoints in the FRalpha high population including improved objective response rate (24% versus 10%), CA-125 responses (53% versus 25%), and patient-reported outcomes (27% versus 13%).
+Fewer treatment-related grade 3 or higher adverse events (25.1% versus 44.0%), and fewer events leading to dose reduction (19.8% versus 30.3%) and treatment discontinuation (4.5% versus 8.3%) were seen with MIRV compared with chemotherapy.
+CONCLUSIONS: In patients with platinum-resistant EOC, MIRV did not result in a significant improvement in PFS compared with chemotherapy.
+Secondary endpoints consistently favored MIRV, particularly in patients with high FRalpha expression.
+MIRV showed a differentiated and more manageable safety profile than chemotherapy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

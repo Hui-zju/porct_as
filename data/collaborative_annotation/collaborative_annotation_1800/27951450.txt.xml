@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Dose-dense adjuvant chemotherapy in premenopausal breast cancer patients: A pooled analysis of the MIG1 and GIM2 phase III studies.
+BACKGROUND: No evidence exists to recommend a specific chemotherapy regimen in young breast cancer patients.
+We performed a pooled analysis of two randomised clinical trials to evaluate the efficacy of adjuvant dose-dense chemotherapy in premenopausal breast cancer patients and its impact on the risk of treatment-induced amenorrhoea.
+PATIENTS AND METHODS: In the MIG1 study, node-positive or high-risk node-negative patients were randomised to 6 cycles of fluorouracil/epirubicin/cyclophosphamide every 2 (dose-dense) or 3 (standard-interval) weeks.
+In the GIM2 study, node-positive patients were randomised to 4 cycles of dose-dense or standard-interval EC or FEC followed by 4 cycles of dose-dense or standard-interval paclitaxel.
+Using individual patient data, the hazard ratio (HR) for overall survival by means of a Cox proportional hazards model and the odds ratio for treatment-induced amenorrhoea through a logistic regression model were calculated for each study.
+A meta-analysis of the two studies was performed using the random effect model to compute the parameter estimates.
+RESULTS: A total of 1,549 patients were included.
+Dose-dense chemotherapy was associated with a significant improved overall survival as compared to standard-interval chemotherapy (HR, 0.71; 95% confidence intervals [CI], 0.54-0.95; p = 0.021).
+The pooled HRs were 0.78 (95% CI, 0.54-1.12) and 0.65 (95% CI, 0.40-1.06) for patients with hormone receptor-positive and -negative tumours, respectively (interaction p = 0.330).
+No increased risk of treatment-induced amenorrhoea was observed with dose-dense chemotherapy (odds ratio, 1.00; 95% CI, 0.80-1.25; p = 0.989).
+CONCLUSION: Dose-dense adjuvant chemotherapy may be considered the preferred treatment option in high-risk premenopausal breast cancer patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Baseline Prostate Atrophy is Associated with Reduced Risk of Prostate Cancer in Men Undergoing Repeat Prostate Biopsy.
+PURPOSE: We evaluated whether the presence and severity of baseline prostate atrophy in men with initial biopsy negative for prostate cancer was associated the risk of subsequent prostate cancer detection in a clinical trial with scheduled study mandated biopsies.
+MATERIALS AND METHODS: We retrospectively analyzed the records of 3,084 men 50 to 75 years old with prostate specific antigen between 2.5 and 10 ng/ml, and a prior negative biopsy in the placebo arm of the REDUCE (Reduction by Dutasteride of Prostate Cancer Events) study who completed at least 1 per-protocol biopsy.
+Prostate cancer (defined as present or absent) and prostate atrophy (graded as absent, mild or moderate/marked) was assessed by central pathology review.
+The association of baseline atrophy with positive 2 and 4-year repeat biopsies was evaluated with logistic regression, controlling for baseline covariates.
+RESULTS: Baseline prostate atrophy was detected in 2,143 men (70%) and graded as mild and moderate/marked in 1,843 (60%) and 300 (10%) baseline biopsies, respectively.
+Patients with atrophy were older and had a larger prostate, and more acute and chronic prostate inflammation.
+At 2-year biopsy the prostate cancer incidence was 17% (508 cases).
+Baseline atrophy was significantly associated with lower prostate cancer risk (univariable and multivariable OR 0.60, 95% CI 0.50-0.74 and OR 0.67, 95% CI 0.54-0.83, p &lt;0.001, respectively) at the 2-year biopsy.
+These results were similar at the 4-year biopsy (univariable and multivariable OR 0.70, 95% CI 0.53-0.93 and OR 0.72, 95% CI 0.53-0.97, p = 0.03, respectively).
+Relative to no atrophy the prostate cancer risk at the 2-year repeat biopsy was lower for mild atrophy (OR 0.69, 95% CI 0.55-0.86) and moderate/marked atrophy (OR 0.51, 95% CI 0.34-0.76, each p &lt;0.001).
+CONCLUSIONS: Baseline prostate atrophy in men with a prostate biopsy negative for prostate cancer was independently associated with subsequent lower prostate cancer detection.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

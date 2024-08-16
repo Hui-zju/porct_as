@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Subgroup analysis of nelipepimut-S plus GM-CSF combined with trastuzumab versus trastuzumab alone to prevent recurrences in patients with high-risk, HER2 low-expressing breast cancer.
+HER2-targeted therapy has not benefited patients with low levels of HER2 expression; however, combination therapy may be effective.
+Primary analysis of a phase IIb trial investigating the HER2-derived vaccine nelipepimut-S (NPS) did not benefit the intention-to-treat population, but subset analysis showed a benefit in triple-negative breast cancer (TNBC) patients.
+The subset analysis of this multicenter, randomized, single-blind, phase IIb trial identified significant improvement in 36-month disease-free survival (DFS) between NPS (n = 55) and placebo (n = 44) in TNBC (HR 0.25, p = 0.01) and those who express HLA-A24 (HR 0.41, p = 0.05).
+The TNBC cohort demonstrated improved 36-month DFS in those with HER2 1+ expression (HR 0.17, p = 0.01), HLA-A24 positivity (HR 0.08, p < 0.01), or in those who received neoadjuvant chemotherapy (HR 0.21, p < 0.01).
+NPS vaccination with trastuzumab was associated with improved 36-month DFS among patients with TNBC.
+The observed benefit to this high-risk subgroup warrants confirmation in a phase III trial.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

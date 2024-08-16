@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Absence of Iodine Staining Associates With Progression of Esophageal Lesions in a Prospective Endoscopic Surveillance Study in China.
+BACKGROUND &amp; AIMS: Chromoendoscopy with iodine staining is used to identify esophageal squamous dysplasia and esophageal squamous cell carcinomas (ESCCs)-absence of staining indicates suspicious regions of dysplasia.
+However, screening detects precancerous lesions (mild and moderate dysplasia) that do not require immediate treatment; it is a challenge to which lesions are at risk for progression.
+We investigated the association between absence of iodine staining at chromoendoscopy screening and lesion progression using 6 years of follow-up data from a population-based randomized controlled trial in China.
+We then constructed and validated a model to calculate risk of progression to severe dysplasia, carcinoma in situ, or ESCC.
+METHODS: We collected data from 1468 participants (45-69 years old) who were either negative for iodine staining at a baseline chromoendoscopy or found to have mild or moderate dysplasia in histologic analysis of biopsies in the Endoscopic Screening for Esophageal Cancer study in China, from January 2012 through September 2016; 788 of these participants were re-examined by endoscopy after a median interval of 4.2 years (development cohort).
+We investigated the association between absence of iodine staining and progression of esophageal lesions using Cox prediction models, considering corresponding baseline pathology findings and patient answers to a comprehensive questionnaire.
+Patients who did not receive a follow-up examination (n = 680) was used as the validation cohort; outcome events in these patients were identified by annual door to door active interviews or linkage with local electronic registry data.
+The primary outcome was incident esophageal severe dysplasia, carcinoma in situ, or ESCC.
+RESULTS: In the development cohort, 11 lesions that did not stain with iodine but were classified as not dysplastic in the histology analysis were found to be severe dysplasia, carcinoma in situ, or ESCC at the follow-up evaluation.
+These lesions accounted for 39.3% of all progressed lesions (n = 28).
+In the validation cohort, 6 patients with lesions did not stain with iodine but were classified as not dysplastic by histology had a later diagnosis of ESCC, determined from medical records; these patients accounted for 50.0% of all patients with lesion progression (n = 12) until the closing date of this study.
+We developed a model based on patient age, body mass index, pathology findings, and baseline iodine staining to calculate risk for severe dysplasia, carcinoma in situ, or ESCC.
+It identified patients for severe dysplasia, carcinoma in situ, or ESCC in the development set with an area under the curve of 0.868 (95% CI, 0.817-0.920) and in the validation set with an area under the curve of 0.850 (95% CI, 0.748-0.952).
+Almost no cases would be missed if subjects determined to be high or intermediate-high risk subjects by the model were included in surveillance.
+CONCLUSIONS: Absence of iodine staining at baseline chromoendoscopy identifies esophageal lesions at risk of progression with a high level of sensitivity.
+A model that combines results of iodine chromoendoscopy with other patient features identifies patients at risk of lesion progression with greater accuracy than histologic analysis of baseline biopsies.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

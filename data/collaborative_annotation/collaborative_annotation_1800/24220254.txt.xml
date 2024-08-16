@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Bone marrow edema pattern identification in patients with lytic bone lesions using digital subtraction angiography-like bone subtraction on large-area detector computed tomography.
+OBJECTIVE: The objective of this study was to evaluate the performance of digital subtraction angiography (DSA)-like bone subtraction with 2 different registration methods for the identification of bone marrow edema pattern (BMEP) in patients with lytic bone lesions, using magnetic resonance imaging as the criterion standard.
+MATERIALS AND METHODS: Fifty-five patients with a lytic bone lesion were included in this prospective study with approval from the ethics committee.
+All patients underwent magnetic resonance imaging and low-dose computed tomographic (CT) perfusion after signing an informed consent.
+Two CT volumes were used for bone subtraction, which was performed with 2 different algorithms (rigid and nonrigid).
+Enhancement at the nonlytic bone marrow was considered as a sign of BMEP.
+Two readers evaluated the images blindly.
+The presence of BMEP on bone-subtracted CT images was evaluated subjectively and quantitatively.
+Image quality was assessed.
+Magnetic resonance imaging was used as the criterion standard.
+RESULTS: Using a rigid registration method, the sensitivity, specificity, positive predictive value, negative predictive value, and accuracy of CT with DSA-like bone subtraction BMEP was 77%, 100%, 100%, 68%, and 85%, respectively.
+The interobserver agreement was good (kappa, 0.782).
+Image quality was better using a nonrigid registration.
+With this algorithm, artifacts interfered with image interpretation in only 5% of cases.
+However, there was a noticeable drop in sensitivity and negative predictive value when a nonrigid algorithm was used: 56% and 52%, respectively.
+The interobserver agreement was average with a nonrigid subtraction algorithm.
+CONCLUSIONS: Computed tomography with DSA-like bone subtraction is sensitive and highly specific for the identification of BMEP associated with lytic bone lesions.
+Rigid registering should be preferred, but nonrigid algorithms can be used as a second option when artifacts interfere with image interpretation.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

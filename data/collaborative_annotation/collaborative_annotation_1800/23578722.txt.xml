@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Dose-dense rituximab-CHOP compared with standard rituximab-CHOP in elderly patients with diffuse large B-cell lymphoma (the LNH03-6B study): a randomised phase 3 trial.
+BACKGROUND: Immunochemotherapy with rituximab and cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) has become the standard of care for elderly patients with diffuse large B-cell lymphoma.
+We aimed to ascertain if a dose-dense R-CHOP regimen administered every 2 weeks (R-CHOP14) was superior to the standard 3-week schedule (R-CHOP21).
+METHODS: We did a randomised phase 3 trial at 83 centres in four countries.
+602 patients aged 60-80 years with untreated diffuse large B-cell lymphoma and at least one adverse prognostic factor (age-adjusted international prognostic index >/= 1) were eligible for the study.
+We randomly allocated individuals to R-CHOP-ie, rituximab (375 mg/m(2)), cyclophosphamide (750 mg/m(2)), doxorubicin (50 mg/m(2)), vincristine (1.4 mg/m(2), up to 2 mg) all on day 1, and prednisone 40 mg/m(2) daily for 5 days-administered every 14 days (n=304) or every 21 days (n=298) for eight cycles.
+We did permuted-block randomisation (block size four, allocation ratio 1:1) stratified by centre and number of adverse prognostic factors.
+The primary endpoint was event-free survival.
+Our analysis was of the intention-to-treat population, and we present the final analysis.
+This study is registered with ClinicalTrials.gov, number NCT00144755.
+FINDINGS: Two patients allocated R-CHOP21 were ineligible for the study and were excluded from analyses.
+After median follow-up of 56 months (IQR 27-60), 3-year event-free survival was 56% (95% CI 50-62) in the R-CHOP14 group and 60% (55-66) in the R-CHOP21 group (hazard ratio 1.04, 95% CI 0.82-1.31; p=0.7614).
+Grade 3-4 neutropenia occurred in 224 (74%) of 304 patients allocated R-CHOP14 and 189 (64%) of 296 assigned R-CHOP21, despite increased use of granulocyte colony-stimulating factor in the R-CHOP14 group compared with the R-CHOP21 group.
+143 (47%) patients in the R-CHOP14 group received at least one red-blood-cell transfusion versus 93 (31%) in the R-CHOP21 group (p=0.0001).
+35 (12%) patients allocated R-CHOP14 received at least one platelet transfusion versus 25 (8%) assigned R-CHOP21 (p=0.2156).
+155 (51%) patients who were assigned R-CHOP14 had at least one serious adverse event compared with 140 (47%) who were allocated R-CHOP21.
+INTERPRETATION: In elderly patients with untreated diffuse large B-cell lymphoma and at least one adverse prognostic factor, a 2-week dose-dense R-CHOP regimen did not improve efficacy compared with the 3-week standard schedule.
+The frequency of toxic side-effects was similar between regimens, but R-CHOP14 was associated with increased need for red-blood-cell transfusion.
+FUNDING: Groupe d'Etude des Lymphomes de l'Adulte (GELA), Amgen.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

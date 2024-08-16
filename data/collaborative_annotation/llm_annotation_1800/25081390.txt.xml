@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>NY-ESO-1 specific antibody and cellular responses in melanoma patients primed with NY-ESO-1 protein in ISCOMATRIX and boosted with recombinant NY-ESO-1 fowlpox virus.
+Vaccination strategies based on repeated injections of NY-ESO-1 protein formulated in ISCOMATRIX particles (NY-ESO-1 ISCOMATRIX) have shown to elicit combined NY-ESO-1 specific antibody and T cell responses.
+However, it remains unclear whether heterologous prime-boost strategies based on the combination with NY-ESO-1 ISCOMATRIX with different NY-ESO-1 boosting reagents could be used to increase NY-ESO-1 CD8(+) or CD4(+) T cell responses.
+To address this question, we carried out a randomized clinical trial in 39 high-risk, resected melanoma patients vaccinated with NY-ESO-1 ISCOMATRIX, and then boosted with repeated injections of either recombinant fowlpox virus encoding full length NY-ESO-1 (rF-NY-ESO-1) (Arm A) or NY-ESO-1 ISCOMATRIX alone (Arm B).
+We have comprehensively analyzed NY-ESO-1 specific T cells and B cells response in all patients before and after vaccination for a total of seven time points per patient.
+NY-ESO-1 ISCOMATRIX alone elicited a strong NY-ESO-1 specific CD4(+) T cell and antibody response, which was maintained by both regiments at similar levels.
+However, CD8(+) T cell responses were significantly boosted in 3 out of 18 patients in Arm A after the first rF-NY-ESO-1 injection and such responses were maintained until the end of the trial, while no patients in Arm B showed similar CD8(+) T cell responses.
+In addition, our results clearly identified immunodominant regions in the NY-ESO-1 protein: NY-ESO-179-102 and NY-ESO-1115-138 for CD4+ T cells and NY-ESO-185-108 for CD8+ T cells in a large proportion of vaccinated patients.
+These regions of NY-ESO-1 protein should be considered in future clinical trials as immunodominant epitopes.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

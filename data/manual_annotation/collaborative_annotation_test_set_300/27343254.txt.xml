@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Does patient time spent viewing computer-tailored colorectal cancer screening materials predict patient-reported discussion of screening with providers?
+The main aim is to examine whether patients' viewing time on information about colorectal cancer (CRC) screening before a primary care physician (PCP) visit is associated with discussion of screening options during the visit.
+We analyzed data from a multi-center randomized controlled trial of a tailored interactive multimedia computer program (IMCP) to activate patients to undergo CRC screening, deployed in primary care offices immediately before a visit.
+We employed usage time information stored in the IMCP to examine the association of patient time spent using the program with patient-reported discussion of screening during the visit, adjusting for previous CRC screening recommendation and reading speed.
+On average, patients spent 33 minutes on the program.
+In adjusted analyses, 30 minutes spent using the program was associated with a 41% increase in the odds of the patient having a discussion with their PCP (1.04, 1.59, 95% CI).
+In a separate analysis of the tailoring modules; the modules encouraging adherence to the tailored screening recommendation and discussion with the patient's PCP yielded significant results.
+Other predictors of screening discussion included better self-reported physical health and increased patient activation.
+Time spent on the program predicted greater patient-physician discussion of screening during a linked visit.
+Usage time information gathered automatically by IMCPs offers promise for objectively assessing patient engagement around a topic and predicting likelihood of discussion between patients and their clinician.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

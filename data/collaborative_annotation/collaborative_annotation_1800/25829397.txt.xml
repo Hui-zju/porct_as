@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Detection and Dynamic Changes of EGFR Mutations from Circulating Tumor DNA as a Predictor of Survival Outcomes in NSCLC Patients Treated with First-line Intercalated Erlotinib and Chemotherapy.
+PURPOSE: Blood-based circulating-free (cf) tumor DNA may be an alternative to tissue-based EGFR mutation testing in NSCLC.
+This exploratory analysis compares matched tumor and blood samples from the FASTACT-2 study.
+EXPERIMENTAL DESIGN: Patients were randomized to receive six cycles of gemcitabine/platinum plus sequential erlotinib or placebo.
+EGFR mutation testing was performed using the cobas tissue test and the cobas blood test (in development).
+Blood samples at baseline, cycle 3, and progression were assessed for blood test detection rate, sensitivity, and specificity; concordance with matched tumor analysis (n = 238), and correlation with progression-free survival (PFS) and overall survival (OS).
+RESULTS: Concordance between tissue and blood tests was 88%, with blood test sensitivity of 75% and a specificity of 96%.
+Median PFS was 13.1 versus 6.0 months for erlotinib and placebo, respectively, for those with baseline EGFR mut(+) cfDNA [HR, 0.22; 95% confidence intervals (CI), 0.14-0.33, P < 0.0001] and 6.2 versus 6.1 months, respectively, for the EGFR mut(-) cfDNA subgroup (HR, 0.83; 95% CI, 0.65-1.04, P = 0.1076).
+For patients with EGFR mut(+) cfDNA at baseline, median PFS was 7.2 versus 12.0 months for cycle 3 EGFR mut(+) cfDNA versus cycle 3 EGFR mut(-) patients, respectively (HR, 0.32; 95% CI, 0.21-0.48, P < 0.0001); median OS by cycle 3 status was 18.2 and 31.9 months, respectively (HR, 0.51; 95% CI, 0.31-0.84, P = 0.0066).
+CONCLUSIONS: Blood-based EGFR mutation analysis is relatively sensitive and highly specific.
+Dynamic changes in cfDNA EGFR mutation status relative to baseline may predict clinical outcomes.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

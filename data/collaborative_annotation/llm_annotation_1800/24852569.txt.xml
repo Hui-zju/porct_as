@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>In Barrett's esophagus patients and Barrett's cell lines, ursodeoxycholic acid increases antioxidant expression and prevents DNA damage by bile acids.
+Hydrophobic bile acids like deoxycholic acid (DCA), which cause oxidative DNA damage and activate NF-kappaB in Barrett's metaplasia, might contribute to carcinogenesis in Barrett's esophagus.
+We have explored mechanisms whereby ursodeoxycholic acid (UDCA, a hydrophilic bile acid) protects against DCA-induced injury in vivo in patients and in vitro using nonneoplastic, telomerase-immortalized Barrett's cell lines.
+We took biopsies of Barrett's esophagus from 21 patients before and after esophageal perfusion with DCA (250 muM) at baseline and after 8 wk of oral UDCA treatment.
+DNA damage was assessed by phospho-H2AX expression, neutral CometAssay, and phospho-H2AX nuclear foci formation.
+Quantitative PCR was performed for antioxidants including catalase and GPX1.
+Nrf2, catalase, and GPX1 were knocked down with siRNAs.
+Reporter assays were performed using a plasmid construct containing antioxidant responsive element.
+In patients, baseline esophageal perfusion with DCA significantly increased phospho-H2AX and phospho-p65 in Barrett's metaplasia.
+Oral UDCA increased GPX1 and catalase levels in Barrett's metaplasia and prevented DCA perfusion from inducing DNA damage and NF-kappaB activation.
+In cells, DCA-induced DNA damage and NF-kappaB activation was prevented by 24-h pretreatment with UDCA, but not by mixing UDCA with DCA.
+UDCA activated Nrf2 signaling to increase GPX1 and catalase expression, and protective effects of UDCA pretreatment were blocked by siRNA knockdown of these antioxidants.
+UDCA increases expression of antioxidants that prevent toxic bile acids from causing DNA damage and NF-kappaB activation in Barrett's metaplasia.
+Elucidation of this molecular pathway for UDCA protection provides rationale for clinical trials on UDCA for chemoprevention in Barrett's esophagus.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

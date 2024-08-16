@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Comparative Effectiveness of Bladder-preserving Tri-modality Therapy Versus Radical Cystectomy for Muscle-invasive Bladder Cancer.
+INTRODUCTION: There are limited randomized data comparing radical cystectomy (RC) with bladder-sparing tri-modality therapy (TMT) in the treatment of muscle-invasive bladder cancer (MIBC).
+Both strategies are thought to have similar survival outcomes with different morbidity profiles.
+We compare the effectiveness of TMT and RC using decision-analytic modeling and the endpoint of quality-adjusted life years (QALYs).
+PATIENTS AND METHODS: Using a Markov model, we simulated the lifetime outcomes after TMT versus RC +/- neoadjuvant chemotherapy for 67-year-old patients with clinical stage T2-T4aN0M0 MIBC.
+Model probabilities and utilities were extracted from the literature.
+The incremental effectiveness was reported in QALYs and sensitivity analyses were performed.
+RESULTS: For all patients with MIBC, although the model showed identical survival, TMT was the most effective strategy with an incremental gain of 0.59 QALYs over RC (7.83 vs. 7.24 QALYs, respectively).
+When limiting the model to favorable, contemporary cohorts in both the TMT and RC strategies, TMT remained more effective with an incremental gain of 1.61 QALYs (9.37 vs. 7.76 QALYs, respectively).
+One-way sensitivity analyses demonstrated the model was sensitive to the quality of life parameters (ie, the utilities) for RC and TMT.
+When testing the 95% confidence interval of the RC utility parameter the model demonstrated an incremental gain with TMT from -0.54 to 4.23 QALYs.
+Probabilistic sensitivity analysis demonstrated that TMT was more effective than RC for 63% of model iterations.
+CONCLUSIONS: This modeling study found that treatment of MIBC with organ-sparing TMT in appropriately-selected patients may result in a gain of QALYs relative to RC.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Randomized Controlled Trial on Evaluation of Plasma Epstein-Barr Virus Biomarker for Early Diagnosis in Patients With Nasopharyngeal Carcinoma.
+INTRODUCTION: Early diagnosis of nasopharyngeal carcinoma (NPC) remains a major problem in Southern China.
+Epstein-Barr virus (EBV) biomarkers have been widely used in NPC screening.
+This study aims to evaluate the early diagnostic performances of individual EBV biomarkers in NPC.
+METHODS: The levels of EBV biomarkers-IgA antibodies against EBV nuclear antigen 1 (EBNA1-IgA), EBV capsid antigen (VCA-IgA), EBV early antigen (EA-IgA), EBV BZLF1 transcription activator protein (Zta-IgA) and IgG antibodies against EBV BRLF1 transcription activator protein (Rta-IgG)-from 106 NPC patients (stage I and II) and 150 normal subjects were measured.
+VCA-IgA and EA-IgA were detected by immunofluorescence assay (IFA), EBNA1-IgA, Rta-IgG and Zta-IgA were measure by enzyme-linked immunosorbent assay (ELISA), and EBV DNA was detected by qPCR.
+Statistical analyses of a single index were conducted to evaluate the significance of NPC early diagnosis and TNM classification.
+RESULTS: The level of EBNA1-IgA, EBV DNA, VCA-IgA, EA-IgA, Rta-IgG and Zta-IgA in early-stage NPC was significantly higher than in healthy controls (all P < 0.001).
+EBNA1-IgA yielded the biggest area under the curve (AUC) of 0.962 in distinguishing early-stage NPC patients from the normal subjects, with a sensitivity of 91.5% and a specificity of 98.7%.
+However, EBV biomarker levels were not associated with tumor size (all P > 0.050), whereas four biomarker levels (EBNA1-IgA, EBV DNA, VCA-IgA, EA-IgA) were related to lymph node metastasis (N0 and N1-2), among which EBNA1-IgA and EBV DNA showed good performance.
+Finally, high correlation was found between VCA-IgA and EA-IgA (r > 0.800).
+CONCLUSION: A single EBNA1-IgA exhibits excellent discrimination performance in early diagnosis of NPC and could become a promising marker for NPC screening.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

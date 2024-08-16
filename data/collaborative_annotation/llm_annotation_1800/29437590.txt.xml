@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Prognostic value of baseline metabolic tumor volume in early-stage Hodgkin lymphoma in the standard arm of the H10 trial.
+We tested baseline positron emission tomography (PET)/computed tomography (CT) as a measure of total tumor burden to better identify high-risk patients with early-stage Hodgkin lymphoma (HL).
+Patients with stage I-II HL enrolled in the standard arm (combined modality treatment) of the H10 trial (NCT00433433) with available baseline PET and interim PET (iPET2) after 2 cycles of doxorubicin, bleomycin, vinblastine, and dacarbazine were included.
+Total metabolic tumor volume (TMTV) was measured on baseline PET.
+iPET2 findings were reported negative (DS1-3) or positive (DS4-5) with the Deauville scale (DS).
+The prognostic value of TMTV was evaluated and compared with baseline characteristics, staging classifications, and iPET2.
+A total of 258 patients were eligible: 101 favorable and 157 unfavorable.
+The median follow-up was 55 months, with 27 progression-free survival (PFS) and 12 overall survival (OS) events.
+TMTV was a prognosticator of PFS (P &lt; .0001) and OS (P = .0001), with 86% and 84% specificity, respectively.
+Five-year PFS and OS were 71% and 83% in the high-TMTV (&gt;147 cm(3)) group (n = 46), respectively, vs 92% and 98% in the low-TMTV group (&lt;/=147 cm(3)).
+In multivariable analysis including iPET2, TMTV was the only baseline prognosticator compared with the current staging systems proposed by the European Organization for Research and Treatment of Cancer/Groupe d'Etude des Lymphomes de l'Adulte, German Hodgkin Study Group, or National Comprehensive Cancer Network.
+TMTV and iPET2 were independently prognostic and, combined, identified 4 risk groups: low (TMTV&lt;/=147+DS1-3; 5-year PFS, 95%), low-intermediate (TMTV&gt;147+DS1-3; 5-year PFS, 81.6%), high-intermediate (TMTV&lt;/=147+DS4-5; 5-year PFS, 50%), and high (TMTV&gt;147+DS4-5; 5-year PFS, 25%).
+TMTV improves baseline risk stratification of patients with early-stage HL compared with current staging systems and the predictive value of early PET response as well.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

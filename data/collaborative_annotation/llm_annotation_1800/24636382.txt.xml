@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Mapping the FACT-P to the preference-based EQ-5D questionnaire in metastatic castration-resistant prostate cancer.
+OBJECTIVES: To develop a mapping algorithm for estimating EuroQol five-dimensional (EQ-5D) questionnaire values from the prostate cancer-specific health-related quality-of-life (HRQOL) instrument Functional Assessment of Cancer Therapy-Prostate (FACT-P) instrument.
+METHODS: The EQ-5D questionnaire and FACT-P instrument data were collected for a subset of patients with metastatic castration-resistant prostate cancer in a multicenter, randomized, double-blind, placebo-controlled phase 3 trial.
+We compared three statistical techniques to estimate patients' EQ-5D questionnaire index scores determined by using the UK tariff: 1) generalized estimating equations, 2) two-part model combining logistic regression and generalized estimating equation, and 3) separate mapping algorithms for patients with poor health defined as a FACT-P score of 76 or less (group-specific model).
+Four different sets of explanatory variables were compared.
+The models were cross-validated by using a 10-fold in-sample cross-validation.
+RESULTS: Values for both instruments were available for 236 patients with metastatic castration-resistant prostate cancer.
+The group-specific model including the FACT-P subscale scores and baseline variables had the best predictive performance with R(2) 0.718, root mean square error 0.162, and mean absolute error 0.117.
+The two-part model and the generalized estimating equation model including the FACT-P subdomain scores and baseline variables also had good predictive performance.
+CONCLUSIONS: The developed algorithms for mapping the FACT-P instrument to the EQ-5D questionnaire enable the estimation of preference-based health-related quality-of-life scores for use in cost-effectiveness analyses when directly elicited EQ-5D questionnaire data are missing.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

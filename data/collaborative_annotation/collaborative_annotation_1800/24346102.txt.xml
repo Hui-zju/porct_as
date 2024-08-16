@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized, double-blind, phase II trial comparing gemcitabine-cisplatin plus the LTB4 antagonist LY293111 versus gemcitabine-cisplatin plus placebo in first-line non-small-cell lung cancer.
+INTRODUCTION: In this phase II study, patients with stage IIIB/IV non-small-cell lung cancer were randomly assigned (1:1:1) to receive LY293111 (200 mg twice daily [200 LY293111] or 600 mg twice daily [600 LY293111]) or placebo for 7 days, followed by concurrent cisplatin (75 mg/m2; day 1) and gemcitabine (1250 mg/m2; days 1 and 8), every 21 days.
+The primary endpoint was progression-free survival, (PFS), with 75% power to detect 33% improvement compared with placebo (5 months).
+METHODS: Of 200 randomized patients, 195 were treated.
+Demographics were well balanced across treatment arms: 65% of the patients were men; median age was 62 years; 85% had stage IV disease; and patients had an Eastern Cooperative Oncology Group performance status of 0 (36%) or 1 (64%).
+RESULTS: The most frequent study drug-related toxicities were nausea, vomiting, and fatigue.
+Response rates were similar across treatment arms (200 LY293111: 20%; 600 LY293111: 25%; placebo: 31%).
+CONCLUSIONS: Median PFS (95% confidence interval) was not significantly different across treatment arms (200 LY293111: 4.6 months [3.2-5.0]; 600 LY293111: 5.6 months [4.1-6.8]; placebo: 6.0 months [5.2-7.5]).
+LY293111 combined with gemcitabine-cisplatin did not increase median PFS compared with placebo plus gemcitabine-cisplatin in patients with non-small-cell lung cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

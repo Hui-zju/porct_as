@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The role of multiparametric MRI in active surveillance for low-risk prostate cancer: The ROMAS randomized controlled trial.
+BACKGROUND: We aim to evaluate the impact of multiparametric magnetic resonance imaging and fusion-target biopsy for early reclassification of patients with low-risk Prostate Cancer in a randomized trial.
+MATERIALS AND METHODS: Between 2015 and 2018, patients diagnosed with Prostate Cancer after random biopsy fulfilling PRIAS criteria were enrolled and centrally randomized (1:1 ratio) to study group or control group.
+Patients randomized to study group underwent multiparametric magnetic resonance imaging at 3 months from enrollment: patients with positive findings (PIRADS-v2>2) underwent fusion-target biopsy; patients with negative multiparametric magnetic resonance imaging or confirmed ISUP - Grade Group 1 at fusion-target biopsy were managed according to PRIAS schedule and 12-core random biopsy was performed at 12 months.
+Patients in control group underwent PRIAS protocol, including a confirmatory 12-core random biopsy at 12 months.
+Primary endpoint was a reduction of reclassification rate at 12-month random biopsy in study group at least 20% less than controls.
+Reclassification was defined as biopsy ISUP Grade Group 1 in >2 biopsy cores or disease upgrading.
+RESULTS: A total of 124 patients were randomized to study group (n=62) or control group (n=62).
+Around 21 of 62 patients (34%) in study group had a positive multiparametric magnetic resonance imaging, and underwent fusion-target biopsy, with 11 (17.7%) reclassifications.
+Considering the intention-to-treat population, reclassification rate at 12-month random biopsy was 6.5% for study group and 29% for control group, respectively (P < 0.001).
+CONCLUSIONS: The early employment of multiparametric magnetic resonance imaging for active surveillance patients enrolled after random biopsy consents to significantly reduce reclassifications at 12-month random biopsy.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

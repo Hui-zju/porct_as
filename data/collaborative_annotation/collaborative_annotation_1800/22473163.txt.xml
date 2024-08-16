@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Multicenter randomized phase II clinical trial comparing neoadjuvant oxaliplatin, capecitabine, and preoperative radiotherapy with or without cetuximab followed by total mesorectal excision in patients with high-risk rectal cancer (EXPERT-C).
+PURPOSE: To evaluate the addition of cetuximab to neoadjuvant chemotherapy before chemoradiotherapy in high-risk rectal cancer.
+PATIENTS AND METHODS: Patients with operable magnetic resonance imaging-defined high-risk rectal cancer received four cycles of capecitabine/oxaliplatin (CAPOX) followed by capecitabine chemoradiotherapy, surgery, and adjuvant CAPOX (four cycles) or the same regimen plus weekly cetuximab (CAPOX+C).
+The primary end point was complete response (CR; pathologic CR or, in patients not undergoing surgery, radiologic CR) in patients with KRAS/BRAF wild-type tumors.
+Secondary end points were radiologic response (RR), progression-free survival (PFS), overall survival (OS), and safety in the wild-type and overall populations and a molecular biomarker analysis.
+RESULTS: One hundred sixty-five eligible patients were randomly assigned.
+Ninety (60%) of 149 assessable tumors were KRAS or BRAF wild type (CAPOX, n = 44; CAPOX+C, n = 46), and in these patients, the addition of cetuximab did not improve the primary end point of CR (9% v 11%, respectively; P = 1.0; odds ratio, 1.22) or PFS (hazard ratio [HR], 0.65; P = .363).
+Cetuximab significantly improved RR (CAPOX v CAPOX+C: after chemotherapy, 51% v 71%, respectively; P = .038; after chemoradiation, 75% v 93%, respectively; P = .028) and OS (HR, 0.27; P = .034).
+Skin toxicity and diarrhea were more frequent in the CAPOX+C arm.
+CONCLUSION: Cetuximab led to a significant increase in RR and OS in patients with KRAS/BRAF wild-type rectal cancer, but the primary end point of improved CR was not met.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

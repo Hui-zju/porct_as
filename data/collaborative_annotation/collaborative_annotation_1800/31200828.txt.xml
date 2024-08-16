@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Selumetinib in patients receiving standard pemetrexed and platinum-based chemotherapy for advanced or metastatic KRAS wildtype or unknown non-squamous non-small cell lung cancer: A randomized, multicenter, phase II study. Canadian Cancer Trials Group (CCTG) IND.219.
+INTRODUCTION: Activation of the RAS/RAF/MEK/ERK pathway may confer resistance to chemotherapy in non-small cell lung cancer (NSCLC).
+Selumetinib (AZD6244, ARRY142886), a MEK1/2 inhibitor combined with chemotherapy in patients with NSCLC was evaluated in two schedules to evaluate efficacy and toxicity.
+METHODS: IND.219 was a three-arm study of first line pemetrexed/platinum chemotherapy with two schedules of selumetinib (Arm A: intermittent given on days 2-19; Arm B: continuous given on days 1-21) versus chemotherapy alone (Arm C).
+The primary endpoint was objective response rate (ORR); secondary objectives were tolerability, progression-free survival (PFS), overall survival (OS).
+The trial was stopped at the planned interim analysis.
+RESULTS: Arms A/B/C enrolled 20/21/21 patients, ORR was 35% (95% CI 15-59% median duration 3.8 months), 62% (95% CI 38-82%; median duration 6.3 months), 24% (95% CI 8-47%; median duration 11.6 months) respectively.
+The PFS (months Arm A, B, C) was 7.5, 6.7, 4.0 respectively (hazard ratio (HR) PFS Arm A over Arm C: 0.76 [95% CI, 0.38-1.51, 2-sided p = 0.42]; Arm B over Arm C 0.75 [95% CI 0.37-1.54, p = 0.43].
+Skin and gastrointestinal adverse events were more common with the addition of selumetinib.
+A high incidence of venous thromboembolism was seen in all arms.
+CONCLUSIONS: Selumetinib combined with chemotherapy was associated with a higher response rate.
+Continuous selumetinib appeared to be superior to an intermittent schedule.
+PFS was prolonged with the addition of selumetinib, however this was not statistically significant.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

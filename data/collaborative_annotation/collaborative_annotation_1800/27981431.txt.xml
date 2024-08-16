@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Adjusting Overall Survival Estimates after Treatment Switching: a Case Study in Metastatic Castration-Resistant Prostate Cancer.
+BACKGROUND: If patients in oncology trials receive subsequent therapy, standard intention-to-treat (ITT) analyses may inaccurately estimate the overall survival (OS) effect of the investigational product.
+In this context, a post-hoc analysis of the phase 3 PREVAIL study was performed with the aim to compare enzalutamide with placebo in terms of OS, adjusting for potential confounding from switching to antineoplastic therapies that are not part of standard metastatic castration-resistant prostate cancer (mCRPC) treatment pathways in some jurisdictions.
+METHODS: The PREVAIL study, which included 1717 chemotherapy-naive men with mCRPC randomized to treatment with enzalutamide 160 mg/day or placebo, was stopped after a planned interim survival analysis revealed a benefit in favor of enzalutamide.
+Data from this cutoff point were confounded by switching from both arms and so were evaluated in terms of OS using two switching adjustment methods: the two-stage accelerated failure time model (two-stage method) and inverse probability of censoring weights (IPCW).
+RESULTS: Following adjustment for switching to nonstandard antineoplastic therapies by 14.8 (129/872 patients) and 21.3% (180/845 patients) of patients initially randomized to enzalutamide and placebo, respectively, the two-stage and IPCW methods both resulted in numerical reductions in the hazard ratio (HR) for OS [HR 0.66, 95% confidence interval (CI) 0.57-0.81 and HR 0.63, 95% CI 0.52-0.75, respectively] for enzalutamide compared to placebo versus the unadjusted ITT analysis (HR 0.71, 95% CI 0.60-0.84).
+These results suggest a slightly greater effect of enzalutamide on OS than originally reported.
+CONCLUSION: In the PREVAIL study, switching to nonstandard antineoplastic mCRPC therapies resulted in the ITT analysis of primary data underestimating the benefit of enzalutamide on OS.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Effect of Exercise or Metformin on Biomarkers of Inflammation in Breast and Colorectal Cancer: A Randomized Trial.
+Observational studies report that physical activity and metformin are associated with improved clinical outcome in patients with cancer.
+Inflammation is one biological mechanism hypothesized to mediate these associations.
+In this phase II, multicenter, 2 x 2 factorial trial, 139 patients with breast and colorectal cancer who completed standard therapy were randomized to one of four treatment groups for 12 weeks: exercise alone, metformin alone, exercise and metformin, or control.
+Inflammation outcomes included high-sensitivity C-reactive protein (hs-CRP), soluble tumor necrosis factor alpha receptor two (sTNFalphaR2), and IL6.
+The primary modeling strategy evaluated the trial product estimand that was quantified using a generalized linear mixed model.
+Compared with control, exercise alone reduced hs-CRP [-30.2%; 95% confidence interval (CI), -50.3, -1.0] and IL6 (-30.9%; 95% CI, -47.3, -9.5) but did not change sTNFalphaR2 (1.0%; 95% CI, -10.4, 13.9).
+Compared with control, metformin alone did not change hs-CRP (-13.9%; 95% CI, -40.0, 23.4), sTNFalphaR2 (-10.4%; 95% CI, -21.3, 2.0), or IL6 (-22.9%; 95% CI, -42.3, 2.0).
+Compared with control, exercise and metformin reduced sTNFalphaR2 (-13.1%; 95% CI, -22.9, -1.0) and IL6 (-38.7%; 95% CI, -52.3, -18.9) but did not change hs-CRP (-20.5%; 95% CI, -44.0, 12.7).
+The combination of exercise and metformin was not synergistic for hs-CRP, sTNFalphaR2, or IL6.
+In survivors of breast and colorectal cancer with low baseline physical activity and without type 2 diabetes, exercise and metformin reduced measures of inflammation that are associated with cancer recurrence and mortality.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

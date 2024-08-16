@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Sorafenib Plus Hepatic Arterial Infusion of Oxaliplatin, Fluorouracil, and Leucovorin vs Sorafenib Alone for Hepatocellular Carcinoma With Portal Vein Invasion: A Randomized Clinical Trial.
+Importance: Sorafenib is the first-line treatment for hepatocellular carcinoma with portal vein invasion; however, it has shown unsatisfactory survival benefit.
+Sorafenib plus hepatic arterial infusion chemotherapy (HAIC) of oxaliplatin, fluorouracil, and leucovorin (FOLFOX) has shown promising results for these patients in a previous phase 2 study.
+Objective: To investigate the efficacy and safety of sorafenib plus HAIC compared with sorafenib for hepatocellular carcinoma with portal vein invasion.
+Design, Setting, and Participants: This randomized, open-label clinical trial enrolled 818 screened patients.
+Of the 818 participants, 247 with hepatocellular carcinoma and portal vein invasion were randomly assigned (1:1) via a computer-generated sequence to receive sorafenib plus HAIC or sorafenib.
+This trial was conducted at 5 hospitals in China and enrolled patients from April 1, 2016, to October 10, 2017, with a follow-up period of 10 months.
+Interventions: Randomization to receive 400 mg sorafenib twice daily (sorafenib group) or 400 mg sorafenib twice daily plus HAIC (SoraHAIC group) (oxaliplatin 85 mg/m2, leucovorin 400 mg/m2, fluorouracil bolus 400 mg/m2 on day 1, and fluorouracil infusion 2400 mg/m2 for 46 hours, every 3 weeks).
+Main Outcomes and Measures: The primary endpoint was overall survival by intention-to-treat analysis.
+Safety was assessed in patients who received at least 1 dose of study treatment.
+Results: For 247 patients (median age, 49 years; range, 18-75 years; 223 men and 24 women), median overall survival was 13.37 months (95% CI, 10.27-16.46) in the SoraHAIC group vs 7.13 months (95% CI, 6.28-7.98) in the sorafenib group (hazard ratio [HR], 0.35; 95% CI, 0.26-0.48; P < .001).
+The SoraHAIC group showed a higher response rate than the sorafenib group (51 [40.8%] vs 3 [2.46%]; P < .001), and a longer median progression-free survival (7.03 [95% CI, 6.05-8.02] vs 2.6 [95% CI, 2.15-3.05] months; P < .001).
+Grade 3/4 adverse events that were more frequent in the SoraHAIC group than in the sorafenib group included neutropenia (12 [9.68%] vs 3 [2.48%]), thrombocytopenia (16 [12.9%] vs 6 [4.96%]), and vomiting (8 [6.45%] vs 1 [0.83%]).
+Conclusions and Relevance: Sorafenib plus HAIC of FOLFOX improved overall survival and had acceptable toxic effects compared with sorafenib in patients with hepatocellular carcinoma and portal vein invasion.
+Trial Registration: ClinicalTrials.gov identifier: NCT02774187.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized trial regarding antimicrobial prophylaxis (AMP) in transurethral resection of bladder tumor (TURB).
+PURPOSE: To determine whether omitting antimicrobial prophylaxis (AMP) in TURB is safe in patients undergoing TURB without an indwelling pre-operative catheter/nephrostomy/DJ and a negative pre-operative urinary culture.
+MATERIALS AND METHODS: A multi-centered randomized controlled trial (RCT) from 17-09-2017 to 31-12-2019 in 5 hospitals.
+Patients with a pre-operative indwelling catheter/DJ-stent or nephrostomy and a positive pre-operative urinary culture (> 10(4) uropathogens/mL) were excluded.
+Post-operative fever was defined as body temperature >/= 38.3 degrees C. A non-inferiority design with a 6% noninferiority margin and null hypothesis (H0) that the infection risk is at least 6% higher in the experimental (E) than in the control (C) group; H0: C (AMP-group) - E (no AMP-group) >/= Delta (6% noninferiority margin).
+A multivariable, logistic regression was performed for AMP and post-TURB fever with covariates: tumor size and (clot-) retention.
+The R Project((R)) for statistical computing was used for statistical analysis and a p value of 0.05 was considered as statistically significant.
+RESULTS: 459 Patients were included and 202/459 (44.1%) received AMP vs 257/459 (55.9%) without AMP.
+Fever occurred in 6/202 [2.9%; 95% CI (1.2-6.6%)] patients with AMP vs 8/257 [3.1%; 95% CI (1.5%-6.1%)] without AMP (p = 0.44).
+Multivariable, logistic regression showed no significant harm in omitting AMP when controlled for (clot-)retention and tumor size (p = 0.85) and an adjusted risk difference in developing post-TURB fever of 0.0016; 95% CI [- 0.029; 0.032].
+CONCLUSION: Our data suggest the safety of omitting AMP in patients undergoing TURB without an indwelling, pre-operative catheter/nephrostomy/DJ and a negative pre-operative urinary culture.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

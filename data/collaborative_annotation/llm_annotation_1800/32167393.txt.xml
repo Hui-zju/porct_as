@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>MIRROS: a randomized, placebo-controlled, Phase III trial of cytarabine +/- idasanutlin in relapsed or refractory acute myeloid leukemia.
+Patients with refractory or relapsed acute myeloid leukemia (R/R AML) have a poor prognosis, with a high unmet medical need.
+Idasanutlin is a small-molecule inhibitor of MDM2, a negative regulator of tumor suppressor p53.
+By preventing the p53-MDM2 interaction, idasanutlin allows for p53 activation, particularly in patients with TP53 wild-type (WT) status.
+MIRROS (NCT02545283) is a randomized Phase III trial evaluating idasanutlin + cytarabine versus placebo + cytarabine in R/R AML.
+The primary end point is overall survival in the TP53-WT population.
+Secondary end points include complete remission rate (cycle 1), overall remission rate (cycle 1) and event-free survival in the TP53-WT population.
+MIRROS has an innovative design that integrates a stringent interim analysis for futility; continuation criteria were met in mid-2017 and accrual is ongoing.
+Trial registration number: NCT02545283.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

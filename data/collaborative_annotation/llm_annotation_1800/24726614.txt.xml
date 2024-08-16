@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Dynamic modeling in ovarian cancer: an original approach linking early changes in modeled longitudinal CA-125 kinetics and survival to help decisions in early drug development.
+OBJECTIVE: Early prediction of the expected benefit of treatment in recurrent ovarian cancer (ROC) patients may help in drug development decisions.
+The actual value of 50% CA-125 decrease is being reconsidered.
+The main objective of the present study was to quantify the links between longitudinal assessments of CA-125 kinetics and progression-free survival (PFS) in treated recurrent ovarian cancer (ROC) patients.
+METHODS: The CALYPSO randomized phase III trial database comparing two platinum-based regimens in ROC patients was randomly split into a "learning dataset" and a "validation dataset".
+A parametric survival model was developed to associate longitudinal modeled CA-125 changes (DeltaCA125), predictive factors, and PFS.
+The predictive performance of the model was evaluated with simulations.
+RESULTS: The PFS of 534 ROC patients were properly characterized by a parametric mathematical model.
+The modeled DeltaCA125 from baseline to week 6 was a better predictor of PFS than the modeled fractional change in tumor size.
+Simulations confirmed the model's predictive performance.
+CONCLUSIONS: We present the first parametric survival model quantifying the relationship between PFS and longitudinal CA-125 kinetics in treated ROC patients.
+The model enabled calculation of the increase in DeltaCA125 required to observe a predetermined benefit in PFS to compare therapeutic strategies in populations.
+Therefore, DeltaCA125 may be a predictive marker of the expected gain in PFS and an early predictive tool in drug development decisions.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

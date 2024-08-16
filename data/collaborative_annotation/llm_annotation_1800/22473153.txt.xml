@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Prognostic index for acute- and lymphoma-type adult T-cell leukemia/lymphoma.
+PURPOSE: The prognosis of acute- and lymphoma-type adult T-cell leukemia/lymphoma (ATL) is poor, but there is marked diversity in survival outcomes.
+The aim of this study was to develop a prognostic index (PI) for acute- and lymphoma-type ATL (ATL-PI).
+PATIENTS AND METHODS: In a retrospective review, data from 807 patients newly diagnosed with acute- and lymphoma-type ATL between January 2000 and May 2009 were evaluated.
+We randomly divided subjects into training (n = 404) and validation (n = 403) samples, and developed a PI using a multivariable fractional polynomial model.
+RESULTS: Median overall survival time (MST) for the 807 patients was 7.7 months.
+The Ann Arbor stage (I and II v III and IV), performance status (0 to 1 v 2 to 4), and three continuous variables (age, serum albumin, and soluble interleukin-2 receptor [sIL-2R]) were identified as independent prognostic factors in the training sample.
+Using these variables, a prognostic model was devised to identify different levels of risk.
+In the validation sample, MSTs were 3.6, 7.3, and 16.2 months for patients at high, intermediate, and low risk, respectively (P &lt; .001; chi(2) = 89.7, 2 df; log-rank test).
+We also simplified the original ATL-PI according to dichotomizing age at 70 years, serum albumin at 3.5 g/dL, and sIL-2R at 20,000 U/mL and developed an easily calculable PI with prognostic discrimination power (P &lt; .001; chi(2) = 74.2, 2 df; log-rank test).
+CONCLUSION: The ATL-PI is a promising new tool for identifying patients with acute- and lymphoma-type ATL at different risks.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

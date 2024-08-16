@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase II study of paclitaxel alone versus paclitaxel plus sorafenib in second- and third-line treatment of patients with HER2-negative metastatic breast cancer (PASO).
+BACKGROUND: We conducted an open-label, randomized, two-arm multi-center study to assess the efficacy and safety of paclitaxel versus paclitaxel + sorafenib in patients with locally advanced or metastatic HER2-negative breast cancer.
+METHODS: Patients were randomly assigned to receive either paclitaxel monotherapy (80 mg/m(2)) weekly (3 weeks on, 1 week off) plus sorafenib 400 mg orally, twice a day taken continuously throughout 28 day cycles.
+Sorafenib dose was gradually escalated from a starting dose of 200 mg twice a day.
+The primary endpoint was progression free survival (PFS).
+RESULTS: A pre-planned efficacy interim analysis was performed on the data of 60 patients, 30 patients in each treatment arm.
+Median PFS was estimated at 6.6 months (95% CI: 5.1 to 9.0) in patients randomized to single-agent paclitaxel (Arm A) and 5.6 months (95% CI: 3.8 to 6.5) in patients randomized to paclitaxel-sorafenib combination (Arm B) therapy.
+Contrary to the hypothesis, the treatment effect was statistically significant in favor of paclitaxel monotherapy (hazard ratio 1.80, 95% CI: 1.02 to 3.20; log-rank test P = 0.0409).
+It was decided to stop the trial early for futility.
+Median OS was also in favor of Arm A (20.7 months (95% CI: 16.4 to 26.7) versus 12.1 months (95% CI: 5.8 to 20.4) in Arm B. Clinical control was achieved in 28 patients (93.3%) in Arm A and in 21 patients 70.0% in Arm B. Overall response rate was met in 43.3% of patients in Arm A and in 40.0% in Arm B. Toxicities were increased in Arm B with higher rates of diarrhea, nausea, neutropenia, hand-foot skin reaction (HFSR) and anorexia, Grad 3 and 4 toxicities were rare.
+CONCLUSIONS: In this pre-planned interim analysis, paclitaxel-sorafenib combination therapy was not found to be superior to paclitaxel monotherapy with regard to the primary end point, progression-free survival.
+The trial was therefore discontinued early.
+There was no indication of more favorable outcomes for combination therapy in secondary efficacy end points.
+As expected, the safety and toxicity profile of the combination therapy was less favorable compared to monotherapy.
+Overall, this trial did not demonstrate that adding sorafenib to second- or third-line paclitaxel provides any clinical benefit to patients with HER2-negative advanced or metastatic breast cancer.
+Cautious dosing using a sorafenib ramp up schedule might have contributed to negative results.
+TRIAL REGISTRATION: The study was registered at EudraCT (No 2009-018025-73) and retrospectively registered at Clinical trials.gov on March 17, 2011 ( NCT01320111 ).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

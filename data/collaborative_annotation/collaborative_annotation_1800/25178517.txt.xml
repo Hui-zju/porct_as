@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Modeling absolute lymphocyte counts after treatment of chronic lymphocytic leukemia with ibrutinib.
+The objective in this study was to characterize the pattern of the treatment-related lymphocytosis curve in chronic lymphocytic leukemia (CLL) patients treated with ibrutinib, and assess the relationship between the baseline factors and absolute lymphocyte counts (ALC).
+The PCYC-1102-CA study was a five-arm phase Ib/II open-label, nonrandomized, multicenter study in CLL/SLL.
+The arms and accruals were 420 and 840 mg/day treatment-naive elderly CLL/SLL (N = 27 and N = 4, respectively), 420 and 840 mg/day relapsed/refractory CLL/SLL (N = 27 and N = 34, respectively), and 420 mg/day high-risk CLL/SLL (N = 24).
+The results were generated through statistical modeling using data from a clinical trial (PCYC-1102) in five cohorts of treatment-naive or relapsed/refractory CLL patients treated at 420 and 840 mg daily of ibrutinib.
+In cases in which the initial increase in ALC doubles by day 28, it takes patients longer to reach their maximum ALC when compared with those with a lower rate of increase.
+Our models show that all of the cohorts exhibited the same pattern of treatment-related lymphocytosis from ibrutinib, and there are no significant differences between cohorts, including no detectable dose effect.
+The ALC of the majority of patients return to baseline ALC values by the end of cycle 5.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

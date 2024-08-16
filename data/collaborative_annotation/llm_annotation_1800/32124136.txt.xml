@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Breast cancer outcome in relation to bone mineral density and bisphosphonate use: a sub-study of the DATA trial.
+PURPOSE: The phase III DATA study compared 6 and 3 years of adjuvant anastrozole following 2-3 years of tamoxifen in postmenopausal breast cancer patients.
+This pre-planned side-study assessed the relationship between a reduced bone mineral density (BMD) and distant recurrence-free survival (DRFS), and evaluated the effect of bisphosphonates on DRFS.
+METHODS: We selected all patients with a BMD measurement within 3 years after randomisation (landmark) without any DRFS events.
+Kaplan-Meier methods and Cox proportional hazards models were used for analyses.
+RESULTS: Of 1860 eligible patients, 1142 had a DEXA scan before the landmark.
+The BMD was normal in 436 (38.2%) and showed osteopenia in 565 (49.5%) and osteoporosis in 141 (12.3%) patients.
+After a median follow-up of 5.0 years from the landmark, neither osteopenia nor osteoporosis (compared with normal BMD) were associated with DRFS in both the 6-year [osteopenia HR 0.82 (95% CI 0.45-1.49), osteoporosis HR 1.10 (95% CI 0.26-4.67)] and the 3-year arm [osteopenia HR 0.75 (95% CI 0.40-1.42), osteoporosis HR 1.86 (95% CI 0.43-8.01)].
+Moreover, bisphosphonate use did not impact DRFS.
+CONCLUSION: No association was observed between a reduced BMD and DRFS.
+Neither did we observe an impact of bisphosphonates on DRFS.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

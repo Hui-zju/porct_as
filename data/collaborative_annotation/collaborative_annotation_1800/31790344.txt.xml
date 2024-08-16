@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Pembrolizumab As Second-Line Therapy in Patients With Advanced Hepatocellular Carcinoma in KEYNOTE-240: A Randomized, Double-Blind, Phase III Trial.
+PURPOSE: Pembrolizumab demonstrated antitumor activity and safety in the phase II KEYNOTE-224 trial in previously treated patients with advanced hepatocellular carcinoma (HCC).
+KEYNOTE-240 evaluated the efficacy and safety of pembrolizumab in this population.
+PATIENTS AND METHODS: This randomized, double-blind, phase III study was conducted at 119 medical centers in 27 countries.
+Eligible patients with advanced HCC, previously treated with sorafenib, were randomly assigned at a two-to-one ratio to receive pembrolizumab plus best supportive care (BSC) or placebo plus BSC.
+Primary end points were overall survival (OS) and progression-free survival (PFS; one-sided significance thresholds, P = .0174 [final analysis] and P = .002 [first interim analysis], respectively).
+Safety was assessed in all patients who received >/= 1 dose of study drug.
+RESULTS: Between May 31, 2016, and November 23, 2017, 413 patients were randomly assigned.
+As of January 2, 2019, median follow-up was 13.8 months for pembrolizumab and 10.6 months for placebo.
+Median OS was 13.9 months (95% CI, 11.6 to 16.0 months) for pembrolizumab versus 10.6 months (95% CI, 8.3 to 13.5 months) for placebo (hazard ratio [HR], 0.781; 95% CI, 0.611 to 0.998; P = .0238).
+Median PFS for pembrolizumab was 3.0 months (95% CI, 2.8 to 4.1 months) versus 2.8 months (95% CI, 2.5 to 4.1 months) for placebo at the first interim analysis (HR, 0.775; 95% CI, 0.609 to 0.987; P = .0186) and 3.0 months (95% CI, 2.8 to 4.1 months) versus 2.8 months (95% CI, 1.6 to 3.0 months) at final analysis (HR, 0.718; 95% CI, 0.570 to 0.904; P = .0022).
+Grade 3 or higher adverse events occurred in 147 (52.7%) and 62 patients (46.3%) for pembrolizumab versus placebo; those that were treatment related occurred in 52 (18.6%) and 10 patients (7.5%), respectively.
+No hepatitis C or B flares were identified.
+CONCLUSION: In this study, OS and PFS did not reach statistical significance per specified criteria.
+The results are consistent with those of KEYNOTE-224, supporting a favorable risk-to-benefit ratio for pembrolizumab in this population.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

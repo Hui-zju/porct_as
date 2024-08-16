@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Nomogram Based on a Collagen Feature Support Vector Machine for Predicting the Treatment Response to Neoadjuvant Chemoradiotherapy in Rectal Cancer Patients.
+BACKGROUND: The relationship between collagen features (CFs) in the tumor microenvironment and the treatment response to neoadjuvant chemoradiotherapy (nCRT) is still unknown.
+This study aimed to develop and validate a perdition model based on the CFs and clinicopathological characteristics to predict the treatment response to nCRT among locally advanced rectal cancer (LARC) patients.
+METHODS: In this multicenter, retrospective analysis, 428 patients were included and randomly divided into a training cohort (299 patients) and validation cohort (129 patients) [7:3 ratio].
+A total of 11 CFs were extracted from a multiphoton image of pretreatment biopsy, and a support vector machine (SVM) was then used to construct a CFs-SVM classifier.
+A prediction model was developed and presented with a nomogram using multivariable analysis.
+Further validation of the nomogram was performed in the validation cohort.
+RESULTS: The CFs-SVM classifier, which integrated collagen area, straightness, and crosslink density, was significantly associated with treatment response.
+Predictors contained in the nomogram included the CFs-SVM classifier and clinicopathological characteristics by multivariable analysis.
+The CFs nomogram demonstrated good discrimination, with area under the receiver operating characteristic curves (AUROCs) of 0.834 in the training cohort and 0.854 in the validation cohort.
+Decision curve analysis indicated that the CFs nomogram was clinically useful.
+Moreover, compared with the traditional clinicopathological model, the CFs nomogram showed more powerful discrimination in determining the response to nCRT.
+CONCLUSIONS: The CFs-SVM classifier based on CFs in the tumor microenvironment is associated with treatment response, and the CFs nomogram integrating the CFs-SVM classifier and clinicopathological characteristics is useful for individualized prediction of the treatment response to nCRT among LARC patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

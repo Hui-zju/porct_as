@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Personalized Decision Making on Genomic Testing in Early Breast Cancer: Expanding the MINDACT Trial with Decision-Analytic Modeling.
+BACKGROUND: Genomic tests may improve upon clinical risk estimation with traditional prognostic factors.
+We aimed to explore how evidence on the prognostic strength of a genomic signature (clinical validity) can contribute to individualized decision making on starting chemotherapy for women with breast cancer (clinical utility).
+METHODS: The MINDACT trial was a randomized trial that enrolled 6693 women with early-stage breast cancer.
+A 70-gene signature (Mammaprint) was used to estimate genomic risk, and clinical risk was estimated by a dichotomized version of the Adjuvant!Online risk calculator.
+Women with discordant risk results were randomized to the use of chemotherapy.
+We simulated the full risk distribution of these women and estimated individual benefit, assuming a constant relative effect of chemotherapy.
+RESULTS: The trial showed a prognostic effect of the genomic signature (adjusted hazard ratio 2.4).
+A decision-analytic modeling approach identified far fewer women as candidates for genetic testing (4% rather than 50%) and fewer benefiting from chemotherapy (3% rather than 27%) as compared with the MINDACT trial report.
+The selection of women benefitting from genetic testing and chemotherapy depended strongly on the required benefit from treatment and the assumed therapeutic effect of chemotherapy.
+CONCLUSIONS: A high-quality pragmatic trial was insufficient to directly inform clinical practice on the utility of a genomic test for individual women.
+The indication for genomic testing may be far more limited than suggested by the MINDACT trial.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Occurrence of vaccine and non-vaccine human papillomavirus types in adolescent Finnish females 4 years post-vaccination.
+Control of human papillomavirus (HPV)-related cancers by inclusion of HPV vaccination into national vaccination programmes is likely.
+One open question is replacement of the vaccine types with other high-risk (hr) HPV types in the vaccination era.
+We studied occurrence of HPV types in adolescent females participating in a population-based vaccination trial.
+A total of 4,808 16- to 17-year-old females from Finland were enrolled in the 1:1 randomized phase III (PATRICIA) trial of the efficacy of vaccination with the AS04-adjuvanted HPV-16/18 virus-like particle vaccine as compared to hepatitis A virus (HAV) vaccine.
+HPV infection was assessed from cervical samples taken every 6 months for 4 years post-vaccination by polymerase chain reaction (PCR) for genital oncogenic HPV types 16, 18, 31, 33, 35, 39, 45, 51, 52, 58, 59, 66, 68, and 73 as well as low-risk types HPV-6 and HPV-11.
+The HPV-16/18 vaccine coverage ranged between 1 and 22% by age-cohort and study community.
+Odds ratios (ORs) for infections with different HPV types in baseline PCR negative HPV-16/18 vs. HAV vaccinated women, and Poisson regression derived HPV incidence rate ratios (IRRs) in baseline positive vs. negative women were calculated.
+The OR and IRR estimates for acquisition of any genital HPV types showed no excess risk neither in baseline HPV DNA-negative HPV-16/18-vaccinated women compared to baseline HPV DNA-negative HAV vaccinated women nor in HPV-16/18-vaccinated baseline HPV-16/18-positive women compared to baseline HPV-16/18-negative women.
+In the HAV-vaccinated, baseline HPV-18-positive women showed an increased risk of acquiring other clade A7 HPV types (39, 45, 59, 68) (IRR 1.8, 95% confidence interval = 1.01.-3.1).
+We found no increased occurrence of non-vaccine HPV types suggestive of type-replacement 1-4 years post-vaccination among HPV-16/18-vaccinated Finnish adolescents.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="other" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

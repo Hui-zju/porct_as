@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Population pharmacokinetics of native Escherichia coli asparaginase.
+The main aim of this analysis was to characterize the population pharmacokinetics of native Escherichia coli asparaginase (ASNase medac) in pediatric patients with previously untreated acute lymphoblastic leukemia.
+Secondary objective was to give further evidence for bioequivalence between ASNase medac and a new recombinant ASNase preparation.
+The authors reanalyzed 233 plasma samples from 16 children treated according to the DCOG-ALL 10 protocol (5000 U/m(2) ASNase medac) using NONMEM.
+Subsequently, assessment of bioequivalence was performed by including the preparation as a categorical covariate into the PopPK model when analyzing data of both preparations (480 samples, 32 children).
+A linear 2-compartment model with first-order elimination sufficiently described ASNase medac pharmacokinetics.
+The parameters found were as follows: total body clearance 0.13 L/h +/- 12.4% per 1.73 m(2), volume of distribution in the central compartment 4.11 L +/- 12.3% per 70 kg, volume of distribution in the peripheral compartment 1.63 L per 70 kg and intercompartmental clearance 0.106 L/h (mean +/- interindividual variability).
+A visual predictive check procedure and simulation of different dosages ASNase medac administered in the ALL-BFM protocol indicated adequate model performance.
+Assessment of bioequivalence provided a difference of about 14% in clearance of both preparations being too small to be considered as clinically relevant.
+A population pharmacokinetic model of ASNase medac in pediatric patients with previously untreated acute lymphoblastic leukemia was established.
+The model was able to describe asparaginase activity of different dosages in the ALL-BFM protocol and provides further evidence for bioequivalence between ASNase medac and a new recombinant asparaginase preparation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

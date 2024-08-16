@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Cyclin E1 Expression and Palbociclib Efficacy in Previously Treated Hormone Receptor-Positive Metastatic Breast Cancer.
+PURPOSE: A large-panel gene expression analysis was conducted to identify biomarkers associated with the effectiveness of adding palbociclib to fulvestrant.
+METHODS: The PALOMA-3 ( ClinicalTrials.gov identifier: NCT01942135) trial randomly assigned 521 endocrine-pretreated patients with metastatic breast cancer to receive palbociclib plus fulvestrant or placebo plus fulvestrant.
+Primary analysis was first conducted on 10 genes on the basis of pathway biology and evidence from previous studies followed by a systematic panel-wide search among 2,534 cancer-related genes.
+The association of gene expression with the effect of palbociclib on progression-free survival (PFS) was evaluated using Cox proportional hazards regression analysis, with gene expression as a continuous variable or dichotomized by median.
+An independent breast cancer cohort from the Preoperative Palbociclib (POP) Clinical Trial ( ClinicalTrials.gov identifier: NCT02008734) was used for validation, in 61 patients with primary breast cancer treated with 2 weeks of palbociclib.
+RESULTS: In the PALOMA-3 trial, 302 patients had tumor tissue analyzed (palbociclib arm, 194 patients; placebo arm, 108 patients).
+Palbociclib efficacy was lower in patients with high versus low cyclin E1 (CCNE1) mRNA expression (median PFS: palbociclib arm, 7.6 v 14.1 months; placebo arm, 4.0 v 4.8 months, respectively; interaction P unadjusted = .00238; false discovery rate-adjusted P = .0238).
+CCNE1 mRNA was more predictive in metastatic than in archival primary biopsy tissue samples.
+No significant interaction was found between treatment and expression levels of CDK4, CDK6, cyclin D1, and RB1.
+Palbociclib was efficacious in both luminal A and luminal B tumors.
+High CCNE1 mRNA expression was associated with poor antiproliferative activity of palbociclib in the POP trial (P = .005).
+CONCLUSION: Addition of palbociclib to fulvestrant demonstrated efficacy in all biomarker groups, although high CCNE1 mRNA expression was associated with relative resistance to palbociclib.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

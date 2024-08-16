@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Circulating biomarkers and outcome from a randomised phase II trial of sunitinib vs everolimus for patients with metastatic renal cell carcinoma.
+BACKGROUND: RECORD-3 assessed non-inferiority of progression-free survival (PFS) with everolimus vs sunitinib in previously untreated patients with metastatic renal cell carcinoma.
+Baseline plasma sample collection and randomised design enabled correlation of circulating biomarkers with efficacy.
+METHODS: Samples were analysed for 121 cancer-related biomarkers.
+Analyses of biomarkers categorised patients as high or low (vs median) to assess association with first-line PFS (PFS1L) for each treatment arm.
+A composite biomarker score (CBS) incorporated biomarkers potentially predictive of PFS1L with everolimus.
+RESULTS: Plasma samples from 442 of the 471 randomised patients were analysed.
+Biomarkers were associated with PFS1L for everolimus alone (29), sunitinib alone (9) or both (12).
+Everolimus-specific biomarkers (CSF1, ICAM1, IL-18BP, KIM1, TNFRII) with hazard ratio 1.8 were integrated into a CBS (range 0-5).
+For CBS low (0-3, n = 291) vs high (4-5, n = 151), PFS1L differed significantly for everolimus but not for sunitinib.
+There was no significant difference in PFS1L between everolimus and sunitinib in the high CBS patient cohort.
+CONCLUSIONS: Baseline levels of multiple soluble biomarkers correlated with benefit from everolimus and/or sunitinib, independent of clinical risk factors.
+A similar PFS1L was observed for both treatments among patients with high CBS score.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

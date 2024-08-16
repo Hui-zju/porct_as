@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The immune microenvironment and relation to outcome in patients with advanced breast cancer treated with docetaxel with or without gemcitabine.
+Preclinical studies suggest that some effects of conventional chemotherapy, and in particular, gemcitabine, are mediated through enhanced antitumor immune responses.
+The objective of this study was to use material from a randomized clinical trial to evaluate whether patients with preexisting immune infiltrates responded better to treatment with gemcitabine + docetaxel (GD) compared to docetaxel alone.
+Formalin fixed, paraffin-embedded breast cancer tissues from SBG0102 phase 3 trial patients randomly assigned to treatment with GD or docetaxel were used.
+Immunohistochemical staining for CD8, FOXP3, LAG3, PD-1, PD-L1 and CD163 was performed.
+Tumor infiltrating lymphocytes (TILs) and tumor associated macrophages were evaluated.
+Prespecified statistical analyses were performed in a formal prospective-retrospective design.
+Time to progression was primary endpoint and overall survival secondary endpoint.
+Correlations between biomarker status and endpoints were evaluated using the Kaplan-Meier method and Cox proportional hazards models.
+Biomarker data was obtained for 237 patients.
+There was no difference in treatment effect according to biomarker status for the whole cohort.
+In planned subgroup analysis by PAM50 subtype, in non-luminal (basal-like and HER2E) breast cancers FOXP3 was a significant predictor of treatment effect with GD compared to docetaxel, with a HR of 0.22 (0.09-0.52) for tumors with low FOXP3 compared to HR 0.92 (0.47-1.80) for high FOXP3 TILs (Pinteraction = 0.01).
+Immune biomarkers were not predictive of added benefit of gemcitabine in a cohort of mixed breast cancer subtypes.
+However, in non-luminal breast cancers, patients with low FOXP3+ TILs may have significant benefit from added gemcitabine.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Efficacy, Safety and Immunogenicity of MB02 (Bevacizumab Biosimilar) versus Reference Bevacizumab in Advanced Non-Small Cell Lung Cancer: A Randomized, Double-Blind, Phase III Study (STELLA).
+BACKGROUND: MB02 (bevacizumab biosimilar) showed similar structural, functional, and pharmacokinetic properties to reference bevacizumab (Avastin((R)); EU-bevacizumab).
+OBJECTIVES: To confirm clinical similarity between MB02 and EU-bevacizumab, a comparability study was undertaken in the first-line treatment of stage IIIB/IV non-squamous non-small cell lung cancer (NSCLC).
+PATIENTS AND METHODS: This multinational, double-blind, randomized, phase III study (STELLA) compared MB02 or EU-bevacizumab (15 mg/kg) administered with chemotherapy (paclitaxel 200 mg/m(2) and carboplatin AUC6) on Day 1 of every 3-week cycle for 6 cycles (Week 18), followed by MB02/EU-bevacizumab in blinded monotherapy until disease progression, unacceptable toxicity, death, withdrawal of consent or end of study (Week 52).
+The primary efficacy endpoint was objective response rate (ORR) evaluated by an independent radiological review committee (IRC) at Week 18 (intent-to-treat population).
+Secondary endpoints included progression-free survival (PFS), overall survival (OS), safety and immunogenicity.
+RESULTS: A total of 627 subjects were randomized 1:1 to MB02 (n = 315) or EU-bevacizumab (n = 312).
+ORR, assessed by the IRC at Week 18, was comparable in MB02 (40.3%) and EU-bevacizumab (44.6%) groups.
+ORR risk ratio of 0.910 (90% CI 0.780 to 1.060; 95% CI 0.758 to 1.092) and ORR risk difference of -4.02 (90% CI -10.51 to 2.47; 95% CI -11.76 to 3.71) were within the similarity predefined margins.
+There were no significant differences between MB02 and EU-bevacizumab groups in median PFS (36.0 vs 37.3 weeks, respectively; HR 1.187; 95% CI 0.98 to 1.44) and median OS (not achieved; HR 1.108; 95% CI: 0.83 to 1.49) at the end of study.
+The safety profile of MB02 and EU-bevacizumab regarding nature, frequency and severity of the adverse events (AE) was comparable.
+The most frequent grade >/=3 investigational-product-related AEs were hypertension and anemia, with a difference between treatment groups of <5%.
+Anti-drug antibodies (ADA) and neutralizing ADA (NAb) incidence were similar in both treatment groups.
+CONCLUSION: MB02 demonstrated similar efficacy to EU-bevacizumab, in combination with carboplatin and paclitaxel, in subjects with advanced non-squamous NSCLC, with comparable safety and immunogenicity profiles.
+CLINICAL TRIAL REGISTRATION: EudraCT No. 2017-001769-26; ClinicalTrials.gov: NCT03296163.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

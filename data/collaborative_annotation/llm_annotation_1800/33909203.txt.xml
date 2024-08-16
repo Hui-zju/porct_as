@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Neratinib + capecitabine sustains health-related quality of life in patients with HER2-positive metastatic breast cancer and &gt;/= 2 prior HER2-directed regimens.
+PURPOSE: To characterize health-related quality of life (HRQoL) in patients with human epidermal growth factor receptor 2 (HER2)-positive metastatic breast cancer (MBC) from the NALA phase 3 study.
+METHODS: In NALA (NCT01808573), patients were randomized 1:1 to neratinib + capecitabine (N + C) or lapatinib + capecitabine (L + C).
+HRQoL was assessed using seven prespecified scores from the European Organisation for Research and Treatment of Cancer Quality Of Life Questionnaire core module (QLQ-C30) and breast cancer-specific questionnaire (QLQ-BR23) at baseline and every 6 weeks.
+Descriptive statistics summarized scores over time, mixed models evaluated differences between treatment arms, and Kaplan-Meier methods were used to assess time to deterioration in HRQoL scores of &gt;/= 10 points.
+RESULTS: Of the 621 patients randomized in NALA, patients were included in the HRQoL analysis if they completed baseline and at least one follow-up questionnaire.
+The summary, global health status, physical functioning, fatigue, constipation, and systemic therapy side effects scores were stable over time with no persistent differences between treatment groups.
+There were no differences in time to deterioration (TTD) for the QLQ-C30 summary score between treatment arms; the hazard ratio (HR) for N + C vs. L + C was 0.94 (95% CI 0.63-1.40).
+Only the diarrhea score worsened significantly more in the N + C arm as compared to the L + C arm, and this remained over time (HR for TTD for N + C vs. L + C was 1.71 [95% CI 1.32-2.23]).
+CONCLUSION: In NALA, patients treated with N + C maintained their global HRQoL over time, despite a worsening of the diarrhea-related scores.
+These results may help guide optimal treatment selection for HER2-positive MBC.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

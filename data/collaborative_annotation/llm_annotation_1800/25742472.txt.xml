@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Correlation of extended RAS and PIK3CA gene mutation status with outcomes from the phase III AGITG MAX STUDY involving capecitabine alone or in combination with bevacizumab plus or minus mitomycin C in advanced colorectal cancer.
+BACKGROUND: Mutations affecting RAS genes are now established predictive markers of nonresponse to anti-EGFR antibodies in advanced CRC.
+This analysis assessed the prognostic and predictive impact of extended RAS and PIK3CA gene mutation status in patients receiving capecitabine plus or minus bevacizumab (+/-mitomycin C) in the randomised phase III MAX study.
+METHODS: DNA was extracted from archival macrodissected formalin-fixed paraffin-embedded tumour tissue.
+Mutation status was determined using pyrosequencing, confirmed with Sanger sequencing (for equivocal RAS) and correlated with efficacy outcomes.
+Predictive analyses were undertaken using a test for interaction involving both C vs CB+CBM.
+RESULTS: Of the available 280 of the 471 (59.4%) patients, mutations in KRAS exons 2, 3 and 4 and NRAS 2, 3 and 4 were as follows: 32%, 2.9%, 2.2%, 1.4%, 0.7% and 0% (total RAS MT 39%).
+The PIK3CA MT rate was 7.5% exon 9 and 3.6% exon 20.
+Extended RAS gene mutation status (WT vs MT) had no prognostic impact for PFS (HR 0.91 (0.71-1.17)) or OS (HR 0.95 (0.71-1.25)).
+The RAS gene mutation status was not predictive of the effectiveness of bevacizumab for PFS (HR 0.56 (0.37-0.85) for RAS MT and HR 0.69 (0.5-0.97) for RAS WT; P for interaction 0.50).
+The PIK3CA mutation was neither predictive for bevacizumab effect nor prognostic.
+CONCLUSION: Of KRAS exon 2 WT patients, 10% had additional RAS mutations.
+Neither all RAS gene mutation status nor PIK3CA mutation status was prognostic for PFS or OS, or predictive of bevacizumab outcome in patients with advanced CRC.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

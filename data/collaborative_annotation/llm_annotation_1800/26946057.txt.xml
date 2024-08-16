@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>BRCA1-like profile predicts benefit of tandem high dose epirubicin-cyclophospamide-thiotepa in high risk breast cancer patients randomized in the WSG-AM01 trial.
+BRCA1 is an important protein in the repair of DNA double strand breaks (DSBs), which are induced by alkylating chemotherapy.
+A BRCA1-like DNA copy number signature derived from tumors with a BRCA1 mutation is indicative for impaired BRCA1 function and associated with good outcome after high dose (HD) and tandem HD DSB inducing chemotherapy.
+We investigated whether BRCA1-like status was a predictive biomarker in the WSG AM 01 trial.
+WSG AM 01 randomized high-risk breast cancer patients to induction (2x epirubicin-cyclophosphamide) followed by tandem HD chemotherapy with epirubicin, cyclophosphamide and thiotepa versus dose dense chemotherapy (4x epirubicin-cyclophospamide followed by 3x cyclophosphamide-methotrexate-5-fluorouracil).
+We generated copy number profiles for 143 tumors and classified them as being BRCA1-like or non-BRCA1-like.
+Twenty-six out of 143 patients were BRCA1-like.
+BRCA1-like status was associated with high grade and triple negative tumors.
+With regard to event-free-survival, the primary endpoint of the trial, patients with a BRCA1-like tumor had a hazard rate of 0.2, 95% confidence interval (CI): 0.07-0.63, p = 0.006.
+In the interaction analysis, the combination of BRCA1-like status and HD chemotherapy had a hazard rate of 0.19, 95% CI: 0.067-0.54, p = 0.003.
+Similar results were observed for overall survival.
+These findings suggest that BRCA1-like status is a predictor for benefit of tandem HD chemotherapy with epirubicin-thiotepa-cyclophosphamide.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

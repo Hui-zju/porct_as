@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized double-blind clinical trial comparing safety and efficacy of the biosimilar BCD-022 with reference trastuzumab.
+BACKGROUND
+: BCD-022 is a trastuzumab biosimilar which was shown to be equivalent to reference trastuzumab in a wide panel of physicochemical studies as well as preclinical studies in vitro and in vivo.
+International multicenter phase III clinical trial was conducted to comparatively assess efficacy and safety of BCD-022 and reference trastuzumab in combination with paclitaxel used as the therapy of metastatic HER2(+) breast cancer.
+Pharmacokinetics and immunogenicity were also studied.
+METHODS: Patients with no previous treatment for metastatic HER2(+) breast cancer were randomly assigned 1:1 to BCD-022 or reference trastuzumab and were treated with trastuzumab + paclitaxel.
+Therapy continued for 6 cycles of therapy (every 3 weeks), until progression of the disease or unbearable toxicity.
+Primary study endpoint was overall response rate.
+Study goal was to prove equivalent efficacy of BCD-022 and reference trastuzumab.
+Equivalence margins for 95% CI for difference in overall response rates were set at [- 20%; 20%].
+RESULTS: In total 225 patients were enrolled into the study, 115 in BCD-022 arm and 110 in reference trastuzumab arm.
+Overall response rate was 49.6% in BCD-022 arm and 43.6% in reference trastuzumab arm.
+Limits of 95% CI for difference of overall response rates between arms were [(- 8.05)-19.89%], thus, they lied within predetermined equivalence margins [- 20%; 20%].
+Profile of adverse events was similar between groups (any AEs were reported in 93.81% of patients in BCD-022 arm and 94.55% of patients in reference arm).
+No unexpected adverse reactions were reported throughout the study.
+No statistically significant differences regarding antibody occurrence rate (either BAb or NAb) was found between BCD-022 (n = 3; 2.65%) and comparator (n = 4; 3.64%).
+Both drug products are characterized with low occurrence rate and short life of anti-trastuzumab antibodies.
+Pharmacokinetics assessment after 1st and 6th study drug injection also demonstrated equivalent PK parameters by all outcome measures: AUC0-504, capital ES, Cyrillicmsmall a, Cyrillicsmall ha, Cyrillic, capital TE, Cyrillicmax, T1/2.
+Analysis of Ctrough did not reveal any significant inter-group differences as well.
+CONCLUSIONS: Thus, results of this study have demonstrated therapeutic equivalence of trastuzumab biosimilar BCD-022 and referent trastuzumab drug.
+TRIAL REGISTRATION: The trial was registered with ClinicalTrials.gov (Study Number NCT01764022 ).
+The date of registration was January 9, 2013.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

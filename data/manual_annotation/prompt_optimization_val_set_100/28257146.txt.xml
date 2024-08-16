@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized controlled trial of neurofeedback on chemotherapy-induced peripheral neuropathy: A pilot study.
+BACKGROUND: Chemotherapy-induced peripheral neuropathy (CIPN) is a significant problem for cancer patients, and there are limited treatment options for this often debilitating condition.
+Neuromodulatory interventions could be a novel modality for patients trying to manage CIPN symptoms; however, they are not yet the standard of care.
+This study examined whether electroencephalogram (EEG) neurofeedback (NFB) could alleviate CIPN symptoms in survivors.
+METHODS: This was a randomized controlled trial with survivors assigned to an NFB group or a wait-list control (WLC) group.
+The NFB group underwent 20 sessions of NFB, in which visual and auditory rewards were given for voluntary changes in EEGs.
+The Brief Pain Inventory (BPI) worst-pain item was the primary outcome.
+The BPI, the Pain Quality Assessment Scale, and EEGs were collected before NFB and again after treatment.
+Outcomes were assessed with general linear modeling.
+RESULTS: Cancer survivors with CIPN (average duration of symptoms, 25.3 mo), who were mostly female and had a mean age of 62.5 years, were recruited between April 2011 and September 2014.
+One hundred percent of the participants starting the NFB program completed it (30 in the NFB group and 32 in the WLC group).
+The NFB group demonstrated greater improvement than the controls on the BPI worst-pain item (mean change score, -2.43 [95% confidence interval, -3.58 to -1.28] vs 0.09 [95% confidence interval, -0.72 to -0.90]; P =..001; effect size, 0.83).
+CONCLUSIONS: NFB appears to be effective at reducing CIPN symptoms.
+There was evidence of neurological changes in the cortical location and in the bandwidth targeted by the intervention, and changes in EEG activity were predictive of symptom reduction.
+Cancer 2017;123:1989-1997. (c) 2017 American Cancer Society.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

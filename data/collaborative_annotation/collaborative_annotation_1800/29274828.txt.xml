@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Mean medical costs associated with vaginal and vulvar cancers for commercially insured patients in the United States and Texas.
+OBJECTIVE: To estimate the average medical costs for vaginal and vulvar cancers in a commercially insured population in the U.S. and Texas.
+METHODS: 2011-2014U.S. MarketScan databases were used to estimate the average medical costs associated with vaginal and vulvar cancers.
+Women with newly diagnosed vaginal or vulvar cancer were matched to a comparison group without cancer using propensity score.
+Year 1 and year 2 costs after index diagnosis date were estimated.
+A generalized linear model was used to estimate the cost for censored months.
+The differential costs between groups were defined as the net costs associated with cancer diagnosis and treatment.
+RESULTS: The analysis included 355 women with vaginal cancer and 997 with vulvar cancer in the U.S. The year 1 and year 2 costs for vaginal cancer were $86,995 and $51,107, respectively.
+The year 1 and year 2 costs for vulvar cancer were $37,657 and $19,139, respectively.
+The major factors associated with higher monthly vaginal and vulvar cancer costs were higher Charlson Comorbidity Index score and higher medical costs prior to cancer diagnosis.
+Monthly costs for vaginal and vulvar cancers decreased rapidly from month 1 to month 6 after diagnosis and then remained stable.
+CONCLUSIONS: Seventy to 75% of all vaginal and vulvar cancers are due to HPV infections and mean medical costs associated with these cancers are substantial.
+These data will serve as key cost parameters in the economic evaluation of HPV vaccination dissemination and estimation of the long-term net economic benefit of promoting HPV vaccination.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

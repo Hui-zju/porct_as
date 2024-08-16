@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Extended therapy with letrozole as adjuvant treatment of postmenopausal patients with early-stage breast cancer: a multicentre, open-label, randomised, phase 3 trial.
+BACKGROUND: The benefit of extending aromatase inhibitor therapy beyond 5 years in the context of previous aromatase inhibitors remains controversial.
+We aimed to compare extended therapy with letrozole for 5 years versus the standard duration of 2-3 years of letrozole in postmenopausal patients with breast cancer who have already received 2-3 years of tamoxifen.
+METHODS: This multicentre, open-label, randomised, phase 3 trial was done at 69 hospitals in Italy.
+Women were eligible if they were postmenopausal at the time of study entry, had stage I-III histologically proven and operable invasive hormone receptor-positive breast cancer, had received adjuvant tamoxifen therapy for at least 2 years but no longer than 3 years and 3 months, had no signs of disease recurrence, and had an Eastern Cooperative Oncology Group performance status of 2 or lower.
+Patients were randomly assigned (1:1) to receive 2-3 years (control group) or 5 years (extended group) of letrozole (2.5 mg orally once a day).
+Randomisation, with stratification by centre, with permuted blocks of size 12, was done with a centralised, interactive, internet-based system that randomly generated the treatment allocation.
+Participants and investigators were not masked to treatment assignment.
+The primary endpoint was invasive disease-free survival in the intention-to-treat population.
+Safety analysis was done for patients who received at least 1 month of study treatment.
+This trial was registered with EudraCT, 2005-001212-44, and ClinicalTrials.gov, NCT01064635.
+FINDINGS: Between Aug 1, 2005, and Oct 24, 2010, 2056 patients were enrolled and randomly assigned to receive letrozole for 2-3 years (n=1030; control group) or for 5 years (n=1026; extended group).
+After a median follow-up of 11.7 years (IQR 9.5-13.1), disease-free survival events occurred in 262 (25.4%) of 1030 patients in the control group and 212 (20.7%) of 1026 in the extended group.
+12-year disease-free survival was 62% (95% CI 57-66) in the control group and 67% (62-71) in the extended group (hazard ratio 0.78, 95% CI 0.65-0.93; p=0.0064).
+The most common grade 3 and 4 adverse events were arthralgia (22 [2.2%] of 983 patients in the control group vs 29 [3.0%] of 977 in the extended group) and myalgia (seven [0.7%] vs nine [0.9%]).
+There were three (0.3%) serious treatment-related adverse events in the control group and eight (0.8%) in the extended group.
+No deaths related to toxic effects were observed.
+INTERPRETATION: In postmenopausal patients with breast cancer who received 2-3 years of tamoxifen, extended treatment with 5 years of letrozole resulted in a significant improvement in disease-free survival compared with the standard 2-3 years of letrozole.
+Sequential endocrine therapy with tamoxifen for 2-3 years followed by letrozole for 5 years should be considered as one of the optimal standard endocrine treatments for postmenopausal patients with hormone receptor-positive breast cancer.
+FUNDING: Novartis and the Italian Ministry of Health.
+TRANSLATION: For the Italian translation of the abstract see Supplementary Materials section.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

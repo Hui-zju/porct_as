@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Custirsen (OGX-011) combined with cabazitaxel and prednisone versus cabazitaxel and prednisone alone in patients with metastatic castration-resistant prostate cancer previously treated with docetaxel (AFFINITY): a randomised, open-label, international, phase 3 trial.
+BACKGROUND: Docetaxel and cabazitaxel improve overall survival compared with mitoxantrone in patients with metastatic castration-resistant prostate cancer.
+Custirsen (OGX011) is a second generation highly specific antisense oligonucleotide that inhibits the production of clusterin, an antiapoptotic protein that is upregulated in response to chemotherapy and that confers treatment resistance.
+We aimed to assess whether custirsen in combination with cabazitaxel and prednisone increases overall survival in patients with metastatic castration-resistant prostate cancer previously treated with docetaxel.
+METHODS: In this randomised, open-label, international, phase 3 trial, men with radiographically documented metastatic castration-resistant prostate cancer that had progressed after docetaxel treatment with a Karnofsky performance status of more than 70% and who were fit for chemotherapy, were recruited from 95 cancer treatment centres in eight countries.
+Patients were randomly assigned (1:1) centrally using permuted blocks (block size 8) to receive cabazitaxel plus prednisone (cabazitaxel 25 mg/m(2) intravenously every 21 days plus oral prednisone 10 mg daily) with or without custirsen (640 mg intravenously on days 1, 8, and 15, plus three previous loading doses) until disease progression, unacceptable toxicity, or the completion of ten treatment cycles.
+Randomisation was stratified by use of opioids for prostate cancer-related pain at screening, disease progression following first-line docetaxel treatment established by radiographic evidence, and previous treatment with abiraterone or enzalutamide.
+The co-primary endpoints were overall survival in all randomly assigned patients and in a poor-prognosis subgroup.
+All analyses were intention to treat with the exception of safety, which was reported for patients who received any assigned treatment.
+The trial has been completed and the results presented here are the final analysis.
+This trial is registered with Clinicaltrials.gov, number NCT01578655.
+FINDINGS: Between Sept 9, 2012, and Sept 29, 2014, 795 patients were screened for enrolment.
+635 men were eligible for inclusion and were randomly assigned (n=317 in the cabazitaxel and prednisone plus custirsen group and n=318 in the cabazitaxel and prednisone group).
+Median follow up was 28.3 months (IQR 24.4-34.5) for the custirsen group and 29.8 months (IQR 25.3-35.2) for the control group.
+Median overall survival in all randomly assigned patients did not differ between the two groups (14.1 months [95% CI 12.7-15.9] in the curtisen group vs 13.4 months [12.1-14.9] in the control group; hazard ratio [HR] 0.95 [95% CI 0.80-1.12]; log-rank p=0.53).
+In the poor prognosis subgroup, median overall survival also did not differ between the two treatment groups (11.0 months [95% CI 9.3-13.3] in the custursin group vs 10.9 months [8.2-12.4] in the control group; HR 0.97 [95% CI 0.80-1.21]; two-sided p=0.80).
+The most frequently reported grade 3 or worse adverse events in the custirsen versus control groups were neutropenia (70 [22%] of 315 vs 61 [20%] of 312), anaemia (68 [22%] vs 49 [16%]), fatigue (23 [7%] vs 18 [6%]), asthenia (16 [5%] vs 8 [3%]), bone pain (16 [5%] vs 5 [2%]), and febrile neutropenia (16 [5%] vs 9 [3%]).
+Serious adverse events were reported in 155 (49%) versus 132 (42%).
+27 patients died within 30 days of treatment in the cabazitaxel and prednisone plus custirsen group, seven of which were deemed to be treatment related, versus 17 in the cabazitaxel and prednisone group, eight of which were deemed to be treatment related.
+Of the 21 deaths reported, 15 were reported as complications related to study treatment, either chemotherapy (eight and three, respectively) or study drug (none and four, respectively).
+INTERPRETATION: We noted no survival benefit in men with metastatic castration-resistant prostate cancer with the addition of custirsen to cabazitaxel and prednisone treatment.
+Cabazitaxel and prednisone remains the standard of care for patients with metastatic castration-resistant prostate cancer progressing after docetaxel chemotherapy.
+FUNDING: OncoGenex Pharmaceuticals.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

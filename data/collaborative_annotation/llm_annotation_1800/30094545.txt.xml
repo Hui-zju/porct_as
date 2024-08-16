@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase III trial to evaluate radiopharmaceuticals and zoledronic acid in the palliation of osteoblastic metastases from lung, breast, and prostate cancer: report of the NRG Oncology RTOG 0517 trial.
+BACKGROUND: Skeletal-related events (SREs), common sequelae of metastatic cancer, are reduced by bisphosphonates.
+In this study, it was postulated that radiopharmaceuticals, added to bisphosphonates, could further decrease the incidence of SREs.
+METHODS: NRG Oncology RTOG 0517 randomized patients with breast, lung, and prostate cancer and blastic bone metastases to either zoledronic acid (ZA) alone or ZA plus radiopharmaceuticals (Sr-89 or Sm-153).
+The primary endpoint was time to development of SREs.
+Secondary objectives included quality of life (QOL), pain control, overall survival (OS), and toxicity.
+RESULTS: 261 patients (median age 68; 62% male; 55% prostate, 35% breast, 10% lung) were accrued between July 2006 and February 2011.
+The study closed early due to a lower than expected rate of SREs.
+52 (42%) patients in the ZA arm and 49 (40%) in the radiopharmaceutical arm experienced an SRE.
+Median time free of SREs was 29.9 and 27.4 months, respectively (p = 0.84).
+Median OS in the ZA arm and radiopharmaceutical arms was 32.1 and 26.9 months, respectively (p = 0.37).
+Cox proportional hazards regression model showed that primary disease site (lung) and number of bone metastases (> 2) had a negative impact on OS (p < 0.0001, p = 0.01, respectively).
+The addition of radiopharmaceuticals to ZA led to a significant reduction in pain at 1 month based on BPI worst score (p = 0.02).
+No other group differences were noted for QOL or toxicity.
+CONCLUSION: The addition of radiopharmaceuticals to bisphosphonates did not alter time to SREs or OS for patients with breast, lung, prostate cancers and blastic bone metastases, although it was associated with significant pain reduction at 1 month.
+CLINICAL TRIAL REGISTRY: This protocol (RTOG 0517) is registered with ClinicalTrials.gov (NCT00365105), and may be viewed online at http://www.clinicaltrials.gov/ct2/show/NCT00365105?term=RTOG+0517&rank=1 .]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

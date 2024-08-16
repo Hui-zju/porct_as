@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Long-term prognostic impact of surgical complications in the German Rectal Cancer Trial CAO/ARO/AIO-94.
+BACKGROUND: The influence of postoperative complications on survival in patients with locally advanced rectal cancer undergoing combined modality treatment is debatable.
+This study evaluated the impact of surgical complications on oncological outcomes in patients with locally advanced rectal cancer treated within the randomized CAO/ARO/AIO-94 (Working Group of Surgical Oncology/Working Group of Radiation Oncology/Working Group of Medical Oncology of the Germany Cancer Society) trial.
+METHODS: Patients were assigned randomly to either preoperative chemoradiotherapy (CRT) followed by total mesorectal excision (TME) or postoperative CRT between 1995 and 2002.
+Anastomotic leakage and wound healing disorders were evaluated prospectively, and their associations with overall survival, and distant metastasis and local recurrence rates after a long-term follow-up of more than 10 years were determined.
+Medical complications (such as cardiopulmonary events) were not analysed in this study.
+RESULTS: A total of 799 patients were included in the analysis.
+Patients who had anterior or intersphincteric resection had better 10-year overall survival than those treated with abdominoperineal resection (63.1 versus 51.3 per cent; P < 0.001).
+Anastomotic leakage was associated with worse 10-year overall survival (51 versus 65.2 per cent; P = 0.020).
+Overall survival was reduced in patients with impaired wound healing (45.7 versus 62.2 per cent; P = 0.009).
+At 10 years after treatment, patients developing any surgical complication (anastomotic leakage and/or wound healing disorder) had impaired overall survival (46.6 versus 63.8 per cent; P < 0.001), a lower distant metastasis-free survival rate (63.2 versus 72.0 per cent; P = 0.030) and more local recurrences (15.5 versus 6.4 per cent; P < 0.001).
+In a multivariable Cox regression model, lymph node metastases (P < 0.001) and surgical complications (P = 0.008)
+were the only independent predictors of reduced overall survival.
+CONCLUSION: Surgical complications were associated with adverse oncological outcomes in this trial.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

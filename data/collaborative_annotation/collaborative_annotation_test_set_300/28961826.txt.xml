@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Whole brain radiotherapy after stereotactic radiosurgery or surgical resection among patients with one to three brain metastases and favorable prognoses: a secondary analysis of EORTC 22952-26001.
+Background: The absence of a survival benefit for whole brain radiotherapy (WBRT) among randomized trials has been attributed to a competing risk of death from extracranial disease.
+We re-analyzed EORTC 22952 to assess the impact of WBRT on survival for patients with controlled extracranial disease or favorable prognoses.
+Patients and methods: We utilized Cox regression, landmark analysis, and the Kaplan-Meier method to evaluate the impact of WBRT on survival accounting for (i) extracranial progression as a time-dependent covariate in all patients and (ii) diagnosis-specific graded prognostic assessment (GPA) score in patients with primary non-small-cell lung cancer (NSCLC).
+Results: A total of 329 patients treated per-protocol were included for analysis with a median follow up of 26 months.
+One hundred and fifteen (35%) patients had no extracranial progression; 70 (21%) patients had progression <90 days, 65 (20%) between 90 and 180 days, and 79 (24%) patients >180 days from randomization.
+There was no difference in the model-based risk of death in the WBRT group before [hazard ratio (HR) (95% CI)=0.70 (0.45-1.11), P = 0.133), or after [HR (95% CI)=1.20 (0.89-1.61), P = 0.214] extracranial progression.
+Among 177 patients with NSCLC, 175 had data available for GPA calculation.
+There was no significant survival benefit to WBRT among NSCLC patients with favorable GPA scores [HR (95% CI)=1.10 (0.68-1.79)] or unfavorable GPA scores [HR (95% CI)=1.11 (0.71-1.76)].
+Conclusions: Among patients with limited extracranial disease and one to three brain metastases at enrollment, we found no significant survival benefit to WBRT among NSCLC patients with favorable GPA scores or patients with any histology and controlled extracranial disease status.
+This exploratory analysis of phase III data supports the practice of omitting WBRT for patients with limited brain metastases undergoing SRS and close surveillance.
+Clinical Trials Number: NCT00002899.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

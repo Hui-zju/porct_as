@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Effect of Cisplatin and Gemcitabine With or Without Berzosertib in Patients With Advanced Urothelial Carcinoma: A Phase 2 Randomized Clinical Trial.
+Importance: Preclinical studies suggest that inhibition of single-stranded DNA repair by ataxia telangiectasia and Rad3 (ATR) may enhance the cytotoxicity of cisplatin, gemcitabine, and other chemotherapeutic agents.
+Cisplatin with gemcitabine remains the standard up-front therapy for treatment in patients with metastatic urothelial cancer.
+Objective: To determine whether the use of the selective ATR inhibitor, berzosertib, could augment the activity of cisplatin with gemcitabine.
+Design, Setting, and Participants: In a phase 2 randomized clinical trial, 87 patients across 23 centers in the National Cancer Institute Experimental Therapeutics Clinical Trials Network were randomized to receive either cisplatin with gemcitabine alone (control arm) or cisplatin with gemcitabine plus berzosertib (experimental arm).
+Key eligibility criteria included confirmed metastatic urothelial cancer, no prior cytotoxic therapy for metastatic disease, 12 months or more since perioperative therapy, and eligibility for cisplatin receipt based on standard criteria.
+The study was conducted from January 27, 2017, to December 15, 2020.
+Interventions: In the control arm, cisplatin, 70 mg/m2, was given on day 1 and gemcitabine, 1000 mg/m2, was given on days 1 and 8 of a 21-day cycle.
+In the experimental arm, cisplatin, 60 mg/m2, was given on day 1; gemcitabine, 875 mg/m2, on days 1 and 8; and berzosertib, 90 mg/m2, on days 2 and 9 of a 21-day cycle.
+Main Outcomes and Measures: The primary end point of the study was progression-free survival.
+The analysis was on all patients who started therapy.
+Results: Of the total of 87 patients randomized, 41 patients received cisplatin with gemcitabine alone and 46 received cisplatin with gemcitabine plus berzosertib.
+Median age was 67 (range, 32-84) years, and 68 patients (78%) were men.
+Median progression-free survival was 8.0 months for both arms (Bajorin risk-adjusted hazard ratio, 1.22; 95% CI, 0.72-2.08).
+Median overall survival was shorter with cisplatin with gemcitabine plus berzosertib compared with cisplatin with gemcitabine alone (14.4 vs 19.8 months; Bajorin risk-adjusted hazard ratio, 1.42; 95% CI, 0.76-2.68).
+Higher rates of grade 3 vs grade 4 thrombocytopenia (59% vs 39%) and neutropenia (37% vs 27%) were observed with cisplatin with gemcitabine and berzosertib compared with cisplatin with gemcitabine alone; consequently, more dose reductions were needed in the experimental arm.
+Patients in the experimental arm received a median cisplatin dose of 250 mg/m2, which was significantly lower than the median dose of 370 mg/m2 in the control arm (P < .001).
+Conclusions and Relevance: The addition of berzosertib to cisplatin with gemcitabine did not prolong progression-free survival relative to cisplatin with gemcitabine alone in patients with metastatic urothelial cancer, and a trend toward inferior survival was observed with this combination.
+Berzosertib plus cisplatin with gemcitabine was associated with significantly higher hematologic toxicities despite attenuated dosing of cisplatin with gemcitabine.
+Trial Registration: ClinicalTrials.gov Identifier: NCT02567409.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

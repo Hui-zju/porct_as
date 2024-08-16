@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Quantification of coronary artery calcium in nongated CT to predict cardiovascular events in male lung cancer screening participants: results of the NELSON study.
+OBJECTIVE: To evaluate the incremental prognostic value of the number and maximum volume of coronary artery calcifications over modified Agatston score strata, age, pack-years, and smoking status for predicting cardiovascular events.
+METHODS: A total of 3559 male current and former smokers received a CT examination for lung cancer screening.
+Smoking characteristics, patient demographics, and physician-diagnosed cardiovascular events were collected.
+Images were acquired without electrocardiography gating on 16-slice CT scanners.
+The association between the presence of both fatal and nonfatal cardiovascular events and the predictors was quantified using Cox proportional hazard analysis.
+RESULTS: Median follow-up period was 2.9 years.
+Incident cardiovascular events occurred in 186 participants.
+Adjusted hazard ratios for modified Agatston score strata of 1 to 10, 11 to 100, 101 to 400, and &gt;400 were 3.39 (95% confidence interval [CI], 1.20-9.59), 6.52 (95% CI, 2.73-15.60), 6.58 (95% CI, 2.75-15.78), and 12.58 (95% CI, 5.42-29.16), respectively.
+Moreover, comparing the models with and without modified Agatston score strata to the model with age, pack-years, and smoking status yielded a significantly better net reclassification improvement (NRI; 27.3%; P &lt; .0001).
+Adding the number of calcifications to the model with age, pack-years, smoking status, and modified Agatston score strata resulted in a slightly better NRI (1.68%; P = .0490) with a hazard ratio of 1.13 (95% CI, 1.05-1.21) per 10 calcifications.
+The incremental prognostic information contained in the volume of the largest calcification was not statistically significant (NRI, 0.14%; P = .3458).
+CONCLUSION: Cardiovascular event rate increased with higher numbers of calcified lesions.
+The number but not maximum volume of calcifications has independent, although minimal, prognostic value over age, pack-years, smoking status, and modified Agatston score strata in our population.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

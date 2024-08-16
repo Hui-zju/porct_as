@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Gut Microbiome-Dependent Metabolic Pathways and Risk of Lethal Prostate Cancer: Prospective Analysis of a PLCO Cancer Screening Trial Cohort.
+BACKGROUND: Diet and the gut microbiome have a complex interaction that generates metabolites with an unclear effect on lethal prostate cancer risk.
+Identification of modifiable risk factors for lethal prostate cancer is challenging given the long natural history of this disease and difficulty of prospectively identifying lethal cancers.
+METHODS: Mass spectrometry was performed on baseline serum samples collected from 173 lethal prostate cancer cases and 519 controls enrolled in the Prostate, Lung, Colorectal, and Ovarian Cancer Screening trial.
+Baseline serum levels of choline, carnitine, betaine, gamma-butyrobetaine, crotonobetaine, phenylacetylglutamine, hippuric acid, and p-cresol sulfate were quantified and analyzed by quartile.
+Conditional multivariable logistic regression analysis associated analyte levels with lethal prostate cancer incidence after adjusting for body mass index and PSA.
+The Cochran-Armitage test evaluated analyte level trends across quartiles.
+RESULTS: Relative to those in the first quartile, cases with the highest baseline levels of choline (Q4 OR: 2.19; 95% CI, 1.23-3.90; P-trend: 0.005) and betaine (Q4 OR: 1.86; 95% CI, 1.05-3.30; P-trend: 0.11) exhibited increased odds of developing lethal prostate cancer.
+Higher baseline serum levels of phenylacetylglutamine (Q4 OR: 2.55; 95% CI, 1.40-4.64; P-trend: 0.003), a gut microbiome metabolite of phenylalanine with adrenergic activity, were also associated with lethal prostate cancer.
+CONCLUSIONS: Baseline serum levels of one-carbon methyl donors and adrenergic compounds resulting from human and gut microbiota-mediated metabolism are associated with increased lethal prostate cancer risk.
+IMPACT: Dietary composition, circulating metabolite levels, and downstream signaling pathways may represent modifiable risk factors associated with incident lethal prostate cancer.
+Beta-adrenergic blockade represents an additional target for oncologic risk reduction.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

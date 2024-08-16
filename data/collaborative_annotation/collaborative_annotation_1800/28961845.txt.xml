@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Borealis-1: a randomized, first-line, placebo-controlled, phase II study evaluating apatorsen and chemotherapy for patients with advanced urothelial cancer.
+Background: Five-year survival of patients with inoperable, advanced urothelial carcinoma treated with the first-line chemotherapy is 5%-15%.
+We assessed whether the Hsp27 inhibitor apatorsen combined with gemcitabine plus cisplatin (GC) could improve overall survival (OS) in these patients.
+Patients and methods: This placebo-controlled, double-blind, phase II trial randomized 183 untreated urothelial carcinoma patients (North America and Europe) to receive GC plus either placebo (N = 62), 600 mg apatorsen (N = 60), or 1000 mg apatorsen (N = 61).
+In the experimental arm, treatment included loading doses of apatorsen followed by up to six cycles of apatorsen plus GC.
+Patients receiving at least four cycles could continue apatorsen monotherapy as maintenance until progression or unacceptable toxicity.
+The primary end point was OS.
+Results: OS was not significantly improved in the single or combined 600- or 1000-mg apatorsen arms versus placebo [hazard ratio (HR), 0.86 and 0.90, respectively].
+Exploratory study of specific statistical modeling showed a trend for improved survival in patients with baseline poor prognostic features treated with 600 mg apatorsen compared with placebo (HR = 0.72).
+Landmark analysis of serum Hsp27 (sHsp27) levels showed a trend toward survival benefit for poor-prognosis patients in 600- and 1000-mg apatorsen arms who achieved lower area under the curve sHsp27 levels, compared with the placebo arm (HR = 0.45 and 0.62, respectively).
+Higher baseline circulating tumor cells (>/=5 cells/7.5 ml) was observed in patients with poor prognosis in correlation with poor survival.
+Treatment-emergent adverse events were manageable and more common in both apatorsen-treatment arms.
+Conclusions: Even though apatorsen combined with standard chemotherapy did not demonstrate a survival benefit in the overall study population, patients with poor prognostic features might benefit from this combination.
+Serum Hsp27 levels may act as a biomarker to predict treatment outcome.
+Further exploration of apatorsen in poor-risk patients is warranted.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

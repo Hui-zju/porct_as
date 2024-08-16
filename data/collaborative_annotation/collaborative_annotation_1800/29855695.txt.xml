@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized controlled phase III trial of adjuvant chemoimmunotherapy with activated cytotoxic T cells and dendritic cells from regional lymph nodes of patients with lung cancer.
+Randomized controlled trial of adjuvant chemoimmunotherapy for lung cancer indicated a significant advantage in patients receiving immunotherapy.
+Herein we report the final results and immunological analysis with a median follow-up of 59.6 months.
+Patients with post-surgical lung cancer were randomly designated to receive either chemoimmunotherapy (group A, immunotherapy arm) or chemotherapy (group B, control arm).
+The immunotherapy comprised the adoptive transfer of autologous activated killer T cells and dendritic cells (AKT-DC).
+The 2- and 5-year overall survival (OS) rates were 96.0 and 69.4% in group A and 64.7 and 45.1% in group B, respectively.
+Multivariate analysis results revealed that the hazard ratio was 0.439.
+The 2- and 5-year recurrence-free survival rates were 70.0 and 57.9% in group A and 43.1 and 31.4% in group B, respectively.
+Subgroup analysis for the OS between treatment groups indicated that younger patients (</= 55 years: HR 0.098), males (HR 0.474), patients with adenocarcinoma (HR 0.479), patients with stage III cancer (HR 0.399), and those who did not receive preoperative chemotherapy (HR 0.483) had lower HRs than those in the other groups.
+Immunological analysis of cell surface markers in regional lymph nodes of subjects receiving immunotherapy indicated that the CD8(+)/CD4(+) T-cell ratio was elevated in survivors.
+Patients with non-small-cell lung cancer benefited from adoptive cellular immunotherapy as an adjuvant to surgery.
+Patients with stage III cancer, those with adenocarcinoma, and those not receiving preoperative chemotherapy were good candidates.
+Lastly, cytotoxic T cells were important for a favorable chemoimmunotherapy outcome.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

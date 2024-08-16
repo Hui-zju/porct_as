@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>The importance of jointly analyzing treatment administration and toxicity associated with targeted therapies: a case study of regorafenib in soft tissue sarcoma patients.
+Background: Different methods have been proposed to analyze adverse events (AEs) associated with targeted therapies.
+While these AEs lead to dose adjustments for many patients, conventional reporting methods do not take drug administration into consideration.
+This paper underlines the importance of jointly reporting AEs and drug administration using prevalence, and proposes a complementary approach to reporting.
+Patients and methods: The prevalence method estimates the probability of progression-free patients being in a particular health state (state 1: AEs with full dose; state 2: AEs with reduced dose; state 3: no AEs with reduced dose) at different time points.
+To take into account the impact of dose adjustments on efficacy, the weighted prevalence method can be used by assigning utility weights to the different health states.
+The benefit of these methods was illustrated using data from a phase II trial of regorafenib.
+Results: Only 4.6% of progression-free patients developed mucositis/stomatitis (grade &gt;/=2) at 3 months.
+The prevalence of patients not experiencing this AE but whose dose was reduced or treatment interrupted was 58.1%.
+The weighted prevalence of the regorafenib toxicity profile and dose reduction was higher in the control arm.
+Conclusion: This case study confirms the importance of jointly analyzing AEs and drug administration.
+The weighted prevalence approach is an average score that incorporates the dimension of drug administration into AE assessment.
+This can be helpful for regulatory agencies as well as for clinicians to evaluate the benefit-risk ratio of therapies in their treatment choice.
+Clinical trial: NCT01900743.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

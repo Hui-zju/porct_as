@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[R-GEM-Lenalidomide versus R-GEM-P as second-line treatment of diffuse large B-cell lymphoma: results of the UK NRCI phase II randomised LEGEND trial.
+Outcome of patients with relapsed/refractory (r/r) diffuse large B-cell lymphoma (DLBCL) remains poor, highlighting the need for novel treatment approaches.
+The multicentre randomised phase II LEGEND trial evaluated lenalidomide in combination with rituximab, methylprednisolone and gemcitabine (R-GEM-L) vs. standard R-GEM-P as second-line treatment of DLBCL.
+The study closed early to recruitment after the planned interim analysis failed to demonstrate a complete response (CR) rate of >/= 40% in either arm.
+Among 34 evaluable patients, 7/18 (38.9%) achieved CR with R-GEM-L and 3/16 (18.8%) with R-GEM-P. Median event-free and overall survival was 3.5/3.8 months and 10.8/8.3 months for R-GEM-L and R-GEM-P, respectively.
+The incidence of grade >/= 3 toxicities was 52% in R-GEM-L and 83% in R-GEM-P. Efficacy and tolerability of R-GEM-L seem comparable with R-GEM-P and other standard salvage therapies, but a stringent design led to early trial closure.
+Combination of lenalidomide with gemcitabine-based regimens should be further evaluated in r/r DLBCL.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

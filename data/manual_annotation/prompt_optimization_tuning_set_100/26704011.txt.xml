@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[[Impact of preoperative oral liquid carbohydrate on postoperative insulin resistance in gastric cancer patients and its associated study].
+OBJECTIVE: To investigate the impact of preoperative oral liquid carbohydrate on postoperative insulin resistance (IR) in gastric cancer patients undergoing elective resection, and to examine the association of IR index (homeostasis model assessment, HOMA-IR) with tumor necrosis factor-alpha (TNF-alpha).
+METHODS: Between January 2013 and September 2013, 35 patients undergoing elective resection for gastric cancer were prospectively enrolled and randomized into two groups.
+Patients in trial group (n=18) received oral 500 ml of 10% glucose solution two hours before surgery.
+Patients in control group (n=17) were asked to fast for 8-12 hours before operation.
+About 300 mg of rectus abdominis and subcutaneous fatty tissues was removed before the closure of abdominal wall.
+Blood samples were collected to measure the serum concentration of TNF-alpha with double antibody sandwich ELISA in perioperative period (3-hour before operation, end of operation, 1-day and 3-day after operation).
+HOMA-IR was calculated on preoperative 3-hour and postoperative 1-day.
+Western blotting was used to detect protein expression of TNF-alpha.
+Correlation of HOMA-IR with TNF-alpha was examined.
+RESULTS: HOMA-IR on the first day after surgery was not different from that at 3-hour before surgery in trial group (P=0.090), which was significantly lower than that in control group (P=0.000).
+In trial group, serum TNF-alpha at the end of operation was higher than that at 3-hour before surgery, which declined rapidly on the first day after surgery and had no significant difference compared with that on the third day after surgery.
+In control group, serum TNF-alpha at the end of operation was also higher than that before surgery, which rose to the peak on the first day after surgery and was still higher than that at 3-hour before surgery.
+The TNF-alpha protein expression in muscle tissues of trial group was higher than that of control group (P=0.001), while no significant difference was observed between two groups in adipose tissues (P=0.987).
+Correlation analysis showed that HOMA-IR was positively correlated with TNF-alpha on the first day after surgery (r=0.832, P=0.000).
+CONCLUSION: Oral intake of liquid carbohydrate 2 hours before surgery can reduce the level of TNF-alpha, which is likely to improve the postoperative insulin resistance.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

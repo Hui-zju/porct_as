@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Niraparib maintenance therapy in patients with platinum-sensitive recurrent ovarian cancer using an individualized starting dose (NORA): a randomized, double-blind, placebo-controlled phase III trial().
+BACKGROUND: This study evaluated maintenance treatment with niraparib, a potent inhibitor of poly(ADP-ribose) polymerase 1/2, in patients with platinum-sensitive recurrent ovarian cancer.
+PATIENTS AND METHODS: In this phase III, double-blind, placebo-controlled study conducted at 30 centers in China, adults with platinum-sensitive recurrent ovarian cancer who had responded to their most recent platinum-containing chemotherapy were randomized 2 : 1 to receive oral niraparib (300 mg/day) or matched placebo until disease progression or unacceptable toxicity (NCT03705156).
+Following a protocol amendment, patients with a bodyweight &lt;77 kg or a platelet count &lt;150 x 10(3)/mul received 200 mg/day, and all other patients 300 mg/day, as an individualized starting dose (ISD).
+Randomization was carried out by an interactive web response system and stratified by BRCA mutation, time to recurrence following penultimate chemotherapy, and response to most recent chemotherapy.
+The primary endpoint was progression-free survival (PFS) assessed by blinded independent central review.
+RESULTS: Between 26 September 2017 and 2 February 2019, 265 patients were randomized to receive niraparib (n = 177) or placebo (n = 88); 249 patients received an ISD (300 mg, n = 14; 200 mg, n = 235) as per protocol.
+In the intention-to-treat population, median PFS was significantly longer for patients receiving niraparib versus placebo: 18.3 [95% confidence interval (CI), 10.9-not evaluable] versus 5.4 (95% CI, 3.7-5.7) months [hazard ratio (HR) = 0.32; 95% CI, 0.23-0.45; P &lt; 0.0001], and a similar PFS benefit was observed in patients receiving an ISD, regardless of BRCA mutation status.
+Grade &gt;/=3 treatment-emergent adverse events occurred in 50.8% and 19.3% of patients who received niraparib and placebo, respectively; the most common events were neutrophil count decreased (20.3% versus 8.0%) and anemia (14.7% versus 2.3%).
+CONCLUSIONS: Niraparib maintenance treatment reduced the risk of disease progression or death by 68% and prolonged PFS compared to placebo in patients with platinum-sensitive recurrent ovarian cancer.
+Individualized niraparib dosing is effective and safe and should be considered standard practice in this setting.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Ribociclib plus fulvestrant for advanced breast cancer: Health-related quality-of-life analyses from the MONALEESA-3 study.
+PURPOSE: In the MONALEESA-3 Phase III trial of patients with hormone receptor-positive human epidermal growth factor receptor-negative advanced breast cancer, ribociclib plus fulvestrant significantly improved progression-free survival (PFS) and overall survival (OS).
+Here, we present patient-reported outcomes from the trial, including health-related quality of life (HRQOL).
+METHODS: Patients were randomized (2:1) to receive ribociclib plus fulvestrant or placebo plus fulvestrant.
+Time to definitive 10% deterioration (TTD) from baseline in HRQOL (global health status [GHS] from the EORTC QLQ-C30 questionnaire) and pain (BPI-SF questionnaire) were assessed using Kaplan-Meier estimates; a stratified Cox regression model was used to estimate the hazard ratio (HR) and 95% CIs.
+RESULTS: Deterioration >/=10% in the EORTC-QLQ-C30 GHS was observed in 33% of patients in the ribociclib group vs 34% of patients in the placebo (reference) group (HR for TTD >/= 10% = 0.81 [95% CI, 0.62-1.1]).
+Similar findings were noted for TTD >/=5% (HR = 0.79 [95% CI, 0.61-1.0]) and TTD >/=15% (HR = 0.81 [95% CI, 0.60-1.08]).
+TTD >/=10% in emotional functioning (HR = 0.76 [95% CI, 0.57-1.01]) trended in favor of the ribociclib group, whereas results for fatigue and pain were similar between arms.
+TTD >/=10% in BPI-SF pain severity index score (HR = 0.77 [95% CI, 0.57-1.05]) and worst pain item score (HR = 0.81 [95% CI, 0.58-1.12]) trended in favor of ribociclib vs placebo.
+CONCLUSIONS: In addition to significantly prolonging PFS and OS compared with placebo plus fulvestrant, adding ribociclib to fulvestrant maintains HRQOL.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

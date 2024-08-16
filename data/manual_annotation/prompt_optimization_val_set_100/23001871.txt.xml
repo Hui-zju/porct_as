@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Association of the miR-146aC>G, miR-149T>C, miR-196a2T>C, and miR-499A>G polymorphisms with gastric cancer risk and survival in the Korean population.
+We investigated whether four common microRNA polymorphisms (miR-146aC>G [rs2910164], miR-149T>C [rs2292832], miR-196a2T>C [rs11614913], and miR-499A>G [rs3746444]) are associated with the susceptibility and prognosis of gastric cancer in the Korean population.
+The four microRNA single-nucleotide polymorphisms (SNPs) were identified in a case-control study (461 patients; 447 controls) by polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) analysis in the Korean population.
+When patients were stratified into diffuse and intestinal-type gastric cancer groups, subjects with the miR-499AG and AG + GG genotypes had reduced adjusted odds ratios (AORs) for diffuse-type gastric cancer (AOR = 0.54 with 95% confidence interval [CI] = 0.31-0.97; AOR = 0.57 with 95% CI = 0.33-0.97).
+In the stratified analyses for gastric cancer risk, the miR-146aGG and CG + GG genotypes were associated with increased risk of gastric cancers among the non-smokers, whereas the miR-149TC and TC + CC genotypes showed lower risk of gastric cancer in males.
+The miR-196a2CC genotype was associated with elevated gastric cancer risk among females.
+For gastric cancer prognosis, intestinal-type gastric cancer patients with miR-146aCG + GG genotypes had significantly higher survival rates (log-rank P = 0.030) than patients with the CC genotype, and patients with the miR-499AA genotype had significantly increased survival rates compared to patients with the AG + GG genotypes (log-rank P = 0.013).
+When miR-146aCG + GG and miR-499AA genotypes were combined, the survival rate of intestinal-type gastric cancer patients was elevated (log-rank P < 0.001).
+No association was found between gastric or diffuse-type cancer prognosis and other miRNAs.
+Our data demonstrate that specific miRNA SNPs are associated with gastric cancer susceptibility (miR-499A>G) and prognosis (miR-146aC>G and miR-499A>G) in the Korean population depending on gastric cancer type.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

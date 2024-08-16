@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Health-related quality of life of postmenopausal women with hormone receptor-positive, human epidermal growth factor receptor 2-negative advanced breast cancer treated with ribociclib + letrozole: results from MONALEESA-2.
+PURPOSE: Evaluate patient-reported outcomes (PROs) for postmenopausal women with hormone receptor-positive (HR+), human epidermal growth factor receptor 2-negative (HER2-) advanced breast cancer treated with first-line ribociclib plus letrozole.
+METHODS: In the phase III MONALEESA-2 study (NCT01958021), 668 patients were randomized 1:1 to ribociclib (600 mg/day; 3-weeks-on/1-week-off) plus letrozole (2.5 mg/day) or placebo plus letrozole.
+PROs were assessed using the European Organisation for Research and Treatment of Cancer core quality-of-life (EORTC QLQ-C30) and breast cancer-specific (EORTC QLQ-BR23) questionnaires.
+Changes from baseline and time to deterioration in health-related quality of life (HRQoL) were analyzed using linear mixed-effect and stratified Cox regression models, respectively.
+Exploratory analysis of area-under-the-curve for change from baseline in pain score (AUC-pain) was performed.
+RESULTS: On-treatment HRQoL scores were consistently maintained from baseline and were similar between arms.
+A clinically meaningful (> 5 points) reduction in pain score was observed as early as Week 8 and was maintained up to Cycle 15 in the ribociclib arm.
+A statistically significant increase in mean AUC-pain was also observed in the ribociclib arm.
+Scores for all other EORTC QLQ-C30 and EORTC QLQ-BR23 domains were maintained from baseline and were similar between arms.
+CONCLUSIONS: HRQoL was consistently maintained from baseline in postmenopausal women with HR+, HER2- advanced breast cancer receiving ribociclib plus letrozole and was similar to that observed in the placebo plus letrozole arm.
+Together with the improved clinical efficacy and manageable safety profile, these PRO results provide additional support for the benefit of ribociclib plus letrozole in this patient population.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Durvalumab alone and durvalumab plus tremelimumab versus chemotherapy in previously untreated patients with unresectable, locally advanced or metastatic urothelial carcinoma (DANUBE): a randomised, open-label, multicentre, phase 3 trial.
+BACKGROUND: Survival outcomes are poor for patients with metastatic urothelial carcinoma who receive standard, first-line, platinum-based chemotherapy.
+We assessed the overall survival of patients who received durvalumab (a PD-L1 inhibitor), with or without tremelimumab (a CTLA-4 inhibitor), as a first-line treatment for metastatic urothelial carcinoma.
+METHODS: DANUBE is an open-label, randomised, controlled, phase 3 trial in patients with untreated, unresectable, locally advanced or metastatic urothelial carcinoma, conducted at 224 academic research centres, hospitals, and oncology clinics in 23 countries.
+Eligible patients were aged 18 years or older with an Eastern Cooperative Oncology Group performance status of 0 or 1.
+We randomly assigned patients (1:1:1) to receive durvalumab monotherapy (1500 mg) administered intravenously every 4 weeks; durvalumab (1500 mg) plus tremelimumab (75 mg) administered intravenously every 4 weeks for up to four doses, followed by durvalumab maintenance (1500 mg) every 4 weeks; or standard-of-care chemotherapy (gemcitabine plus cisplatin or gemcitabine plus carboplatin, depending on cisplatin eligibility) administered intravenously for up to six cycles.
+Randomisation was done through an interactive voice-web response system, with stratification by cisplatin eligibility, PD-L1 status, and presence or absence of liver metastases, lung metastases, or both.
+The coprimary endpoints were overall survival compared between the durvalumab monotherapy versus chemotherapy groups in the population of patients with high PD-L1 expression (the high PD-L1 population) and between the durvalumab plus tremelimumab versus chemotherapy groups in the intention-to-treat population (all randomly assigned patients).
+The study has completed enrolment and the final analysis of overall survival is reported.
+The trial is registered with ClinicalTrials.gov, NCT02516241, and the EU Clinical Trials Register, EudraCT number 2015-001633-24.
+FINDINGS: Between Nov 24, 2015, and March 21, 2017, we randomly assigned 1032 patients to receive durvalumab (n=346), durvalumab plus tremelimumab (n=342), or chemotherapy (n=344).
+At data cutoff (Jan 27, 2020), median follow-up for survival was 41.2 months (IQR 37.9-43.2) for all patients.
+In the high PD-L1 population, median overall survival was 14.4 months (95% CI 10.4-17.3) in the durvalumab monotherapy group (n=209) versus 12.1 months (10.4-15.0) in the chemotherapy group (n=207; hazard ratio 0.89, 95% CI 0.71-1.11; p=0.30).
+In the intention-to-treat population, median overall survival was 15.1 months (13.1-18.0) in the durvalumab plus tremelimumab group versus 12.1 months (10.9-14.0) in the chemotherapy group (0.85, 95% CI 0.72-1.02; p=0.075).
+In the safety population, grade 3 or 4 treatment-related adverse events occurred in 47 (14%) of 345 patients in the durvalumab group, 93 (27%) of 340 patients in the durvalumab plus tremelimumab group, and in 188 (60%) of 313 patients in the chemotherapy group.
+The most common grade 3 or 4 treatment-related adverse event was increased lipase in the durvalumab group (seven [2%] of 345 patients) and in the durvalumab plus tremelimumab group (16 [5%] of 340 patients), and neutropenia in the chemotherapy group (66 [21%] of 313 patients).
+Serious treatment-related adverse events occurred in 30 (9%) of 345 patients in the durvalumab group, 78 (23%) of 340 patients in the durvalumab plus tremelimumab group, and 50 (16%) of 313 patients in the chemotherapy group.
+Deaths due to study drug toxicity were reported in two (1%) patients in the durvalumab group (acute hepatic failure and hepatitis), two (1%) patients in the durvalumab plus tremelimumab group (septic shock and pneumonitis), and one (<1%) patient in the chemotherapy group (acute kidney injury).
+INTERPRETATION: This study did not meet either of its coprimary endpoints.
+Further research to identify the patients with previously untreated metastatic urothelial carcinoma who benefit from treatment with immune checkpoint inhibitors, either alone or in combination regimens, is warranted.
+FUNDING: AstraZeneca.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

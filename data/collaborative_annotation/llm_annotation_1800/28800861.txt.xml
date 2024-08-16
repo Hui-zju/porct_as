@@ -1,0 +1,23 @@
+<MyRCT>
+<TEXT>Ipatasertib plus paclitaxel versus placebo plus paclitaxel as first-line therapy for metastatic triple-negative breast cancer (LOTUS): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.
+BACKGROUND: The oral AKT inhibitor ipatasertib is being investigated in cancers with a high prevalence of PI3K/AKT pathway activation, including triple-negative breast cancer.
+The LOTUS trial investigated the addition of ipatasertib to paclitaxel as first-line therapy for triple-negative breast cancer.
+METHODS: In this randomised, placebo-controlled, double-blind, phase 2 trial, women aged 18 years or older with measurable, inoperable, locally advanced or metastatic triple-negative breast cancer previously untreated with systemic therapy were recruited from 44 hospitals in South Korea, the USA, France, Spain, Taiwan, Singapore, Italy, and Belgium.
+Enrolled patients were randomly assigned (1:1) to receive intravenous paclitaxel 80 mg/m(2) (days 1, 8, 15) with either ipatasertib 400 mg or placebo once per day (days 1-21) every 28 days until disease progression or unacceptable toxicity.
+Randomisation was by stratified permuted blocks (block size of four) using an interactive web-response system with three stratification criteria: previous (neo)adjuvant therapy, chemotherapy-free interval, and tumour PTEN status.
+The co-primary endpoints were progression-free survival in the intention-to-treat population and progression-free survival in the PTEN-low (by immunohistochemistry) population.
+This ongoing trial is registered with ClinicalTrials.gov (NCT02162719).
+FINDINGS: Between Sept 2, 2014, and Feb 4, 2016, 166 patients were assessed for eligibility and 124 patients were enrolled and randomly assigned to paclitaxel plus ipatasertib (n=62) or paclitaxel plus placebo (n=62).
+Median follow-up was 10.4 months (IQR 6.5-14.1) in the ipatasertib group and 10.2 months (6.0-13.6) in the placebo group.
+Median progression-free survival in the intention-to-treat population was 6.2 months (95% CI 3.8-9.0) with ipatasertib versus 4.9 months (3.6-5.4) with placebo (stratified hazard ratio [HR] 0.60, 95% CI 0.37-0.98; p=0.037) and in the 48 patients with PTEN-low tumours, median progression-free survival was 6.2 months (95% CI 3.6-9.1) with ipatasertib versus 3.7 months (1.9-7.3) with placebo (stratified HR 0.59, 95% CI 0.26-1.32, p=0.18).
+The most common grade 3 or worse adverse events were diarrhoea (14 [23%] of 61 ipatasertib-treated patients vs none of 62 placebo-treated patients), neutrophil count decreased (five [8%] vs four [6%]), and neutropenia (six [10%] vs one [2%]).
+No colitis, grade 4 diarrhoea, or treatment-related deaths were reported with ipatasertib.
+One treatment-related death occurred in the placebo group.
+Serious adverse events were reported in 17 (28%) of 61 patients in the ipatasertib group and nine (15%) of 62 patients in the placebo group.
+INTERPRETATION: Progression-free survival was longer in patients who received ipatasertib than in those who received placebo.
+To our knowledge, these are the first results supporting AKT-targeted therapy for triple-negative breast cancer.
+Ipatasertib warrants further investigation for the treatment of triple-negative breast cancer.
+FUNDING: F Hoffmann-La Roche.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

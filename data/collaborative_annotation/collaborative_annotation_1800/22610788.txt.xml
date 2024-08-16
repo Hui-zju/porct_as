@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Sequential chemoradiotherapy with gemcitabine and cisplatin for locoregionally advanced nasopharyngeal carcinoma.
+We investigated a new chemoradiotherapy (CRT) regimen for locoregionally advanced nasopharyngeal carcinoma (NPC).
+A total of 240 patients were randomly assigned to three different CRT regimens: sequential CRT [1 cycle chemotherapy + Phase I radiotherapy (RT) + 1 cycle chemotherapy + Phase II RT + 2 cycles chemotherapy] with a cisplatin-gemcitabine (GC) regimen (800 mg/m(2) gemcitabine on Days 1 and 8 and 20 mg/m(2) cisplatin on Days 1-5, every 4 weeks) (sGC-RT); sequential chemoradiotherapy with a cisplatin-fluorouracil (PF) regimen (20 mg/m(2) DDP and 500 mg/m(2) 5-FU on Days 1-5, every 4 weeks) (sPF-RT) and cisplatin-based concurrent chemoradiotherapy plus adjuvant PF chemotherapy (Con-RT + PF).
+The complete response rate was higher in the sGC + RT group than in the other two groups (98.75% vs. 92.50%, p < 0.01).
+The 3-year overall survival (OS), disease-free survival (DFS) and distant metastasis-free survival (DMFS) rates in the sGC-RT group were significantly higher than those observed in the Con-RT group (OS, 95.0% vs. 76.3%, p < 0.001; DFS, 89.9% vs. 67.5%, p < 0.001; DMFS, 92.5% vs. 76.0%, p = 0.004) and in the sPF + RT group (OS, 95.0% vs. 73.6%, p < 0.001; DFS, 89.9% vs. 63.3%, p < 0.001; DMFS, 92.5% vs. 74.7%, p = 0.002).
+There were no significant differences in 3-year OS, DFS and MFS rates between the Con-RT and the sPF-RT groups.
+The GC-RT group experienced more hematologic toxicity, constipation and rash; however, there were no differences in late RT toxicity between the groups.
+These results demonstrate that a sGC-RT regimen is effective and well tolerated in patients with locoregionally advanced NPC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

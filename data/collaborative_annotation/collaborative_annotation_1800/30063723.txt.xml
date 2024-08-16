@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Associations of angiogenesis-related proteins with specific prognostic factors, breast cancer subtypes and survival outcome in early-stage breast cancer patients. A Hellenic Cooperative Oncology Group (HeCOG) trial.
+Several studies support an important role of angiogenesis in breast cancer growth and metastasis.
+The main objectives of the study were to investigate the immunohistochemical expression of vascular endothelial growth factor (VEGF) family ligands (VEGF-A and VEGF-C) and receptors (VEGFR1, VEGFR2 and VEGFR3) in breast cancer and their associations with clinicopathological parameters, cancer subtypes/subgroups and patient outcome.
+Formalin-fixed paraffin-embedded tumor tissue samples were collected from early-stage breast cancer patients treated with anthracycline-based chemotherapy within a randomized trial.
+Immunohistochemistry was performed on serial 2.5 mum thick tissue sections from tissue microarray blocks.
+High VEGF-A, VEGF-C, VEGFR1, VEGFR2 and VEGFR3 protein expression was observed in 11.8% (N = 87), 80.8% (N = 585), 28.1% (N = 202), 64.6% (N = 359) and 71.8% (N = 517) of the cases, respectively.
+Significant associations were observed among all proteins (all p-values &lt;0.05), with the exception of the one between VEGF-C and VEGFR1 (chi-square test, p = 0.15).
+Tumors with high VEGF-A protein expression, as compared to tumors with low expression were more frequently ER/PgR-negative (33.3% vs. 20.8%, chi-square test, p = 0.009) and HER2-positive (44.8% vs. 20.6%, p&lt;0.001).
+In addition, tumors with high VEGFR1 expression, were more frequently HER2-positive (32.8% vs. 19.6%, p&lt;0.001), while tumors with high VEGFR3 expression were more frequently ER/PgR-negative (24.9% vs. 17.0%, p = 0.024) and HER2-positive (26.9% vs. 14.8%, p = 0.001).
+High VEGF-A and VEGF-C protein expression was associated with increased DFS in the entire cohort (HR = 0.57, 95% CI 0.36-0.92, Wald's p = 0.020 and HR = 0.71, 95% CI 0.52-0.96, p = 0.025, respectively), as well as in specific subtypes/subgroups, such as HER2-positive (VEGF-A, HR = 0.32, 95% CI 0.14-0.74, p = 0.008) and triple-negative (VEGF-C, HR = 0.44, 95% CI 0.21-0.91, p = 0.027) patients.
+High vs. low VEGFR1 expression was an unfavorable factor for DFS in triple-negative patients (HR = 2.74, 95% CI 1.26-5.98, p = 0.011), whereas the opposite was observed among the ER/PgR-positive patients (HR = 0.69, 95% CI 0.48-0.98, p = 0.041).
+Regarding OS, high VEGF-C protein expression was associated with increased OS in the entire cohort (HR = 0.64, 95% CI 0.46-0.89, Wald's p = 0.008), as well as in in specific subtypes/subgroups, such as ER/PgR-negative (HR = 0.37, 95% CI 0.20-0.71, p = 0.003) and triple-negative (HR = 0.42, 95% CI 0.19-0.90, p = 0.026) patients.
+In conclusion, high expression of angiogenesis-related proteins is associated with adverse clinicopathological parameters in early-stage breast cancer patients and may be surrogate markers of biologically distinct subgroups of ER/PgR-negative or triple-negative tumors with superior outcome.
+Further validation of our findings in independent cohorts is needed.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

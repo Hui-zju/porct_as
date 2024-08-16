@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Population-adjusted indirect treatment comparison of the SOLO1 and PAOLA-1/ENGOT-ov25 trials evaluating maintenance olaparib or bevacizumab or the combination of both in newly diagnosed, advanced BRCA-mutated ovarian cancer.
+BACKGROUND: In the absence of randomised head-to-head trials, we conducted a population-adjusted indirect treatment comparison (PA-ITC) of phase III trial data to evaluate the relative efficacy and safety of maintenance olaparib and bevacizumab alone and in combination in patients with newly diagnosed, advanced ovarian cancer and a BRCA mutation (BRCAm).
+METHODS: An unanchored PA-ITC was performed on investigator-assessed progression-free survival (PFS) data.
+Individual patient data from SOLO1 (olaparib versus placebo) and from BRCA-mutated patients in PAOLA-1/ENGOT-ov25 (olaparib plus bevacizumab versus placebo plus bevacizumab) were pooled.
+Each arm of PAOLA-1 was weighted so that key baseline patient characteristics were similar to the SOLO1 cohort.
+Analyses were performed in patients with complete baseline data.
+Weighted Cox regression analysis was used to estimate the comparative efficacy of different maintenance therapy strategies, supplemented by weighted Kaplan-Meier analyses.
+RESULTS: Data from SOLO1 patients (olaparib, n = 254; placebo, n = 126) were compared with data from BRCA-mutated PAOLA-1 patients (olaparib plus bevacizumab, n = 151; placebo plus bevacizumab, n = 71).
+Adding bevacizumab to olaparib was associated with a numerical improvement in PFS compared with olaparib alone (hazard ratio [HR] 0.71; 95% confidence interval [CI] 0.45-1.09).
+Statistically significant improvements in PFS were seen with olaparib alone versus placebo plus bevacizumab (HR 0.48; 95% CI 0.30-0.75), olaparib plus bevacizumab versus placebo (0.23; 0.14-0.34), and placebo plus bevacizumab versus placebo (0.65; 0.43-0.95).
+CONCLUSIONS: Results of this hypothesis-generating PA-ITC analysis support the use of maintenance olaparib alone or with bevacizumab in patients with newly diagnosed, advanced ovarian cancer and a BRCAm.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

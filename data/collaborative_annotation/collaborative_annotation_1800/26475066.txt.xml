@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Optimizing Radiation Therapy Quality Assurance in Clinical Trials: A TROG 08.03 RAVES Substudy.
+PURPOSE: To explore site- and clinician-level factors associated with protocol violations requiring real-time-review (RTR) resubmission in a multicenter clinical trial to help tailor future quality assurance (QA) protocols.
+METHODS AND MATERIALS: RAVES (Radiation Therapy-Adjuvant vs Early Salvage) (Trans-Tasman Radiation Oncology Group 08.03) is a randomized trial comparing adjuvant with early salvage radiation therapy in men with positive surgical margins or pT3 disease after prostatectomy.
+Quality assurance in RAVES required each clinician and site to submit a credentialing dummy run (DR) and for each patient's radiation therapy plan to undergo external RTR before treatment.
+Prospectively defined major violations from trial protocol required remedy and resubmission.
+Site and clinician factors associated with RTR resubmission were examined using hierarchical modeling.
+RESULTS: Data were collected from 171 consecutive patients, treated by 46 clinicians at 32 hospitals.
+There were 47 RTR resubmissions (27%) due to 65 major violations.
+The relative rate of resubmission decreased by 29% per year as the study progressed (odds ratio OR.
+0.71, P=.02).
+The majority of resubmissions were due to contouring violations (39 of 65) and dosimetric violations (22 of 65).
+For each additional patient accrued, significant decreases in RTR resubmission were seen at both clinician level (OR 0.75, P=.02) and site level (OR 0.72, P=.01).
+The rate of resubmission due to dosimetric violations was only 1.6% after the first 5 patients.
+Use of IMRT was associated with lower rates of resubmission compared with 3-dimensional conformal radiation therapy (OR 0.38, P=.05).
+CONCLUSION: Several low- and high-risk factors that may assist with tailoring future clinical trial QA were identified.
+Because the real-time resubmission rate was largely independent of the credentialing exercise, some form of RTR QA is recommended.
+The greatest benefit from QA was derived early in trial activation and clinician experience.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

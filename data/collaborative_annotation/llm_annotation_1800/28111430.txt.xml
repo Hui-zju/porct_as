@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Incorporating Erlotinib or Irinotecan Plus Cisplatin into Chemoradiotherapy for Stage III Non-small Cell Lung Cancer According to EGFR Mutation Status.
+PURPOSE: Concurrent chemoradiotherapy (CCRT) is the standard care for stage III non-small cell lung cancer (NSCLC) patients; however, a more effective regimen is needed to improve the outcome by better controlling occult metastases.
+We conducted two parallel randomized phase II studies to incorporate erlotinib or irinotecan-cisplatin (IP) into CCRT for stage III NSCLC depending on epidermal growth factor receptor (EGFR) mutation status.
+MATERIALS AND METHODS: Patients with EGFR-mutant tumors were randomized to receive three cycles of erlotinib first and then either CCRT with erlotinib followed by erlotinib (arm A) or CCRT with IP only (arm B).
+Patients with EGFR unknown or wild-type tumors were randomized to receive either three cycles of IP before (arm C) or after CCRT with IP (arm D).
+RESULTS: Seventy-three patients were screened and the study was closed early because of slow accrual after 59 patients were randomized.
+Overall, there were seven patients in arm A, five in arm B, 22 in arm C, and 25 in arm D. The response rate was 71.4% and 80.0% for arm A and B, and 70.0% and 73.9% for arm C and D. The median overall survival (OS) was 39.3 months versus 31.2 months for arm A and B (p=0.442), and 16.3 months versus 25.3 months for arm C and D (p=0.050).
+Patients with sensitive EGFR mutations had significantly longer OS than EGFR-wild patients (74.8 months vs. 25.3 months, p=0.034).
+There were no unexpected toxicities.
+CONCLUSION: Combined-modality treatment by molecular diagnostics is feasible in stage III NSCLC.
+EGFR-mutant patients appear to be a distinct subset with longer survival.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

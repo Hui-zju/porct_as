@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Proposal of supervised data analysis strategy of plasma miRNAs from hybridisation array data with an application to assess hemolysis-related deregulation.
+BACKGROUND: Plasma miRNAs have the potential as cancer biomarkers but no consolidated guidelines for data mining in this field are available.
+The purpose of the study was to apply a supervised data analysis strategy in a context where prior knowledge is available, i.e., that of hemolysis-related miRNAs deregulation, so as to compare our results with existing evidence.
+RESULTS: We developed a structured strategy with innovative applications of existing bioinformatics methods for supervised analyses including: 1) the combination of two statistical (t- and Anderson-Darling) test results to detect miRNAs with significant fold change or general distributional differences in class comparison, which could reveal hidden differential biological processes worth to be considered for building predictive tools; 2) a bootstrap selection procedure together with machine learning techniques in class prediction to guarantee the transferability of results and explore the interconnections among the selected miRNAs, which is important for highlighting their inherent biological dependences.
+The strategy was applied to develop a classifier for discriminating between hemolyzed and not hemolyzed plasma samples, defined according to a recently published hemolysis score.
+We identified five miRNAs with increased expression in hemolyzed plasma samples (miR-486-5p, miR-92a, miR-451, miR-16, miR-22).
+CONCLUSIONS: We identified four miRNAs previously reported in the literature as hemolysis related together with a new one (miR-22).which needs further investigations.
+Our findings confirm the validity of the proposed strategy and, in parallel, the hemolysis score capability to be used as pre-analytic hemolysis detector.
+R codes for implementing the approaches are provided.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

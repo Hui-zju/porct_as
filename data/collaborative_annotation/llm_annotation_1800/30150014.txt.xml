@@ -1,0 +1,25 @@
+<MyRCT>
+<TEXT>Erlotinib versus vinorelbine plus cisplatin as adjuvant therapy in Chinese patients with stage IIIA EGFR mutation-positive non-small-cell lung cancer (EVAN): a randomised, open-label, phase 2 trial.
+BACKGROUND: Adjuvant chemotherapy after radical resection of stage IIIA non-small-cell lung cancer (NSCLC) has quite poor outcomes.
+We aimed to investigate whether adjuvant erlotinib therapy improves 2-year disease-free survival compared with chemotherapy in epidermal growth factor receptor (EGFR) mutation-positive stage IIIA NSCLC.
+METHODS: In this randomised, open-label, phase 2 trial, eligible patients aged 18-75 years who had undergone complete (R0) resection of histologically or pathologically confirmed stage IIIA EGFR mutation-positive NSCLC and had not received any previous anticancer therapies were enrolled.
+Patients were randomly assigned (1:1) to receive either adjuvant erlotinib (150 mg once daily administered orally) or vinorelbine and cisplatin chemotherapy (four cycles of vinorelbine [25 mg/m(2) intravenously on days 1 and 8 of each 21-day cycle] plus cisplatin [75 mg/m(2) intravenously on day 1 of each 21-day cycle]).
+Randomisation was done by Simon's minimisation with a random element and was stratified by EGFR activating mutation type (exon 19 vs 21), histology (adenocarcinoma vs non-adenocarcinoma), and smoking status (smoker vs non-smoker).
+The primary endpoint in the unblinded intention-to-treat analysis was 2-year disease-free survival.
+This ongoing study is registered with ClinicalTrials.gov, number NCT01683175.
+FINDINGS: Between Sept 8, 2012, and May 21, 2015, 102 patients from 16 centres across China were enrolled and randomly assigned to receive erlotinib (n=51) or chemotherapy (n=51).
+Median follow-up was 33.0 months (IQR 17.8-43.1).
+2-year disease-free survival was 81.4% (95% CI 69.6-93.1) in the erlotinib group and 44.6% (26.9-62.4) in the chemotherapy group (relative risk 1.823 [95% CI 1.194-2.784; p=0.0054).
+The difference in 2-year disease-free survival between the groups was 36.7% (95% CI 15.5-58.0; p=0.0007).
+Adverse events of any grade occurred in 29 (58%) of 50 patients in the erlotinib group and 28 (65%) of 43 patients in the chemotherapy group.
+Grade 3 or worse adverse events occurred in six (12%) of 50 patients in the erlotinib group versus 11 (26%) of 43 in the chemotherapy group; the most common of these in the erlotinib group was rash (in two [4%] of 50 patients) and in the chemotherapy group were decreased neutrophil count (in seven [16%] of 43 patients) and myelosuppression (in four [9%]).
+No treatment-related deaths were reported.
+INTERPRETATION: Adjuvant erlotinib improved 2-year disease-free survival in patients with EGFR mutation-positive stage IIIA NSCLC compared with chemotherapy, with a better tolerability profile.
+This study suggests that tyrosine kinase inhibitors could have a potentially important role as adjuvant therapy in EGFR mutation-positive stage IIIA NSCLC.
+However, this trial was a phase 2 study.
+Mature overall survival data are also needed.
+Ongoing studies will hopefully confirm the role of adjuvant EGFR tyrosine kinase inhibitor therapy in patients with NSCLC.
+FUNDING: National Key Research and Development Program of China and Shanghai Roche Pharmaceuticals Ltd.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

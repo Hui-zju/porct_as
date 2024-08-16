@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Phase II Randomized Trial (GO27827) of First-Line FOLFOX Plus Bevacizumab with or Without the MET Inhibitor Onartuzumab in Patients with Metastatic Colorectal Cancer.
+BACKGROUND: Dysregulated hepatocyte growth factor/mesenchymal-epithelial transition (MET) signaling is associated with poor prognosis and resistance to vascular endothelial growth factor inhibition in metastatic colorectal cancer (mCRC).
+We report outcomes from a double-blind, multicenter phase II trial of the MET inhibitor onartuzumab in combination with mFOLFOX-6 and bevacizumab for mCRC (GO27827; NCT01418222).
+MATERIALS AND METHODS: Patients were randomized 1:1 to receive onartuzumab (10 mg/kg intravenously [IV]) or placebo plus mFOLFOX-6 and bevacizumab (5 mg/kg IV).
+Oxaliplatin was given for 8-12 cycles; other agents were continued until disease progression, unacceptable toxicity, or death.
+The primary endpoint was progression-free survival (PFS) in the intent-to-treat (ITT) and MET immunohistochemistry (IHC) expression-positive populations.
+RESULTS: Between September 2011 and November 2012, 194 patients were enrolled.
+In September 2013, an interim analysis recommended stopping onartuzumab treatment due to lack of efficacy.
+At the time of the final analysis in February 2014, no significant improvement in PFS was seen with onartuzumab versus placebo in either the ITT or MET IHC-positive populations.
+An improvement in PFS was noted in the MET IHC-negative population.
+Neither overall survival nor response rate was improved with onartuzumab.
+The incidence of fatigue, peripheral edema, and deep vein thrombosis was increased with onartuzumab relative to placebo.
+CONCLUSION: Onartuzumab combined with mFOLFOX-6 and bevacizumab did not significantly improve efficacy outcomes in either the ITT or MET IHC-positive populations.
+MET expression by IHC was not a predictive biomarker in this setting.
+The Oncologist 2017;22:264-271 IMPLICATIONS FOR PRACTICE: The addition of onartuzumab to mFOLFOX-6 plus bevacizumab did not improve outcomes in patients with previously untreated metastatic colorectal cancer in this randomized, phase II study.
+Although initial results with onartuzumab were promising, a number of phase II/III clinical trials have reported a lack of improvement in efficacy with onartuzumab combined with standard-of-care therapies in several tumor types.
+Furthermore, negative study data have been published for rilotumumab and ficlatuzumab, both of which block hepatocyte growth factor binding to the mesenchymal-epithelial transition (MET) receptor.
+MET immunohistochemistry was not a predictive biomarker.
+It remains to be seen if other biomarkers or small molecule inhibitors may be more appropriate for inhibiting this oncogenic pathway.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

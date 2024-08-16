@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Prospective associations between vitamin D status, vitamin D-related gene polymorphisms, and risk of tobacco-related cancers.
+BACKGROUND: Experimental evidence has suggested that vitamin D may be protective against tobacco-related cancers through the inhibition of the formation of tumors induced by tobacco carcinogens.
+To our knowledge, only one previous epidemiologic study investigated the association between vitamin D status and tobacco-related cancer risk, and no study has focused on vitamin D-related gene polymorphisms.
+OBJECTIVE: Our objective was to prospectively study the association between plasma 25-hydroxyvitamin D [25(OH)D] concentrations, vitamin D-related gene polymorphisms, and risk of tobacco-related cancers.
+DESIGN: A total of 209 tobacco-related cancers were diagnosed within the SU.VI.MAX (Supplementation en vitamines et mineraux antioxydants) cohort (1994-2007) and were matched with 418 controls as part of a nested case-control study.
+Tobacco-related cancers (i.e., cancers for which tobacco is one of the risk factors) included several sites in the respiratory, digestive, reproductive, and urinary systems.
+Total plasma 25(OH)D was assessed with the use of an electrochemoluminescent assay.
+Polymorphisms were determined with the use of a TaqMan assay.
+Conditional logistic regression models were computed.
+RESULTS: A 25(OH)D concentration &gt;/=30 ng/mL was associated with reduced risk of tobacco-related cancers (OR for &gt;/=30 compared with &lt;30 ng/mL: 0.59; 95% CI 0.35, 0.99; P = 0.046).
+This association was observed in former and current smokers (OR for &gt;/=30 compared with &lt;30 ng/mL: 0.43; 95% CI: 0.23, 0.84; P = 0.01) but not in never smokers (P = 0.8).
+The vitamin D receptor (VDR) FokI AA genotype and retinoid X receptor (RXR) rs7861779 TT genotype were associated with increased risk of tobacco-related cancers [OR for homozygous mutant type (MT) compared with wild type (WT): 1.87; 95% CI: 1.08, 3.23; P-trend = 0.02; OR for heterozygous type (HT) plus MT compared with WT: 1.60; 95% CI: 1.07, 2.38; P = 0.02].
+CONCLUSIONS: In this prospective study, high vitamin D status [25(OH)D concentration &gt;/=30 ng/mL] was associated with decreased risk of tobacco-related cancers, especially in smokers.
+These results, which are supported by mechanistic plausibility, suggest that vitamin D may contribute to the prevention of tobacco-induced cancers in smokers and deserve additional investigation.
+The SU.VI.MAX trial was registered at clinicaltrials.gov as NCT00272428.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

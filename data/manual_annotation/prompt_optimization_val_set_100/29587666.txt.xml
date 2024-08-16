@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Cost effectiveness analysis of afatinib versus pemetrexed-cisplatin for first-line treatment of locally advanced or metastatic EGFR mutation positive non-small-cell lung cancer from the Singapore healthcare payer's perspective.
+BACKGROUND: Non-small-cell lung cancer (NSCLC) accounts for 85% of all lung cancers and is associated with a poor prognosis.
+Afatinib is an irreversible ErbB family blocker recommended in clinical guidelines as a first-line treatment for NSCLC which harbours an epidermal growth factor receptor (EGFR) mutation.
+The objective of this study was to evaluate the cost-effectiveness of afatinib versus pemetrexed-cisplatin for first-line treatment of locally advanced or metastatic EGFR mutation positive NSCLC in Singapore.
+METHODS: A partitioned survival model with three health states (progression-free, progressive disease and death) was developed from a healthcare payer perspective.
+Survival curves from the LUX-Lung 3 trial (afatinib versus pemetrexed-cisplatin chemotherapy) were extrapolated beyond the trial period to estimate the underlying progression-free survival and overall survival parametric distributions.
+Rates of adverse reactions were also estimated from LUX-Lung 3 while health utilities from overseas were derived from the literature in the absence of local estimates.
+Direct costs were sourced from public healthcare institutions in Singapore.
+Incremental cost-effectiveness ratios (ICERs) were calculated over a 5 year time horizon.
+Deterministic and probabilistic sensitivity analyses and additional scenario analyses were conducted to explore the impact of uncertainties and assumptions on the cost-effectiveness results.
+RESULTS: In the base-case analysis, the ICER for afatinib versus pemetrexed-cisplatin was SG$137,648 per quality-adjusted life year (QALY) gained and SG$109,172 per life-year gained.
+One-way sensitivity analysis showed the ICER was most sensitive to variations in the utility values, the cost of afatinib and time horizon.
+Scenario analyses showed that even reducing the cost of afatinib by 50% led to a high ICER which was unlikely to represent a cost-effective use of healthcare resources.
+CONCLUSIONS: Compared with pemetrexed-cisplatin, afatinib is not cost-effective as a first-line treatment for advanced EGFR mutation-positive NSCLC in Singapore.
+The findings from our study will be useful to inform local healthcare decision-making and resource allocations for NSCLC treatments, together with other considerations such as clinical effectiveness, safety and affordability of TKIs.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

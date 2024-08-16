@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Prospective Validation of Pooled Prognostic Factors in Women with Advanced Cervical Cancer Treated with Chemotherapy with/without Bevacizumab: NRG Oncology/GOG Study.
+PURPOSE: In the randomized phase III trial, Gynecologic Oncology Group (GOG) protocol 240, the incorporation of bevacizumab with chemotherapy significantly increased overall survival (OS) in women with advanced cervical cancer.
+A major objective of GOG-240 was to prospectively analyze previously identified pooled clinical prognostic factors known as the Moore criteria.
+EXPERIMENTAL DESIGN: Potential negative factors included black race, performance status 1, pelvic disease, prior cisplatin, and progression-free interval <365 days.
+Risk categories included low-risk (0-1 factor), mid-risk (2-3 factors), and high-risk (4-5 factors).
+Each test of association was conducted at the 5% level of significance.
+Logistic regression and survival analysis was used to determine whether factors were prognostic or could be used to guide therapy.
+RESULTS: For the entire population (n = 452), high-risk patients had significantly worse OS (P < 0.0001).
+The HRs of death for treating with topotecan in low-risk, mid-risk, and high-risk subsets are 1.18 [95% confidence interval (CI), 0.63-2.24], 1.11 (95% CI, 0.82-1.5), and 0.84 (95% CI, 0.50-1.42), respectively.
+The HRs of death for treating with bevacizumab in low-risk, mid-risk, and high-risk subsets are 0.96 (95% CI, 0.51-1.83; P = 0.9087), 0.673 (95% CI, 0.5-0.91; P = 0.0094), and 0.536 (95% CI, 0.32-0.905; P = 0.0196), respectively.
+CONCLUSIONS: This is the first prospectively validated scoring system in cervical cancer.
+The Moore criteria have real-world clinical applicability.
+Toxicity concerns may justify omission of bevacizumab in some low-risk patients where survival benefit is small.
+The benefit to receiving bevacizumab appears to be greatest in the moderate- and high-risk subgroups (5.8-month increase in median OS).
+Clin Cancer Res; 21(24); 5480-7.
+(c)2015 AACR.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

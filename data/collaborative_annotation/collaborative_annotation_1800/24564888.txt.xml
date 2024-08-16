@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Wnt modulates MCL1 to control cell survival in triple negative breast cancer.
+BACKGROUND: Triple negative breast cancer (TNBC) has higher rates of recurrence and distant metastasis, and poorer outcome as compared to non-TNBC.
+Aberrant activation of WNT signaling has been detected in TNBC, which might be important for triggering oncogenic conversion of breast epithelial cell.
+Therefore, we directed our focus on identifying the WNT ligand and its underlying mechanism in TNBC cells.
+METHODS: We performed large-scale analysis of public microarray data to screen the WNT ligands and the clinical significance of the responsible ligand in TNBC.
+WNT5B was identified and its overexpression in TNBC was confirmed by immunohistochemistry staining, Western blot and ELISA.
+ShRNA was used to knockdown WNT5B expression (shWNT5B).
+Cellular functional alteration with shWNT5B treatment was determined by using wound healing assay, mammosphere assay; while cell cycle and apoptosis were examined by flowcytometry.
+Mitochondrial morphology was photographed by electron microscope.
+Biological change of mitochondria was detected by RT-PCR and oxygen consumption assay.
+Activation of WNT pathway and its downstream targets were evaluated by liciferase assay, immunohistochemistry staining and immunoblot analysis.
+Statistical methods used in the experiments besides microarray analysis was two-tailed t-test.
+RESULTS: WNT5B was elevated both in the tumor and the patients' serum.
+Suppression of WNT5B remarkably impaired cell growth, migration and mammosphere formation.
+Additionally, G0/G1 cell cycle arrest and caspase-independent apoptosis was observed.
+Study of the possible mechanism indicated that these effects occurred through suppression of mitochondrial biogenesis, as evidenced by reduced mitochondrial DNA (MtDNA) and compromised oxidative phosphorylation (OXPHOS).
+In Vivo and in vitro data uncovered that WNT5B modulated mitochondrial physiology was mediated by MCL1, which was regulated by WNT/beta-catenin responsive gene, Myc.
+Clinic data analysis revealed that both WNT5B and MCL1 are associated with enhanced metastasis and decreased disease-free survival.
+CONCLUSIONS: All our findings suggested that WNT5B/MCL1 cascade is critical for TNBC and understanding its regulatory apparatus provided valuable insight into the pathogenesis of the tumor development and the guidance for targeting therapeutics.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

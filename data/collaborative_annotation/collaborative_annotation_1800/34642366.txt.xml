@@ -1,0 +1,13 @@
+<MyRCT>
+<TEXT>Intermittent radiotherapy as alternative treatment for recurrent high grade glioma: a modeling study based on longitudinal tumor measurements.
+Recurrent high grade glioma patients face a poor prognosis for which no curative treatment option currently exists.
+In contrast to prescribing high dose hypofractionated stereotactic radiotherapy (HFSRT, [Formula: see text] Gy [Formula: see text] 5 in daily fractions) with debulking intent, we suggest a personalized treatment strategy to improve tumor control by delivering high dose intermittent radiation treatment (iRT, [Formula: see text] Gy [Formula: see text] 1 every 6 weeks).
+We performed a simulation analysis to compare HFSRT, iRT and iRT plus boost ([Formula: see text] Gy [Formula: see text] 3 in daily fractions at time of progression) based on a mathematical model of tumor growth, radiation response and patient-specific evolution of resistance to additional treatments (pembrolizumab and bevacizumab).
+Model parameters were fitted from tumor growth curves of 16 patients enrolled in the phase 1 NCT02313272 trial that combined HFSRT with bevacizumab and pembrolizumab.
+Then, iRT +/- boost treatments were simulated and compared to HFSRT based on time to tumor regrowth.
+The modeling results demonstrated that iRT + boost(- boost) treatment was equal or superior to HFSRT in 15(11) out of 16 cases and that patients that remained responsive to pembrolizumab and bevacizumab would benefit most from iRT.
+Time to progression could be prolonged through the application of additional, intermittently delivered fractions.
+iRT hence provides a promising treatment option for recurrent high grade glioma patients for prospective clinical evaluation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

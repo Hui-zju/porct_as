@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Aneuploidy in children with relapsed B-cell precursor acute lymphoblastic leukaemia: clinical importance of detecting a hypodiploid origin of relapse.
+Aneuploidy is common in paediatric B-cell precursor acute lymphoblastic leukaemia (ALL).
+Specific subgroups, such as high hyperdiploidy (>50 chromosomes or DNA Index >/=1.16) and hypodiploidy (<45 chromosomes), predict outcome of patients after primary treatment.
+Whether aneuploidy has a prognostic value for relapsed disease is yet to be determined.
+Using DNA index and centromere screening by multiplex ligation-dependent probe amplification, we investigated aneuploidy in 413 children treated for first relapse of B-cell precursor ALL according to the ALL-REZ BFM 2002 protocol.
+Ten-year event-free survival of patients with high hyperdiploid relapses approached 70%, whereas it was only 40% in low hyperdiploid relapses.
+Three patients with apparent hyperdiploid relapse had TP53 mutations.
+In these cases, array-based allelotyping revealed a hypodiploid origin with absence of the hypodiploid founder clone (masked hypodiploidy).
+Collectively, patients with evident or masked hypodiploid relapses showed an extremely low event-free survival rate of 9%.
+Importantly, the current relapse risk stratification did not identify cases with masked hypodiploidy as high-risk patients, due to their favourable clinical presentation.
+In multivariate analysis, hypodiploidy proved to be an independent prognostic factor.
+This finding supports stratification of relapses with hypodiploid origin into high-risk arms in future trials or allocation of patients to alternative treatment approaches.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized study of imatinib for chronic myeloid leukemia: comparing standard dose escalation with aggressive escalation.
+In 2007, we conducted a prospective randomized study to compare an aggressive dose escalation (group B, n = 123) with the standard dose escalation proposed by European LeukemiaNet (group A, n = 122).
+In group B, if patients did not achieve a complete cytogenetic response (CCyR) at 3 months or did not achieve a major molecular response (MR3) at 6 months, imatinib was increased to 600 mg.
+At 6 months CCyR was achieved in 69.4% and 78.7% of patients in groups A and B, respectively.
+The rate of MR3 at 12 months and 24 months were similar in group A (52.1% and 70.0%) and group B (58.7% and 68.3%).
+The cumulative incidence of withdrawal by failure without accelerated/blast phase was higher in group A than in group B (9.2% vs 2.5% at 24 months).
+At 3 and 6 months, the protocol called for the imatinib dose to increase to 600 mg in 90 patients (74.4%) in group B. Among the 42 patients who received increased dose according to the protocol, 25 (60.0%) achieved MR3 at 12 months, whereas only 14 (35.0%) of 40 patients who did not receive an increased dose achieved MR3 (P < .05).
+The number of patients who withdrew from this study was similar (group A, 20%; group B, 21%).
+The early aggressive dose escalation failed to produce a better molecular response at 12 months.
+However, for patients who tolerate imatinib well, but show inadequate response at an early time point, aggressive dose escalation may contribute to achieving a better outcome.
+This study was registered at http://www.umin.ac.jp/ctr/ as #R000000965.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

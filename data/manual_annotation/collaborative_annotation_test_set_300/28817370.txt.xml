@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[CONKO-005: Adjuvant Chemotherapy With Gemcitabine Plus Erlotinib Versus Gemcitabine Alone in Patients After R0 Resection of Pancreatic Cancer: A Multicenter Randomized Phase III Trial.
+Purpose Gemcitabine is standard of care in the adjuvant treatment of resectable pancreatic ductal adenocarcinoma (PDAC).
+The epidermal growth factor receptor tyrosine kinase inhibitor erlotinib in combination with gemcitabine has shown efficacy in the treatment of advanced PDAC and was considered to improve survival in patients with primarily resectable PDAC after R0 resection.
+Patients and Methods In an open-label, multicenter trial, patients were randomly assigned to one of two study arms: gemcitabine 1,000 mg/m(2) days 1, 8, 15, every 4 weeks plus erlotinib 100 mg once per day (GemErlo) or gemcitabine (Gem) alone for six cycles.
+The primary end point of the study was to improve disease-free survival (DFS) from 14 to 18 months by adding erlotinib to gemcitabine.
+Results In all, 436 patients were randomly assigned at 57 study centers between April 2008 and July 2013.
+A total of 361 instances (83%) of disease recurrence were observed after a median follow-up of 54 months.
+Median treatment duration was 22 weeks in both arms.
+There was no difference in median DFS (GemErlo 11.4 months; Gem 11.4 months) or median overall survival (GemErlo 24.5 months; Gem 26.5 months).
+There was a trend toward long-term survival in favor of GemErlo (estimated survival after 1, 2, and 5 years for GemErlo was 77%, 53%, and 25% v 79%, 54%, and 20% for Gem, respectively).
+The occurrence or the grade of rash was not associated with a better survival in the GemErlo arm.
+Conclusion To the best of our knowledge, CONKO-005 is the first study to investigate the combination of chemotherapy and a targeted therapy in the adjuvant treatment of PDAC.
+GemErlo for 24 weeks did not improve DFS or overall survival over Gem.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

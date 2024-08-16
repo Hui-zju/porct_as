@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Concomitant Antibiotic Use and Survival in Urothelial Carcinoma Treated with Atezolizumab.
+Antibiotic effects on the gut microbiota may negatively impact survival with immune checkpoint inhibitors (ICIs).
+However, there is minimal evidence regarding whether antibiotic impacts are specific to ICIs or impacts in urothelial carcinoma (UC).
+In a post hoc analysis of IMvigor210 (single-arm atezolizumab) and IMvigor211 (phase III randomised trial of atezolizumab vs chemotherapy), the association between antibiotic use and overall survival (OS) and progression-free survival (PFS) was assessed via Cox proportional hazard analysis.
+Antibiotic use was defined as any antibiotic administration between 30 d prior to and 30 d after treatment initiation.
+Antibiotic use was associated with worse OS (n = 847, hazard ratio or HR [95% confidence interval {CI}] = 1.44 [1.19-1.73]) and PFS (1.24 [1.05-1.46]) with atezolizumab, but not chemotherapy (n = 415, 1.15 [0.91-1.46] and 1.09 [0.88-1.36], respectively).
+In the randomised cohort of IMvigor211, the OS treatment effect (HR [95% CI]) of atezolizumab versus chemotherapy was 0.95 (95% CI 0.71-1.25) for antibiotic users, compared with 0.73 (0.60-0.88) for nonusers (p[interaction] = 0.1).
+Similar associations were noted in the PD-L1 IC2/3 population.
+In conclusion, antibiotic use was associated with worse survival outcomes in UC patients treated with atezolizumab.
+The study does not justify a change in antibiotic selection for infections; however antibiotic overuse occurs in cancer care and this needs to be evaluated for ICIs.
+PATIENT SUMMARY: In this report from clinical trials IMvigor210 and IMvigor211, it was demonstrated that antibiotic use is consistently associated with worse survival in patients with urothelial carcinoma treated with atezolizumab.
+No antibiotic association was observed in patients treated with chemotherapy, suggesting that antibiotics may specifically reduce the effectiveness of cancer immunotherapies.
+Future research will continue to explore the effect of antibiotics on other immune checkpoint inhibitors and confirm whether immune checkpoint inhibitors remain the treatment of choice in cancer patients requiring antibiotics.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

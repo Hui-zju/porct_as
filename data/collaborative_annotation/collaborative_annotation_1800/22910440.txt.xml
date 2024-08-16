@@ -1,0 +1,8 @@
+<MyRCT>
+<TEXT>Simulations using a drug-disease modeling framework and phase II data predict phase III survival outcome in first-line non-small-cell lung cancer.
+Simulations were performed for carboplatin/paclitaxel (C/P) plus motesanib or bevacizumab vs. C/P as first-line treatment for advanced non-small-cell lung cancer (NSCLC) using a published drug-disease model.
+With 700 patients in each arm, simulated hazard ratios for motesanib (0.87; 95% confidence interval [CI], 0.71-1.1) and bevacizumab (0.89; 95% CI, 0.73-1.1) agreed with results from the respective phase III studies but did not discriminate between failed and successful studies.
+The current model may require further enhancement to improve its utility for predicting phase III outcomes.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

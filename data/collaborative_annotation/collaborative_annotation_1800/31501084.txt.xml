@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Regression Discontinuity Analysis of Salvage Radiotherapy in Prostate Cancer.
+There is a lack of randomized evidence comparing early (eSRT) to late (lSRT) salvage radiotherapy (SRT) after radical prostatectomy (RP) for prostate cancer (PCa).
+Moreover, the existing evidence is often affected by lead-time bias.
+We sought to address this gap in a cohort of 1458 PCa patients undergoing SRT for biochemical recurrence (BCR) after RP in two tertiary care centers between 1992 and 2013.
+Using a quasi-randomized study design known as regression discontinuity (RD) and adjusting for lead-time bias, we compared metastasis-free survival (MFS) at 5 and 10years after surgery between eSRT (prostate-specific antigen [PSA] &lt;0.5ng/ml) and lSRT (PSA&gt;/=0.5ng/ml).
+Overall, 1049 patients (71.9%) underwent eSRT and 409 (28.1%) lSRT at a mean follow-up of 84 mo (interquartile range (IQR) 52-120.4).
+The MFS rate decreased nonsignificantly at the proposed cutoff by 0.04 (95% confidence interval [CI]: -0.06 to 0.19) at 5years and by 0.07 (95% CI:-0.12 to 0.32) at 10years.
+Cox regression analysis revealed a hazard ratio for the cutoff examined of 1.3 (95% CI: 0.8-2.4; p=0.2).
+In conclusion, in a quasirandomized study design accounting for lead-time bias, eSRT (PSA&lt;0.5ng/ml) did not improve MFS.
+Our results underline the need for level-one evidence to compare eSRT and lSRT.
+PATIENT SUMMARY: We compared early versus late salvage radiotherapy (SRT) for biochemical recurrence after radical prostatectomy by simulating a randomized trial.
+We found that early SRT (initiated at prostate-specific antigen &lt;0.5ng/ml) compared to late SRT did not improve metastasis-free survival.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

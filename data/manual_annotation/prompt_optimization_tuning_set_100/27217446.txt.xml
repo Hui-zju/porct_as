@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized Phase II Evaluation of Bevacizumab Versus Bevacizumab Plus Fosbretabulin in Recurrent Ovarian, Tubal, or Peritoneal Carcinoma: An NRG Oncology/Gynecologic Oncology Group Study.
+PURPOSE: The vascular disrupting agent fosbretabulin tromethamine selectively targets pre-existing tumor vasculature, which causes vascular shutdown and leads to cancer cell death and necrosis.
+Antiangiogenesis agents such as bevacizumab, a humanized antivascular endothelial growth factor monoclonal antibody, might prevent revascularization during and after treatment with a vascular disrupting agent.
+PATIENTS AND METHODS: Patients with recurrent or persistent epithelial ovarian, tubal, or peritoneal carcinoma, measurable or detectable disease, and three or fewer prior regimens were randomly assigned to bevacizumab (15 mg/kg intravenously once every 3 weeks) or the combination of bevacizumab (15 mg/kg) plus fosbretabulin (60 mg/m(2)) intravenously once every 3 weeks until disease progression or toxicity.
+Randomization was stratified by disease status (measurable v nonmeasurable), prior bevacizumab, and platinum-free interval.
+The primary end point was progression-free survival (PFS).
+The study was designed with 80% power for a one-sided alternative at a 10% level of significance to detect a reduction in the hazard by 37.5%.
+RESULTS: The study enrolled 107 patients.
+Median PFS was 4.8 months for bevacizumab and 7.3 months for bevacizumab plus fosbretabulin (hazard ratio, 0.69; 90% two-sided CI, 0.47 to 1.00; one-sided P = .05).
+The proportion responding (overall response rate) to bevacizumab was 28.2% among 39 patients with measurable disease and 35.7% among 42 patients treated with the combination.
+The relative probability of responding was 1.27 (90% CI, 0.74 to 2.17; one-sided P = .24).
+Adverse events greater than grade 3 were more common in the combination regimen than in bevacizumab only for hypertension (35% v 20%).
+There was one grade 3 thromboembolic event in the combination arm and one intestinal fistula in the bevacizumab only arm.
+CONCLUSION: On the basis of the PFS, overall response rate, and tolerability of these two antivascular therapies, further evaluation is warranted for this chemotherapy-free regimen.
+Fosbretabulin in combination with bevacizumab increases the risk of hypertension.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

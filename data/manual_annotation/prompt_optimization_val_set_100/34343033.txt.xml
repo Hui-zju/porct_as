@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Avapritinib Versus Regorafenib in Locally Advanced Unresectable or Metastatic GI Stromal Tumor: A Randomized, Open-Label Phase III Study.
+PURPOSE: Primary or secondary mutations in KIT or platelet-derived growth factor receptor alpha (PDGFRA) underlie tyrosine kinase inhibitor resistance in most GI stromal tumors (GISTs).
+Avapritinib selectively and potently inhibits KIT- and PDGFRA-mutant kinases.
+In the phase I NAVIGATOR study (NCT02508532), avapritinib showed clinical activity against PDGFRA D842V-mutant and later-line KIT-mutant GIST.
+VOYAGER (NCT03465722), a phase III study, evaluated efficacy and safety of avapritinib versus regorafenib as third-line or later treatment in patients with unresectable or metastatic GIST.
+PATIENTS AND METHODS: VOYAGER randomly assigned patients 1:1 to avapritinib 300 mg once daily (4 weeks continuously) or regorafenib 160 mg once daily (3 weeks on and 1 week off).
+Primary end point was progression-free survival (PFS) by central radiology per RECIST version 1.1 modified for GIST.
+Secondary end points included objective response rate, overall survival, safety, disease control rate, and duration of response.
+Regorafenib to avapritinib crossover was permitted upon centrally confirmed disease progression.
+RESULTS: Four hundred seventy-six patients were randomly assigned (avapritinib, n = 240; regorafenib, n = 236).
+Median PFS was not statistically different between avapritinib and regorafenib (hazard ratio, 1.25; 95% CI, 0.99 to 1.57; 4.2 v 5.6 months; P = .055).
+Overall survival data were immature at cutoff.
+Objective response rates were 17.1% and 7.2%, with durations of responses of 7.6 and 9.4 months for avapritinib and regorafenib; disease control rates were 41.7% (95% CI, 35.4 to 48.2) and 46.2% (95% CI, 39.7 to 52.8).
+Treatment-related adverse events (any grade, grade >/= 3) were similar for avapritinib (92.5% and 55.2%) and regorafenib (96.2% and 57.7%).
+CONCLUSION: Primary end point was not met.
+There was no significant difference in median PFS between avapritinib and regorafenib in patients with molecularly unselected, late-line GIST.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

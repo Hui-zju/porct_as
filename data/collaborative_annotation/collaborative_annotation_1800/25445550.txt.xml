@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Defining bowel dose volume constraints for bladder radiotherapy treatment planning.
+AIMS: Increases to radiotherapy dose are constrained by normal tissue effects.
+The relationship between bowel dose volume data and late bowel toxicity in patients with muscle-invasive bladder cancer treated with radical radiotherapy was assessed.
+MATERIALS AND METHODS: The bowel was contoured retrospectively on radiotherapy plans of 47 patients recruited to the BC2001 trial (CRUK/01/004).
+The relationship between bowel volume at various dose levels and prospectively collected late bowel toxicity was explored.
+RESULTS: Fifteen per cent and 6% of patients experienced grade 1 and grade 2 or more late bowel toxicity, respectively.
+The mean bowel volume was significantly less at doses &gt;/=50 Gy in those treated with reduced high dose volume radiotherapy compared with standard radiotherapy.
+The probability of late bowel toxicity increased as bowel volume increased (P &lt;/= 0.05 for dose levels 30-50 Gy).
+No grade 2 or more late bowel toxicity was observed in patients with bowel volumes under the thresholds given in the model that predict for 25% probability of late bowel toxicity.
+CONCLUSIONS: There is a dose volume effect for late bowel toxicity in radical bladder radiotherapy.
+We have modelled the probability of late bowel toxicity from absolute bowel volumes to guide clinicians in assessing radical bladder radiotherapy plans.
+Thresholds predicting for a 25% probability of late bowel toxicity are proposed as dose volume constraints.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

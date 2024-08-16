@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Early Modulation of Circulating MicroRNAs Levels in HER2-Positive Breast Cancer Patients Treated with Trastuzumab-Based Neoadjuvant Therapy.
+Circulating microRNA (ct-miRNAs) are able to identify patients with differential response to HER2-targeted therapy.
+However, their dynamics are largely unknown.
+We assessed 752 miRNAs from 52 NeoALTTO patients with plasma pairs prior and two weeks after trastuzumab.
+Increased levels of ct-miR-148a-3p and ct-miR-374a-5p were significantly associated with pathological complete response (pCR) (p = 0.008 and 0.048, respectively).
+At a threshold &gt;/= the upper limit of the 95%CI of the mean difference, pCR resulted 45% (95%CI 24%-68%), and 44% (95%CI 22%-69%) for ct-miR-148a-3p and ct-miR-374a-5p, respectively.
+Notably, ct-miR-148a-3p retained its predictive value (OR 3.42, 95%CI 1.23-9.46, p = 0.018) in bivariate analysis along with estrogen receptor status.
+Combined information from ct-miR-148a-3p and ct-miR140-5p, which we previously reported to identify trastuzumab-responsive patients, resulted in greater predictive capability over each other, with pCR of 54% (95%CI 25%-81%) and 0% (95%CI 0%-31%) in ct-miR-148a/ct-miR-140-5p high/present and low/absent, respectively.
+GO and KEGG analyses showed common enriched terms between the targets of these ct-miRNAs, including cell metabolism regulation, AMPK and MAPK signaling, and HCC progression.
+In conclusion, early modulated ct-miR-148-3p may inform on the functional processes underlying treatment response, integrate the information from already available predictive biomarkers, and identify patients likely to respond to single agent trastuzumab-based neoadjuvant therapy.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

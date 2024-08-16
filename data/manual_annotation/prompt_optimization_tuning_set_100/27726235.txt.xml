@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Performance assessment and benchmarking of autologous peripheral blood stem cell collection with two different apheresis devices.
+BACKGROUND: Collection of peripheral blood stem cells (PBSCs) for autologous transplantation is a well-established process.
+As a new generation of leukapheresis (LP) machines has been launched, measures of benchmarking and quality control need to be defined in order to ensure consistent collection performance.
+OBJECTIVES: The goal of this project was to establish and evaluate a benchmarking system for autologous PBSC collection.
+METHODS: This retrospective study evaluated PBSC collection data of 198 patients with symptomatic multiple myeloma in first-line therapy who underwent LP in 2013 and 2014 at our institution.
+Half the patients in 2014 were assigned randomly to undergo LP with the new Terumo BCT Spectra Optia (Terumo BCT, Garching, Germany), while the COBE Spectra (Terumo BCT) was used in all other cases.
+In 2014, we implemented a previously described formula for predicting daily CD34+ cell collection.
+As a benchmark, we developed the performance ratio: collected/predicted CD34+ cells.
+RESULTS: There was no significant difference in the number of collected CD34+ cells, the collection efficiency (collected/processed CD34+ cells) and performance ratio between the two collection devices and between LP procedures in 2013 and 2014.
+CONCLUSIONS: We present a comprehensive benchmarking tool that is easy to implement, requires minimal expense and allows specific adjustment of LP parameters for optimisation of LP performance.
+With this approach, we could confirm the equal efficiency of the two compared apheresis systems.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

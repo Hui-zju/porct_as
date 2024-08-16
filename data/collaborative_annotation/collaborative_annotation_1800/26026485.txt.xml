@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[IAEA randomised trial of optimal single dose radiotherapy in the treatment of painful bone metastases.
+BACKGROUND: To determine the optimal single-dose radiotherapy schedule for pain from bone metastases in a multi-centre, international, randomised trial.
+PATIENTS AND METHODS: 651 patients were randomised to either 8Gy (n=325) or 4Gy (n=326) radiotherapy.
+Pain at 4, 8, 12, 24 and 52weeks was assessed using a Categorical Scale (CS) and a Visual Analogue Scale (VAS).
+The primary endpoint was response at 4weeks.
+RESULTS: There was no significant difference in patient demographics and other co-variates.
+The complete response (CR) rate and ORR (complete or partial response) for all follow-up times were higher after 8Gy (p=0.02).
+The Kaplan-Meier actuarial rate (categorical scale) at 4weeks for ORR was 80% after 8Gy compared to 68% after 4Gy (p=0.0015).
+117 re-treatments were given of which 72 were in the 4Gy group and 45 in 8Gy arm (p=0.01).
+CONCLUSIONS: There was a marked consistent difference in pain relief at all time points in favour of 8Gy.
+These data reinforce the case for single dose 8Gy radiotherapy to be recommended for metastatic bone pain in all healthcare settings.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

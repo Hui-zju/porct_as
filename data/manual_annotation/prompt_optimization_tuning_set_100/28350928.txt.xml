@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Effect of Total Laparoscopic Hysterectomy vs Total Abdominal Hysterectomy on Disease-Free Survival Among Women With Stage I Endometrial Cancer: A Randomized Clinical Trial.
+Importance: Standard treatment for endometrial cancer involves removal of the uterus, tubes, ovaries, and lymph nodes.
+Few randomized trials have compared disease-free survival outcomes for surgical approaches.
+Objective: To investigate whether total laparoscopic hysterectomy (TLH) is equivalent to total abdominal hysterectomy (TAH) in women with treatment-naive endometrial cancer.
+Design, Setting, and Participants: The Laparoscopic Approach to Cancer of the Endometrium (LACE) trial was a multinational, randomized equivalence trial conducted between October 7, 2005, and June 30, 2010, in which 27 surgeons from 20 tertiary gynecological cancer centers in Australia, New Zealand, and Hong Kong randomized 760 women with stage I endometrioid endometrial cancer to either TLH or TAH.
+Follow-up ended on March 3, 2016.
+Interventions: Patients were randomly assigned to undergo TAH (n = 353) or TLH (n = 407).
+Main Outcomes and Measures: The primary outcome was disease-free survival, which was measured as the interval between surgery and the date of first recurrence, including disease progression or the development of a new primary cancer or death assessed at 4.5 years after randomization.
+The prespecified equivalence margin was 7% or less.
+Secondary outcomes included recurrence of endometrial cancer and overall survival.
+Results: Patients were followed up for a median of 4.5 years.
+Of 760 patients who were randomized (mean age, 63 years), 679 (89%) completed the trial.
+At 4.5 years of follow-up, disease-free survival was 81.3% in the TAH group and 81.6% in the TLH group.
+The disease-free survival rate difference was 0.3% (favoring TLH; 95% CI, -5.5% to 6.1%; P = .007), meeting criteria for equivalence.
+There was no statistically significant between-group difference in recurrence of endometrial cancer (28/353 in TAH group [7.9%] vs 33/407 in TLH group [8.1%]; risk difference, 0.2% [95% CI, -3.7% to 4.0%]; P = .93) or in overall survival (24/353 in TAH group [6.8%] vs 30/407 in TLH group [7.4%]; risk difference, 0.6% [95% CI, -3.0% to 4.2%]; P = .76).
+Conclusions and Relevance: Among women with stage I endometrial cancer, the use of total abdominal hysterectomy compared with total laparoscopic hysterectomy resulted in equivalent disease-free survival at 4.5 years and no difference in overall survival.
+These findings support the use of laparoscopic hysterectomy for women with stage I endometrial cancer.
+Trial Registration: clinicaltrials.gov Identifier: NCT00096408; Australian New Zealand Clinical Trials Registry: CTRN12606000261516.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

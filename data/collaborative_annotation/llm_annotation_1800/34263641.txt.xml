@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Specific survival nomograms based on SEER database for small intestine adenocarcinoma.
+BACKGROUND: Small intestine cancers, as an extremely rare tumor type, account only for 3% of all gastrointestinal tumors.
+Small intestine adenocarcinoma (SIA), representing approximately one-third of all small bowel cancers, has received relatively little attention, both in research efforts and clinical cognizance.
+Owing to anatomical proximity and rarity, small bowel adenocarcinomas are frequently grouped with colorectal adenocarcinomas.
+Therefore, a large SIA patient cohort is needed to develop and validate new nomogram prognostic models specific to SIA patients.
+METHODS: Patients diagnosed with SIA between 2004 and 2016 were extracted from the Surveillance, Epidemiology, and Final Results (SEER) database.
+All patients were randomly assigned to the training cohort and the validation cohort (2:1).
+The basic clinical information, detailed pathological staging, and treatment information of the patients were included in the analysis.
+Nomograms were shaped following the evaluations of the Cox regression model and verified using the decision curve analysis (DCA), time-dependent receiver operating characteristic (ROC) curves, concordance index (C-index), and calibration curves.
+RESULTS: The entire group comprised 6,947 patients with small intestine adenocarcinoma.
+According to the results of the multivariate Cox regression analysis, ten variables, including marital status, age, pathological grade, tumor location, T (tumor), N (nodes), M (metastasis) stage, surgery, chemotherapy, and regional nodes examined (RNE), were independent predictors of both of overall survival (OS) and cancer-specific survival (CSS).
+All significant variables were used to create the nomograms for OS and CSS.
+Various methods verified the reliability of the nomograms.
+The C-indexes of the OS and CSS nomogram were 0.756 (95% CI, 0.748-0.764) and 0.771 (95% CI, 0.761-0.781) in the training cohort and 0.748 (95% CI, 0.736-0.760) and 0.767 (95% CI, 0.752-0.781) in the validation cohort.
+The calibration curve showed good agreement between the nomogram prediction and actual survival.
+DCA indicated a clear net benefit of these new forecasting models.
+CONCLUSIONS: This study built and verified nomograms to predict OS and CSS for rare SIA, which appear to be excellent tools to augment the clinically available evidence to facilitate the discussion between SIA patients and clinicians regarding therapeutic choice.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

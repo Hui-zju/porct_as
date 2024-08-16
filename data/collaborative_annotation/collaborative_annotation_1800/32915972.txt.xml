@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Ibrutinib added to 10-day decitabine for older patients with AML and higher risk MDS.
+The treatment of older, unfit patients with acute myeloid leukemia (AML) is challenging.
+Based on preclinical data of Bruton tyrosine kinase expression/phosphorylation and ibrutinib cytotoxicity in AML blasts, we conducted a randomized phase 2 multicenter study to assess the tolerability and efficacy of the addition of ibrutinib to 10-day decitabine in unfit (ie, Hematopoietic Cell Transplantation Comorbidity Index >/=3) AML patients and higher risk myelodysplasia patients (HOVON135/SAKK30/15 trial).
+In total, 144 eligible patients were randomly (1:1) assigned to either 10-day decitabine combined with ibrutinib (560 mg; sequentially given, starting the day after the last dose of decitabine) (n = 72) or to 10-day decitabine (n = 72).
+The addition of ibrutinib was well tolerated, and the number of adverse events was comparable for both arms.
+In the decitabine plus ibrutinib arm, 41% reached complete remission/complete remission with incomplete hematologic recovery (CR/CRi), the median overall survival (OS) was 11 months, and 2-year OS was 27%; these findings compared with 50% CR/CRi, median OS of 11.5 months, and 2-year OS of 21% for the decitabine group (not significant).
+Extensive molecular profiling at diagnosis revealed that patients with STAG2, IDH2, and ASXL1 mutations had significantly lower CR/CRi rates, whereas patients with mutations in TP53 had significantly higher CR/CRi rates.
+Furthermore, multicolor flow cytometry revealed that after 3 cycles of treatment, 28 (49%) of 57 patients with available bone marrow samples had no measurable residual disease.
+In this limited number of cases, measurable residual disease revealed no apparent impact on event-free survival and OS.
+In conclusion, the addition of ibrutinib does not improve the therapeutic efficacy of decitabine.
+This trial was registered at the Netherlands Trial Register (NL5751 [NTR6017]) and has EudraCT number 2015-002855-85.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

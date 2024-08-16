@@ -1,0 +1,22 @@
+<MyRCT>
+<TEXT>Three-dimensional multipath DenseNet for improving automatic segmentation of glioblastoma on pre-operative multimodal MR images.
+PURPOSE: Convolutional neural networks have achieved excellent results in automatic medical image segmentation.
+In this study, we proposed a novel three-dimensional (3D) multipath DenseNet for generating the accurate glioblastoma (GBM) tumor contour from four multimodal pre-operative MR images.
+We hypothesized that the multipath architecture could achieve more accurate segmentation than a singlepath architecture.
+METHODS: Two hundred and fifty-eight GBM patients were included in this study.
+Each patient had four MR images (T1-weighted, contrast-enhanced T1-weighted, T2-weighted, and FLAIR) and the manually segmented tumor contour.
+We built a 3D multipath DenseNet that could be trained to achieve an end-to-end mapping from four MR images to the corresponding GBM tumor contour.
+A 3D singlepath DenseNet was also built for comparison.
+Both DenseNets were based on the encoder-decoder architecture.
+All four images were concatenated and fed into a single encoder path in the singlepath DenseNet, while each input image had its own encoder path in the multipath DenseNet.
+The patient cohort was randomly split into a training set of 180 patients, a validation set of 39 patients, and a testing set of 39 patients.
+Model performance was evaluated using the Dice similarity coefficient (DSC), average surface distance (ASD), and 95% Hausdorff distance (HD95% ).
+Wilcoxon signed-rank tests were conducted to assess statistical significances.
+RESULTS: The singlepath DenseNet achieved the DSC of 0.911 +/- 0.060, ASD of 1.3 +/- 0.7 mm, and HD95% of 5.2 +/- 7.1 mm, while the multipath DenseNet achieved the DSC of 0.922 +/- 0.041, ASD of 1.1 +/- 0.5 mm, and HD95% of 3.9 +/- 3.3 mm.
+The P-values of all Wilcoxon signed-rank tests were less than 0.05.
+CONCLUSIONS: Both DenseNets generated GBM tumor contours in good agreement with the manually segmented contours from multimodal MR images.
+The multipath DenseNet achieved more accurate tumor segmentation than the singlepath DenseNet.
+Here presented the 3D multipath DenseNet that demonstrated an improved accuracy over comparable algorithms in the clinical task of GBM tumor segmentation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

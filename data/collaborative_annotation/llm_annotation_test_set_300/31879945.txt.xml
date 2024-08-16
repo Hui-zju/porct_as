@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Pixantrone plus rituximab versus gemcitabine plus rituximab in patients with relapsed aggressive B-cell non-Hodgkin lymphoma not eligible for stem cell transplantation: a phase 3, randomized, multicentre trial (PIX306).
+PIX306 was a phase 3, randomised, single-blind, multicentre trial conducted in adult patients with diffuse large B-cell lymphoma (DLBCL) or follicular lymphoma (FL) grade 3 who relapsed after >/=1 rituximab-containing regimen and were not eligible for a stem cell transplant.
+Patients were randomised 1:1 to pixantrone 50 mg/m(2) or gemcitabine 1000 mg/m(2) on days 1, 8 and 15 of a 28-day cycle, combined with rituximab 375 mg/m(2) on day 1, for up to six cycles.
+Patients were followed for up to 96 weeks.
+The primary endpoint was progression-free survival (PFS).
+Secondary endpoints included overall survival (OS), complete response (CR) rate, overall response rate (ORR) and safety.
+Overall, 312 patients were randomised (median age 73.0 years).
+The study did not meet its primary endpoint.
+Median PFS [95% confidence interval (CI)] was 7.3 months (5.2-8.4) with pixantrone + rituximab (PIX + R) and 6.3 months (4.4-8.1) with gemcitabine + rituximab [GEM + R; hazard ratio (HR): 0.85; 95% CI 0.64-1.14; P = 0.28].
+Median OS was 13.3 (10.1-19.8) months with PIX + R and 19.6 (12.4-31.9) months with GEM + R (HR: 1.13; 95% CI 0.83-1.53).
+ORR was 61.9% and 43.9% respectively and CR rate 35.5% and 21.7%.
+The incidence of adverse events, including cardiac events, was not statistically significant different between PIX + R and GEM + R.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

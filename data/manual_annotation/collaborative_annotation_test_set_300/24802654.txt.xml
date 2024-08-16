@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase 2 trial of gemcitabine/cisplatin with or without cetuximab in patients with advanced urothelial carcinoma.
+BACKGROUND: Epidermal growth factor receptor overexpression is associated with poor outcomes in urothelial carcinoma (UC).
+Cetuximab (CTX) exhibited an antitumor effect in in vivo UC models.
+The efficacy of gemcitabine/cisplatin (GC) with or without CTX in patients with advanced UC was evaluated.
+METHODS: Patients with advanced UC, measurable disease, and adequate organ function were randomized 1:2 to cisplatin (70 mg/m(2) ) on day 1 plus gemcitabine (1000 mg/m(2) ) on days 1, 8, and 15 (arm A) or GC plus CTX (500 mg/m(2) ) on days 1 and 15 (arm B).
+The primary endpoint was the overall response rate.
+The secondary endpoints were the response duration, safety, progression-free survival, overall survival, determination of whether or not CTX sensitized nonresponders to GC, and exploratory biomarker analysis.
+The accrual targets were 27 and 54 patients for the 2 arms, respectively.
+The overall response rate was reported by arm with binomial confidence intervals (CIs).
+Kaplan-Meier methods were used for time-to-event endpoints.
+RESULTS: Eighty-eight eligible patients were randomized; 87 were toxicity-evaluable, and 85 were response-evaluable.
+The overall response rates were 57.1% for arm A (95% CI = 37%-76%) and 61.4% for arm B (95% CI = 48%-74%).
+The median progression-free survival times were 8.5 months for arm A (95% CI = 5.7-10.4 months) and 7.6 months for arm B (95% CI = 6.1-8.7 months).
+The median overall survival times were 17.4 months for arm A (95% CI = 12.8 months to unreached) and 14.3 months for arm B (95% CI = 11.6-22.2 months).
+The most common grade 3/grade 4 adverse events in both arms were myelosuppression and nausea.
+Thromboembolism, acneiform rash, fatigue, pain, hypersensitivity reactions, elevated transaminases, hyponatremia, and hypomagnesemia were more common in arm B; 3 grade 5 adverse events occurred in arm B. The presence of primary disease significantly correlated with thromboembolism.
+An increased soluble E-cadherin level after cycle 2 correlated with a higher risk of death.
+CONCLUSIONS: GC plus CTX was feasible but was associated with more adverse events and no improvements in outcomes.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

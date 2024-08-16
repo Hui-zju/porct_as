@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[[Efficacies of gefitinib versus paclitaxel/carboplatin for patients with advanced pulmonary adenocarcinoma].
+OBJECTIVE: To compare the clinical efficacies of gefitinib versus paclitaxel/carboplatin in patients with advanced pulmonary adenocarcinoma.
+METHODS: A total of 51 advanced pulmonary adenocarcinoma patients were recruited from Guangdong General Hospital during October 2006 to September 2007.
+Eligible patients were >/= 18 years old, either non-smokers or former light smokers and receiving no prior chemotherapy or biological/immunological therapy.
+According to performance status, smoking status and gender, they were selected with dynamic equilibrium randomized method 1: 1 to receive first-line gefitinib (250 mg/d) in gefitinib arm or carboplatin/paclitaxel (carboplatin, area under the curve 5 mg x ml(-)(1) x min(-)(1), 21-day cycle; paclitaxel, 200 mg/m(2), 21-day cycle in chemotherapy arm.
+The primary endpoint was progression free survival (PFS). And the secondary endpoints were objective response rate (ORR) and overall survival (OS).
+RESULTS: They were randomized into gefitinib arm (n = 25) and paclitaxel/carboplatin arm (n = 26).
+The median PFS was 4.2 months in gefitinib arm and 8.3 months in paclitaxel/carboplatin arm (P = 0.422); ORR 36.0% in gefitinib arm and 42.3% in paclitaxel/carboplatin arm (P = 0.645); Median OS 14.4 months in gefitinib arm and 15.0 months in paclitaxel/carboplatin arm (P = 0.290).
+Multifactorial Cox regression analysis showed that age (P = 0.004), epidermal growth factor receptor (EGFR) gene mutation status (P = 0.012) and subsequent treatments (platinum-based chemotherapy, P = 0.001; EGFR-tyrosine kinase inhibitors (TKI), P = 0.005) were the significant predictors of OS.
+CONCLUSIONS: No significant differences exist in terms of efficacy and survival between first-line gefitinib and paclitaxel/carboplatin for Chinese patients with pulmonary adenocarcinoma who are non-smokers or former light smokers.
+And age, EGFR gene mutation status and subsequent treatments are significant predictor of OS.
+However, first-line gefitinib should not be recommended for advanced non-small cell lung cancer (NSCLC) patients only based on clinical factors, due to a very small sample-size in our study.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

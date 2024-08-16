@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The value of a comprehensive primary outcome - results of a negative randomized control trial in the non-muscle invasive bladder cancer population.
+INTRODUCTION American Urological Association (AUA) guidelines recommend intravesical chemotherapy to be given following transurethral resection of a bladder tumor.
+Prior studies have shown the benefit of mitomycin as well as gemcitabine.
+However, no study has compared the two agents.
+MATERIALS AND METHODS: The study was designed as an open label 1:1:1 randomized controlled trial, comparing intravesical mitomycin, gemcitabine and saline as a single intraoperative instillation immediately following transurethral resection of suspected bladder tumor.
+Primary endpoint was any grade >/= 3 events according to NCI CTCAE Version 4.03, this captures any return trip to the operating room for recurrence of cancer or other event (benign bladder/urethra).
+Secondary endpoints were progression free survival for urothelial cell carcinoma and adverse events.
+RESULTS: A total of 82 patients were enrolled and randomized, unfortunately the trial was suspended early due to protocol deviations.
+In an intention to treat analysis, freedom from grade > 3 events at 2 years was 74.8% in the no treatment arm, 51.0% in the mitomycin arm, and 56.0% in the gemcitabine arm (p = 0.81).
+Freedom from cancer recurrence for all patients was 62.3%.
+In the no treatment arm, it was 78.8%, and 50.7% and 63.6% in the mitomycin arm and gemcitabine arm respectively.
+(p = 0.28).
+In a univariate analysis, the only patient variable significantly associated with the primary outcome was pathologic T stage (p < 0.002).
+CONCLUSION: This study provides an example of a novel, patient centered primary outcome with the goal of determining which treatment paradigms provide the greatest oncologic and clinic benefit.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

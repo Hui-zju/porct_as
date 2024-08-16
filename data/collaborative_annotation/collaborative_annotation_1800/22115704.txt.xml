@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Comparison of pemetrexed plus cisplatin with other first-line doublets in advanced non-small cell lung cancer (NSCLC): a combined analysis of three phase 3 trials.
+INTRODUCTION: In a first-line study of advanced NSCLC, pemetrexed-cisplatin was more effective among patients with adenocarcinoma and large-cell carcinoma compared with gemcitabine-cisplatin (median survival of 11.8 versus 10.4 months, P=.005), while survival with pemetrexed-cisplatin was shorter than with gemcitabine-cisplatin in patients with squamous cell carcinoma.
+The comparability of pemetrexed-cisplatin to other commonly used regimens within histology subgroups needs to be explored.
+METHODS: This retrospective analysis combined the patient-level data from three phase 3 randomized controlled trials that compared the efficacy of different third generation platinum- and non-platinum based doublets.
+Unadjusted median survival times and Cox covariate-adjusted treatment hazard ratio (HR) estimates were calculated.
+Overall results and subgroups by histological type were reported.
+RESULTS: This combined analysis consisted of 3467 patients.
+In the overall analysis, adjusted HRs favored pemetrexed (HR &lt;1.0) to each of the other 5 regimens, though none of these HRs were statistically significant.
+Among patients with non-squamous histology, pemetrexed-cisplatin produced favorable HRs to each of the other regimens, achieving statistical significance when compared with vinorelbine-cisplatin (HR=0.67; 95% confidence intervals [CI]: 0.50, 0.91) and gemcitabine-cisplatin (HR=0.85; 95% CI: 0.75, 0.97).
+Among patients with squamous histology, 4 of the 5 comparison regimens produced favorable HRs (HR &gt;1.0) when compared with pemetrexed-cisplatin, with only the comparison with gemcitabine-cisplatin achieving statistical significance (HR=1.23; 95% CI: 1.00, 1.51).
+CONCLUSION: In the absence of randomized clinical trial data comparing pemetrexed-cisplatin to commonly used doublets in advanced NSCLC other than gemcitabine-cisplatin, this combined analysis of multiple trials provides estimates for such comparisons.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

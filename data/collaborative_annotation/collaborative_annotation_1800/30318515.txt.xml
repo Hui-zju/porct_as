@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Galunisertib plus gemcitabine vs. gemcitabine for first-line treatment of patients with unresectable pancreatic cancer.
+BACKGROUND: Galunisertib is the first-in-class, first-in-human, oral small-molecule type I transforming growth factor-beta receptor (ALK5) serine/threonine kinase inhibitor to enter clinical development.
+The effect of galunisertib vs. placebo in patients with unresectable pancreatic cancer was determined.
+METHODS: This was a two-part, multinational study: phase 1b was a non-randomised, open-label, multicentre, and dose-escalation study; phase 2 was a randomised, placebo- and Bayesian-augmented controlled, double-blind study in patients with locally advanced or metastatic pancreatic adenocarcinoma considered candidates for first-line chemotherapy with gemcitabine.
+Patients were randomised 2:1 to galunisertib-gemcitabine (N = 104) or placebo-gemcitabine (N = 52).
+Gemcitabine dose was 1000 mg/m(2) QW.
+Primary endpoints for phases 1b and 2, respectively, were phase 2 dose and overall survival.
+Secondary objectives included tolerability and biomarkers.
+RESULTS: Dose-escalation suggested a 300-mg/day dose.
+Primary objective was met: median survival times were 8.9 and 7.1 months for galunisertib and placebo, respectively (hazard ratio [HR] = 0.79 [95% credible interval: 0.59-1.09] and posterior probability HR < 1 = 0.93).
+Lower baseline biomarkers macrophage inflammatory protein-1-alpha and interferon-gamma-induced protein 10 were associated with galunisertib benefit.
+CONCLUSIONS: Galunisertib-gemcitabine combination improved overall survival vs. gemcitabine in patients with unresectable pancreatic cancer, with minimal added toxicity.
+Future exploration of galunisertib in pancreatic cancer is ongoing in combination with durvalumab.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

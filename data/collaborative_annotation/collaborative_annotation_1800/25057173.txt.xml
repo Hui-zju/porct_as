@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[EGFR biomarkers predict benefit from vandetanib in combination with docetaxel in a randomized phase III study of second-line treatment of patients with advanced non-small cell lung cancer.
+BACKGROUND: ZODIAC was a randomized phase III study of second-line treatment in patients with advanced non-small cell lung cancer (NSCLC) that evaluated the addition of vandetanib to docetaxel.
+The study showed a statistically significant improvement in progression-free survival and objective response rate, but not in overall survival for unselected patients.
+This study evaluated epidermal growth factor receptor (EGFR) gene mutation, copy number gain, and protein expression, and KRAS gene mutation, in pretreatment tumor samples as potential biomarkers predicting benefit from vandetanib as second-line treatment of NSCLC.
+PATIENTS AND METHODS: After progression following first-line chemotherapy, 1391 patients with locally advanced or metastatic (stage IIIB/IV) NSCLC were randomized 1 : 1 to receive vandetanib (100 mg/day) plus docetaxel (75 mg/m(2) every 21 days) or placebo plus docetaxel in the ZODIAC study.
+Archival tumor samples (n = 570) were collected from consenting patients (n = 958) for predefined, prospective biomarker analyses.
+RESULTS: Of evaluable samples, 14% were EGFR mutation positive, 35% were EGFR FISH positive, 88% were EGFR protein expression positive, and 13% were KRAS mutation positive.
+Compared with the overall study population, in which progression-free survival (PFS) [hazard ratio (HR) = 0.79] but not OS (HR = 0.91) were significantly improved with vandetanib, there was greater relative clinical benefit for patients with EGFR mutation-positive tumors [PFS HR 0.51, confidence interval (CI) 0.25-1.06 and OS HR 0.46, CI 0.14-1.57] and EGFR FISH-positive tumors (PFS HR 0.61, CI 0.39-0.94 and OS HR 0.48, CI 0.28-0.84).
+Similarly, patients with EGFR mutation or FISH-positive tumor samples who received vandetanib had an increased chance of objective tumor response (odds ratios 3.34, CI 0.8-13.89, and 3.90, CI 1.02-14.82, respectively).
+There did not appear to be benefit for vandetanib in patients with KRAS mutation-positive tumors.
+CONCLUSIONS: High EGFR gene copy number or activating EGFR mutations may identify patient subgroups who receive increased clinical benefit from vandetanib in combination with docetaxel in second-line NSCLC.
+CLINICALTRIALSGOV: NCT00312377.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

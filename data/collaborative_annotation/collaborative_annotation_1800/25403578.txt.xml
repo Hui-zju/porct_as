@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[FOLFOX4 versus sequential dose-dense FOLFOX7 followed by FOLFIRI in patients with resectable metastatic colorectal cancer (MIROX): a pragmatic approach to chemotherapy timing with perioperative or postoperative chemotherapy from an open-label, randomized phase III trial.
+BACKGROUND: Perioperative FOLFOX4 (oxaliplatin plus 5-fluorouracil/leucovorin) chemotherapy is the current standard in patients with resectable metastases from colorectal cancer (CRC).
+We aimed to determine whether a sequential chemotherapy with dose-dense oxaliplatin (FOLFOX7) and irinotecan (FOLFIRI; irinotecan plus 5-fluorouracil/leucovorin) is superior to FOLFOX4.
+The chemotherapy timing was not imposed, and was perioperative or postoperative.
+PATIENTS AND METHODS: In this open-label, phase III trial, patients with resectable or resected metastases were randomly assigned either to 12 cycles of FOLFOX4 (oxaliplatin 85 mg/m(2)) or 6 cycles of FOLFOX7 (oxaliplatin 130 mg/m(2)) followed by 6 cycles of FOLFIRI (irinotecan 180 mg/m(2)).
+Randomization was done centrally, with stratification by chemotherapy timing, type of local treatment (surgery versus radiofrequency ablation with/without surgery), and Fong's prognostic score.
+The primary end point was 2-year disease-free survival (DFS).
+RESULTS: A total of 284 patients were randomized, 142 in each treatment group.
+Chemotherapy was perioperative in 168 (59.2%) patients and postoperative in 116 (40.8%) patients.
+Perioperative chemotherapy was preferentially proposed for synchronous metastases, whereas postoperative chemotherapy was more frequently used for metachronous metastases.
+Two-year DFS was 48.5% in the FOLFOX4 group and 50.0% in the FOLFOX7-FOLFIRI group.
+In the multivariable analysis, more than one metastasis [hazard ratio (HR) = 2.15] and synchronous metastases (HR = 1.63) were independent prognostic factors for shorter DFS.
+Five-year overall survival (OS) rate was 69.5% with FOLFOX4 versus 66.6% with FOLFOX7-FOLFIRI.
+CONCLUSIONS: FOLFOX7-FOLFIRI is not superior to FOLFOX4 in patients with resectable metastatic CRC.
+Five-year OS rates observed in both groups are the highest ever reported in this setting, possibly reflecting the pragmatic approach to chemotherapy timing.
+CLINICAL TRIALS NUMBER: NCT00268398.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

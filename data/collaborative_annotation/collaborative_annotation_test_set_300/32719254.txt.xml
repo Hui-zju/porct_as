@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A comparative study of concomitant boost radiation versus concomitant boost with concurrent chemoradiation versus standard fractionation chemoradiation in locally advanced head-and-neck cancer.
+Context: As the number of head-and-neck cancer (HNC) patients are high in our subcontinent, the study was designed to reduce the treatment time and increase efficacy.
+Aims: Comparative evaluation of the efficacy, toxicity, local control, and survival of concomitant boost radiotherapy (CBRT), CBRT with concurrent chemoradiation (CBRT + CCT) and conventionally fractionated radiotherapy with concomitant chemotherapy (CFRT + CCT) in locally advanced HNC (LAHNC).
+Materials and Methods: Patients with LAHNC were randomly assigned to 3-groups of 30-patients each.
+Group I (CBRT) received, 45 Gy/25#/5-weeks and 18 Gy/10# concomitant boost in the last 2-week of treatment, receiving a total dose of 63 Gy.
+Group II (CBRT + CCT) received CBRT with concomitant cisplatin 75 mg/m (2) on day 1, 17, and 34.
+Group III (CFRT + CCT) received 64 Gy/32#/6.2 weeks, concurrent with injection cisplatin 75 mg/m (2) on day 1, 22, and 42.
+Statistical Analysis Used: Stata 9.0 SPSS and Chi-square test were used for analysis and disease-free survival (DFS) rates were calculated using the Kaplan-Meier method.
+Results: The median follow-up period was 8.2 months.
+At last follow-up, locoregional control was 36%, 57%, and 40% and DFS was seen in 33%, 53%, and 40% of patients in Group I, II, and III, respectively.
+Grade-3 cutaneous reactions were significantly higher in Group-II as compared to that of Group-III (P = 0.033) and Group-I (P = 0.715).
+Conclusion: All three groups have similar response rates and DFS with manageable toxicity.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

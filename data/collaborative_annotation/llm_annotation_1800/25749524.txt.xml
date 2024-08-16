@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>A direct plasma assay of circulating microRNA-210 of hypoxia can identify early systemic metastasis recurrence in melanoma patients.
+Circulating cell-free(cf) microRNAs (miRNAs) have been reported to exist in plasma.
+MicroRNA-210(miR-210) is known to play important roles in the tumor hypoxic state.
+We hypothesized that the expression levels of cf-miR-210 in plasma would predict early clinical recurrence in melanoma patients.
+A direct miRNA assay on plasma (RT-qPCR-DP) was developed to improve cf-miRNA assay logistics, eliminate RNA extraction, and reduce specimen amount required.
+RNA was extracted from formalin-fixed paraffin-embedded (FFPE) melanoma tissues (n = 108) and assessed by RT-qPCR.
+Plasma (10 mul; n = 264) was procured from AJCC Stage III/IV patients in phase III clinical trials.
+A RT-qPCR-DP was performed to detect cf-miR-210.
+MiR-210 was significantly higher in metastatic tumors compared to primary tumors.
+Cf-miR-210 was significantly higher in melanoma patients versus healthy donor controls.
+In serial bloods within individual patients, cf-miR-210 &lt; 3 months prior to disease recurrence significantly increased compared to baseline levels (p = 0.012).
+ROC curve analysis demonstrated that patients with elevated cf-miR-210 were more likely to have disease recurrence.
+Moreover, cf-miR-210 increase significantly correlated with poorer prognosis (p &lt; 0.001).
+Lactate dehydrogenase (LDH) level was also assessed within patients, and the AIC values for proportional hazards regression models of cf-miR-210(120.01) and LDH (122.91) demonstrated that cf-miR-210 is a better recurrence indicator.
+We concluded enhanced cf-miR-210 provides identification of early systemic melanoma recurrence.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

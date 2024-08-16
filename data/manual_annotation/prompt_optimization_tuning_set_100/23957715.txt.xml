@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Outcome of patients with HER2-positive breast cancer treated with or without adjuvant trastuzumab in the Finland Capecitabine Trial (FinXX).
+BACKGROUND: Little information is available about survival outcomes of patients with HER2-positive early breast cancer treated with adjuvant capecitabine-containing chemotherapy with or without trastuzumab.
+PATIENTS AND METHODS: One thousand and five hundred patients with early breast cancer were entered to the Finland Capecitabine trial (FinXX) between January 2004 and May 2007, and were randomly assigned to receive either three cycles of adjuvant TX (docetaxel, capecitabine) followed by three cycles of CEX (cyclophosphamide, epirubicin, capecitabine; TX-CEX) or three cycles of docetaxel followed by three cycles of CEF (cyclophosphamide, epirubicin, fluorouracil; T-CEF).
+The primary endpoint was recurrence-free survival (RFS).
+The study protocol was amended in May 2005 while study accrual was ongoing to allow adjuvant trastuzumab for patients with HER2-positive cancer.
+Of the 284 patients with HER2-positive cancer accrued to FinXX, 176 (62.0%) received trastuzumab after amending the study protocol, 131 for 12 months and 45 for nine weeks.
+The median follow-up time was 6.7 years.
+RESULTS: Patients with HER2-positive cancer who received trastuzumab had better RFS than those who did not (five-year RFS 89.2% vs. 75.9%; HR 0.41, 95% CI 0.23-0.72; p = 0.001).
+Patients treated with trastuzumab for 12 months or nine weeks had similar RFS.
+There was no significant interaction between trastuzumab administration and the type of chemotherapy.
+Four (2.3%) patients treated with trastuzumab had heart failure or left ventricular dysfunction, three of these received capecitabine.
+CONCLUSION: Adjuvant trastuzumab improves RFS of patients treated with TX-CEX or T-CEF.
+Few patients had cardiac failure.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

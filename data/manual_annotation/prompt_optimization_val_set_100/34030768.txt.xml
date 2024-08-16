@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Pilot Study of Silymarin as Supplementation to Reduce Toxicities in Metastatic Colorectal Cancer Patients Treated With First-Line FOLFIRI Plus Bevacizumab.
+Irinotecan, a topoisomerase inhibitor, is a common cytotoxic agent prescribed for metastatic colorectal cancer (mCRC) patients.
+Diarrhea is the most common adverse event (AE).
+The underlying mechanism of irinotecan-induced diarrhea is intestinal mucosal damage caused by SN-38 (active metabolite of irinotecan) hydrolyzed from SN-38G (inactive metabolite) by bacterial -glucuronidase (G).
+According to an animal study, silymarin reduces the activity of bacterial G without impairing antitumor efficacy.
+We conducted a prospective open-label pilot study to evaluate the effect of silymarin as supplementation in reducing toxicities of mCRC patients undergoing irinotecan-based chemotherapy.
+We enrolled and randomized 70 mCRC patients receiving first-line FOLFIRI (5-fluorouracil/leucovorin/irinotecan) plus bevacizumab.
+In each treatment cycle, the study group was administered silymarin capsules (150 mg) three times daily for 7 days.
+The study group experienced less AEs in diarrhea (5.7% vs. 14.6%, p=0.002) and nausea (27.0% vs. 40.2%, p=0.005) in comparison with the control group, but no significant differences in hepatic toxicities were observed.
+In conclusion, simultaneous administration of silymarin is a potential effective supplementation for reducing toxicities in mCRC patients undergoing first-line FOLFIRI plus bevacizumab, especially in diarrhea and nausea.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

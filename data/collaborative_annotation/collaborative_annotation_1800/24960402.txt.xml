@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A phase IIa dose-finding and safety study of first-line pertuzumab in combination with trastuzumab, capecitabine and cisplatin in patients with HER2-positive advanced gastric cancer.
+BACKGROUND: Pertuzumab plus trastuzumab provides a more comprehensive blockade of HER2 signalling than trastuzumab alone.
+Therefore, we conducted a phase IIa study of the pharmacokinetics and safety of pertuzumab plus trastuzumab and chemotherapy in advanced gastric cancer (aGC).
+METHODS: Patients received pertuzumab 840 mg for cycle 1 and 420 mg q3w for cycles 2-6 (Arm A) or pertuzumab 840 mg q3w for six cycles (Arm B).
+Trastuzumab, cisplatin and capecitabine were also given for six cycles, then trastuzumab q3w until disease progression or unmanageable toxicity.
+The co-primary endpoints were day 43 pertuzumab serum trough concentration (Cmin) and safety.
+RESULTS: Thirty patients were randomised.
+Mean pertuzumab Cmin at day 43 was 40.0 mug ml(-1) (s.d.: 17.3) in Arm A and 62.7 mug ml(-1) (29.1) in Arm B. Mean day 43 Cmin in Arm A was ~37% lower than that seen in metastatic breast cancer.
+The safety profiles were similar between arms and treatment was well tolerated.
+Partial responses were achieved by 86% and 55% of patients in Arms A and B, respectively.
+CONCLUSIONS: On the basis of the pharmacokinetic and safety data, the 840 mg q3w pertuzumab dose has been selected for a phase III study of pertuzumab, trastuzumab and chemotherapy in HER2-positive aGC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

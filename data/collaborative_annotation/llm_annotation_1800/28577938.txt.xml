@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Evaluation of the VeriStrat((R)) serum protein test in patients with advanced squamous cell carcinoma of the lung treated with second-line afatinib or erlotinib in the phase III LUX-Lung 8 study.
+OBJECTIVES: Identification of biomarkers associated with clinical benefit may be crucial in establishing optimal treatment choice for patients with squamous cell carcinoma (SCC) of the lung after first-line chemotherapy.
+In this study, the ability of the VeriStrat serum protein test to predict differential clinical benefit with afatinib versus erlotinib, and the association of VeriStrat status with clinical outcomes irrespective of EGFR-TKI used, was assessed in a retrospective analysis of the phase III LUX-Lung 8 trial.
+MATERIALS AND METHODS: Pretreatment plasma samples were analyzed using matrix-assisted laser desorption ionization time-of-flight mass spectrometry.
+Spectra were evaluated to assign a VeriStrat 'Good' (VS-G) or VeriStrat 'Poor' (VS-P) classification.
+Overall survival (OS), progression-free survival, and other endpoints were assessed with respect to pretreatment VeriStrat status; OS was the primary efficacy variable.
+Outcomes with other efficacy endpoints were similar.
+RESULTS: Of 795 patients randomized in LUX-Lung 8, 675 were classified (VS-G: 412; VS-P: 263).
+In the VS-G group, OS was significantly longer with afatinib versus erlotinib (HR 0.79 [95% CI: 0.63-0.98]).
+In the VS-P group, there was no significant difference in OS between afatinib and erlotinib (HR 0.90 [0.70-1.16]).
+However, there was no interaction between VeriStrat classification and treatment group for OS (pinteraction=0.5303).
+OS was significantly longer in VS-G versus VS-P patients, both in the overall VeriStrat-classified population (HR 0.41 [0.35-0.49]) and afatinib-treated patients (HR 0.40 [0.31-0.51]).
+Multivariate analysis showed that VeriStrat was an independent predictor of OS in afatinib-treated patients, regardless of ECOG PS or best response to first-line chemotherapy.
+CONCLUSION: VS-G classification is strongly associated with favorable survival outcomes with either afatinib or erlotinib compared with VS-P classification.
+In VS-G patients, survival outcomes with afatinib are superior to those with erlotinib.
+VeriStrat classification may guide treatment decisions in patients with SCC of the lung.
+ClinicalTrials.gov registration number: NCT01523587.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

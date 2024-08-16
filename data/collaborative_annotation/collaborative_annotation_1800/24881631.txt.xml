@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Ibrutinib versus ofatumumab in previously treated chronic lymphoid leukemia.
+BACKGROUND: In patients with chronic lymphoid leukemia (CLL) or small lymphocytic lymphoma (SLL), a short duration of response to therapy or adverse cytogenetic abnormalities are associated with a poor outcome.
+We evaluated the efficacy of ibrutinib, a covalent inhibitor of Bruton's tyrosine kinase, in patients at risk for a poor outcome.
+METHODS: In this multicenter, open-label, phase 3 study, we randomly assigned 391 patients with relapsed or refractory CLL or SLL to receive daily ibrutinib or the anti-CD20 antibody ofatumumab.
+The primary end point was the duration of progression-free survival, with the duration of overall survival and the overall response rate as secondary end points.
+RESULTS: At a median follow-up of 9.4 months, ibrutinib significantly improved progression-free survival; the median duration was not reached in the ibrutinib group (with a rate of progression-free survival of 88% at 6 months), as compared with a median of 8.1 months in the ofatumumab group (hazard ratio for progression or death in the ibrutinib group, 0.22; P<0.001).
+Ibrutinib also significantly improved overall survival (hazard ratio for death, 0.43; P=0.005).
+At 12 months, the overall survival rate was 90% in the ibrutinib group and 81% in the ofatumumab group.
+The overall response rate was significantly higher in the ibrutinib group than in the ofatumumab group (42.6% vs. 4.1%, P<0.001).
+An additional 20% of ibrutinib-treated patients had a partial response with lymphocytosis.
+Similar effects were observed regardless of whether patients had a chromosome 17p13.1 deletion or resistance to purine analogues.
+The most frequent nonhematologic adverse events were diarrhea, fatigue, pyrexia, and nausea in the ibrutinib group and fatigue, infusion-related reactions, and cough in the ofatumumab group.
+CONCLUSIONS: Ibrutinib, as compared with ofatumumab, significantly improved progression-free survival, overall survival, and response rate among patients with previously treated CLL or SLL.
+(Funded by Pharmacyclics and Janssen; RESONATE ClinicalTrials.gov number, NCT01578707.).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

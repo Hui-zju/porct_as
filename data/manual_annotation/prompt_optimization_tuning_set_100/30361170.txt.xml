@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Nivolumab plus ipilimumab or nivolumab alone versus ipilimumab alone in advanced melanoma (CheckMate 067): 4-year outcomes of a multicentre, randomised, phase 3 trial.
+BACKGROUND: Previously reported results from the phase 3 CheckMate 067 trial showed a significant improvement in objective responses, progression-free survival, and overall survival with nivolumab plus ipilimumab or nivolumab alone compared with ipilimumab alone in patients with advanced melanoma.
+The aim of this report is to provide 4-year updated efficacy and safety data from this study.
+METHODS: In this phase 3 trial, eligible patients were aged 18 years or older with previously untreated, unresectable, stage III or stage IV melanoma, known BRAF(V600) mutation status, and an Eastern Cooperative Oncology Group performance status of 0 or 1.
+Patients were randomly assigned 1:1:1 to receive intravenous nivolumab 1 mg/kg plus ipilimumab 3 mg/kg every 3 weeks for four doses, followed by nivolumab 3 mg/kg every 2 weeks, or nivolumab 3 mg/kg every 2 weeks plus placebo, or ipilimumab 3 mg/kg every 3 weeks for four doses plus placebo.
+Randomisation was done via an interactive voice response system with a permuted block schedule (block size of six) and stratification by PD-L1 status, BRAF mutation status, and metastasis stage.
+The patients, investigators, study site staff, and study funder were masked to the study drug administered.
+The co-primary endpoints were progression-free survival and overall survival.
+Efficacy analyses were done on the intention-to-treat population, whereas safety was assessed in all patients who received at least one dose of study drug.
+The results presented in this report reflect the 4-year update of the ongoing study with a database lock date of May 10, 2018.
+This study is registered with ClinicalTrials.gov, number NCT01844505.
+FINDINGS: Between July 3, 2013, and March 31, 2014, 945 patients were enrolled and randomly assigned to nivolumab plus ipilimumab (n=314), nivolumab (n=316), or ipilimumab (n=315).
+Median follow-up was 46.9 months (IQR 10.9-51.8) in the nivolumab plus ipilimumab group, 36.0 months (10.5-51.4) in the nivolumab group, and 18.6 months (7.6-49.5) in the ipilimumab group.
+At a minimum follow-up of 48 months from the date that the final patient was enrolled and randomised, median overall survival was not reached (95% CI 38.2-not reached) in the nivolumab plus ipilimumab group, 36.9 months (28.3-not reached) in the nivolumab group, and 19.9 months (16.9-24.6) in the ipilimumab group.
+The hazard ratio for death for the combination versus ipilimumab was 0.54 (95% CI 0.44-0.67; p<0.0001) and for nivolumab versus ipilimumab was 0.65 (0.53-0.79; p<0.0001).
+Median progression-free survival was 11.5 months (95% CI 8.7-19.3) in the nivolumab plus ipilimumab group, 6.9 months (5.1-10.2) in the nivolumab group, and 2.9 months (2.8-3.2) in the ipilimumab group.
+The hazard ratio for progression-free survival for the combination versus ipilimumab was 0.42 (95% CI 0.35-0.51; p<0.0001) and for nivolumab versus ipilimumab was 0.53 (0.44-0.64; p<0.0001).
+Treatment-related grade 3-4 adverse events were reported in 185 (59%) of 313 patients who received nivolumab plus ipilimumab, 70 (22%) of 313 who received nivolumab, and 86 (28%) of 311 who received ipilimumab.
+The most common treatment-related grade 3 adverse events were diarrhoea in the nivolumab plus ipilimumab group (29 [9%] of 313) and in the nivolumab group (nine [3%] of 313) and colitis in the ipilimumab group (23 [7%] of 311); the most common grade 4 adverse event in all three groups was increased lipase (15 [5%] of 313 in the combination group, ten [3%] of 313 in the nivolumab group, and four [1%] of 311 in the ipilimumab group).
+Serious adverse events were not analysed for the 4-year follow-up.
+In total for the study, there were four treatment-related deaths: two in the nivolumab plus ipilimumab group (one cardiomyopathy and one liver necrosis), one in the nivolumab group (neutropenia), and one in the ipilimumab group (colon perforation).
+No additional treatment-related deaths have occurred since the previous (3-year) analysis.
+INTERPRETATION: The results of this analysis at 4 years of follow-up show that a durable, sustained survival benefit can be achieved with first-line nivolumab plus ipilimumab or nivolumab alone in patients with advanced melanoma.
+FUNDING: Bristol-Myers Squibb.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

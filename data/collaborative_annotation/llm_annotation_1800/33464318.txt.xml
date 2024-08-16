@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Cost-effectiveness of Pembrolizumab as a Second-Line Therapy for Hepatocellular Carcinoma.
+Importance: Immune checkpoint inhibitors have been approved for use as a second-line therapy for hepatocellular carcinoma (HCC) in patients who previously received sorafenib.
+Pembrolizumab has shown substantial antitumor activity and a favorable toxicity profile as a second-line treatment of HCC.
+However, considering the high cost of pembrolizumab, there is a need to assess its value by considering both the clinical efficacy and cost.
+Objective: To evaluate the cost-effectiveness of pembrolizumab vs placebo as second-line therapy in patients with HCC from the US payer perspective.
+Design, Setting, and Participants: A Markov model was developed to compare the lifetime cost and efficacy of pembrolizumab as a second-line treatment of HCC with those of placebo using outcome data from the KEYNOTE-240 randomized placebo-controlled trial, which included 413 patients with advanced HCC previously treated with sorafenib and randomized patients to receive pembrolizumab plus best supportive care or placebo plus best supportive care in a 2:1 ratio.
+Main Outcomes and Measures: Life-years, quality-adjusted life-years (QALYs), lifetime costs, and incremental cost-effectiveness ratio (ICER) were estimated at a willingness-to-pay threshold of $150000 per QALY.
+One-way and probabilistic sensitivity analyses were performed to account for the parameter of uncertainty.
+A cost-threshold analysis was also performed.
+The study was conducted from January 31 to July 29, 2020.
+Results: The base-case model found that treatment with pembrolizumab was associated with increased overall cost by $47057 and improved effectiveness by 0.138 QALYs compared with placebo, leading to an ICER of $340409 per QALY.
+The model was most sensitive to the hazard ratio of overall survival (range, 0.61-1.00), health utility of placebo (range, 0.59-0.93), price of pembrolizumab (range, $5531-$8297), and price of postprogression therapies (range, $5596-$7944 for pembrolizumab and $4770-$7156 for placebo).
+The ICER of pembrolizumab was larger than $150000 per QALY in most of the sensitivity and subgroup analyses.
+The price of pembrolizumab needed to be reduced by 57.7% to $2925 per cycle to achieve cost-effectiveness.
+Conclusions and Relevance: The findings of this cost-effectiveness analysis suggest that, at its current price, pembrolizumab is not a cost-effective second-line therapy for HCC in the US, with a willingness-to-pay threshold of $150000 per QALY.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

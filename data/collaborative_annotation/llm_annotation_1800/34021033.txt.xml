@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Randomized phase II trial of lymphodepletion plus adoptive cell transfer of tumor-infiltrating lymphocytes, with or without dendritic cell vaccination, in patients with metastatic melanoma.
+BACKGROUND: The adoptive transfer of tumor-infiltrating lymphocytes (TIL) has demonstrated robust efficacy in metastatic melanoma patients.
+Tumor antigen-loaded dendritic cells (DCs) are believed to optimally activate antigen-specific T lymphocytes.
+We hypothesized that the combined transfer of TIL, containing a melanoma antigen recognized by T cells 1 (MART-1) specific population, with MART-1-pulsed DC will result in enhanced proliferation and prolonged survival of transferred MART-1 specific T cells in vivo ultimately leading to improved clinical responses.
+DESIGN: We tested the combination of TIL and DC in a phase II clinical trial of patients with advanced stage IV melanoma.
+HLA-A0201 patients whose early TIL cultures demonstrated reactivity to MART-1 peptide were randomly assigned to receive TIL alone or TIL +DC pulsed with MART-1 peptide.
+The primary endpoint was to evaluate the persistence of MART-1 TIL in the two arms.
+Secondary endpoints were to evaluate clinical response and survival.
+RESULTS: Ten patients were given TIL alone while eight patients received TIL+DC vaccine.
+Infused MART-1 reactive CD8(+) TIL were tracked in the blood over time by flow cytometry and results show good persistence in both arms, with no difference in the persistence of MART-1 between the two arms.
+The objective response rate was 30% (3/10) in the TIL arm and 50% (4/8) in the TIL+DC arm.
+All treatments were well tolerated.
+CONCLUSIONS: The combination of TIL +DC showed no difference in the persistence of MART-1 TIL compared with TIL therapy alone.
+Although more patients showed a clinical response to TIL+DC therapy, this study was not powered to resolve differences between groups.
+TRIAL REGISTRATION NUMBER: NCT00338377.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Which patients benefit most from primary surgery or neoadjuvant chemotherapy in stage IIIC or IV ovarian cancer? An exploratory analysis of the European Organisation for Research and Treatment of Cancer 55971 randomised trial.
+BACKGROUND: To investigate whether biomarkers consisting of baseline characteristics of advanced stage ovarian cancer patients can help in identifying subgroups of patients who would benefit more from primary surgery or neoadjuvant chemotherapy.
+METHODS: We used data of the European Organisation for Research and Treatment of Cancer (EORTC) 55971 trial in which 670 patients were randomly assigned to primary surgery or neoadjuvant chemotherapy.
+The primary outcome was overall survival.
+Ten baseline clinical and pathological characteristics were selected as potential biomarkers.
+Using Subpopulation Treatment Effect Pattern Plots (STEPP), biomarkers with a statistically significant qualitative additive interaction with treatment were considered as potentially informative for treatment selection.
+We also combined selected biomarkers to form a multimarker treatment selection rule.
+FINDINGS: The size of the largest metastatic tumour and clinical stage were significantly associated with the magnitude of the benefit from treatment, in terms of five-year survival (p for interaction: 0.008 and 0.016, respectively).
+Stage IIIC patients with metastatic tumours 45 mm benefited more from primary surgery while stage IV patients with metastatic tumours &gt;45 mm benefited more from neoadjuvant chemotherapy.
+In stage IIIC patients with larger metastatic tumours and in stage IV patients with less extensive metastatic tumours both treatments were equally effective.
+We estimated that by selecting treatments for patients based on largest metastatic tumour and clinical stage, the potential five-year survival rate in the population of treated patients would be 27.3% (95% confidence interval (CI) 21.9-33.0), 7.8% higher than if all were treated with primary surgery, and 5.6% higher if all were treated with neoadjuvant chemotherapy.
+INTERPRETATION: Although survival was comparable after primary surgery and neoadjuvant chemotherapy in the overall group of patients with ovarian cancer in the EORTC 55971 trial, we found in this exploratory analysis that patients with stage IIIC and less extensive metastatic tumours had higher survival with primary surgery, while patients with stage IV disease and large metastatic tumours had higher survival with neoadjuvant chemotherapy.
+For patients who did not meet these criteria, both treatment options led to comparable survival rates.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

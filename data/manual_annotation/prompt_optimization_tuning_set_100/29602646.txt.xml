@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Combination nivolumab and ipilimumab or nivolumab alone in melanoma brain metastases: a multicentre randomised phase 2 study.
+BACKGROUND: Nivolumab monotherapy and combination nivolumab plus ipilimumab increase proportions of patients achieving a response and survival versus ipilimumab in patients with metastatic melanoma; however, efficacy in active brain metastases is unknown.
+We aimed to establish the efficacy and safety of nivolumab alone or in combination with ipilimumab in patients with active melanoma brain metastases.
+METHODS: This multicentre open-label randomised phase 2 trial was done at four sites in Australia, in three cohorts of immunotherapy-naive patients aged 18 years or older with melanoma brain metastases.
+Patients with asymptomatic brain metastases with no previous local brain therapy were randomly assigned using the biased coin minimisation method, stratified by site, in a 30:24 ratio (after a safety run-in of six patients) to cohort A (nivolumab plus ipilimumab) or cohort B (nivolumab).
+Patients with brain metastases in whom local therapy had failed, or who had neurological symptoms, or leptomeningeal disease were enrolled in non-randomised cohort C (nivolumab).
+Patients in cohort A received intravenous nivolumab 1 mg/kg combined with ipilimumab 3 mg/kg every 3 weeks for four doses, then nivolumab 3 mg/kg every 2 weeks; patients in cohort B or cohort C received intravenous nivolumab 3 mg/kg every 2 weeks.
+The primary endpoint was intracranial response from week 12.
+Primary and safety analyses were done on an intention-to-treat basis in all patients who received at least one dose of the study drug.
+This trial is registered with ClinicalTrials.gov, number NCT02374242, and is ongoing for the final survival analysis.
+FINDINGS: Between Nov 4, 2014, and April 21, 2017, 79 patients were enrolled; 36 in cohort A, 27 in cohort B, and 16 in cohort C. One patient in cohort A and two in cohort B were found to be ineligible and excluded from the study before receiving the study drug.
+At the data cutoff (Aug 28, 2017), with a median follow up of 17 months (IQR 8-25), intracranial responses were achieved by 16 (46%; 95% CI 29-63) of 35 patients in cohort A, five (20%; 7-41) of 25 in cohort B, and one (6%; 0-30) of 16 in cohort C. Intracranial complete responses occurred in six (17%) patients in cohort A, three (12%) in cohort B, and none in cohort C. Treatment-related adverse events occurred in 34 (97%) of 35 patients in cohort A, 17 (68%) of 25 in cohort B, and eight (50%) of 16 in cohort C. Grade 3 or 4 treatment-related adverse events occurred in 19 (54%) patients in cohort A, four (16%) in cohort B, and two (13%) in cohort C. No treatment-related deaths occurred.
+INTERPRETATION: Nivolumab combined with ipilimumab and nivolumab monotherapy are active in melanoma brain metastases.
+A high proportion of patients achieved an intracranial response with the combination.
+Thus, nivolumab combined with ipilimumab should be considered as a first-line therapy for patients with asymptomatic untreated brain metastases.
+FUNDING: Melanoma Institute Australia and Bristol-Myers Squibb.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

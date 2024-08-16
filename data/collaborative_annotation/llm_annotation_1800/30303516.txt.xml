@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>NCI 8628: A randomized phase 2 study of ziv-aflibercept and high-dose interleukin 2 or high-dose interleukin 2 alone for inoperable stage III or IV melanoma.
+BACKGROUND: Interleukin 2 (IL-2) is a growth factor for T and natural killer cells, promotes proinflammatory cytokines, and can lead to durable responses in patients with melanoma.
+Vascular endothelial growth factor (VEGF) promotes angiogenesis and modulates host innate and adaptive immunity.
+High VEGF levels were found to be associated with nonresponse to IL-2.
+Ziv-aflibercept may deplete VEGF and thereby enhance antitumor T-cell responses, thus supporting a combination immunotherapeutic strategy with IL-2.
+METHODS: NCI 8628 was a phase 2 trial of ziv-aflibercept and IL-2 (arm A) versus IL-2 alone (arm B) randomized at 2:1, respectively.
+Eligible patients had inoperable American Joint Committee on Cancer stage III or stage IV melanoma.
+The primary endpoint was progression-free survival (PFS).
+RESULTS: A total of 89 patients were enrolled and 84 patients were treated.
+The median follow-up was 41.4 months.
+Among treated patients (55 patients in arm A and 29 patients in arm B), PFS was significantly improved in favor of arm A, with a median of 6.9 months (95% confidence interval [95% CI], 4.1-8.7 months) versus 2.3 months (95% CI, 1.6-3.5 months) (P&lt;.001).
+No significant difference was noted with regard to overall survival, with a median of 26.9 months (95% CI, 14.4-63.6 months) for arm A and 24.2 months (95% CI, 11.3-36.4 months) for arm B. The response rate (according to Response Evaluation Criteria In Solid Tumors [RECIST]) was 22% in arm A (4 complete responses [CRs] and 8 partial responses [PRs]) and 17% in arm B (1 CR and 4 PRs).
+Stable disease or PR or CR was noted in 65% of patients in arm A and 48% of patients in arm B. The combination was found to be superior to monotherapy in patients with high and low levels of serum VEGF and VEGF receptor 2.
+Adverse events were consistent with the expected profiles of monotherapy with IL-2 and ziv-aflibercept.
+CONCLUSIONS: Ziv-aflibercept and IL-2 were found to significantly improve PFS compared with IL-2 alone, thereby meeting the primary endpoint of the current study.
+These findings support further study of immunotherapeutic combination strategies involving VEGF inhibitors.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

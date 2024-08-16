@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Improvement in Overall Survival in a Randomized Study That Compared Dacomitinib With Gefitinib in Patients With Advanced Non-Small-Cell Lung Cancer and EGFR-Activating Mutations.
+Purpose ARCHER 1050, a randomized, open-label, phase III study of dacomitinib versus gefitinib in treatment-naive patients with advanced non-small-cell lung cancer (NSCLC) and activating mutations in EGFR, reported significant improvement in progression-free survival with dacomitinib.
+The mature overall survival (OS) analysis for the intention-to-treat population is presented here.
+Patients and Methods In this multinational, multicenter study, patients age 18 years or older (&gt;/= 20 years in Japan and Korea) who had an Eastern Cooperative Oncology Group performance status of 0 or 1 and newly diagnosed NSCLC with activating mutations in EGFR (exon 19 deletion or exon 21 L858R) were enrolled and randomly assigned in a 1:1 manner to dacomitinib (n = 227) or gefitinib (n = 225).
+Random assignment was stratified by race (Japanese, Chinese, other East Asian, or non-Asian) and EGFR mutation type.
+The final OS analysis was conducted with a data cutoff date of February 17, 2017; at that time 220 deaths (48.7%) were observed.
+Results During a median follow-up time of 31.3 months, 103 (45.4%) and 117 (52.0%) deaths occurred in the dacomitinib and gefitinib arms, respectively.
+The estimated hazard ratio for OS was 0.760 (95% CI, 0.582 to 0.993; two-sided P = .044).
+The median OS was 34.1 months with dacomitinib versus 26.8 months with gefitinib.
+The OS probabilities at 30 months were 56.2% and 46.3% with dacomitinib and gefitinib, respectively.
+Preliminary subgroup analyses for OS that are based on baseline characteristics were consistent with the primary OS analysis.
+Conclusion In patients with advanced NSCLC and EGFR activating mutations, dacomitinib is the first second-generation epidermal growth factor receptor tyrosine kinase inhibitor (TKI) to show significant improvement in OS in a phase III randomized study compared with a standard-of-care TKI.
+Dacomitinib should be considered one of the standard treatment options for these patients.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

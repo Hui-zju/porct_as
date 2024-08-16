@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A phase 3 study of induction treatment with concurrent chemoradiotherapy versus chemotherapy before surgery in patients with pathologically confirmed N2 stage IIIA nonsmall cell lung cancer (WJTOG9903).
+BACKGROUND: This study sought to ascertain whether induction-concurrent radiotherapy added to chemotherapy could improve the survival of patients undergoing surgery for stage IIIA N2 nonsmall cell lung cancer (NSCLC).
+METHODS: Patients with pathologically proven N2 disease were randomized to receive either induction chemotherapy (docetaxel 60 mg/m(2) and carboplatin AUC [area under the receiver operating characteristic curve] = 5 for 2 cycles) plus concurrent radiation therapy (40 Gy) followed by surgery (CRS arm) or induction chemotherapy followed by surgery (CS arm).
+They subsequently underwent pulmonary resection when possible.
+RESULTS: Sixty patients were randomly assigned between December 2000 and August 2005.
+The study was prematurely terminated in January 2006 because of slow accrual.
+The most common toxicity was grade 3 or 4 leukopenia in 92.9% of patients in the CRS arm and 46.4% in the CS arm.
+Induction therapy was generally well tolerated, and there were no treatment-related deaths in either arm.
+Downstaging in the CS arm and CRS arm was 21% and 40%, respectively.
+The progression-free survival (PFS) and overall survival (OS) in the CS arm were 9.7 months and 29.9 months (PFS, hazard ratio [HR] = 0.68, P = .187), and those in the CRS arm were 12.4 months and 39.6 months (OS, HR = 0.77, P = .397), respectively.
+The PFS with and without downstaging was 55.0 and 9.4 months, respectively (HR = 3.39, P = .001).
+The OS with and without downstaging was 63.3 and 29.5 months, respectively (HR = 2.62, P = .021).
+CONCLUSIONS: The addition of radiotherapy to induction chemotherapy conferred better local control without significant adverse events.
+Tumor downstaging is important for prolonging the OS in patients with stage IIIA (N2) NSCLC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

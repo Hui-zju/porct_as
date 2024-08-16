@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Brentuximab vedotin with chemotherapy for CD30-positive peripheral T-cell lymphoma (ECHELON-2): a global, double-blind, randomised, phase 3 trial.
+BACKGROUND: Based on the encouraging activity and manageable safety profile observed in a phase 1 study, the ECHELON-2 trial was initiated to compare the efficacy and safety of brentuximab vedotin, cyclophosphamide, doxorubicin, and prednisone (A+CHP) versus cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) for the treatment of CD30-positive peripheral T-cell lymphomas.
+METHODS: ECHELON-2 is a double-blind, double-dummy, randomised, placebo-controlled, active-comparator phase 3 study.
+Eligible adults from 132 sites in 17 countries with previously untreated CD30-positive peripheral T-cell lymphomas (targeting 75% with systemic anaplastic large cell lymphoma) were randomly assigned 1:1 to receive either A+CHP or CHOP for six or eight 21-day cycles.
+Randomisation was stratified by histological subtype according to local pathology assessment and by international prognostic index score.
+All patients received cyclophosphamide 750 mg/m(2) and doxorubicin 50 mg/m(2) on day 1 of each cycle intravenously and prednisone 100 mg once daily on days 1 to 5 of each cycle orally, followed by either brentuximab vedotin 1.8 mg/kg and a placebo form of vincristine intravenously (A+CHP group) or vincristine 1.4 mg/m(2) and a placebo form of brentuximab vedotin intravenously (CHOP group) on day 1 of each cycle.
+The primary endpoint, progression-free survival according to blinded independent central review, was analysed by intent-to-treat.
+This trial is registered with ClinicalTrials.gov, number NCT01777152.
+FINDINGS: Between Jan 24, 2013, and Nov 7, 2016, 601 patients assessed for eligibility, of whom 452 patients were enrolled and 226 were randomly assigned to both the A+CHP group and the CHOP group.
+Median progression-free survival was 48.2 months (95% CI 35.2-not evaluable) in the A+CHP group and 20.8 months (12.7-47.6) in the CHOP group (hazard ratio 0.71 [95% CI 0.54-0.93], p=0.0110).
+Adverse events, including incidence and severity of febrile neutropenia (41 [18%] patients in the A+CHP group and 33 [15%] in the CHOP group) and peripheral neuropathy (117 [52%] in the A+CHP group and 124 [55%] in the CHOP group), were similar between groups.
+Fatal adverse events occurred in seven (3%) patients in the A+CHP group and nine (4%) in the CHOP group.
+INTERPRETATION: Front-line treatment with A+CHP is superior to CHOP for patients with CD30-positive peripheral T-cell lymphomas as shown by a significant improvement in progression-free survival and overall survival with a manageable safety profile.
+FUNDING: Seattle Genetics Inc, Millennium Pharmaceuticals Inc, a wholly owned subsidiary of Takeda Pharmacuetical Company Limited, and National Institutes of Health National Cancer Institute Cancer Center.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

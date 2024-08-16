@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Whole-brain irradiation with concomitant daily fixed-dose temozolomide for brain metastases treatment: a randomised phase II trial.
+BACKGROUND AND PURPOSE: This randomised phase II study evaluated the use of Temozolomide (TMZ) concomitant with 30 Gray (Gy) of Whole-brain irradiation (WBI) for 2 weeks without adjuvant TMZ vs. WBI alone in patients with Brain metastases (BM) from solid tumours.
+MATERIALS AND METHODS: Fifty-five patients were randomised into the following groups: 28 patients received WBI (30 Gy in 10 fractions over 2 weeks) concomitant with once-daily 200 mg TMZ on Mondays, Wednesdays, and Fridays, and 300 mg TMZ on Tuesdays and Thursdays (TMZ plus WBI arm).
+Twenty-seven patients received the same schedule of WBI alone (control arm).
+RESULTS: The objective response (OR) was 78.6% for the TMZ plus WBI arm, (95% confidence interval [CI], 63.4-93.8%) and 48.1% (29.3-66.9%) for the control arm (p=0.019).
+Median Progression-free survival (PFS) of BM was 11.8 months (CI, 4.7-8.9 months) and 5.6 months (4.9-6.2 months) for the TMZ plus WBI and control arms, respectively, (Hazard ratio [HR], 0.24; CI, 0.09-0.65; p=0.005).
+Overall survival (OS) of 8.0 Months for the TMZ plus WBI arm and 8.1 months for the control arm, were not significantly different.
+CONCLUSION: A daily fixed dose of TMZ during WBI without adjuvant TMZ was well tolerated and significantly improved local control of BM compared with WBI alone.
+These findings require confirmation in a phase III trial (ClinicalTrials.gov number, NCT01015534).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[E2112: Randomized Phase III Trial of Endocrine Therapy Plus Entinostat or Placebo in Hormone Receptor-Positive Advanced Breast Cancer. A Trial of the ECOG-ACRIN Cancer Research Group.
+PURPOSE: Endocrine therapy resistance in advanced breast cancer remains a significant clinical problem that may be overcome with the use of histone deacetylase inhibitors such as entinostat.
+The ENCORE301 phase II study reported improvement in progression-free survival (PFS) and overall survival (OS) with the addition of entinostat to the steroidal aromatase inhibitor (AI) exemestane in advanced hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer.
+PATIENTS AND METHODS: E2112 is a multicenter, randomized, double-blind, placebo-controlled phase III study that enrolled men or women with advanced HR-positive, HER2-negative breast cancer whose disease progressed after nonsteroidal AI.
+Participants were randomly assigned to exemestane 25 mg by mouth once daily and entinostat (EE) or placebo (EP) 5 mg by mouth once weekly.
+Primary end points were PFS by central review and OS.
+Secondary end points included safety, objective response rate, and lysine acetylation change in peripheral blood mononuclear cells between baseline and cycle 1 day 15.
+RESULTS: Six hundred eight patients were randomly assigned during March 2014-October 2018.
+Median age was 63 years (range 29-91), 60% had visceral disease, and 84% had progressed after nonsteroidal AI in metastatic setting.
+Previous treatments included chemotherapy (60%), fulvestrant (30%), and cyclin-dependent kinase inhibitor (35%).
+Most common grade 3 and 4 adverse events in the EE arm included neutropenia (20%), hypophosphatemia (14%), anemia (8%), leukopenia (6%), fatigue (4%), diarrhea (4%), and thrombocytopenia (3%).
+Median PFS was 3.3 months (EE) versus 3.1 months (EP; hazard ratio = 0.87; 95% CI, 0.67 to 1.13; P = .30).
+Median OS was 23.4 months (EE) versus 21.7 months (EP; hazard ratio = 0.99; 95% CI, 0.82 to 1.21; P = .94).
+Objective response rate was 5.8% (EE) and 5.6% (EP).
+Pharmacodynamic analysis confirmed target inhibition in entinostat-treated patients.
+CONCLUSION: The combination of exemestane and entinostat did not improve survival in AI-resistant advanced HR-positive, HER2-negative breast cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

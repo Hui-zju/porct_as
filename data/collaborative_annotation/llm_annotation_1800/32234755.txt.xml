@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>A Randomized, Open-label, Presurgical, Window-of-Opportunity Study Comparing the Pharmacodynamic Effects of the Novel Oral SERD AZD9496 with Fulvestrant in Patients with Newly Diagnosed ER(+) HER2(-) Primary Breast Cancer.
+PURPOSE: Fulvestrant, the first-in-class selective estrogen receptor (ER) degrader (SERD), is clinically effective in patients with ER(+) breast cancer, but it has administration and pharmacokinetic limitations.
+Pharmacodynamic data suggest complete ER degradation is not achieved at fulvestrant's clinically feasible dose.
+This presurgical study (NCT03236974) compared the pharmacodynamic effects of fulvestrant with AZD9496, a novel, orally bioavailable, nonsteroidal, potent SERD, in treatment-naive patients with ER(+) HER2(-) primary breast cancer awaiting curative intent surgery.
+PATIENTS AND METHODS: Patients were randomized 1:1 to receive AZD9496 250 mg twice daily from day 1 for 5-14 days, or fulvestrant 500 mg on day 1.
+On-treatment imaging-guided core tumor biopsies were taken between day 5 and 14 and compared with pretreatment diagnostic biopsies.
+The primary objective was to compare the effects of AZD9496 and fulvestrant on ER expression.
+Secondary objectives included changes in progesterone receptor (PR) and Ki-67 pharmacokinetic/pharmacodynamic relationships and safety.
+RESULTS: Forty-six women received treatment (AZD9496 n = 22; fulvestrant n = 24); 35 paired biopsies were evaluable (AZD9496 n = 15; fulvestrant n = 20).
+The least square mean estimate for ER H-score reduction was 24% after AZD9496 versus 36% after fulvestrant treatment (P = 0.86).
+AZD9496 also reduced PR H-scores (-33.3%) and Ki-67 levels (-39.9%) from baseline, but was also not superior to fulvestrant (PR: -68.7%, P = 0.97; Ki-67: -75.4%, P = 0.98).
+No new safety findings were identified.
+CONCLUSIONS: This was the first presurgical study to demonstrate that an oral SERD affects its key biological targets.
+However, AZD9496 was not superior to fulvestrant at the dose tested.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

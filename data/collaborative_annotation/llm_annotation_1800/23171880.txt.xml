@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Association between prediagnostic biomarkers of inflammation and endothelial function and cancer risk: a nested case-control study.
+Experimental and prevalent case-control studies suggest an association between biomarkers of inflammation, endothelial function, and adiposity and cancer risk, but results from prospective studies have been limited.
+The authors' objective was to prospectively examine the relations between these biomarkers and cancer risk.
+A nested case-control study was designed within the Supplementation en Vitamines et Mineraux Antioxydants (SU.VI.MAX) Study, a nationwide French cohort study, to include all first primary incident cancers diagnosed between 1994 and 2007 (n = 512).
+Cases were matched with randomly selected controls (n = 1,024) on sex, age (in 2-year strata), body mass index (weight (kg)/height (m)(2); &lt;25 vs. &gt;/=25), and SU.VI.MAX intervention group.
+Conditional logistic regression was used to study the associations between prediagnostic levels of high-sensitivity C-reactive protein (hs-CRP), adiponectin, leptin, soluble intercellular adhesion molecule 1 (sICAM-1), soluble vascular cell adhesion molecule 1, soluble E-selectin, and monocyte chemoattractant protein 1 and cancer risk.
+All statistical tests were 2-sided.
+Plasma sICAM-1 level was positively associated with breast cancer risk (for quartile 4 vs. quartile 1, multivariate odds ratio (OR) = 1.86, 95% confidence interval (CI): 1.06, 3.26; P(trend) = 0.048).
+Plasma hs-CRP level was positively associated with prostate cancer risk (for quartile 4 vs. quartile 1, multivariate OR = 3.04, 95% CI: 1.28, 7.23; P(trend) = 0.03).
+These results suggest that prediagnostic hs-CRP and sICAM-1 levels are associated with increased prostate and breast cancer risk, respectively.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized trial of narrow-band versus white-light cystoscopy for restaging (second-look) transurethral resection of bladder tumors.
+UNLABELLED: Narrow-band imaging (NBI) cystoscopy detects more bladder tumors than standard white-light imaging (WLI) cystoscopy, but it is unclear whether NBI improves transurethral resection (TUR) of bladder tumors.
+This study compares 2-yr recurrence-free survival (RFS) of patients with non-muscle-invasive bladder tumors following restaging TUR using NBI or WLI cystoscopy.
+Patients were randomized 1:1 to undergo NBI-assisted TUR (NBI-TUR) or WLI-assisted TUR (WLI-TUR).
+The main outcome was number of patients free of tumor recurrence after 2-yr follow-up and 2-yr RFS times.
+Of 254 patients, 127 underwent NBI-TUR and 127 had WLI-TUR.
+Within 2 yr, 22% of the patients in the NBI-TUR group recurred compared with 33% after WLI-TUR (p=0.05).
+The mean RFS time was 22 mo (95% confidence interval [CI], 20-23) for the NBI-TUR group versus 19 mo (95% CI, 18-21) for the WLI-TUR group (p=0.02).
+Limitations are that this was a single-surgeon study and that a 20% difference in the number of patients free of recurrence was not achieved, suggesting the study was underpowered.
+In addition, observer bias may have contributed to results because NBI-TUR was performed after both WLI and NBI cystoscopy was used to inspect the bladder.
+Although the results suggest reduced recurrence rates and improved RFS times after restaging NBI-TUR compared with WLI-TUR, a larger study is needed.
+PATIENT SUMMARY: Narrow-band imaging enhances visibility of bladder tumors over conventional white-light cystoscopy.
+This report compares transurethral resection of bladder tumors using narrow-band cystoscopy with white-light cystoscopy.
+The results show that narrow-band cystoscopy improves surgical removal of bladder tumors, which reduces the frequency of early and later tumor recurrences.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

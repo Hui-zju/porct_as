@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Effect of inspiration on airway dimensions measured in maximal inspiration CT images of subjects without airflow limitation.
+OBJECTIVES: To study the effect of inspiration on airway dimensions measured in voluntary inspiration breath-hold examinations.
+METHODS: 961 subjects with normal spirometry were selected from the Danish Lung Cancer Screening Trial.
+Subjects were examined annually for five years with low-dose CT.
+Automated software was utilized to segment lungs and airways, identify segmental bronchi, and match airway branches in all images of the same subject.
+Inspiration level was defined as segmented total lung volume (TLV) divided by predicted total lung capacity (pTLC).
+Mixed-effects models were used to predict relative change in lumen diameter (ALD) and wall thickness (AWT) in airways of generation 0 (trachea) to 7 and segmental bronchi (R1-R10 and L1-L10) from relative changes in inspiration level.
+RESULTS: Relative changes in ALD were related to relative changes in TLV/pTLC, and this distensibility increased with generation (p &lt; 0.001).
+Relative changes in AWT were inversely related to relative changes in TLV/pTLC in generation 3--7 (p &lt; 0.001).
+Segmental bronchi were widely dispersed in terms of ALD (5.7 +/- 0.7 mm), AWT (0.86 +/- 0.07 mm), and distensibility (23.5 +/- 7.7%).
+CONCLUSIONS: Subjects who inspire more deeply prior to imaging have larger ALD and smaller AWT.
+This effect is more pronounced in higher-generation airways.
+Therefore, adjustment of inspiration level is necessary to accurately assess airway dimensions.
+KEY POINTS: Airway lumen diameter increases and wall thickness decreases with inspiration.
+The effect of inspiration is greater in higher-generation (more peripheral) airways.
+Airways of generation 5 and beyond are as distensible as lung parenchyma.
+Airway dimensions measured from CT should be adjusted for inspiration level.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

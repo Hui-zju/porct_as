@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Gene Expression Signature Correlates with Outcomes in Metastatic Renal Cell Carcinoma Patients Treated with Everolimus Alone or with a Vascular Disrupting Agent.
+Everolimus monotherapy use for metastatic renal cell carcinoma (mRCC) has diminished due to recent approvals of immune checkpoint and VEGF inhibitors.
+We hypothesized that gene expression associated with everolimus benefit may provide rationale to select appropriate patients.
+To address this hypothesis, tumors from a phase I/II trial that compared everolimus alone or with BNC105P, a vascular disrupting agent, were profiled using Nanostring as a discovery cohort.
+A phase III trial (CheckMate 025) was used for validation.
+Clinical benefit (CB) was defined as response or stable disease for &gt;/=6 months.
+A propensity score covariate adjustment was used, and model discrimination performance was assessed using the area under the ROC curve (AUC).
+In a discovery cohort of 82 patients, 35 (43%) were treated with everolimus alone and 47 (57%) received everolimus + BNC105P.
+Median PFS (mPFS) was 4.9 (95% CI, 2.8-6.2) months.
+A four-gene signature (ASXL1, DUSP6, ERCC2, and HSPA6) correlated with CB with everolimus +/-
+BNC105P [AUC, 86.9% (95% CI, 79.2-94.7)].
+This was validated in 130 patients from CheckMate 025 treated with everolimus [AUC, 60.2% (95% CI, 49.7-70.7)].
+Among 43 patients (52.4%) with low expression of an 18-gene signature, everolimus + BNC105P was associated with significantly longer mPFS compared with everolimus alone (10.4 vs. 6.9 months; HR, 0.49; 95% CI, 0.24-1.002; P = 0.047).
+These signatures warrant further validation to select patients who may benefit from everolimus alone or with a vascular disrupting agent.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

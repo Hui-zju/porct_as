@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Case-only Methods Identified Genetic Loci Predicting a Subgroup of Men with Reduced Risk of High-grade Prostate Cancer by Finasteride.
+In the Prostate Cancer Prevention Trial (PCPT), genotypes that may modify the effect of finasteride on the risk of prostate cancer have not been identified.
+Germline genetic data from 1,157 prostate cancer cases in PCPT were analyzed by case-only methods.
+Genotypes included 357 SNPs from 83 candidate genes in androgen metabolism, inflammation, circadian rhythm, and other pathways.
+Univariate case-only analysis was conducted to evaluate whether individual SNPs modified the finasteride effect on the risk of high-grade and low-grade prostate cancer.
+Case-only classification trees and random forests, which are powerful machine learning methods with resampling-based controls for model complexity, were employed to identify a predictive signature for genotype-specific treatment effects.
+Accounting for multiple testing, a single SNP in SRD5A1 gene (rs472402) significantly modified the finasteride effect on high-grade prostate cancer (Gleason score &gt; 6) in PCPT (family-wise error rate &lt; 0.05).
+Men carrying GG genotype at this locus had a 55% reduction of the risk in developing high-grade cancer when assigned to finasteride (RR = 0.45; 95% confidence interval, 0.27-0.75).
+Additional effect-modifying SNPs with moderate statistical significance were identified by case-only trees and random forests.
+A prediction model built by the case-only random forest method with 28 selected SNPs classified 37% of PCPT men to have reduced risk of high-grade prostate cancer when taking finasteride, while the others have increased risk.
+In conclusion, case-only methods identified SNPs that modified the effect of finasteride on the risk of high-grade prostate cancer and predicted a subgroup of men who had reduced cancer risk by finasteride.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

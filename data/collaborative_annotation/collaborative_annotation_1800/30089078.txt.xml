@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Neoadjuvant Chemoradiotherapy Followed by Surgery Versus Surgery Alone for Locally Advanced Squamous Cell Carcinoma of the Esophagus (NEOCRTEC5010): A Phase III Multicenter, Randomized, Open-Label Clinical Trial.
+Purpose The efficacy of neoadjuvant chemoradiotherapy (NCRT) plus surgery for locally advanced esophageal squamous cell carcinoma (ESCC) remains controversial.
+In this trial, we compared the survival and safety of NCRT plus surgery with surgery alone in patients with locally advanced ESCC.
+Patients and Methods From June 2007 to December 2014, 451 patients with potentially resectable thoracic ESCC, clinically staged as T1-4N1M0/T4N0M0, were randomly allocated to NCRT plus surgery (group CRT; n = 224) and surgery alone (group S; n = 227).
+In group CRT, patients received vinorelbine 25 mg/m(2) intravenously (IV) on days 1 and 8 and cisplatin 75 mg/m(2) IV day 1, or 25 mg/m(2) IV on days 1 to 4 every 3 weeks for two cycles, with a total concurrent radiation dose of 40.0 Gy administered in 20 fractions of 2.0 Gy on 5 days per week.
+In both groups, patients underwent McKeown or Ivor Lewis esophagectomy.
+The primary end point was overall survival.
+Results The pathologic complete response rate was 43.2% in group CRT.
+Compared with group S, group CRT had a higher R0 resection rate (98.4% v 91.2%; P = .002), a better median overall survival (100.1 months v 66.5 months; hazard ratio, 0.71; 95% CI, 0.53 to 0.96; P = .025), and a prolonged disease-free survival (100.1 months v 41.7 months; hazard ratio, 0.58; 95% CI, 0.43 to 0.78; P < .001).
+Leukopenia (48.9%) and neutropenia (45.7%) were the most common grade 3 or 4 adverse events during chemoradiotherapy.
+Incidences of postoperative complications were similar between groups, with the exception of arrhythmia (group CRT: 13% v group S: 4.0%; P = .001).
+Peritreatment mortality was 2.2% in group CRT versus 0.4% in group S ( P = .212).
+Conclusion This trial shows that NCRT plus surgery improves survival over surgery alone among patients with locally advanced ESCC, with acceptable and manageable adverse events.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

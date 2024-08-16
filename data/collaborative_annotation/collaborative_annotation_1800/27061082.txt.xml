@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase III trial of amrubicin/cisplatin versus etoposide/cisplatin as first-line treatment for extensive small-cell lung cancer.
+BACKGROUND: Extensive-disease small-cell lung cancer (ED-SCLC) is characterized by rapid progression and relapse, despite high initial response rates to chemotherapy.
+The primary objective of this trial was to demonstrate the non-inferiority of amrubicin and cisplatin (AP) combination therapy compared with the standard first-line regimen of etoposide and cisplatin (EP) for previously untreated ED-SCLC in a Chinese population.
+When non-inferiority was verified, the objective was switched from non-inferiority to superiority.
+METHODS: From June 2008 to July 2010, 300 patients were enrolled and randomly assigned at a 1:1 ratio to AP and EP groups.
+AP-treated patients received cisplatin (60 mg/m(2), day 1) and amrubicin (40 mg/m(2), days 1-3) once every 21 days.
+EP-treated patients received cisplatin (80 mg/m(2), day 1) and etoposide (100 mg/m(2), days 1-3) once every 21 days.
+Treatment was continued for four to six cycles, except in cases of progressive disease or toxicity, and patient refusal.
+RESULTS: Median overall survival (OS) for AP vs. EP treatment was 11.8 vs. 10.3 months (p = 0.08), respectively, demonstrating non-inferiority of AP to EP (AP group: 95% confidence interval for hazard ratio 0.63-1.03 months).
+Median progression-free survival and overall response rates for AP vs. EP groups were 6.8 vs. 5.7 months (p = 0.35) and 69.8% vs. 57.3%, respectively.
+Drug-related adverse events in both groups were similar, with neutropenia being the most frequent (AP 54.4%; EP 44.0%).
+Leukopenia, pyrexia, and fatigue were more prevalent in the AP group, but all were clinically reversible and manageable.
+CONCLUSIONS: AP therapy demonstrated non-inferiority to EP therapy, prolonging OS for 1.5 months, but this difference was not statistically significant; thus we propose AP as a promising treatment option for ED-SCLC in China.
+TRIAL REGISTRATION: This trial was registered on 10 April 2008 (ClinicalTrials.gov NCT00660504).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

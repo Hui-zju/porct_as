@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Phospho-kinase profile of colorectal tumors guides in the selection of multi-kinase inhibitors.
+Protein kinases play a central role in the oncogenesis of colorectal tumors and are attractive druggable targets.
+Detection of activated kinases within a tumor could open avenues for drug selection and optimization of new kinase inhibitors.
+By using a phosphokinase arrays with human colorectal tumors we identified activated kinases, including the Epidermal Growth Factor Receptor (EGFR), components of the PI3K/mTOR pathway (AKT and S6), and STAT, among others.
+A pharmacological screening with kinase inhibitors against these proteins helped us to identify a new kinase inhibitor, termed EC-70124 that showed the highest anti-proliferative activity in cell lines.
+EC-70124 also inhibited cell migration and biochemical experiments demonstrated its effect targeting the PI3K/mTOR pathway.
+This drug also arrested cells at G2/M and induced apoptosis.
+Experiments in combination with standard chemotherapy used in the clinical setting indicated a synergistic effect.
+EC-70124 also reduced tumor growth in vivo and inhibited pS6 in the implanted tumors.
+In conclusion, by studying the kinase profile of colorectal tumors, we identified relevant activated pathways, and a new multi-kinase compound with significant antitumor properties.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

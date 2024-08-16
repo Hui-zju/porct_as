@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Subgroup analysis in RAISE: a randomized, double-blind phase III study of irinotecan, folinic acid, and 5-fluorouracil (FOLFIRI) plus ramucirumab or placebo in patients with metastatic colorectal carcinoma progression.
+BACKGROUND: The RAISE phase III clinical trial demonstrated that ramucirumab + FOLFIRI improved overall survival (OS) [hazard ratio (HR) = 0.844, P = 0.0219] and progression-free survival (PFS) (HR = 0.793, P &lt; 0.0005) compared with placebo + FOLFIRI for second-line metastatic colorectal carcinoma (mCRC) patients previously treated with first-line bevacizumab, oxaliplatin, and a fluoropyrimidine.
+Since some patient or disease characteristics could be associated with differential efficacy or safety, prespecified subgroup analyses were undertaken.
+This report focuses on three of the most relevant ones: KRAS status (wild-type versus mutant), age (&lt;65 versus &gt;/=65 years), and time to progression (TTP) on first-line therapy (&lt;6 versus &gt;/=6 months).
+PATIENTS AND METHODS: OS and PFS were evaluated by the Kaplan-Meier analysis, with HR determined by the Cox proportional hazards model.
+Treatment-by-subgroup interaction was tested to determine whether treatment effect was consistent between subgroup pairs.
+RESULTS: Patients with both wild-type and mutant KRAS benefited from ramucirumab + FOLFIRI treatment over placebo + FOLFIRI (interaction P = 0.526); although numerically, wild-type KRAS patients benefited more (wild-type KRAS: median OS = 14.4 versus 11.9 months, HR = 0.82, P = 0.049; mutant KRAS: median OS = 12.7 versus 11.3 months, HR = 0.89, P = 0.263).
+Patients with both longer and shorter first-line TTP benefited from ramucirumab (interaction P = 0.9434), although TTP &lt;6 months was associated with poorer OS (TTP &gt;/=6 months: median OS = 14.3 versus 12.5 months, HR = 0.86, P = 0.061; TTP &lt;6 months: median OS = 10.4 versus 8.0 months, HR = 0.86, P = 0.276).
+The subgroups of patients &gt;/=65 versus &lt;65 years also derived a similar ramucirumab survival benefit (interaction P = 0.9521) (&gt;/=65 years: median OS = 13.8 versus 11.7 months, HR = 0.85, P = 0.156; &lt;65 years: median OS = 13.1 versus 11.9 months, HR = 0.86, P = 0.098).
+The safety profile of ramucirumab + FOLFIRI was similar across subgroups.
+CONCLUSIONS: These analyses revealed similar efficacy and safety among patient subgroups with differing KRAS mutation status, longer or shorter first-line TTP, and age.
+Ramucirumab is a beneficial addition to second-line FOLFIRI treatment for a wide range of patients with mCRC.
+TRIAL REGISTRATION: ClinicalTrials.gov, NCT01183780.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized study of intravesical pirarubicin chemotherapy with low and intermediate-risk nonmuscle-invasive bladder cancer in Japan: Comparison of a single immediate postoperative intravesical instillation with short-term adjuvant intravesical instillations after transurethral resection.
+PURPOSE: The objective of this study was to evaluate the efficacy, defined by the 3-year tumor recurrence-free survival rate, of intravesical chemotherapy using pirarubicin (THP) in patients with low or intermediate-risk nonmuscle-invasive bladder cancer (NMIBC).
+PATIENTS AND METHODS: Between October 2010 and January 2015, 206 patients were enrolled, and finally 113 were randomized to receive either a single immediate postoperative intravesical instillation of THP (30 mg) (Group A), or 8 additional weekly intravesical instillations of THP (30 mg) after a single postoperative instillation (Group B).
+The patients were examined by performing cystoscopy and urine cytology every 3 months after transurethral resection to determine bladder tumor recurrence.
+The primary endpoint was 3-year-recurrence-free survival rate.
+RESULTS: All 113 patients were bacillus Calmette-Guerin (BCG)-naive.
+The 3-year recurrence free survival rate was 63.7% for Group A and 85.3% for Group B (log-rank test, P = .0070).
+In patients with intermediate recurrence risk, the 3-year recurrence-free survival rate was 63.4% in Group A and 86.1% in Group B (log-rank test, P = .0036).
+Cox regression analysis revealed that only additional instillation of THP was a significant independent factor for recurrence-free rate in patients with intermediate risk.
+No patient with progression was noted during this period.
+Frequent adverse effects (AEs) were frequent urination and micturition pain, and no severe AEs (Grade 3 or more) occurred.
+CONCLUSION: Additional instillation of THP (30 mg) weekly for 8 weeks reduced the risk of tumor recurrence without severe AEs in BCG-naive NMIBC patients with intermediate risk.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A Randomized, Double-Blinded, Phase II Trial of Carboplatin and Pemetrexed with or without Apatorsen (OGX-427) in Patients with Previously Untreated Stage IV Non-Squamous-Non-Small-Cell Lung Cancer: The SPRUCE Trial.
+BACKGROUND: This randomized, double-blinded, phase II trial evaluated the efficacy of carboplatin and pemetrexed plus either apatorsen, an antisense oligonucleotide targeting heat shock protein (Hsp) 27 mRNA, or placebo in patients with previously untreated metastatic nonsquamous non-small cell lung cancer (NSCLC).
+METHODS: Patients were randomized 1:1 to Arm A (carboplatin/pemetrexed plus apatorsen) or Arm B (carboplatin/pemetrexed plus placebo).
+Treatment was administered in 21-day cycles, with restaging every two cycles, until progression or intolerable toxicity.
+Serum Hsp27 levels were analyzed at baseline and during treatment.
+The primary endpoint was progression-free survival (PFS); secondary endpoints included overall survival (OS), objective response rate, and toxicity.
+RESULTS: The trial enrolled 155 patients (median age 66 years; 44% Eastern Cooperative Oncology Group performance status 0).
+Toxicities were similar in the 2 treatment arms; cytopenias, nausea, vomiting, and fatigue were the most frequent treatment-related adverse events.
+Median PFS and OS were 6.0 and 10.8 months, respectively, for Arm A, and 4.9 and 11.8 months for Arm B (differences not statistically significant).
+Overall response rates were 27% for Arm A and 32% for Arm B. Sixteen patients (12%) had high serum levels of Hsp27 at baseline.
+In this small group, patients who received apatorsen had median PFS of 10.8 months, and those who received placebo had median PFS 4.8 months.
+CONCLUSION: The addition of apatorsen to carboplatin and pemetrexed was well tolerated but did not improve outcomes in patients with metastatic nonsquamous NSCLC cancer in the first-line setting.
+IMPLICATIONS FOR PRACTICE: This randomized, double-blinded, phase II trial evaluated the efficacy of carboplatin and pemetrexed plus either apatorsen, an antisense oligonucleotide targeting heat shock protein 27 mRNA, or placebo in patients with previously untreated metastatic nonsquamous non-small cell lung cancer (NSCLC).
+The addition of apatorsen to carboplatin and pemetrexed was well tolerated but did not improve outcomes in patients with metastatic nonsquamous NSCLC cancer in the first-line setting.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

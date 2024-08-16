@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Pantoprazole, an Inhibitor of the Organic Cation Transporter 2, Does Not Ameliorate Cisplatin-Related Ototoxicity or Nephrotoxicity in Children and Adolescents with Newly Diagnosed Osteosarcoma Treated with Methotrexate, Doxorubicin, and Cisplatin.
+LESSONS LEARNED: Using a randomized crossover design and continuous variables such as change in hearing threshold and biomarkers of acute renal injury as short-term endpoints, it was determined that pantoprazole, an organic cation transporter 2 inhibitor, did not ameliorate cisplatin-associated nephrotoxicity or ototoxicity.
+Cystatin C is a robust method to estimate glomerular filtration rate in patients with cancer.
+Using a patient-reported outcome survey, all patients identified tinnitus and subjective hearing loss occurring "at least rarely" after cycle 1, prior to objective high-frequency hearing loss measured by audiograms.
+New therapies that improve outcome with less acute and long-term toxicity are needed.
+BACKGROUND: Organic cation transporter 2 (OCT2), which is a cisplatin uptake transporter expressed on renal tubules and cochlear hair cells but not on osteosarcoma cells, mediates cisplatin uptake.
+Pantoprazole inhibits OCT2 and could ameliorate cisplatin ototoxicity and nephrotoxicity.
+Using a randomized crossover design, we evaluated audiograms, urinary acute kidney injury (AKI) biomarkers, and glomerular filtration rate (GFR) estimated from cystatin C (GFRcysC) in patients receiving cisplatin with and without pantoprazole.
+MATERIALS AND METHODS: Cisplatin (60 mg/m(2) x 2 days per cycle) was administered concurrently with pantoprazole (intravenous [IV], 1.6 mg/kg over 4 hours) on cycles 1 and 2 or cycles 3 and 4 in 12 patients with osteosarcoma (OS) with a median (range) age of 12.8 (5.6-19) years.
+Audiograms, urinary AKI biomarkers, and serum cystatin C were monitored during each cycle.
+RESULTS: Pantoprazole had no impact on decrements in hearing threshold at 4-8 kHz, post-treatment elevation of urinary AKI biomarkers, or GFRcysC (Fig. 1, Table 1).
+Histological response (percent necrosis) after two cycles was similar with or without pantoprazole.
+All eight patients with localized OS at diagnosis are alive and in remission; three of four patients with metastases at diagnosis have died.
+CONCLUSION: Pantoprazole did not ameliorate cisplatin ototoxicity or nephrotoxicity.
+The decrease in GFRcysC and increase in N-acetyl-ss-glucosaminidase (NAG) and creatinine demonstrate that these biomarkers can quantify cisplatin glomerular and proximal tubular toxicity.
+OCT2 inhibition by pantoprazole did not appear to alter antitumor response or survival.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Camrelizumab plus carboplatin and pemetrexed versus chemotherapy alone in chemotherapy-naive patients with advanced non-squamous non-small-cell lung cancer (CameL): a randomised, open-label, multicentre, phase 3 trial.
+BACKGROUND: Immunotherapy combined with chemotherapy has been shown to be efficacious as treatment for advanced non-squamous non-small-cell lung cancer (NSCLC) without targetable genetic aberrations; however, there is scarce evidence of the effectiveness of the combinations in the Asian population.
+We evaluated camrelizumab plus chemotherapy against non-squamous NSCLC in China.
+METHODS: We did a randomised, open-label, multicentre, phase 3 trial (CameL) in 52 hospitals in China for patients with non-squamous NSCLC without EGFR and ALK alteration.
+Eligible patients were aged 18-70 years and had no previous systemic chemotherapy, Eastern Cooperative Oncology Group performance status of 0 or 1, and at least one measurable lesion per Response Evaluation Criteria in Solid Tumors (version 1.1).
+Patients were randomly assigned (1:1) to receive 4-6 cycles of carboplatin (area under curve 5 mg/mL per min) plus pemetrexed (500 mg/m(2)) with or without camrelizumab (200 mg) every 3 weeks, followed by maintenance therapy with camrelizumab plus pemetrexed or pemetrexed alone.
+Medication was administered intravenously on day 1 of each 3-week treatment cycle.
+Randomisation was done using a centralised interactive web-response system with the block size randomly generated as four or six and stratified by sex and smoking history.
+The two primary endpoints were progression-free survival per blinded independent central review, in all patients and in patients who were PD-L1 positive.
+Primary analysis was done in the full analysis set that included all randomly assigned patients who received at least one dose of the study treatment.
+Herein, due to the primary endpoint being met at the interim analysis, we reported the findings of prespecified interim analysis, which only included confirmatory statistical testing for progression-free survival in all patients.
+Safety was assessed in the as-treated population.
+This study is registered with ClinicalTrials.gov, NCT03134872 (follow-up is ongoing).
+FINDINGS: Between May 12, 2017, and June 6, 2018, of the 419 patients who were randomly assigned, seven did not receive assigned treatment and 412 received either camrelizumab plus chemotherapy (n=205) or chemotherapy alone (n=207).
+At interim analysis, median follow-up duration was 11.9 months (IQR 9.0-14.9).
+Progression-free survival in this interim analysis was significantly prolonged with camrelizumab plus chemotherapy than with chemotherapy alone (median 11.3 months [95% CI 9.6-15.4] vs 8.3 months [6.0-9.7]; hazard ratio 0.60 [0.45-0.79]; one-sided p=0.0001).
+Most common grade 3 or worse treatment-related adverse events were decreased neutrophil count (78 [38%] patients in the camrelizumab plus chemotherapy group vs 63 [30%] patients in the chemotherapy alone group), decreased white blood cell count (40 [20%] vs 30 [14%]), anaemia (38 [19%] vs 23 [11%]), and decreased platelet count (34 [17%] vs 24 [12%]).
+Serious treatment-related adverse events occurred in 74 (36%) patients in the camrelizumab plus chemotherapy group and 27 (13%) patients in the chemotherapy alone group.
+INTERPRETATION: The primary endpoint was met at the interim analysis, showing a statistically significant and clinically meaningful improvement in progression-free survival with camrelizumab plus carboplatin and pemetrexed versus chemotherapy alone in all patients, supporting camrelizumab plus carboplatin and pemetrexed as a first-line treatment option for Chinese patients with advanced non-squamous NSCLC without EGFR and ALK alterations.
+The trial is being continued to collect long-term outcomes in all patients and carry out confirmatory statistical testing for progression-free survival in the PD-L1-positive population.
+FUNDING: Jiangsu Hengrui Medicine.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

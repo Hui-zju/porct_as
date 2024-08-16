@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized, phase 2 study of deoxyuridine triphosphatase inhibitor, TAS-114, in combination with S-1 versus S-1 alone in patients with advanced non-small-cell lung cancer.
+Introduction TAS-114 is a potent inhibitor of deoxyuridine triphosphatase, which is a gatekeeper protein preventing uracil and 5-fluorouracil (5-FU) misincorporation into DNA.
+TAS-114 has been suggested to enhance the antitumor activity of 5-FU.
+This randomized, phase 2 study investigated TAS-114 plus S-1 (TAS-114/S-1) vs. S-1 in non-small-cell lung cancer (NSCLC) patients.
+Methods Patients with advanced NSCLC, previously treated with >/= 2 regimens, were randomized 1:1 to receive TAS-114 (400 mg)/S-1 (30 mg/m(2)) or S-1 (30 mg/m(2)).
+Progression-free survival (PFS, independent central review) was the primary endpoint.
+Secondary endpoints included disease control rate (DCR), overall survival (OS), overall response rate (ORR), and safety.
+Results In total, 127 patients received treatment.
+Median PFS was 3.65 and 4.17 months in the TAS-114/S-1 and S-1 groups, respectively (hazard ratio [HR] 1.16, 95% confidence interval [CI] 0.71-1.88; P = 0.2744).
+DCR was similar between groups (TAS-114/S-1 80.3%, S-1 75.9%) and median OS was 7.92 and 9.82 months for the TAS-114/S-1 and S-1 groups, respectively (HR 1.31, 95% CI 0.80-2.14; P = 0.1431).
+The ORR was higher in the TAS-114/S-1 group than the S-1 group (19.7% vs. 10.3%), and more patients with tumor shrinkage were observed in the TAS-114/S-1 group.
+Incidence rates of anemia, skin toxicities, and Grade >/= 3 treatment-related adverse events were higher in the TAS-114/S-1 group compared with the monotherapy group.
+Conclusions Although the TAS-114/S-1 combination improved the response rate, this did not translate into improvements in PFS.
+Clinical Trial Registration No. NCT02855125 (ClinicalTrials.gov) registered on 4 August 2016.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Samarium-153-EDTMP (Quadramet(R)) with or without vaccine in metastatic castration-resistant prostate cancer: A randomized Phase 2 trial.
+PSA-TRICOM is a therapeutic vaccine in late stage clinical testing in metastatic castration-resistant prostate cancer (mCRPC).
+Samarium-153-ethylene diamine tetramethylene phosphonate (Sm-153-EDTMP; Quadramet(R)), a radiopharmaceutical, binds osteoblastic bone lesions and emits beta particles causing local tumor cell destruction.
+Preclinically, Sm-153-EDTMP alters tumor cell phenotype facilitating immune-mediated killing.
+This phase 2 multi-center trial randomized patients to Sm-153-EDTMP alone or with PSA-TRICOM vaccine.
+Eligibility required mCRPC, bone metastases, prior docetaxel and no visceral disease.
+The primary endpoint was the proportion of patients without radiographic disease progression at 4 months.
+Secondary endpoints included progression-free survival (PFS), overall survival (OS), and immune responses.
+Forty-four patients enrolled.
+Eighteen and 21 patients were evaluable for the primary endpoint in Sm-153-EDTMP alone and combination arms, respectively.
+There was no statistical difference in the primary endpoint, with two of 18 (11.1%) and five of 21 (23.8%) in Sm-153-EDTMP alone and combination arms, respectively, having stable disease at approximately the 4-month evaluation time point (P = 0.27).
+Median PFS was 1.7 vs. 3.7 months in the Sm-153-EDTMP alone and combination arms (P = 0.041, HR = 0.51, P = 0.046).
+No patient in the Sm-153-EDTMP alone arm achieved prostate-specific antigen (PSA) decline > 30% compared with four patients (of 21) in the combination arm, including three with PSA decline > 50%.
+Toxicities were similar between arms and related to number of Sm-153-EDTMP doses administered.
+These results provide the rationale for clinical evaluation of new radiopharmaceuticals, such as Ra-223, in combination with PSA-TRICOM.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

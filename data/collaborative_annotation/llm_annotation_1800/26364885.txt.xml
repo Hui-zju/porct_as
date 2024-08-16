@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>The influence of gastric filling instructions on dose delivery in patients with oesophageal cancer: A prospective study.
+PURPOSE: To evaluate whether adaptive radiotherapy for unaccounted stomach changes in patients with adenocarcinoma of the gastroesophageal junction (GEJ) is necessary and whether dose differences could be prevented by giving patients food and fluid instructions before treatment simulation and radiotherapy.
+MATERIAL AND METHODS: Twenty patients were randomly assigned into two groups: patients with and without instructions about restricting food and fluid intake prior to radiotherapy simulation and treatment.
+Redelineation and offline recalculation of dose distributions based on cone-beam computed tomography (n=100) were performed.
+Dose-volume parameters were analysed for the clinical target volume extending into the stomach.
+RESULTS: Four patients who did not receive instructions had a geometric miss (0.7-12 cm(3)) in only one fraction.
+With instructions, 3 out of 10 patients had a geometric miss (0.1-1.9 cm(3)) in one (n=2) or two (n=1) fractions.
+The V95% was reduced by more than 5% for one patient, but this underdosage was in an in-air region without further clinical importance.
+CONCLUSIONS: Giving patients food and fluid instructions for the treatment of GEJ cancer offers no clinical benefit.
+Using a planning target volume margin of 1cm implies that there is no need for adaptive radiotherapy for GEJ tumours.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

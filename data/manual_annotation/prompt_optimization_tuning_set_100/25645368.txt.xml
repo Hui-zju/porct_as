@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Which information source is best? Concordance between patient report, clinician report and medical records of patient co-morbidity and adjuvant therapy health information.
+RATIONALE, AIM AND OBJECTIVES: Previous studies investigating agreement between data sources for co-morbidity and adjuvant therapy information have suggested agreement varies depending on how the information is collected.
+The aim of this study was to compare agreement among three data sources: patient report, clinician report and medical record.
+METHOD: Data were collected as part of a nurse-delivered telephone intervention (the CONNECT programme).
+Patient report was collected using a self-administered questionnaire.
+Clinician report was collected from the patient's treating surgeon.
+Medical record information was extracted by a member of the research team.
+The proportion of specific agreement [positive (PA) and negative agreement (NA)] and Kappa statistics were calculated.
+RESULTS: The study sample comprised 756 surgical patients with colorectal cancer.
+For the majority of co-morbidities the lowest level of agreement was found between the patient and clinician (PA 0.29-0.64, Kappa values ranged from 0.22 to 0.58).
+The highest agreement and Kappa values for co-morbidities were generally found between the patient report and medical record (PA 0.36-0.80 and NA 0.92-0.99; Kappa 0.34-0.77).
+There was good agreement between patient and clinician reports for receipt adjuvant therapy {Kappa 0.78 [confidence interval (CI) 0.72-0.84] and 0.84 [CI 0.80-0.88], respectively; PA 0.87 and 0.92, respectively}. No consistent pattern in the predictors of non-agreement was found.
+CONCLUSION: Given there was higher agreement between patient report and medical record review, the use of patient self-report questionnaires to ascertain co-morbid conditions remains a valid method for health services research.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

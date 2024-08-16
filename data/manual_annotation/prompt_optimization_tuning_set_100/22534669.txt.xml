@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase II trial of first-line treatment with pemetrexed-cisplatin, followed sequentially by gefitinib or pemetrexed, in East Asian, never-smoker patients with advanced non-small cell lung cancer.
+INTRODUCTION: Treatment with epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors or chemotherapy have shown improved survival outcomes in East Asian, never-smoker patients with non-small cell lung cancer (NSCLC).
+However, treatment sequence has not been optimized in patients with unknown EGFR mutation status.
+This trial compared first-line chemotherapy with pemetrexed (P)-cisplatin (C), followed by either gefitinib (G) or P maintenance.
+METHODS: East Asian, never-smoker, chemo-naive patients with stage IIIB/IV NSCLC, performance status </=1 and unknown EGFR mutation status were randomized 1:1 to receive 4 cycles of pemetrexed [500 mg/m(2)]+cisplatin [75 mg/m(2)] q3 weeks, followed by maintenance with either gefitinib [250 mg/d] (PC/G) or pemetrexed [500 mg/m(2)] q3 weeks and </=2 optional cycles of cisplatin (PC/P).
+The primary endpoint, progression-free survival (PFS), was calculated from randomization date.
+RESULTS: Between Feb and Nov 2007, 70 patients from China, Korea, and Taiwan were randomized and treated, among whom 59 patients (84.3%) had non-squamous NSCLC.
+Forty-nine patients (70.0%) completed the full sequential treatment (n=25 G; n=24 P).
+Median PFS was numerically longer for patients on PC/G (9.95 months) than those on PC/P (6.83 months; hazard ratio [HR]=0.53, 95% confidence interval [CI]=0.27, 1.04).
+In contrast, median overall survival was numerically higher for patients on PC/P (HR=2.15, 95% CI=0.83, 5.60), though there was a high censoring rate.
+Response rate was similar in both arms.
+Treatment arms were similar for grade 3/4/5 toxicities.
+CONCLUSIONS: East Asian never-smoker patients with advanced NSCLC and unknown EGFR mutation status had improved PFS following treatment with first-line PC and sequential G. Irrespective of subsequent maintenance treatment, induction PC was safe and efficacious, leading to prolonged OS in the Asian patient population.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

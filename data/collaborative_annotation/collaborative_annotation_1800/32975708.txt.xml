@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized phase II clinical trial and biomarker analysis of paclitaxel plus epirubicin versus vinorelbine plus epirubicin as neoadjuvant chemotherapy in locally advanced HER2-negative breast cancer with TEKT4 variations.
+PURPOSE: Resistance to paclitaxel remains a major challenge in treating breast cancer.
+Our preclinical study suggested that TEKT4 germline variations in breast cancer are associated with paclitaxel resistance and increase vinorelbine sensitivity.
+This clinical trial compared the efficacy of paclitaxel and vinorelbine in breast cancer neoadjuvant chemotherapy.
+METHODS: In this open-label, single-center, phase II trial, female patients with human epidermal growth factor receptor 2 (HER2)-negative, stage IIB-IIIC breast cancer harboring TEKT4 germline variations were randomly assigned to the paclitaxel plus epirubicin (PE) or vinorelbine plus epirubicin (NE).
+The primary endpoint was the pathologic complete response (pCR) rate, and the secondary endpoints were the objective response rate (ORR) and safety.
+Targeted sequencing of a panel comprising 484 breast-related genes was performed to identify pCR-associated somatic mutations in each group.
+RESULTS: 91 Patients were assigned to PE (46 patients) or NE (45 patients).
+NE numerically increased the pCR rate (22.2% versus 8.7%, P = 0.074).
+The ORRs for NE and PE were 82.2% and 76.1%, respectively.
+Interestingly, NE (15.4%) showed a significantly higher pCR rate than PE (0%) in the hormone receptor (HR)-positive subgroup (P = 0.044).
+Both regimens were well tolerated, with grade 3 and 4 toxicities reported at the expected levels.
+The biomarker analysis showed that UNC13D mutation predicted the pCR rate in NE (P = 0.011).
+CONCLUSIONS: Although the primary endpoint was not met, NE might bring clinical benefit to HR-positive patients or patients simultaneously carrying UNC13D mutations.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

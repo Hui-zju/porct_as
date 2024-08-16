@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Radiation therapy following surgery for localized breast cancer: outcome prediction by classical prognostic factors and approximated genetic subtypes.
+The purpose of this study was to evaluate the outcome prediction power of classical prognostic factors along with surrogate approximation of genetic signatures (AGS) subtypes in patients affected by localized breast cancer (BC) and treated with postoperative radiotherapy.
+We retrospectively analyzed 468 consecutive female patients affected by localized BC with complete immunohistochemical and pathological information available.
+All patients underwent surgery plus radiotherapy.
+Median follow-up was 59 months (range, 6-132) from the diagnosis.
+Disease recurrences (DR), local and/or distant, and contralateral breast cancer (CBC) were registered and analyzed in relation to subtypes (luminal A, luminal B, HER-2, and basal), and classical prognostic factors (PFs), namely age, nodal status (N), tumor classification (T), grading (G), estrogen receptors (ER), progesterone receptors and erb-B2 status.
+Bootstrap technique for variable selection and bootstrap resampling to test selection stability were used.
+Regarding AGS subtypes, HER-2 and basal were more likely to recur than luminal A and B subtypes, while patients in the basal group were more likely to have CBC.
+However, considering PFs along with AGS subtypes, the optimal multivariable predictive model for DR consisted of age, T, N, G and ER.
+A single-variable model including basal subtype resulted again as the optimal predictive model for CBC.
+In patients bearing localized BC the combination of classical clinical variables age, T, N, G and ER was still confirmed to be the best predictor of DR, while the basal subtype was demonstrated to be significantly and exclusively correlated with CBC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

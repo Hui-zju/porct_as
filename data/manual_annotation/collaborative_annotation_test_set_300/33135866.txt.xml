@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Randomized trial assessing impact of probiotic supplementation on gut microbiome and clinical outcome from targeted therapy in metastatic renal cell carcinoma.
+Studies suggest a link between the gut microbiome and metastatic renal cell carcinoma (mRCC) outcomes, including evidence that mRCC patients possess a lower abundance of Bifidobacterium spp.
+compared to healthy adults.
+We sought to assess if a Bifidobacterium-containing yogurt product could modulate the gut microbiome and clinical outcome from vascular endothelial growth factor-tyrosine kinase inhibitors (VEGF-TKIs).
+mRCC patients initiating VEGF-TKIs, regardless of the line of therapy, were randomized to probiotic-supplemented (two 4 oz.
+servings of the probiotic yogurt product daily) or probiotic-restricted arms.
+Stool samples were collected prior to therapy and at weeks 2, 3, 4, and 12.
+Microbiome composition was assessed using whole-metagenome sequencing.
+A total of 20 patients were randomized.
+Bifidobacterium animalis, the active ingredient of the probiotic supplement, reached detectable levels in all patients in the probiotic-supplemented arm versus two patients in the probiotic-restricted arm.
+Clinical benefit rate was similar in probiotic-supplemented versus probiotic-restricted arms (70% vs. 80%, p = 0.606).
+Linear discriminant analysis (LDA) effect size analysis of MetaPhIAn2 abundance data predicted 25 enriched species demonstrating an LDA score >3 in either clinical benefit or no clinical benefit.
+In patients with clinical benefit (vs. no clinical benefit), Barnesiella intestinihominis and Akkermansia muciniphila were significantly more abundant (p = 7.4 x 10(-6) and p = 5.6 x 10(-3) , respectively).
+This is the first prospective randomized study demonstrating modulation of the gut microbiome with a probiotic in mRCC.
+Probiotic supplementation successfully increased the Bifidobacterium spp.
+levels.
+Analysis of longitudinal stool specimens identified an association between B. intestinihominis, A. muciniphila, and clinical benefit with therapy.
+Trial Registration: NCT02944617.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

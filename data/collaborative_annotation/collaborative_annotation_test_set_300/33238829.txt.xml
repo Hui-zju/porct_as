@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Intraoperative Ureteral Stent Use at Radical Cystectomy is Associated with Higher 30-Day Complication Rates.
+PURPOSE: Radical cystectomy/urinary diversion is a high risk procedure.
+Intraoperative stents are commonly utilized to decrease ureteroenteric anastomosis related complications.
+Institutionally some surgeons routinely use intraoperative stents while others do not, providing an opportunity to compare complication differences.
+MATERIALS AND METHODS: We queried a prospective database of 283 patients enrolled in a randomized controlled trial evaluating 30-day perioperative complications with goal directed fluid therapy following open radical cystectomy/urinary diversion between 2014 and 2018.
+Ureteroenteric anastomosis specific complications (ureteral obstruction, urinary leak, urinary infections/sepsis and intra-abdominal abscess) were compared between groups (intraoperative stent vs nonintraoperative stent group) using Fisher exact test and quantified using logistic regression.
+RESULTS: The nonintraoperative stent group (77 of 283 patients, 27%) was older (median 72 vs 69 years) and was more likely to receive neoadjuvant chemotherapy (53% vs 40%), have baseline renal insufficiency (43% vs 30%) and undergo an ileal conduit (92% vs 53%).
+However, despite higher comorbidity, the nonintraoperative stent group had a significantly lower rate of ureteroenteric anastomosis complications (14% vs 32%, p=0.004).
+Since continent diversions may be associated with higher complications, the nonintraoperative stent group with ileal conduit was also compared to intraoperative stent cohorts with ileal conduit, and ureteroenteric anastomosis complications remained lower in the nonintraoperative stent group (14% vs 28%, p=0.043).
+Multivariable logistic regression showed significantly increased odds of urinary complications with intraoperative stent use (OR 3.55, 95% CI 2.93-4.31; p <0.0001).
+Importantly there was no obstruction and only 1 leak (1.3%) in the nonintraoperative stent group.
+CONCLUSIONS: Contrary to conventional belief, we found intraoperative stent use in radical cystectomy/urinary diversion was associated with significantly higher infectious complications and urgent care visits, and significantly increased the odds of 30-day ureteroenteric anastomosis associated complications.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase-I/II study of bortezomib in combination with carboplatin and bevacizumab as first-line therapy in patients with advanced non-small-cell lung cancer.
+BACKGROUND: This study aimed to establish the maximum tolerated dose (MTD) of weekly bortezomib in combination with fixed standard doses of carboplatin and bevacizumab, and to estimate the efficacy (response rate and progression free survival [PFS]) and safety of combination therapy with carboplatin, bortezomib, and bevacizumab as first-line therapy in patients with advanced non-small-cell lung cancer (NSCLC).
+METHODS: Patients were assigned to three dose levels of weekly bortezomib with the fixed standard doses of carboplatin AUC 6 and bevacizumab (15 mg/kg) every 3 weeks using a standard phase-I design.
+Bortezomib doses were 1.3 mg/m, 1.6 mg/m, and 1.8 mg/m weekly on day 1 and day 8 of every 3-week cycle.
+A maximum of six cycles was administered.
+Patients with complete, partial response or stable disease were continued on single-agent bevacizumab (15 mg/kg every 3 weeks) as maintenance therapy.
+In phase II, either level III or MTD was administered to evaluate the efficacy and safety of the combination in first-line treatment of advanced NSCLC.
+RESULTS: Sixteen patients were enrolled (three, four, and nine patients in dose level I, II, and III, respectively).
+There was no predefined dose limiting toxicity in cycle 1 in all 16 patients.
+The recommended phase-II dose is bortezomib 1.8 mg/m weekly on day 1 and day 8 in combination with carboplatin AUC 6 and bevacizumab 15 mg/kg on every 21-day cycle.
+Totally 9 patients were treated at the recommended phase-II dose level.
+The most common treatment related grade-3/4 toxicities during the subsequent cycles were thrombocytopenia (58%), lymphopenia (25%), neutropenia (12%), and diarrhea (25%).
+The grade-1/2 neuropathy was seen in 7 out of 16 patients (44%).
+The response rate, PFS, and overall survival in all patients were 37.5% (95%CI 13.8%-61.2%), 5.0 months (95%CI: 3.1-8.4), 9.9 months (95% CI: 8.2-14.1), and among the 9 patients in phase-II portion are 44% (95%CI 15.3%-77.3%), 5.5 months (95%CI: 3.1-2.2) and 10.9 months (95%CI: 8.0-14.1).
+CONCLUSION: The recommended phase-II dose for this combination is: carboplatin AUC 6, bevacizumab 15 mg/kg on day 1 and bortezomib 1.8 mg/m on day 1 and day 8 on every 21-day cycle.
+The regimen was very well tolerated with interesting clinical activity in first-line treatment of NSCLC.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

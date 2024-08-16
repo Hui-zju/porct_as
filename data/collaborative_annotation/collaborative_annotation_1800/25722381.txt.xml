@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized phase II study of the MEK1/MEK2 inhibitor trametinib (GSK1120212) compared with docetaxel in KRAS-mutant advanced non-small-cell lung cancer (NSCLC)dagger.
+BACKGROUND: KRAS mutations are detected in 25% of non-small-cell lung cancer (NSCLC) and no targeted therapies are approved for this subset population.
+Trametinib, a selective allosteric inhibitor of MEK1/MEK2, demonstrated preclinical and clinical activity in KRAS-mutant NSCLC.
+We report a phase II trial comparing trametinib with docetaxel in patients with advanced KRAS-mutant NSCLC.
+PATIENTS AND METHODS: Eligible patients with histologically confirmed KRAS-mutant NSCLC previously treated with one prior platinum-based chemotherapy were randomly assigned in a ratio of 2 : 1 to trametinib (2 mg orally once daily) or docetaxel (75 mg/m(2) i.v.
+every 3 weeks).
+Crossover to the other arm after disease progression was allowed.
+Primary end point was progression-free survival (PFS).
+The study was prematurely terminated after the interim analysis of 92 PFS events, which showed the comparison of trametinib versus docetaxel for PFS crossed the futility boundary.
+RESULTS: One hundred and twenty-nine patients with KRAS-mutant NSCLC were randomized; of which, 86 patients received trametinib and 43 received docetaxel.
+Median PFS was 12 weeks in the trametinib arm and 11 weeks in the docetaxel arm (hazard ratio [HR] 1.14; 95% CI 0.75-1.75; P = 0.5197).
+Median overall survival, while the data are immature, was 8 months in the trametinib arm and was not reached in the docetaxel arm (HR 0.97; 95% CI 0.52-1.83; P = 0.934).
+There were 10 (12%) partial responses (PRs) in the trametinib arm and 5 (12%) PRs in the docetaxel arm (P = 1.0000).
+The most frequent adverse events (AEs) in >/=20% of trametinib patients were rash, diarrhea, nausea, vomiting, and fatigue.
+The most frequent grade 3 treatment-related AEs in the trametinib arm were hypertension, rash, diarrhea, and asthenia.
+CONCLUSION: Trametinib showed similar PFS and a response rate as docetaxel in patients with previously treated KRAS-mutant-positive NSCLC.
+CLINICALTRIALSGOV REGISTRATION NUMBER: NCT01362296.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

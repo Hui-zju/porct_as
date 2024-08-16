@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Immunobiological effects of gemcitabine and capecitabine combination chemotherapy in advanced pancreatic ductal adenocarcinoma.
+BACKGROUND: Preclinical studies suggest that chemotherapy may enhance the immune response against pancreatic cancer.
+METHODS: The levels of granulocyte macrophage-colony-stimulating factor (GM-CSF) and interleukin-6 (IL-6) and the associated inflammatory marker C-reactive protein (CRP) were assessed in 38 patients receiving gemcitabine and capecitabine combination chemotherapy for advanced pancreatic cancer within the TeloVac trial.
+Apoptosis (M30) and total immune response (delayed-type hypersensitivity and/or T-cell response) were also assessed and levels of apoptosis induction correlated with immune response.
+The telomerase GV1001 vaccine was given either sequentially (n=18) or concomitantly (n=24) with the combination chemotherapy.
+RESULTS: There were no differences between baseline and post-treatment levels of CRP (P=0.19), IL-6 (P=0.19) and GM-CSF (P=0.71).
+There was a positive correlation between post-chemotherapy CRP and IL-6 levels (r=0.45, P=0.005) and between CRP with carbohydrate antigen-19-9 (CA19-9) levels at baseline (r=0.45, P=0.015) and post treatment (r=0.40, P=0.015).
+The change in CRP and IL-6 levels was positively correlated (r=0.40, P=0.012).
+Hazard ratios (95% CI) for baseline CA19-9 (1.30 (1.07-1.59), P=0.009) and CRP (1.55 (1.00-2.39), P=0.049) levels were each independently predictive of survival.
+The M30 mean matched differences between pre- and post-chemotherapy showed evidence of apoptosis in both the sequential (P=0.058) and concurrent (P=0.0018) chemoimmunotherapy arms.
+Respectively, 5 of 10 and 9 of 20 patients had a positive immune response but there was no association with apoptosis.
+CONCLUSIONS: Combination gemcitabine and capecitabine chemotherapy did not affect circulating levels of GM-CSF, IL-6 and CRP.
+Chemotherapy-induced apoptosis was not associated with the immunogenicity induced by the GV1001 vaccine in advanced pancreatic cancer.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

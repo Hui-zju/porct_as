@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Phase II randomised proof-of-concept study of the urokinase inhibitor upamostat (WX-671) in combination with gemcitabine compared with gemcitabine alone in patients with non-resectable, locally advanced pancreatic cancer.
+BACKGROUND: To evaluate the efficacy and tolerability of the urokinase plasminogen activator (uPA) inhibitor upamostat in combination with gemcitabine in locally advanced pancreatic adenocarcinoma (LAPC).
+METHODS: Within a prospective multicenter study, LAPC patients were randomly assigned to receive 1000 mg m(-2) of gemcitabine IV weekly either alone (arm A) or in combination with 200 mg (arm B) or 400 mg (arm C) oral upamostat daily.
+Efficacy endpoints of this proof-of-concept study included response rate, time to first metastasis, progression-free and overall survival (OS).
+RESULTS: Of the 95 enroled patients, 85 were evaluable for response and 93 for safety.
+Median OS was 12.5 months (95% CI 8.2-18.2) in arm C, 9.7 months (95% CI 8.4-17.1) in arm B and 9.9 months (95% CI 7.4-12.1) in arm A; corresponding 1-year survival rates were 50.6%, 40.7% and 33.9%, respectively.
+More patients achieved a partial remission (confirmed responses by RECIST) with upamostat combination therapy (arm C: 12.9%; arm B: 7.1%; arm A: 3.8%).
+Overall, only 12 patients progressed by developing detectable distant metastasis (arm A: 4, arm B: 6, arm C: 2).
+The most common adverse events considered to be related to upamostat were asthenia, fever and nausea.
+CONCLUSION: In this proof-of-concept study targeting the uPA system in LAPC, the addition of upamostat to gemcitabine was tolerated well; similar survival results were observed for the three treatment arms.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

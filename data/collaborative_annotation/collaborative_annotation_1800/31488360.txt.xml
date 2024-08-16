@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Health-related quality of life and neurocognitive functioning with lomustine-temozolomide versus temozolomide in patients with newly diagnosed, MGMT-methylated glioblastoma (CeTeG/NOA-09): a randomised, multicentre, open-label, phase 3 trial.
+BACKGROUND: The CeTeG/NOA-09 trial showed significantly longer overall survival with combined lomustine-temozolomide therapy compared with standard temozolomide for patients with glioblastoma with methylated MGMT promoter.
+The trial also aimed to investigate the effect of lomustine-temozolomide therapy on health-related quality of life (HRQOL) and neurocognitive function, which we report here.
+METHODS: In this randomised, multicentre, open-label, phase 3 trial, newly diagnosed, chemoradiotherapy-naive patients with MGMT-methylated glioblastoma, aged 18-70 years, with a Karnofsky performance score of 70% or higher, were recruited and enrolled at 17 university hospitals in Germany.
+Patients received standard radiotherapy (60 Gy) and were randomly assigned (1:1, stratified by centre by allocating complete blocks of six to a centre, without masking) to either six 6-week courses of oral combined lomustine (100 mg/m(2) on day 1) plus temozolomide (100-200 mg/m(2) on days 2-6) or standard oral temozolomide (75 mg/m(2) daily during radiotherapy plus six 4-week courses of temozolomide [150-200 mg/m(2)] on days 1-5, every 4 weeks).
+The primary endpoint was overall survival.
+HRQOL, assessed using the European Organisation for Research and Treatment of Cancer (EORTC) quality of life questionnaire core-30 and the EORTC brain cancer module (BN20); and neurocognitive function, assessed using the Mini Mental State Examination (MMSE), plus a neurocognitive test battery (NOA-07), including Trail Making Test A and B (TMT-A and B), working memory tests, and tests for lexical (Controlled Oral Word Association [COWA]) and semantic verbal fluency, were secondary endpoints analysed in the modified intention-to-treat population (mITT; all randomly assigned patients who received at least one dose of study chemotherapy).
+We used linear mixed-model analyses to investigate differences between treatment groups regarding HRQOL (clinically relevant >/=10 points) and MMSE scores (clinically relevant >/=3 points).
+The trial is registered with ClinicalTrials.gov, NCT01149109.
+FINDINGS: Between June 17, 2011 and April 8, 2014, 141 patients were randomly assigned and 129 patients began treatment and were included in the mITT population (63 in the temozolomide and 66 in the lomustine-temozolomide group).
+Median follow-up for HRQOL (the item global health) was 19.4 months (IQR 7.8-38.6), for MMSE was 15.3 months (4.1-29.6), and for COWA was 11.0 months (0-27.5).
+We found no significant impairment regarding any item of HRQOL in the lomustine-temozolomide group (difference between the groups for global health 0.30 [95% CI -0.23 to 0.83]; p=0.26).
+Differences in MMSE were in favour of the temozolomide group (difference -0.11 [95% CI -0.19 to -0.03]; p=0.0058) but were not clinically relevant (1.76/30 points over 4 years).
+We found no significant difference between the groups in any subtest of the neurocognitive test battery (difference for COWA 0.04 [95% CI -0.01 to 0.09]; p=0.14).
+INTERPRETATION: The absence of systematic and clinically relevant changes in HRQOL and neurocognitive function combined with the survival benefit of lomustine-temozolomide versus temozolomide alone suggests that a long-term net clinical benefit exists for patients with newly diagnosed glioblastoma with methylation of the MGMT promoter and supports the use of lomustine-temozolomide as a treatment option for these patients.
+FUNDING: German Federal Ministry of Education and Research.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

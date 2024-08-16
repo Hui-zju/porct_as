@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>A cohort analysis to identify eligible patients for intraoperative radiotherapy (IORT) of early breast cancer.
+BACKGROUND: Since the results from the randomized TARGIT A trial were published, intraoperative radiotherapy (IORT) is used more often.
+IORT can be provided as accelerated partial breast irradiation (APBI) or as a boost.
+The definition of suitable patients for IORT as APBI differs between different national societies (e.g. ESTRO and ASTRO) and different inclusion criteria of trials and so does the eligibility of patients.
+This analysis identifies eligible patients for IORT according to available consensus statements and inclusion criteria of the ongoing TARGIT trials.
+METHODS: Between 01/03 - 12/09, 1505 breast cancer cases were treated at the breast cancer center at the University Medical Center Mannheim.
+Complete data sets for age, stage (T, N, and M), histology and hormone receptor status were available in 1108 cases.
+Parameters to identify eligible patients are as follows: ESTRO: &gt;50 years, invasive ductal carcinoma/other favorable histology (IDC), T1-2 (&lt;/=3 cm), N0, any hormone receptor status, M0; ASTRO: &gt;/=60 years, IDC, T1, N0, positive estrogen hormone receptor status, M0; TARGIT E "elderly", risk adapted radiotherapy with IORT followed by external beam radiotherapy in case of risk factors in final histopathology, phase II: &gt;/=70 years, IDC, T1, N0, any hormone receptor status, M0; TARGIT C "consolidation", risk adapted radiotherapy, phase IV: &gt;/=50 years, IDC, T1, N0, positive hormone receptor status, M0; TARGIT BQR "boost quality registry": every age, every histology, T1-2 (max.
+3.5 cm), any hormone receptor status, N0/+, M0/+.
+RESULTS: Out of the 1108 cases, 379 cases (34.2%) were suitable for IORT as APBI regarding the ESTRO and 175 (15.8%) regarding the ASTRO consensus statements.
+82 (7.4%) patients were eligible for the TARGIT E trial, 258 (23.3%) for the TARGIT C trial and 671 (60.6%) for the TARGIT BQR registry.
+According to the consensus statements of ASTRO (45.1%) and ESTRO (41.4%) about half of the eligible patients were treated with IORT as APBI.
+From the eligible patients fulfilling the criteria for IORT boost (35%) about one third was eventually treated.
+CONCLUSIONS: Patient selection for IORT should be restrictive.
+For IORT as APBI the TARGIT trials are even more restrictive including patients than the ESTRO and ASTRO consensus statements.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

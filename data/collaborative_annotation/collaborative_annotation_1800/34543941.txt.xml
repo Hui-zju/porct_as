@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Combined, patient-level, analysis of two randomised trials evaluating the addition of denosumab to standard first-line chemotherapy in advanced NSCLC - The ETOP/EORTC SPLENDOUR and AMGEN-249 trials.
+INTRODUCTION: The efficacy of adding denosumab to standard first-line chemotherapy for advanced NSCLC patients has been evaluated in two separate randomised trials (SPLENDOUR and AMGEN-249).
+In this pooled analysis, we will assess the combination-treatment effect in the largest available population, in order to conclude about the potential impact of denosumab in NSCLC.
+METHODS: Both trials included in this combined analysis, were randomised (SPLENDOUR 1:1, AMGEN-249 2:1) multi-centre trials stratified by histology, bone metastasis, geographical region and for SPLENDOUR only, ECOG PS.
+Cox proportional hazards models, were used to assess the treatment effect with respect to overall survival (OS; primary endpoint) and progression-free survival (PFS; secondary endpoint).
+Heterogeneity between trials was assessed, and subgroup analyses were performed.
+RESULTS: The pooled analysis was based on 740 randomised patients (SPLENDOUR:514; AMGEN-249:226), with 407 patients in the chemotherapy-denosumab arm and 333 in the chemotherapy-alone arm.
+In the chemotherapy-denosumab arm, at a median follow-up of 22.0 months, 277 (68.1%) deaths were reported with median OS 9.2 months (95%CI:[8.0-10.7]), while in the chemotherapy-alone arm, with similar median follow-up of 20.3 months, 230 (69.1%) deaths with median OS 9.9 months (95%CI:[8.2-11.2]).
+No significant denosumab effect was found (HR = 0.98; 95%CI:[0.82-1.18]; P = 0.85).
+Among subgroups, interaction was found between treatment and histology subtypes (P = 0.020), with a statistically significant benefit in the squamous group (HR = 0.70; 95%CI:[0.49-0.98]; P = 0.038), from 7.6 to 9.0 months median OS.
+With respect to PFS, 363 (89.2%) and 298 (89.5%) events were reported in the chemotherapy-denosumab and chemotherapy-alone arms, respectively, with corresponding medians 4.8 months (95%CI:[4.4-5.3]) and 4.9 months (95%CI:[4.3-5.4]).
+HR for PFS was 0.97(95%CI:[0.83-1.15]; P = 0.76), indicating that no significant denosumab benefit existed for PFS.
+CONCLUSION: In this pooled analysis, no statistically significant improvement was shown in PFS/OS with the combination of denosumab and chemotherapy for advanced NSCLC and no meaningful benefit in any of the subgroups.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

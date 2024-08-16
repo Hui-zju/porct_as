@@ -1,0 +1,22 @@
+<MyRCT>
+<TEXT>Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer.
+Background: CBCSG006 trial reported the superior efficacy of cisplatin plus gemcitabine (GP) regimen than paclitaxel plus gemcitabine (GT) regimen as first-line treatment of metastatic triple-negative breast cancer (mTNBC).
+This study focused on the updated survival data and the explorations of potential biomarkers for efficacy.
+Patients and methods: Germ-line mutations of homologous recombination (HR) panel, BRCA1/2 included, were evaluated in 55.9% (132/236) patients.
+PD-L1 expression was evaluated in 48.3% (114/236) patients.
+A nonparametric sliding-window subpopulation treatment effect pattern plot (STEPP) methodology was used to analyze the absolute survival benefits.
+All statistical tests were two-sided.
+Results: Median progression-free survival (PFS) was 7.73 [95% confidence interval (CI) 6.46-9.00] months for GP arm and 6.07 (95% CI 5.32-6.83) months for GT arm (P = 0.005).
+No significant difference in overall survival (OS) was observed.
+There was significant interaction between HR status and treatment for PFS and status of HR deficient significantly correlated with higher objective response rate (ORR) and longer PFS in GP arm than in GT arm (71.9% versus 38.7%, P = 0.008; 10.37 versus 4.30 months, P = 0.011).
+There was no significant interaction between germ-line BRCA1/2 (gBRCA1/2) status and treatment for PFS.
+Patients with gBRCA1/2 mutation had numerically higher ORR and prolonged PFS in GP arm than in GT arm (83.3% versus 37.5%, P = 0.086; 8.90 versus 3.20 months, P = 0.459).
+There was no significant interaction between PD-L1 status and treatment for PFS, and no significant differences in ORR, PFS or OS between two arms regardless of PD-L1 status.
+In STEPP analysis, patients with lower composite risks had more absolute benefits in PFS than those with higher composite risks.
+Conclusions: GP regimen has superior efficacy than GT regimen as first-line chemotherapy for mTNBC patients.
+Germ-line mutations of BRCA1/2 and HR panel are possible biomarkers for better performance of cisplatin-based regimens.
+A composite risk model was developed to guide patient selection for GP treatment in TNBC patients.
+Trial registration: ClinicalTrials.gov, NCT01287624.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

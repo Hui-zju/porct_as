@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A phase II randomized trial of cobimetinib plus chemotherapy, with or without atezolizumab, as first-line treatment for patients with locally advanced or metastatic triple-negative breast cancer (COLET): primary analysis.
+BACKGROUND: Resistance to standard chemotherapy in metastatic triple-negative breast cancer (mTNBC) is associated with upregulation of the mitogen-activated protein kinase (MAPK) pathway.
+Cobimetinib, an MAPK/extracellular signal-regulated kinase (MEK) inhibitor, may increase sensitivity to taxanes and programmed death-ligand 1 inhibitors.
+COLET is a three-cohort phase II study evaluating first-line cobimetinib plus chemotherapy, with or without atezolizumab, in patients with locally advanced or mTNBC.
+PATIENTS AND METHODS: Patients were >/=18 years with locally advanced or mTNBC.
+Following a safety run-in, patients in cohort I were randomized 1:1 to cobimetinib (60 mg, D3-D23 of each 28-day cycle) or placebo, plus paclitaxel (80 mg/m(2), D1, 8, and 15).
+Additional patients were randomized (1:1) to cohort II or III to receive cobimetinib plus atezolizumab (840 mg, D1 and D15) and either paclitaxel (cohort II) or nab-paclitaxel [cohort III (100 mg/m(2), D1, D8, and D15)].
+Primary endpoints were investigator-assessed progression-free survival (PFS) (cohort I) and confirmed objective response rate (ORR) (cohorts II/III).
+Safety and tolerability were also assessed.
+RESULTS: In the expansion stages, median PFS was 5.5 months for cobimetinib/paclitaxel versus 3.8 months for placebo/paclitaxel in cohort I [hazard ratio 0.73; 95% confidence interval (CI) 0.43-1.24; P = 0.25].
+In cohort I, ORR was 38.3% (95% CI 24.40-52.20) for cobimetinib/paclitaxel and 20.9% (95% CI 8.77-33.09) for placebo/paclitaxel; ORRs in cohorts II and III were 34.4% (95% CI 18.57-53.19) and 29.0% (95% CI 14.22-48.04), respectively.
+Diarrhea was the most common grade >/=3 adverse events across all cohorts.
+CONCLUSIONS: Cobimetinib added to paclitaxel did not lead to a statistically significant increase in PFS or ORR, although a nonsignificant trend toward a numerical increase was observed.
+Cobimetinib plus atezolizumab and a taxane did not appear to increase ORR.
+This demonstrates the potential activity of a combinatorial MEK inhibitor, chemotherapy, and immunotherapy in this difficult-to-treat population.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

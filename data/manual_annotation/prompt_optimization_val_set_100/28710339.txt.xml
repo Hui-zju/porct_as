@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Impact of low-dose CT screening on smoking cessation among high-risk participants in the UK Lung Cancer Screening Trial.
+BACKGROUND: Smoking cessation was examined among high-risk participants in the UK Lung Cancer Screening (UKLS) Pilot Trial of low-dose CT screening.
+METHODS: High-risk individuals aged 50-75 years who completed baseline questionnaires were randomised to CT screening (intervention) or usual care (no screening control).
+Smoking habit was determined at baseline using self-report.
+Smokers were asked whether they had quit smoking since joining UKLS at T1 (2 weeks after baseline scan results or control assignment) and T2 (up to 2 years after recruitment).
+Intention-to-treat (ITT) regression analyses were undertaken, adjusting for baseline lung cancer distress, trial site and sociodemographic variables.
+RESULTS: Of a total 4055 individuals randomised to CT screening or control, 1546 were baseline smokers (759 intervention, 787 control).
+Smoking cessation rates were 8% (control n=36/479) versus 14% (intervention n=75/527) at T1 and 21% (control n=79/377) versus 24% (intervention n=115/488) at T2.
+ITT analyses indicated that the odds of quitting among screened participants were significantly higher at T1 (adjusted OR (aOR) 2.38, 95% CI 1.56 to 3.64, p<0.001) and T2 (aOR 1.60, 95% CI 1.17 to 2.18, p=0.003) compared with control.
+Intervention participants who needed additional clinical investigation were more likely to quit in the longer term compared with the control group (aOR 2.29, 95% CI 1.62 to 3.22, p=0.007) and those receiving a negative result (aOR 2.43, 95% CI 1.54 to 3.84, p<0.001).
+CONCLUSIONS: CT lung cancer screening for high-risk participants presents a teachable moment for smoking cessation, especially among those who receive a positive scan result.
+Further behavioural research is needed to evaluate optimal strategies for integrating smoking cessation intervention with stratified lung cancer screening.
+TRIAL REGISTRATION NUMBER: Results, ISRCTN 78513845.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="other" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

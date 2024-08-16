@@ -1,0 +1,21 @@
+<MyRCT>
+<TEXT>Noninvasive image texture analysis differentiates K-ras mutation from pan-wildtype NSCLC and is prognostic.
+BACKGROUND: Non-invasive characterization of a tumor's molecular features could enhance treatment management.
+Quantitative computed tomography (CT) based texture analysis (QTA) has been used to derive tumor heterogeneity information, and the appearance of the tumors has been shown to relate to patient outcome in non-small cell lung cancer (NSCLC) and other cancers.
+In this study, we examined the potential of tumoral QTA to differentiate K-ras mutant from pan-wildtype tumors and its prognostic potential using baseline pre-treatment non-contrast CT imaging in NSCLC.
+METHODS: Tumor DNA from patients with early-stage NSCLC was analyzed on the LungCarta Panel.
+Cases with a K-ras mutation or pan-wildtype for 26 oncogenes and tumor suppressor genes were selected for QTA.
+QTA was applied to regions of interest in the primary tumor.
+Non-parametric Mann Whitney test assessed the ability of the QTA, clinical and patient characteristics to differentiate between K-ras mutation from pan-wildtype.
+A recursive decision tree was developed to determine whether the differentiation of K-ras mutant from pan-wildtype tumors could be improved by sequential application of QTA parameters.
+Kaplan-Meier survival analysis assessed the ability of these markers to predict survival.
+RESULTS: QTA was applied to 48 cases identified, 27 had a K-ras mutation and 21 cases were pan-wildtype.
+Positive skewness and lower kurtosis were significantly associated with the presence of a K-ras mutation.
+A five node decision tree had sensitivity, specificity, and accuracy values (95% CI) of 96.3% (78.1-100), 81.0% (50.5-97.4), and 89.6% (72.9-97.0); respectively.
+Kurtosis was a significant predictor of OS and DFS, with a lower kurtosis value linked with poorer survival.
+CONCLUSIONS: Lower kurtosis and positive skewness are significantly associated with K-ras mutations.
+A QTA feature such as kurtosis is prognostic for OS and DFS.
+Non-invasive QTA can differentiate the presence of K-ras mutation from pan-wildtype NSCLC and is associated with patient survival.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

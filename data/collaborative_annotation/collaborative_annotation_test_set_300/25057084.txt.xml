@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[[Effect of S-1 maintenance chemotherapy following DCF regimen in patients with advanced gastric cancer].
+OBJECTIVE: To investigate the efficacy and adverse effect of DCF regimen with subsequent S-1 maintenance chemotherapy in patients with advanced gastric cancer (AGC).
+METHODS: Sixty AGC patients without disease progression after 4 to 6 cycles of DCF regimen as the first-line chemotherapy were randomized into maintenance group and control group (30 patients each).
+The patients in the maintenance group received maintenance chemotherapy with S-1 (40 mg/m(2), twice daily for 14 days; 21 days for a treatment cycle) until disease progression or with intolerant toxicity, and those in the control group received optimal supportive care.
+RESULTS: The response rate (CR+PR) was 33.3% in the maintenance group, significantly higher than that in the control group (3.33%, P<0.05), and the disease control rate (CR+PR+SD) also differed significantly between the two groups (73.3% vs 46.7%, P<0.05).
+The median time to progression was 7.9 months in the maintenance group and 6.8 months in the control group, with median overall survival time of 13.8 and 11.7 months, respectively (P>0.05).
+The most common adverse effect in the maintenance group included nausea, vomiting, leucocytopenia, and hand-foot syndrome; no death occurred in relation to the therapy.
+CONCLUSION: S-1 maintenance chemotherapy, with a tolerable toxicity profile, can improve the RR, DCR and median time to progression in AGC patients who respond to DCF regimen, but its efficacy still awaits further evaluation.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

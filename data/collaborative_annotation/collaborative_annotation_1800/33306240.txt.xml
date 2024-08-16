@@ -1,0 +1,14 @@
+<MyRCT>
+<TEXT>Machine-learning radiomics to predict early recurrence in perihilar cholangiocarcinoma after curative resection.
+BACKGROUND AND AIMS: Up to 40%-65% of patients with perihilar cholangiocarcinoma (PHC) rapidly progress to early recurrence (ER) even after curative resection.
+Quantification of ER risk is difficult and a reliable prognostic prediction tool is absent.
+We developed and validated a multilevel model, integrating clinicopathology, molecular pathology and radiology, especially radiomics coupled with machine-learning algorithms, to predict the ER of patients after curative resection in PHC.
+METHODS: In total, 274 patients who underwent contrast-enhanced CT (CECT) and curative resection at 2 institutions were retrospectively identified and randomly divided into training (n = 167), internal validation (n = 70) and external validation (n = 37) sets.
+A machine-learning analysis of 18,120 radiomic features based on multiphase CECT and 48 clinico-radiologic characteristics was performed for the multilevel model.
+RESULTS: Comprehensively, 7 independent factors (tumour differentiation, lymph node metastasis, pre-operative CA19-9 level, enhancement pattern, A-Shrink score, V-Shrink score and P-Shrink score) were built to the multilevel model and quantified the risk of ER.
+We benchmarked the gain in discrimination with the area under the curve (AUC) of 0.883, superior to the rival clinical and radiomic models (AUCs 0.792-0.805).
+The accuracy (ACC) of the multilevel model was 0.826, which was significantly higher than those of the conventional staging systems (AJCC 8th (0.641), MSKCC (0.617) and Gazzaniga (0.581)).
+CONCLUSION: The radiomics-based multilevel model demonstrated superior performance to rival models and conventional staging systems, and could serve as a visual prognostic tool to plan surveillance of ER and guide post-operative individualized management in PHC.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

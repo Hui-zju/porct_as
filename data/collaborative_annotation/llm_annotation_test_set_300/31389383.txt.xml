@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A prospective, randomized study to compare the combination of imatinib and cytarabine versus imatinib alone in newly diagnosed patients with chronic phase chronic myeloid leukemia.
+INTRODUCTION: To compare the efficacy and safety of imatinib and cytarabine (ara-c) combination versus imatinib monotherapy in newly diagnosed patients with chronic phase chronic myeloid leukemia (CML-CP).
+MATERIALS AND METHODS: This prospective, randomized study included adult patients (age >18 years) with newly diagnosed CML-CP.
+Patients received either a single oral dose of imatinib 400 mg/day in combination with a subcutaneous injection of ara-c 20 mg/m(2)/day (imatinib + ara-c) or a single oral dose of imatinib 400 mg/day.
+Primary endpoints were hematological and molecular responses at 3 months and cytogenetic responses at 6 and 12 months.
+Secondary endpoints included grade 3/4 hematological and nonhematological adverse events (AEs).
+RESULTS: Of 30 patients included, 14 were randomized to imatinib + ara-c and 16 to imatinib alone.
+Complete hematologic response (CHR) at 3 months was higher with imatinib + ara-c vs. imatinib alone (100% vs. 87.5%, P = 0.48).
+The median time to achieve CHR was significantly (P < 0.001) lower with imatinib + ara-c (32.07 vs. 23.43 days).
+Molecular response at 3 months was significantly higher (P = 0.04) with imatinib + ara-c vs.
+imatinib alone (100% vs. 68.75%).
+Complete cytogenetic response was also higher with imatinib + ara-c vs. imatinib alone (42.85% vs. 25% at 6 months and 71.4% vs. 62.5% at 12 months).
+Neutropenia followed by thrombocytopenia and anemia were the most common AEs.
+Grade 3/4 hematological and nausea events were significantly (P < 0.05) higher with imatinib + ara-c.
+Other nonhematological events were not significantly different between the treatments.
+The median follow-up duration was 20 months (range: 15-23 months).
+CONCLUSION: Imatinib with low-dose ara-c can be considered as a potential first-line treatment option for CML-CP.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

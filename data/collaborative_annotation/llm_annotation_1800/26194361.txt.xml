@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Carboplatin/taxane-induced gastrointestinal toxicity: a pharmacogenomics study on the SCOTROC1 trial.
+Carboplatin/taxane combination is first-line therapy for ovarian cancer.
+However, patients can encounter treatment delays, impaired quality of life, even death because of chemotherapy-induced gastrointestinal (GI) toxicity.
+A candidate gene study was conducted to assess potential association of genetic variants with GI toxicity in 808 patients who received carboplatin/taxane in the Scottish Randomized Trial in Ovarian Cancer 1 (SCOTROC1).
+Patients were randomized into discovery and validation cohorts consisting of 404 patients each.
+Clinical covariates and genetic variants associated with grade III/IV GI toxicity in discovery cohort were evaluated in replication cohort.
+Chemotherapy-induced GI toxicity was significantly associated with seven single-nucleotide polymorphisms in the ATP7B, GSR, VEGFA and SCN10A genes.
+Patients with risk genotypes were at 1.53 to 18.01 higher odds to develop carboplatin/taxane-induced GI toxicity (P<0.01).
+Variants in the VEGF gene were marginally associated with survival time.
+Our data provide potential targets for modulation/inhibition of GI toxicity in ovarian cancer patients.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

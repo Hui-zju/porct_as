@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Validation and Refinement of Prediction Models to Estimate Exercise Capacity in Cancer Survivors Using the Steep Ramp Test.
+OBJECTIVE: To further test the validity and clinical usefulness of the steep ramp test (SRT) in estimating exercise tolerance in cancer survivors by external validation and extension of previously published prediction models for peak oxygen consumption (Vo2peak) and peak power output (Wpeak).
+DESIGN: Cross-sectional study.
+SETTING: Multicenter.
+PARTICIPANTS: Cancer survivors (N=283) in 2 randomized controlled exercise trials.
+INTERVENTIONS: Not applicable.
+MAIN OUTCOME MEASURES: Prediction model accuracy was assessed by intraclass correlation coefficients (ICCs) and limits of agreement (LOA).
+Multiple linear regression was used for model extension.
+Clinical performance was judged by the percentage of accurate endurance exercise prescriptions.
+RESULTS: ICCs of SRT-predicted Vo2peak and Wpeak with these values as obtained by the cardiopulmonary exercise test were .61 and .73, respectively, using the previously published prediction models.
+95% LOA were +/-705mL/min with a bias of 190mL/min for Vo2peak and +/-59W with a bias of 5W for Wpeak.
+Modest improvements were obtained by adding body weight and sex to the regression equation for the prediction of Vo2peak (ICC, .73; 95% LOA, +/-608mL/min) and by adding age, height, and sex for the prediction of Wpeak (ICC, .81; 95% LOA, +/-48W).
+Accuracy of endurance exercise prescription improved from 57% accurate prescriptions to 68% accurate prescriptions with the new prediction model for Wpeak.
+CONCLUSIONS: Predictions of Vo2peak and Wpeak based on the SRT are adequate at the group level, but insufficiently accurate in individual patients.
+The multivariable prediction model for Wpeak can be used cautiously (eg, supplemented with a Borg score) to aid endurance exercise prescription.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

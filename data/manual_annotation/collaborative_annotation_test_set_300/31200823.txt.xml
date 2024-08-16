@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Combination of icotinib and chemotherapy as first-line treatment for advanced lung adenocarcinoma in patients with sensitive EGFR mutations: A randomized controlled study.
+OBJECTIVE: To explore the efficacy and safety of icotinib with chemotherapy as first-line therapy for advanced lung adenocarcinoma in patients with sensitive epidermal growth factor receptor (EGFR) mutations.
+METHODS: This prospective, randomized, controlled trial was conducted in 10 general hospitals in Shandong Province, China.
+Previously untreated patients with advanced lung adenocarcinoma and sensitive EGFR mutations were recruited between January 16, 2014 and December 31, 2016 and randomly allocated to the combination group (icotinib plus pemetrexed and carboplatin) or the icotinib only group.
+The patients were followed up until May 23, 2018.
+The primary endpoint was progression-free survival (PFS).
+RESULTS: The efficacy analysis (intention-to-treat analysis) include 179 patients (n = 90 in the combination group and n = 89 in the icotinib only group).
+PFS was significantly longer in the combination group than in the icotinib only group (16.0 months vs. 10.0 months, hazard ratio [HR] = 0.59, 95% confidence interval [CI] 0.42-0.84, P = 0.003).
+The objective response rate and the disease control rate for the combination group were significantly higher than those for the icotinib only group (77.8% vs. 64.0%, chi(2) = 4.094, P = 0.043; 91.1% vs. 79.8%, chi(2) = 4.632, P = 0.031).
+However, overall survival did not differ between the two groups (36.0 months vs. 34.0 months, HR = 0.81, 95%CI 0.54-1.22, P = 0.309).
+The incidence rates of leukopenia and liver function damage of grades 3-4 were higher in the combination group than in the icotinib only group (12.2% vs. 0%, chi(2) = 11.086, P = 0.001; 12.2% vs. 3.5%, chi(2) = 4.488, P = 0.034).
+However, adverse events were resolved in most patients.
+CONCLUSION: Use of the combination of icotinib and chemotherapy as first-line therapy significantly improved the PFS of advanced lung adenocarcinoma patients with sensitive EGFR mutations.
+Although the combination therapy increased the incidence of leukopenia and liver function damage, the observed adverse events were tolerable and manageable.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

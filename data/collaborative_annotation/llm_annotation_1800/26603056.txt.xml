@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Rationale and Design for the LUME-Colon 1 Study: A Randomized, Double-Blind, Placebo-Controlled Phase III Trial of Nintedanib Plus Best Supportive Care Versus Placebo Plus Best Supportive Care in Patients With Advanced Colorectal Cancer Refractory to Standard Treatment.
+BACKGROUND: Clinical studies of antivascular endothelial growth factor (anti-VEGF) agents have demonstrated that angiogenesis is critical to colorectal cancer (CRC) tumor growth and metastasis.
+Nintedanib is a triple angiokinase inhibitor of VEGF, platelet-derived growth factor, and fibroblast growth factor signaling.
+Nintedanib, combined with docetaxel, has been approved in the European Union for the treatment of patients with non-small-cell lung cancer with adenocarcinoma tumor histologic type after first-line chemotherapy.
+The objective of the present study (1199.52; clinicaltrials.gov identifier NCT02149108; LUME-Colon 1) is to evaluate the efficacy and safety of nintedanib plus best supportive care (BSC) in patients with advanced colorectal cancer refractory to standard chemotherapy regimens and biologic agents.
+PATIENTS AND METHODS: A total of 764 patients worldwide will be randomized 1:1 to receive either nintedanib 200 mg twice daily plus BSC or placebo plus BSC in 21-day courses until disease progression, undue toxicity, or withdrawal of informed consent.
+The primary endpoints are progression-free survival (PFS) and overall survival (OS).
+The secondary endpoints are the objective tumor response and disease control.
+PFS and OS will be evaluated using a log-rank test to determine the effect of nintedanib independently at the 2-sided alpha-level of 0.05.
+Other assessments will include the frequency and severity of adverse events and changes in laboratory parameters to measure the safety, health-related quality of life, and pharmacogenomic analyses, focusing on exploring the predictive biomarkers and drug-resistance mechanisms.
+The results are expected in 2016.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

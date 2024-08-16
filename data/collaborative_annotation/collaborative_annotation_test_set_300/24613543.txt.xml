@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Nimotuzumab provides survival benefit to patients with inoperable advanced squamous cell carcinoma of the head and neck: a randomized, open-label, phase IIb, 5-year study in Indian patients.
+OBJECTIVE: Overexpression of epidermal growth factor receptor (EGFR) in many cancers makes it an attractive therapeutic target.
+This study evaluated the clinical utility of nimotuzumab, a monoclonal anti-EGFR antibody, used concurrently with radiotherapy (RT) and chemoradiotherapy (CRT) in squamous cell carcinoma of the head and neck (SCCHN).
+METHODS: This open-label study randomized 92 treatment-naive patients (1:1) with advanced SCCHN into chemoradiation (CRT +/- nimotuzumab) or radiation (RT +/- nimotuzumab) group by investigator's discretion; these were further randomized into CRT + nimotuzumab or CRT and RT + nimotuzumab or RT groups, respectively.
+Treatment included 6 cycles each of cisplatin (50 mg/week), nimotuzumab (200 mg/week), and RT (total dose, 60-66 Gy).
+Response (tumor size reduction) was assessed at Month 6 post-treatment and survival, at Month 60.
+RESULTS: Forty and 36 patients in the chemoradiation and radiation groups, respectively (intent-to-treat population) were evaluated.
+Overall response at Month 6 post-treatment was 100% with CRT + nimotuzumab, 70% with CRT, 76% with RT + nimotuzumab, and 37% with RT.
+At Month 60, overall survival was 57% with CRT + nimotuzumab, 26% with CRT (P = 0.03), 39% with RT + nimotuzumab, and 26% with RT (P > 0.05).
+Median overall survival was not reached for CRT + nimotuzumab; it was 21.94 months for CRT (P = 0.0078), 14.36 months for RT + nimotuzumab, and 12.78 months for RT (P = 0.45).
+Risk of death was 64% lower with CRT + nimotuzumab than with CRT (95%CI: 0.37, 1.56), and 24% lower with RT + nimotuzumab than with RT (95%CI: 0.16, 0.79).
+Thus nimotuzumab was safe and well tolerated with few mild to moderate self-limiting adverse events.
+CONCLUSION: Concurrent use of nimotuzumab with CRT/RT is safe and provides long-term survival benefit.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

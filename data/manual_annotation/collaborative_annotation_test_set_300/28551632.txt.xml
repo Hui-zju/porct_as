@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[The Prognostic Value of the Immunohistochemical Expression of Phosphorylated RB and p16 Proteins in Association with Cyclin D1 and the p53 Pathway in a Large Cohort of Patients with Breast Cancer Treated with Taxane-based Adjuvant Chemotherapy.
+BACKGROUND: The retinoblastoma (RB) gene is a tumor-suppressor gene that plays a central role in regulating the cell cycle.
+Inactivation of this gene is involved in breast cancer.
+PATIENTS AND METHODS: A total of 827 patients with breast cancer treated with taxane-based adjuvant chemotherapy were included in the study.
+Protein expression of RB, phosphorylated RB (pRB), p16, cyclin D1 and p53 was evaluated by immunohistochemistry.
+RESULTS: Neither of the retinoblastoma markers (RB and pRB) reached statistical significance in terms of their association with disease-free or overall survival.
+Nevertheless, when clustering analysis was performed, patients with tumors featuring low levels of p16, cyclin D1 and p53 with concomitantly high levels of pRB had reduced risk for relapse (Wald's p=0.015).
+CONCLUSION: The p53-mediated sensitivity of breast cancer cells to chemotherapeutic agents appears to be driven mostly by pRB.
+Using agents that enhance RB phosphorylation might possibly increase the chemosensitivity of breast cancer cells.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

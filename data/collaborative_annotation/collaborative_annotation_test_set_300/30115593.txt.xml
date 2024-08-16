@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Bevacizumab and temozolomide in patients with first recurrence of WHO grade II and III glioma, without 1p/19q co-deletion (TAVAREC): a randomised controlled phase 2 EORTC trial.
+BACKGROUND: Bevacizumab is frequently used in the treatment of recurrent WHO grade II and III glioma, but without supporting evidence from randomised trials.
+Therefore, we assessed the use of bevacizumab in patients with first recurrence of grade II or III glioma who did not have 1p/19q co-deletion.
+METHODS: The TAVAREC trial was a randomised, open-label phase 2 trial done at 32 centres across Europe in patients with locally diagnosed grade II or III glioma without 1p/19q co-deletion, with a first and contrast-enhancing recurrence after initial radiotherapy or chemotherapy, or both.
+Previous chemotherapy must have been stopped at least 6 months before enrolment and radiotherapy must have been stopped at least 3 months before enrolment.
+Random group assignment was done electronically through the European Organisation for Research and Treatment of Cancer web-based system, stratified by a minimisation procedure using institution, initial histology (WHO grade II vs III), WHO performance status (0 or 1 vs 2), and previous treatment (radiotherapy, chemotherapy, or both).
+Patients were assigned to receive either temozolomide (150-200 mg/m(2), orally) monotherapy on days 1-5 every 4 weeks for a maximum of 12 cycles, or the same temozolomide regimen in combination with bevacizumab (10 mg/kg, intravenously) every 2 weeks until progression.
+The primary endpoint was overall survival at 12 months in the per-protocol population.
+Safety analyses were done in all patients who started their allocated treatment.
+The study is registered at EudraCT (2009-017422-39) and ClinicalTrials.gov (NCT01164189), and is complete.
+FINDINGS: Between Feb 8, 2011, and July 31, 2015, 155 patients were enrolled and randomly assigned to receive either monotherapy (n=77) or combination therapy (n=78).
+Overall survival in the per-protocol population at 12 months was achieved by 44 (61% [80% CI 53-69]) of 72 patients in the temozolomide group and 38 (55% [47-69]) of 69 in the combination group.
+The most frequent toxicity was haematological: 17 (23%) of 75 patients in the monotherapy group and 25 (33%) of 76 in the combination group developed grade 3 or 4 haematological toxicity.
+Other than haematological toxicities, the most common adverse events were nervous system disorders (59 [79%] of 75 patients in the monotherapy group vs 65 [86%] of 76 in the combination group), fatigue (53 [70%] vs 61 [80%]), and nausea (39 [52%] vs 43 [56%]).
+Infections were more frequently reported in the combination group (29 [38%] of 76 patients) than in the monotherapy group (17 [23%] of 75).
+One treatment-related death was reported in the combination group (infection after intratumoral haemorrhage during a treatment-related grade 4 thrombocytopenia).
+INTERPRETATION: We found no evidence of improved overall survival with bevacizumab and temozolomide combination treatment versus temozolomide monotherapy.
+The findings from this study provide no support for further phase 3 studies on the role of bevacizumab in this disease.
+FUNDING: Roche Pharmaceuticals.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

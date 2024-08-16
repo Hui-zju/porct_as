@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[[Preliminary study of improved quality of computed tomographic angiography on tumor blood supply arteries of gastrointestinal tract malignant tumors with low tube voltage and low concentration contrast medium].
+OBJECTIVE: To assess the image quality of gastrointestinal tract malignant tumors arteries using low tube voltage, low contrast medium concentration and 50% adaptive statistical iterative reconstruction (ASiR) algorithm.
+METHODS: A total of 58 patients with pathologically confirmed gastrointestinal tract malignant tumors and body mass index (BMI) under 22 kg/m(2) undergoing computed tomography (CT) scanning during March-December 2013.
+They were randomly divided into group A (270 mgI/ml of contrast medium, 80 kVp tube voltage scanning and 50% ASiR; 21 males and 11 females with an age range of 40-90 years) and group B (350 mgI/ml of contrast medium, 120 kVp routine tube voltage; 22 males and 4 females with an age range of 40-76 years).
+The inter-group differences of age and gender ratio were compared with Mann-Whitney U and Fisher exact tests respectively.
+Two independent radiologists reviewed reconstructions and separated the reconstructed image into 5 points according to image quality.
+The CT value of tumor blood supplying artery (CT1 value) and fat in anterior abdominal wall (SD value) were measured and image noise, contrast-to-noise ratio (CNR) and figure of merit (FOM) calculated.
+The interobserver variation was estimated by weighted kappa statistics and intra-class correlation coefficients (ICC) test.
+The point of image quality of two groups was compared by Mann-Whitney U test.
+The paired Student t test was used to compare the inter-group differences in CT1, SD, CNR, FOM and CT dose index (CTDIvol).
+RESULTS: No inter-group difference existed in patient age or gender ratio.
+The consistency of two radiologists was excellent (kappa value > 0.80; ICC value > 0.75).
+The subjective image quality scores of tumor blood supplying arteries showed no inter-group difference (P = 0.09).
+The tumor blood supply arteries CT value, CNR and FOM of group A (459 +/- 69 HU, 20.2 +/- 3.3 and 85 +/- 37) were significantly higher than those of group B (250 +/- 42 HU, 9.3 +/- 1.9 and 9 +/- 4) (both P < 0.01).
+The SD value of group A (20.0 +/- 1.7) was obviously lower than that of group B (22.4 +/- 3.2) (P < 0.01). And the CTDIvol of group A (5.2 +/- 1.2 mGy) was obviously lower than that of group B (13.5 +/- 4.7 mGy) (P < 0.01).
+CONCLUSION: For patients of BMI </= 22 kg/m(2), low tube voltage and low contrast medium concentration scan condition with 50% ASiR algorithm is feasible for acquiring better quality image and ensuring significant reduction in effective dose.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

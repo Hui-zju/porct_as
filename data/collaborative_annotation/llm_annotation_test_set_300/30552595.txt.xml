@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Healthcare service utilization and work-related productivity in reflexology intervention for advanced breast cancer women.
+PURPOSE: This project's purpose was to determine the effects of a home-based reflexology intervention on symptom-related use of health services and work-related productivity during the 11-week study.
+METHODS: A total of 256 patients were randomized to four weekly reflexology sessions (each lasting 30 min, delivered by lay caregivers who received two training sessions by a professional reflexologist) or attention control.
+The Conventional Health Service and Productivity Costs Form was used to collect information on health service utilization and out-of-pocket expenditure of symptom management.
+The Health and Work Performance Questionnaire was used to measure workplace performance for patients during the study period.
+We used weighted and unweighted logistic and linear regression analyses.
+RESULTS: Patients in the reflexology group were less likely to have hospital visits compared to the control group in the weighted unadjusted (odds ratio [OR] = 0.49; 95% confidence interval [CI] = [0.25, 0.97]), unweighted adjusted (OR = 0.35; 95% CI = [0.16, 0.75]), and weighted adjusted (OR = 0.30, 95% CI = [0.13, 0.66]) logistic regressions.
+Compared to attention control, patients in the reflexology group had lower relative absenteeism in the unweighted adjusted (- 0.32; 95% CI = [- 0.60, - 0.03]) linear regressions and less absolute presenteeism (15.42, 95% CI = [0.87, 29.98]) in the weighted unadjusted analysis.
+CONCLUSION: The reflexology intervention delivered by lay caregivers reduced hospital visits and increased workplace productivity in a short-term period, which has potential for cost saving for health care systems and employers.
+TRIAL REGISTRATION: NCT01582971.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Disease Monitoring Using Post-induction Circulating Tumor DNA Analysis Following First-Line Therapy in Patients with Metastatic Colorectal Cancer.
+PURPOSE: We assessed plasma circulating tumor DNA (ctDNA) level as a prognostic marker for progression-free survival (PFS) following first-line metastatic colorectal cancer (mCRC) therapy.
+EXPERIMENTAL DESIGN: The Sequencing Triplet With Avastin and Maintenance (STEAM) was a randomized, phase II trial investigating efficacy of bevacizumab (BEV) plus 5-fluorouracil/leucovorin/oxaliplatin (FOLFOX) and 5-fluorouracil/leucovorin/irinotecan (FOLFIRI), administered concurrently or sequentially, versus FOLFOX-BEV in first-line mCRC.
+Evaluation of biomarkers associated with treatment outcomes was an exploratory endpoint.
+Patients in the biomarker-evaluable population (BEP) had 1 tissue sample, 1 pre-induction plasma sample, and 1 post-induction plasma sample collected &lt;/=60 days of induction from last drug date.
+RESULTS: Among the 280 patients enrolled in STEAM, 183 had sequenced and evaluable tumor tissue, 118 had matched pre-induction plasma, and 54 (BEP) had ctDNA-evaluable sequencing data for pre- and post-induction plasma.
+The most common somatic variants in tumor tissue and pre-induction plasma were TP53, APC, and KRAS.
+Patients with lower-than-median versus higher-than-median post-induction mean allele fraction (mAF) levels had longer median PFS (17.7 vs. 7.5 months, HR, 0.33; 95% confidence interval, 0.17-0.63).
+Higher levels of post-induction mAF and post-induction mean mutant molecules per milliliter (mMMPM), and changes in ctDNA (stratified by a 10-fold or 100-fold reduction in mAF between pre- and post-induction plasma), were associated with shorter PFS.
+Post-induction mAF and mMMPM generally correlated with each other (rho = 0.987, P &lt; 0.0001).
+CONCLUSIONS: ctDNA quantification in post-induction plasma may serve as a prognostic biomarker for mCRC post-treatment outcomes.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

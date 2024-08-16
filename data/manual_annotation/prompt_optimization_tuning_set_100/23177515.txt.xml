@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Efficacy and safety of regorafenib for advanced gastrointestinal stromal tumours after failure of imatinib and sunitinib (GRID): an international, multicentre, randomised, placebo-controlled, phase 3 trial.
+BACKGROUND: Until now, only imatinib and sunitinib have proven clinical benefit in patients with gastrointestinal stromal tumours (GIST), but almost all metastatic GIST eventually develop resistance to these agents, resulting in fatal disease progression.
+We aimed to assess efficacy and safety of regorafenib in patients with metastatic or unresectable GIST progressing after failure of at least imatinib and sunitinib.
+METHODS: We did this phase 3 trial at 57 hospitals in 17 countries.
+Patients with histologically confirmed, metastatic or unresectable GIST, with failure of at least previous imatinib and sunitinib were randomised in a 2:1 ratio (by computer-generated randomisation list and interactive voice response system; preallocated block design (block size 12); stratified by treatment line and geographical region) to receive either oral regorafenib 160 mg daily or placebo, plus best supportive care in both groups, for the first 3 weeks of each 4 week cycle.
+The study sponsor, participants, and investigators were masked to treatment assignment.
+The primary endpoint was progression-free survival (PFS).
+At disease progression, patients assigned placebo could crossover to open-label regorafenib.
+Analyses were by intention to treat.
+This trial is registered with ClinicalTrials.gov, number NCT01271712.
+RESULTS: From Jan 4, to Aug 18, 2011, 240 patients were screened and 199 were randomised to receive regorafenib (n=133) or matching placebo (n=66).
+Data cutoff was Jan 26, 2012.
+Median PFS per independent blinded central review was 4.8 months (IQR 1.4-9.2) for regorafenib and 0.9 months (0.9-1.8) for placebo (hazard ratio [HR] 0.27, 95% CI 0.19-0.39; p<0.0001).
+After progression, 56 patients (85%) assigned placebo crossed over to regorafenib.
+Drug-related adverse events were reported in 130 (98%) patients assigned regorafenib and 45 (68%) patients assigned placebo.
+The most common regorafenib-related adverse events of grade 3 or higher were hypertension (31 of 132, 23%), hand-foot skin reaction (26 of 132, 20%), and diarrhoea (seven of 132, 5%).
+INTERPRETATION: The results of this study show that oral regorafenib can provide a significant improvement in progression-free survival compared with placebo in patients with metastatic GIST after progression on standard treatments.
+As far as we are aware, this is the first clinical trial to show benefit from a kinase inhibitor in this highly refractory population of patients.
+FUNDING: Bayer HealthCare Pharmaceuticals.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

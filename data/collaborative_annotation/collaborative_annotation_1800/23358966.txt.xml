@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Postinduction dexamethasone and individualized dosing of Escherichia Coli L-asparaginase each improve outcome of children and adolescents with newly diagnosed acute lymphoblastic leukemia: results from a randomized study--Dana-Farber Cancer Institute ALL Consortium Protocol 00-01.
+PURPOSE: We assessed the toxicity and efficacy of dexamethasone and a novel dosing method of Escherichia coli L-asparaginase (EC-Asnase) in children and adolescents with newly diagnosed acute lymphoblastic leukemia (ALL).
+PATIENTS AND METHODS: Patients achieving complete remission (CR) on Dana-Farber Cancer Institute ALL Consortium Protocol 00-01 were eligible for random assignment to 1) dexamethasone or prednisone, administered as 5-day pulses, every 3 weeks, and 2) weekly EC-Asnase, administered as a 25,000 IU/m(2) fixed dose (FD) or individualized dose (ID) starting at 12,500-IU/m(2), adjusted every 3 weeks based on nadir serum asparaginase activity (NSAA) determinations.
+RESULTS: Between 2000 and 2004, 492 evaluable patients (ages 1 to 18 years) enrolled; 473 patients (96%) achieved CR.
+Four hundred eight patients (86%) participated in the corticosteroid randomization and 384 patients (81%) in the EC-Asnase randomization.
+With 4.9 years of median follow-up, dexamethasone was associated with superior 5-year event-free survival (EFS; 90% v 81% for prednisone; P = .01) but higher rates of infection (P = .03) and, in older children, higher cumulative incidence of osteonecrosis (P = .02) and fracture (P = .06).
+ID EC-Asnase had superior 5-year EFS (90% v 82% for FD; P = .04), but did not reduce the frequency of asparaginase-related toxicity.
+Multivariable analysis identified both dexamethasone and ID EC-Asnase as independent predictors of favorable EFS.
+CONCLUSION: There was no overall difference in skeletal toxicity by corticosteroid type; dexamethasone was associated with more infections and, in older children, increased incidence of osteonecrosis and fracture.
+There was no difference in asparaginase-related toxicity by EC-Asnase dosing method.
+Dexamethasone and ID EC-Asnase were each associated with superior EFS.
+Monitoring NSAA during treatment with EC-Asnase may be an effective strategy to improve outcome in pediatric ALL.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

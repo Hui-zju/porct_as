@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Associations between cruciferous vegetable intake and selected biomarkers among women scheduled for breast biopsies.
+OBJECTIVE: To examine the relationship between dietary cruciferous vegetable intake and selected tumour biomarkers for histone acetylation (H3K9ac, H3K18ac, HDAC3 and HDAC6), proliferation (Ki-67) and cell-cycle regulation (p21) from breast tissue.
+DESIGN: The study used baseline data of women recruited to participate in a clinical trial of sulforaphane supplement.
+Dietary cruciferous vegetable intake was collected through a validated Arizona Cruciferous Vegetable Intake Questionnaire.
+Breast tissue was obtained from biopsy samples.
+Spearman correlations were calculated between intake of specific cruciferous vegetables and biomarkers.
+Tissue biomarkers were log2-transformed to obtain approximate normality.
+Linear regression analyses were conducted to examine associations between cruciferous vegetable intake and biomarkers adjusting for age and use of non-steroidal anti-inflammatory drugs.
+False discovery rate (FDR) was used to account for multiple comparisons.
+SETTING: Clinical trial baseline.
+SUBJECTS: Fifty-four women who had abnormal mammogram findings and were scheduled for breast biopsy.
+RESULTS: Mean intake of total cruciferous vegetables from all food sources was 81.7 (sd 57.3) g/d.
+Mean urinary total sulforaphane metabolites was 0.08 (sd 0.07) microm/mm creatinine.
+Total cruciferous vegetable intake was inversely associated with Ki-67 protein expression in breast ductal carcinoma in situ (DCIS) tissue (beta=-0.004; se=0.001; FDR q value=0.03), but not in benign or invasive ductal carcinoma (IDC) tissue.
+No association was found for other biomarkers measured (HDAC3, HDAC6, H3K9, H3K18 and p21) in all tissues examined (benign, DCIS and IDC).
+CONCLUSIONS: The present study sought to provide additional evidence for the potential role of sulforaphane in histone acetylation and cell proliferation.
+Here, we report that total cruciferous vegetable intake is associated with decreased cell proliferation in breast DCIS tissue.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

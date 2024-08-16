@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[A randomized, open-label, multicentre, phase 2/3 study to evaluate the safety and efficacy of lumiliximab in combination with fludarabine, cyclophosphamide and rituximab versus fludarabine, cyclophosphamide and rituximab alone in subjects with relapsed chronic lymphocytic leukaemia.
+Lumiliximab is a chimeric monoclonal antibody that targets CD23 on the surface of chronic lymphocytic leukaemia (CLL) B-cells.
+Early phase clinical studies with lumiliximab alone and in combination with fludarabine, cyclophosphamide and rituximab (FCR) established its potential efficacy and tolerability.
+The 152CL201 trial [Lumiliximab with fludarabine, cyclophosphamide and rituximab (FCR) versus FCR alone in subjects with relapsed CLL; LUCID] was a phase 2/3, randomized (1:1), open-label, multicentre study of lumiliximab in combination with FCR versus FCR alone in patients with relapsed CLL.
+Six hundred and twenty-seven patients were randomized to either arm.
+Overall the combination of lumiliximab with FCR was not significantly better than FCR alone (overall response rate 71% vs. 72%, complete response rate 16% vs. 15%, median progression-free survival 24.6 vs. 23.9 months respectively, for FCR with and without lumiliximab).
+There was a slightly increased incidence of adverse events with lumiliximab but these increases did not appear to lead to differences in eventual outcomes.
+An interim analysis failed to show sufficient efficacy of the combination of lumiliximab with FCR.
+The study was therefore stopped early for lack of efficacy.
+Despite the eventual outcome, the LUCID trial is one of the largest studies that provides valuable insight into the efficacy and tolerability of FCR as a therapeutic option for patients with relapsed CLL.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Association between time interval from neoadjuvant chemoradiotherapy to surgery and complete histological tumor response in esophageal and gastroesophageal junction cancer: a national cohort study.
+The optimal time interval from neoadjuvant therapy to surgery in the treatment of esophageal cancer is not known.
+The aim of this study was to investigate if a prolonged interval between completed neoadjuvant chemoradiotherapy and surgery was associated with improved histological response rates and survival in a population-based national register cohort.
+The population-based cohort study included patients treated with neoadjuvant chemoradiotherapy and esophagectomy due to cancer in the esophagus or gastroesophageal junction.
+Patients were divided into two groups based on the median time from completed neoadjuvant treatment to surgery.
+The primary outcome was complete histological response.
+Secondary outcomes were lymph node tumor response, postoperative complications, R0 resection rate, 90-day mortality, and overall survival.
+In total, 643 patients were included, 344 (54%) patients underwent surgery within 49 days, and 299 (47%) after 50 days or longer.
+The groups were similar concerning baseline characteristics except for a higher clinical tumor stage (P = 0.009) in the prolonged time to surgery group.
+There were no significant differences in complete histological response, R0 resection rate, postoperative complications, 90-day mortality, or overall survival.
+Adjusted odds ratio for ypT0 in the prolonged time to surgery group was 0.99 (95% confidence interval: 0.64-1.53).
+Complete histological response in the primary tumor (ypT0) was associated with significantly higher overall survival: adjusted hazard ratio: 0.55 (95% CI 0.41-0.76).
+If lymph node metastases were present in these patients, the survival was, however, significantly lower: adjusted hazard ratio for ypT0N1: 2.30 (95% CI 1.21-4.35).
+In this prospectively collected, nationwide cohort study of esophageal and junctional type 1 and 2 cancer patients, there were no associations between time to surgery and histological complete response, postoperative outcomes, or overall survival.
+The results suggest that it is safe for patients to postpone surgery at least 7 to 10 weeks after completed chemoradiotherapy, but no evidence was seen in favor of recommending a prolonged time to surgery after neoadjuvant chemoradiotherapy for esophageal cancer.
+A definitive answer to this question requires a randomized controlled trial of standard vs. prolonged time to surgery.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

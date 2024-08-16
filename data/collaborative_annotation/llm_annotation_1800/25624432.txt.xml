@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Radiographic progression-free survival as a response biomarker in metastatic castration-resistant prostate cancer: COU-AA-302 results.
+PURPOSE: Progression-free survival (PFS) in metastatic castration-resistant prostate cancer (mCRPC) trials has been inconsistently defined and poorly associated with overall survival (OS).
+A reproducible quantitative definition of radiographic PFS (rPFS) was tested for association with a coprimary end point of OS in a randomized trial of abiraterone in patients with mCRPC.
+PATIENTS AND METHODS: rPFS was defined as >/= two new lesions on an 8-week bone scan plus two additional lesions on a confirmatory scan, >/= two new confirmed lesions on any scan >/= 12 weeks after random assignment, and/or progression in nodes or viscera on cross-sectional imaging, or death.
+rPFS was assessed by independent review at 15% of deaths and by investigator review at 15% and 40% of deaths.
+rPFS and OS association was evaluated by Spearman's correlation.
+RESULTS: A total of 1,088 patients were randomly assigned to abiraterone plus prednisone or prednisone alone.
+At first interim analysis, the hazard ratio (HR) by independent review was 0.43 (95% CI, 0.35 to 0.52; P < .001; abiraterone plus prednisone: median rPFS, not estimable; prednisone: median rPFS, 8.3 months).
+Similar HRs were obtained by investigator review at the first two interim analyses (HR, 0.49; 95% CI, 0.41 to 0.60; P < .001 and HR, 0.53; 95% CI, 0.45 to 0.62; P < .001, respectively), validating the imaging data assay used.
+Spearman's correlation coefficient between rPFS and OS was 0.72.
+CONCLUSION: rPFS was highly consistent and highly associated with OS, providing initial prospective evidence on further developing rPFS as an intermediate end point in mCRPC trials.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

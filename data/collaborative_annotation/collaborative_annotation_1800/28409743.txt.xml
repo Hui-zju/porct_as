@@ -1,0 +1,38 @@
+<MyRCT>
+<TEXT>PET-NECK: a multicentre randomised Phase III non-inferiority trial comparing a positron emission tomography-computerised tomography-guided watch-and-wait policy with planned neck dissection in the management of locally advanced (N2/N3) nodal metastases in patients with squamous cell head and neck cancer.
+BACKGROUND: Planned neck dissection (ND) after radical chemoradiotherapy (CRT) for locally advanced nodal metastases in patients with head and neck squamous cell carcinoma (HNSCC) remains controversial.
+Thirty per cent of ND specimens show histological evidence of tumour.
+Consequently, a significant proportion of clinicians still practise planned ND.
+Fludeoxyglucose positron emission tomography (PET)-computerised tomography (CT) scanning demonstrated high negative predictive values for persistent nodal disease, providing a possible alternative paradigm to ND.
+Evidence is sparse and drawn mainly from retrospective single-institution studies, illustrating the need for a prospective randomised controlled trial.
+OBJECTIVES: To determine the efficacy and cost-effectiveness of PET-CT-guided surveillance, compared with planned ND, in a multicentre, prospective, randomised setting.
+DESIGN: A pragmatic randomised non-inferiority trial comparing PET-CT-guided watch-and-wait policy with the current planned ND policy in HNSCC patients with locally advanced nodal metastases and treated with radical CRT.
+Patients were randomised in a 1 : 1 ratio.
+Primary outcomes were overall survival (OS) and cost-effectiveness [incremental cost per incremental quality-adjusted life-year (QALY)].
+Cost-effectiveness was assessed over the trial period using individual patient data, and over a lifetime horizon using a decision-analytic model.
+Secondary outcomes were recurrence in the neck, complication rates and quality of life.
+The recruitment of 560 patients was planned to detect non-inferior OS in the intervention arm with a 90% power and a type I error of 5%, with non-inferiority defined as having a hazard ratio (HR) of no higher than 1.50.
+An intention-to-treat analysis was performed by Cox's proportional hazards model.
+SETTINGS: Thirty-seven head and neck cancer-treating centres (43 NHS hospitals) throughout the UK.
+PARTICIPANTS: Patients with locally advanced nodal metastases of oropharynx, hypopharynx, larynx, oral or occult HNSCC receiving CRT and fit for ND were recruited.
+INTERVENTION: Patients randomised to planned ND before or after CRT (control), or CRT followed by fludeoxyglucose PET-CT 10-12 weeks post CRT with ND only if PET-CT showed incomplete or equivocal response of nodal disease (intervention).
+Balanced by centre, planned ND timing, CRT schedule, disease site and the tumour, node, metastasis stage.
+RESULTS: In total, 564 patients were recruited (ND arm, n = 282; and surveillance arm, n = 282; 17% N2a, 61% N2b, 18% N2c and 3% N3).
+Eighty-four per cent had oropharyngeal cancer.
+Seventy-five per cent of tested cases were p16 positive.
+The median time to follow-up was 36 months.
+The HR for OS was 0.92 [95% confidence interval (CI) 0.65 to 1.32], indicating non-inferiority.
+The upper limit of the non-inferiority HR margin of 1.50, which was informed by patient advisors to the project, lies at the 99.6 percentile of this estimate (p = 0.004).
+There were no differences in this result by p16 status.
+There were 54 NDs performed in the surveillance arm, with 22 surgical complications, and 221 NDs in the ND arm, with 85 complications.
+Quality-of-life scores were slightly better in the surveillance arm.
+Compared with planned ND, PET-CT surveillance produced an incremental net health benefit of 0.16 QALYs (95% CI 0.03 to 0.28 QALYs) over the trial period and 0.21 QALYs (95% CI -0.41 to 0.85 QALYs) over the modelled lifetime horizon.
+LIMITATIONS: Pragmatic randomised controlled trial with a 36-month median follow-up.
+CONCLUSIONS: PET-CT-guided active surveillance showed similar survival outcomes to ND but resulted in considerably fewer NDs, fewer complications and lower costs, supporting its use in routine practice.
+FUTURE WORK: PET-CT surveillance is cost-effective in the short term, and long-term cost-effectiveness could be addressed in future work.
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN13735240.
+FUNDING: This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 21, No. 17.
+See the NIHR Journals Library website for further project information.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

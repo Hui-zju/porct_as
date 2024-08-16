@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Validation of Effective Dose as a Better Predictor of Radiation Pneumonitis Risk Than Mean Lung Dose: Secondary Analysis of a Randomized Trial.
+PURPOSE: To confirm the superiority of effective dose (Deff) over mean lung dose (MLD) for predicting risk of radiation pneumonitis (RP), using data from patients on a randomized trial of intensity modulated radiation therapy (IMRT) versus passively scattered proton therapy (PSPT).
+METHODS AND MATERIALS: The prescribed target dose for the 203 evaluated patients was 66 to 74 Gy (relative biological effectiveness) in 33 to 37 fractions with concurrent carboplatin/paclitaxel.
+Time to grade >/=2 RP was computed from the start of radiation therapy, with disease recurrence or death considered censoring events.
+Generalized Lyman models of censored time to RP were constructed with MLD or Deff as the dosimetric parameter.
+Smoking status (current, former, never) was also analyzed.
+RESULTS: Of the 203 patients, 46 experienced grade >/=2 RP (crude incidence 23%) at a median 3.7 months (range, 0.6-12.6 months).
+The volume parameter estimated for the Deff model was n = 0.5, confirming estimates from earlier studies.
+Compared with MLD (in which n = 1), the dosimetric parameter Deff, computed using n = 0.5, resulted in a better fit of the Lyman model to the clinical data (P = .010).
+Using Deff, the model describes RP risk for IMRT and PSPT data combined because no further improvement was found from separate fits (P = .558).
+Based on Deff, predicted RP risk per patient ranged from 24 percentage points lower to 19 percentage points higher than predictions based on MLD.
+For patients with similar MLD, Deff predicted higher risk, on average, for PSPT over IMRT.
+Current smokers had a lower risk of RP compared with former smokers and nonsmokers (P = .021).
+CONCLUSIONS: We used data from a randomized trial to validate our previous finding that Deff with n = 0.5 (corresponding to root mean squared dose) is a better predictor of RP than is MLD.
+Differences between Deff and MLD indicate that delivering higher doses to smaller lung volumes (vs lower doses to larger volumes) increases RP risk.
+We further corroborated that current smoking is associated with decreased RP risk.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="other" population="" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

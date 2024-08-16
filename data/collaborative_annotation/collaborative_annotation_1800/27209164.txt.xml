@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[BEVERLY: Rationale and Design of a Randomized Open-Label Phase III Trial Comparing Bevacizumab Plus Erlotinib Versus Erlotinib Alone as First-Line Treatment of Patients With EGFR-Mutated Advanced Nonsquamous Non-Small-Cell Lung Cancer.
+BACKGROUND: About 20% of advanced non-small-cell lung cancer (NSCLC) cases harbor somatic mutations in the tyrosine kinase domain of the epidermal growth factor receptor (EGFR) gene.
+In these patients, the standard first-line treatments are the EGFR-tyrosine kinase inhibitors, such as gefitinib, erlotinib, or afatinib.
+Most of these patients develop resistance and relapse within about 1 year of initiation of an EGFR-tyrosine kinase inhibitor.
+Consequently, it is important to develop new combination strategies to delay this resistance.
+Preclinical data have showed that EGFR and vascular endothelial growth factor (VEGF) share a common downstream pathway, suggesting the important role of VEGF in the resistance to EGFR blockade.
+The combination of erlotinib and bevacizumab, an anti-VEGF agent, showed very interesting clinical results.
+PATIENTS AND METHODS: The bevacizumab plus erlotinib study (BEVERLY) is a randomized, open-label, phase III trial investigating first-line erlotinib plus bevacizumab versus erlotinib in patients with advanced NSCLC harboring activating EGFR mutations.
+The co-primary endpoints are investigator-assessed progression-free survival (PFS) and blinded, independent centrally reviewed PFS.
+The secondary endpoints include overall survival, quality of life, objective response rate, and safety.
+A total of 200 patients will be randomized 1:1 to receive oral erlotinib (150 mg daily) plus bevacizumab (15 mg/kg, intravenously, on day 1 of every 21-day cycle) or erlotinib alone, until objective disease progression or unacceptable toxicity or the patient's or physician's motivated decision to stop the treatment.
+CONCLUSION: If the primary endpoint of PFS is met, the erlotinib plus bevacizumab combination will be confirmed as the best first-line treatment for patients with advanced NSCLC harboring activating EGFR mutations.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

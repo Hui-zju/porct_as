@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>A Phase I/II Trial of BNC105P with Everolimus in Metastatic Renal Cell Carcinoma.
+PURPOSE: BNC105P inhibits tubulin polymerization, and preclinical studies suggest possible synergy with everolimus.
+In this phase I/II study, efficacy and safety of the combination were explored in patients with metastatic renal cell carcinoma (mRCC).
+EXPERIMENTAL DESIGN: A phase I study in patients with clear cell mRCC and any prior number of therapies was conducted using a classical 3 + 3 design to evaluate standard doses of everolimus with increasing doses of BNC105P.
+At the recommended phase II dose (RP2D), patients with clear cell mRCC and one to two prior therapies (including &gt;/= 1 VEGF-TKI) were randomized to BNC105P with everolimus (arm A) or everolimus alone (arm B).
+The primary endpoint of the study was 6-month progression-free survival (6MPFS).
+Secondary endpoints included response rate, PFS, overall survival, and exploratory biomarker analyses.
+RESULTS: In the phase I study (N = 15), a dose of BNC105P at 16 mg/m(2) with everolimus at 10 mg daily was identified as the RP2D.
+In the phase II study, 139 patients were randomized, with 69 and 67 evaluable patients in arms A and B, respectively.
+6MPFS was similar in the treatment arms (arm A: 33.82% vs. arm B: 30.30%, P = 0.66) and no difference in median PFS was observed (arm A: 4.7 mos vs. arm B: 4.1 mos; P = 0.49).
+Changes in matrix metalloproteinase-9, stem cell factor, sex hormone-binding globulin, and serum amyloid A protein were associated with clinical outcome with BNC105P.
+CONCLUSIONS: Although the primary endpoint was not met in an unselected population, correlative studies suggest several biomarkers that warrant further prospective evaluation.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

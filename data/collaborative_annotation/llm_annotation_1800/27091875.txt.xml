@@ -1,0 +1,20 @@
+<MyRCT>
+<TEXT>Randomized phase 2 study: elotuzumab plus bortezomib/dexamethasone vs bortezomib/dexamethasone for relapsed/refractory MM.
+In this proof-of-concept, open-label, phase 2 study, patients with relapsed/refractory multiple myeloma (RRMM) received elotuzumab with bortezomib and dexamethasone (EBd) or bortezomib and dexamethasone (Bd) until disease progression/unacceptable toxicity.
+Primary endpoint was progression-free survival (PFS); secondary/exploratory endpoints included overall response rate (ORR) and overall survival (OS).
+Two-sided 0.30 significance level was specified (80% power, 103 events) to detect hazard ratio (HR) of 0.69.
+Efficacy and safety analyses were performed on all randomized patients and all treated patients, respectively.
+Of 152 randomized patients (77 EBd, 75 Bd), 150 were treated (75 EBd, 75 Bd).
+PFS was greater with EBd vs Bd (HR, 0.72; 70% confidence interval [CI], 0.59-0.88; stratified log-rank P = .09); median PFS was longer with EBd (9.7 months) vs Bd (6.9 months).
+In an updated analysis, EBd-treated patients homozygous for the high-affinity FcgammaRIIIa allele had median PFS of 22.3 months vs 9.8 months in EBd-treated patients homozygous for the low-affinity allele.
+ORR was 66% (EBd) vs 63% (Bd).
+Very good partial response or better occurred in 36% of patients (EBd) vs 27% (Bd).
+Early OS results, based on 40 deaths, revealed an HR of 0.61 (70% CI, 0.43-0.85).
+To date, 60 deaths have occurred (28 EBd, 32 Bd).
+No additional clinically significant adverse events occurred with EBd vs Bd.
+Grade 1/2 infusion reaction rate was low (5% EBd) and mitigated with premedication.
+In patients with RRMM, elotuzumab, an immunostimulatory antibody, appears to provide clinical benefit without added clinically significant toxicity when combined with Bd vs Bd alone.
+Registered to ClinicalTrials.gov as NCT01478048.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

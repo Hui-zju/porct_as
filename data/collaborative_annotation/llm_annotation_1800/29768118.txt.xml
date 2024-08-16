@@ -1,0 +1,19 @@
+<MyRCT>
+<TEXT>Final Overall Survival Analysis From a Study Comparing First-Line Crizotinib Versus Chemotherapy in ALK-Mutation-Positive Non-Small-Cell Lung Cancer.
+Purpose The phase III PROFILE 1014 trial compared crizotinib with chemotherapy as first-line treatment in patients with anaplastic lymphoma kinase (ALK) -positive advanced nonsquamous non-small-cell lung cancer.
+Here, we report the final overall survival (OS) results.
+Patients and Methods Patients were randomly assigned to receive oral crizotinib 250 mg twice daily (n = 172) or intravenous pemetrexed 500 mg/m(2) plus cisplatin 75 mg/m(2) or carboplatin (area under the concentration-time curve of 5 to 6 mg.mL/min) every 3 weeks for a maximum of six cycles (n = 171).
+Crossover to crizotinib was permitted after disease progression.
+OS was analyzed using a stratified log-rank test and a prespecified rank-preserving structural failure time model to account for crossover.
+Results Median follow-up duration for OS was approximately 46 months for both arms.
+In the chemotherapy arm, 144 patients (84.2%) received crizotinib in subsequent lines.
+Hazard ratio for OS was 0.760 (95% CI, 0.548 to 1.053; two-sided P = .0978).
+Median OS was not reached (NR) with crizotinib (95% CI, 45.8 months to NR) and 47.5 months with chemotherapy (95% CI, 32.2 months to NR).
+Survival probability at 4 years was 56.6% (95% CI, 48.3% to 64.1%) with crizotinib and 49.1% (95% CI, 40.5% to 57.1%) with chemotherapy.
+After crossover adjustment, there was an improvement in OS that favored crizotinib (hazard ratio, 0.346; 95% bootstrap CI, 0.081 to 0.718).
+The longest OS was observed in crizotinib-treated patients who received a subsequent ALK tyrosine kinase inhibitor.
+No new safety signals were identified.
+Conclusion The final analysis of the PROFILE 1014 study provides a new benchmark for OS in patients with ALK-rearranged non-small-cell lung cancer and highlights the benefit of crizotinib for prolonging survival in this patient population.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

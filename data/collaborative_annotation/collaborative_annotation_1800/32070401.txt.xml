@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[TBCRC 002: a phase II, randomized, open-label trial of preoperative letrozole with or without bevacizumab in postmenopausal women with newly diagnosed stage 2/3 hormone receptor-positive and HER2-negative breast cancer.
+BACKGROUND: In preclinical studies, the expression of vascular endothelial growth factor (VEGF) in hormone receptor-positive breast cancer is associated with estrogen-independent tumor growth and resistance to endocrine therapies.
+This study investigated whether the addition of bevacizumab, a monoclonal antibody against VEGF, to letrozole enhanced the antitumor activity of the letrozole in the preoperative setting.
+METHODS: Postmenopausal women with newly diagnosed stage 2 or 3 estrogen and/or progesterone receptor-positive, HER2-negative breast cancer were randomly assigned (2:1) between letrozole 2.5 mg PO daily plus bevacizumab 15 mg/kg IV every 3 weeks (Let/Bev) and letrozole 2.5 mg PO daily (Let) for 24 weeks prior to definitive surgery.
+Primary objective was within-arm pathologic complete remission (pCR) rate.
+Secondary objectives were safety, objective response, and downstaging rate.
+RESULTS: Seventy-five patients were randomized (Let/Bev n = 50, Let n = 25).
+Of the 45 patients evaluable for pathological response in the Let/Bev arm, 5 (11%; 95% CI, 3.7-24.1%) achieved pCR and 4 (9%; 95% CI, 2.5-21.2%) had microscopic residual disease; no pCRs or microscopic residual disease was seen in the Let arm (0%; 95% CI, 0-14.2%).
+The rates of downstaging were 44.4% (95% CI, 29.6-60.0%) and 37.5% (95% CI, 18.8-59.4%) in the Let/Bev and Let arms, respectively.
+Adverse events typically associated with letrozole (hot flashes, arthralgias, fatigue, myalgias) occurred in similar frequencies in the two arms.
+Hypertension, headache, and proteinuria were seen exclusively in the Let/Bev arm.
+The rates of grade 3 and 4 adverse events and discontinuation due to adverse events were 18% vs 8% and 16% vs none in the Let/Bev and Let arms, respectively.
+A small RNA-based classifier predictive of response to preoperative Let/Bev was developed and confirmed on an independent cohort.
+CONCLUSION: In the preoperative setting, the addition of bevacizumab to letrozole was associated with a pCR rate of 11%; no pCR was seen with letrozole alone.
+There was additive toxicity with the incorporation of bevacizumab.
+Responses to Let/Bev can be predicted from the levels of 5 small RNAs in a pretreatment biopsy.
+TRIAL REGISTRATION: This trial is registered with ClinicalTrials.gov (Identifier: NCT00161291), first posted on September 12, 2005, and is completed.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes"/>
+</TAGS>
+<META/>
+</MyRCT>

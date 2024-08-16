@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Efficacy and correlative analyses of avelumab plus axitinib versus sunitinib in sarcomatoid renal cell carcinoma: post hoc analysis of a randomized clinical trial.
+BACKGROUND: Among patients with advanced renal cell carcinoma (RCC), those with sarcomatoid histology (sRCC) have the poorest prognosis.
+This analysis assessed the efficacy of avelumab plus axitinib versus sunitinib in patients with treatment-naive advanced sRCC.
+METHODS: The randomized, open-label, multicenter, phase III JAVELIN Renal 101 trial (NCT02684006) enrolled patients with treatment-naive advanced RCC.
+Patients were randomized 1 : 1 to receive either avelumab plus axitinib or sunitinib following standard doses and schedules.
+Assessments in this post hoc analysis of patients with sRCC included efficacy (including progression-free survival) and biomarker analyses.
+RESULTS: A total of 108 patients had sarcomatoid histology and were included in this post hoc analysis; 47 patients in the avelumab plus axitinib arm and 61 in the sunitinib arm.
+Patients in the avelumab plus axitinib arm had improved progression-free survival [stratified hazard ratio, 0.57 (95% confidence interval, 0.325-1.003)] and a higher objective response rate (46.8% versus 21.3%; complete response in 4.3% versus 0%) versus those in the sunitinib arm.
+Correlative gene expression analyses of patients with sRCC showed enrichment of gene pathway scores for cancer-associated fibroblasts and regulatory T cells, CD274 and CD8A expression, and tumors with The Cancer Genome Atlas m3 classification.
+CONCLUSIONS: In this subgroup analysis of JAVELIN Renal 101, patients with sRCC in the avelumab plus axitinib arm had improved efficacy outcomes versus those in the sunitinib arm.
+Correlative analyses provide insight into this subtype of RCC and suggest that avelumab plus axitinib may increase the chance of overcoming the aggressive features of sRCC.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

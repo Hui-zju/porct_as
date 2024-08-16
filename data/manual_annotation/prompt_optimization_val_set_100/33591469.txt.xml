@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Long-term outcome of (neo)adjuvant zoledronic acid therapy in locally advanced breast cancer.
+PURPOSE: The role of zoledronic acid (ZOL), a bone-targeted bisphosphonate, in the treatment of patients with breast cancer remains an active area of study.
+Here, we report the long-term outcomes of a randomized placebo-controlled phase II clinical trial in which ZOL treatment was added to neoadjuvant chemotherapy in women with locally advanced breast cancer.
+METHODS: 120 women with clinical stage II-III (>/= T2 and/or >/= N1) newly diagnosed breast cancer were randomized to receive either 4 mg intravenous ZOL every 3 weeks for 1 year (17 total doses) beginning with the first dose of neoadjuvant chemotherapy, or chemotherapy alone.
+Clinical endpoints included time to recurrence (TTR), time to bone recurrence (TTBR), time to non-bone recurrence (TTNBR), breast cancer survival (BCS) and overall survival (OS).
+RESULTS: With a median follow-up interval of 14.4 years, there were no significant differences in any of the clinical endpoints studied between the control and ZOL groups in the overall study population.
+However, ER+/HER2- patients younger than age 45 who were treated with ZOL had significantly worse TTR and TTNBR with a trend towards worse TTBR, BCS and OS (TTR: P = 0.024, HR 6.05 [1.26-29.1]; TTNBR: P = 0.026, HR 6.94 [1.26-38.1]; TTBR: P = 0.054, HR 6.01 [0.97-37.1]; BCS: P = 0.138, HR 4.43 [0.62-31.7]; OS: P = 0.138, HR 4.43 [0.62-31.7]).
+These differences were not seen in older ER+/HER2- patients or triple-negative patients of any age.
+CONCLUSION: Addition of ZOL to neoadjuvant therapy did not significantly affect clinical outcomes in the overall study population but was associated with increased extra-skeletal recurrence and a trend towards worse survival in ER+/HER2- patients younger than age 45.
+These findings suggest caution when using zoledronic acid in young, premenopausal women with locally advanced breast cancer and warrant further investigation.
+Clinical Trial Registration Number NCT00242203, Date of Registration: 10/17/2005.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

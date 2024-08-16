@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Comparison of prostate cancer detection at 3-T MRI with and without an endorectal coil: A prospective, paired-patient study.
+OBJECTIVES: To compare the sensitivity of 2 different non-endorectal coil strategies vs. endorectal coil (ERC) magnetic resonance imaging (MRI) for detection of prostate cancer (PCa).
+METHODS: In this prospective, single-center, paired-patient, paired-reader study, 49 men with a clinical indication for MRI underwent non-ERC (phased-array coil only) T2-weighted imaging and diffusion-weighted imaging followed by the same sequences using both ERC and phased-array coils (ERC Protocol).
+Patients were randomized into 1 of 2 arms: standard non-ERC protocol and augmented non-ERC protocol.
+Lesions with Likert score&gt;/=3 were defined as suspicious for cancer.
+Radical prostatectomy specimen or combined systematic plus targeted biopsies served as the standard of reference.
+Cancers were stratified into risk groups according to the National Comprehensive Cancer Network guidelines.
+Generalized estimating equations with Bonferroni correction were used for comparisons.
+The level of reader confidence was inferred by the Likert scores assigned to index lesions.
+RESULTS: The ERC protocol provided sensitivity (78%) superior to MRI without ERC for PCa detection, both with a standard (43%) (P&lt;0.0001) or augmented (60%) (P&lt;0.01) protocol.
+The ERC MRI missed less-intermediate or high-risk index lesions (4%) than standard non-ERC (42%) (P = 0.02) and augmented non-ERC MRI (25%), although the latter did not reach significance (P = 0.09).
+The ERC improved radiologist confidence for the detection of PCa (average Likert score = 4.2+/-1.4) compared to standard (2.3+/-2.3) and augmented (2.9+/-2.1) non-ERC (P = 0.001).
+CONCLUSIONS: The use of combined ERC and pelvic phased-array coil for T2-weighted imaging and diffusion-weighted imaging provides superior sensitivity for the detection of PCa compared to an examination performed without the ERC.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

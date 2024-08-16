@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Breast density as indicator for the use of mammography or MRI to screen women with familial risk for breast cancer (FaMRIsc): a multicentre randomized controlled trial.
+BACKGROUND: To reduce mortality, women with a family history of breast cancer often start mammography screening at a younger age than the general population.
+Breast density is high in over 50% of women younger than 50 years.
+With high breast density, breast cancer incidence increases, but sensitivity of mammography decreases.
+Therefore, mammography might not be the optimal method for breast cancer screening in young women.
+Adding MRI increases sensitivity, but also the risk of false-positive results.
+The limitation of all previous MRI screening studies is that they do not contain a comparison group; all participants received both MRI and mammography.
+Therefore, we cannot empirically assess in which stage tumours would have been detected by either test.
+The aim of the Familial MRI Screening Study (FaMRIsc) is to compare the efficacy of MRI screening to mammography for women with a familial risk.
+Furthermore, we will assess the influence of breast density.
+METHODS/DESIGN: This Dutch multicentre, randomized controlled trial, with balanced randomisation (1:1) has a parallel grouped design.
+Women with a cumulative lifetime risk for breast cancer due to their family history of >/=20%, aged 30-55 years are eligible.
+Identified BRCA1/2 mutation carriers or women with 50% risk of carrying a mutation are excluded.
+Group 1 receives yearly mammography and clinical breast examination (n = 1000), and group 2 yearly MRI and clinical breast examination, and mammography biennially (n = 1000).Primary endpoints are the number and stage of the detected breast cancers in each arm.
+Secondary endpoints are the number of false-positive results in both screening arms.
+Furthermore, sensitivity and positive predictive value of both screening strategies will be assessed.
+Cost-effectiveness of both strategies will be assessed.
+Analyses will also be performed with mammographic density as stratification factor.
+DISCUSSION: Personalized breast cancer screening might optimize mortality reduction with less over diagnosis.
+Breast density may be a key discriminator for selecting the optimal screening strategy for women < 55 years with familial breast cancer risk; mammography or MRI.
+These issues are addressed in the FaMRIsc study including high risk women due to a familial predisposition.
+TRIAL REGISTRATION: Netherland Trial Register NTR2789.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

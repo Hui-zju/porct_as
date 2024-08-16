@@ -1,0 +1,18 @@
+<MyRCT>
+<TEXT>Translational studies within the TAMRAD randomized GINECO trial: evidence for mTORC1 activation marker as a predictive factor for everolimus efficacy in advanced breast cancer.
+BACKGROUND: Everolimus is an agent frequently associated with specific toxicities.
+Predictive markers of efficacy are needed to help define which patients could benefit from it.
+The goal of this exploratory study was to identify potential predictive biomarkers in the mammalian target of rapamycin (mTOR) complex 1 (mTORC1) activation pathway using primary tumor samples collected during the phase II tamoxifen plus everolimus (TAMRAD) trial.
+PATIENTS AND METHODS: Tumor tissues were collected retrospectively from the TAMRAD trial.
+Immunohistochemistry was carried out using specific antibodies directed toward proteins that result in mTORC1 activation [canonical phosphatidylinositol 3-kinase (PI3K)/protein kinase B (Akt)/mTOR or alternative pathways].
+DNA was extracted from the tumor tissue; mutation screening in the PIK3CA gene (exons 9 and 20) and the KRAS gene (exons 2 and 3) was first carried out using Sanger direct sequencing, and then completed by next-generation sequencing for PIK3CA.
+An exploratory analysis of everolimus efficacy in terms of a time-to-progression (TTP) increase was carried out in each biomarker subgroup (high versus low expression referring to the median percentage of marked cells).
+RESULTS: A total of 55 primary tumor samples from the TAMRAD trial-25 from the tamoxifen-alone group and 30 from the tamoxifen/everolimus group-were evaluated for biomarkers.
+The subgroups most likely to have an improvement in TTP with tamoxifen/everolimus therapy, compared with tamoxifen alone, were patients with high p4EBP1, low 4EBP1, low liver kinase B1, low pAkt, and low PI3K.
+Among the 45 samples screened for mutation status, nine samples (20%; 95% CI 9.6-34.6) had a PIK3CA mutation.
+KRAS mutation was observed in one patient.
+CONCLUSIONS: A positive correlation between late effectors of mTORC1 activation, a positive correlation between Akt-independent mTORC1 activation, and an inverse correlation between canonical PI3K/Akt/mTOR pathway and everolimus efficacy were observed in this exploratory analysis.
+However, these correlations need to be validated in larger studies before applying the findings to routine clinical practice.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

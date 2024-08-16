@@ -1,0 +1,22 @@
+<MyRCT>
+<TEXT>Phase III, Randomized Study of Dual Human Epidermal Growth Factor Receptor 2 (HER2) Blockade With Lapatinib Plus Trastuzumab in Combination With an Aromatase Inhibitor in Postmenopausal Women With HER2-Positive, Hormone Receptor-Positive Metastatic Breast Cancer: ALTERNATIVE.
+Purpose Human epidermal growth factor receptor 2 (HER2) targeting plus endocrine therapy (ET) improved clinical benefit in HER2-positive, hormone receptor (HR)-positive metastatic breast cancer (MBC) versus ET alone.
+Dual HER2 blockade enhances clinical benefit versus single HER2 blockade.
+The ALTERNATIVE study evaluated the efficacy and safety of dual HER2 blockade plus aromatase inhibitor (AI) in postmenopausal women with HER2-positive/HR-positive MBC who received prior ET and prior neo(adjuvant)/first-line trastuzumab (TRAS) plus chemotherapy.
+Methods Patients were randomly assigned (1:1:1) to receive lapatinib (LAP) + TRAS + AI, TRAS + AI, or LAP + AI.
+Patients for whom chemotherapy was intended were excluded.
+The primary end point was progression-free survival (PFS; investigator assessed) with LAP + TRAS + AI versus TRAS + AI.
+Secondary end points were PFS (comparison of other arms), overall survival, overall response rate, clinical benefit rate, and safety.
+Results Three hundred fifty-five patients were included in this analysis: LAP + TRAS + AI (n = 120), TRAS + AI (n = 117), and LAP + AI (n = 118).
+Baseline characteristics were balanced.
+The study met its primary end point; superior PFS was observed with LAP + TRAS + AI versus TRAS + AI (median PFS, 11 v 5.7 months; hazard ratio, 0.62; 95% CI, 0.45 to 0.88; P = .0064).
+Consistent PFS benefit was observed in predefined subgroups.
+Overall response rate, clinical benefit rate, and overall survival also favored LAP + TRAS + AI.
+The median PFS with LAP + AI versus TRAS + AI was 8.3 versus 5.7 months (hazard ratio, 0.71; 95% CI, 0.51 to 0.98; P = .0361).
+Common adverse events (AEs; &gt;/= 15%) with LAP + TRAS + AI, TRAS + AI, and LAP + AI were diarrhea (69%, 9%, and 51%, respectively), rash (36%, 2%, and 28%, respectively), nausea (22%, 9%, and 22%, respectively), and paronychia (30%, 0%, and 15%, respectively), mostly grade 1 or 2.
+Serious AEs were reported similarly across the three groups, and AEs leading to discontinuation were lower with LAP + TRAS + AI.
+Conclusion Dual HER2 blockade with LAP + TRAS + AI showed superior PFS benefit versus TRAS + AI in patients with HER2-positive/HR-positive MBC.
+This combination offers an effective and safe chemotherapy-sparing alternative treatment regimen for this patient population.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="yes" /></TAGS>
+<META />
+</MyRCT>

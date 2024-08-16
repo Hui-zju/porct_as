@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Risk factors to predict the incidence of surgical adverse events following open or laparoscopic surgery for apparent early stage endometrial cancer: results from a randomised controlled trial.
+AIMS: To identify risk factors for major adverse events (AEs) and to develop a nomogram to predict the probability of such AEs in patients who have surgery for apparent early stage endometrial cancer.
+METHODS: We used data from 753 patients who were randomised to either total laparoscopic hysterectomy or total abdominal hysterectomy in the LACE trial.
+Serious adverse events that prolonged hospital stay or postoperative adverse events (using common terminology criteria 3+, CTCAE V3) were considered major AEs.
+We analysed pre-surgical characteristics that were associated with the risk of developing major AEs by multivariate logistic regression.
+We identified a parsimonious model by backward stepwise logistic regression.
+The six most significant or clinically important variables were included in the nomogram to predict the risk of major AEs within 6weeks of surgery and the nomogram was internally validated.
+RESULTS: Overall, 132 (17.5%) patients had at least one major AE.
+An open surgical approach (laparotomy), higher Charlson's medical co-morbidities score, moderately differentiated tumours on curettings, higher baseline Eastern Cooperative Oncology Group (ECOG) score, higher body mass index and low haemoglobin levels were associated with AE and were used in the nomogram.
+The bootstrap corrected concordance index of the nomogram was 0.63 and it showed good calibration.
+CONCLUSIONS: Six pre-surgical factors independently predicted the risk of major AEs.
+This research might form the basis to develop risk reduction strategies to minimise the risk of AEs among patients undergoing surgery for apparent early stage endometrial cancer.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

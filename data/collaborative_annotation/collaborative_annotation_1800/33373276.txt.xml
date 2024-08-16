@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Augmented Reduced-Intensity Regimen Does Not Improve Postallogeneic Transplant Outcomes in Acute Myeloid Leukemia.
+PURPOSE: Reduced-intensity conditioning (RIC) regimens have extended the curative potential of allogeneic stem-cell transplantation to older adults with high-risk acute myeloid leukemia (AML) and myelodysplasia (MDS) but are associated with a high risk of disease relapse.
+Strategies to reduce recurrence are urgently required.
+Registry data have demonstrated improved outcomes using a sequential transplant regimen, fludarabine/amsacrine/cytarabine-busulphan (FLAMSA-Bu), but the impact of this intensified conditioning regimen has not been studied in randomized trials.
+PATIENTS AND METHODS: Two hundred forty-four patients (median age, 59 years) with high-risk AML (n = 164) or MDS (n = 80) were randomly assigned 1:1 to a fludarabine-based RIC regimen or FLAMSA-Bu.
+Pretransplant measurable residual disease (MRD) was monitored by flow cytometry (MFC-MRD) and correlated with outcome.
+RESULTS: There was no difference in 2-year overall survival (hazard ratio 1.05 [85% CI, 0.80 to 1.38] P = .81) or cumulative incidence of relapse (CIR) (hazard ratio 0.94 [95%CI, 0.60 to 1.46] P = .81) between the control and FLAMSA-Bu arms.
+Detectable pretransplant MFC-MRD was associated with an increased CIR (2-year CIR 41.0% v 20.0%, P = .01) in the overall trial cohort with a comparable prognostic impact when measured by an unsupervised analysis approach.
+There was no evidence of interaction between MRD status and conditioning regimen intensity for relapse or survival.
+Acquisition of full donor T-cell chimerism at 3 months abrogated the adverse impact of pretransplant MRD on CIR and overall survival.
+CONCLUSION: The intensified RIC conditioning regimen, FLAMSA-Bu, did not improve outcomes in adults transplanted for high-risk AML or MDS regardless of pretransplant MRD status.
+Our data instead support the exploration of interventions with the ability to accelerate acquisition of full donor T-cell chimerism as a tractable strategy to improve outcomes in patients allografted for AML.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

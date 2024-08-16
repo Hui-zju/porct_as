@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Evaluation of the effects of an artificial intelligence system on endoscopy quality and preliminary testing of its performance in detecting early gastric cancer: a randomized controlled trial.
+BACKGROUND: Esophagogastroduodenoscopy (EGD) is a prerequisite for detecting upper gastrointestinal lesions especially early gastric cancer (EGC).
+An artificial intelligence system has been shown to monitor blind spots during EGD.
+In this study, we updated the system (ENDOANGEL), verified its effectiveness in improving endoscopy quality, and pretested its performance in detecting EGC in a multicenter randomized controlled trial.
+METHODS: ENDOANGEL was developed using deep convolutional neural networks and deep reinforcement learning.
+Patients undergoing EGD in five hospitals were randomly assigned to the ENDOANGEL-assisted group or to a control group without use of ENDOANGEL.
+The primary outcome was the number of blind spots.
+Secondary outcomes included performance of ENDOANGEL in predicting EGC in a clinical setting.
+RESULTS: 1050 patients were randomized, and 498 and 504 patients in the ENDOANGEL and control groups, respectively, were analyzed.
+Compared with the control group, the ENDOANGEL group had fewer blind spots (mean 5.38 [standard deviation (SD) 4.32] vs. 9.82 [SD 4.98]; P < 0.001) and longer inspection time (5.40 [SD 3.82] vs. 4.38 [SD 3.91] minutes; P < 0.001).
+In the ENDOANGEL group, 196 gastric lesions with pathological results were identified.
+ENDOANGEL correctly predicted all three EGCs (one mucosal carcinoma and two high grade neoplasias) and two advanced gastric cancers, with a per-lesion accuracy of 84.7 %, sensitivity of 100 %, and specificity of 84.3 % for detecting gastric cancer.
+CONCLUSIONS: In this multicenter study, ENDOANGEL was an effective and robust system to improve the quality of EGD and has the potential to detect EGC in real time.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="other" purpose="" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

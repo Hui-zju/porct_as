@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Limited versus Extended Pelvic Lymph Node Dissection for Prostate Cancer: A Randomized Clinical Trial.
+BACKGROUND: Pelvic lymph node dissection (PLND) is the most reliable procedure for lymph node staging.
+However, the therapeutic benefit remains unproven; although most radical prostatectomies at academic centers are accompanied by PLND, there is no consensus regarding the optimal anatomical extent of PLND.
+OBJECTIVE: To evaluate whether extended PLND results in a lower biochemical recurrence rate.
+DESIGN, SETTING, AND PARTICIPANTS: We conducted a single-center randomized trial.
+Patients, enrolled between October 2011 and March 2017, were scheduled to undergo radical prostatectomy and PLND.
+Patients were assigned to limited or extended PLND by cluster randomization.
+Specifically, surgeons were randomized to perform limited or extended PLND for 3-mo periods.
+INTERVENTION: Randomization to limited (external iliac nodes) or extended (external iliac, obturator fossa and hypogastric nodes) PLND.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: The primary endpoint was the rate of biochemical recurrence.
+RESULTS AND LIMITATIONS: Of 1440 patients included in the final analysis, 700 were randomized to limited PLND and 740 to extended PLND.
+The median number of nodes retrieved was 12 (interquartile range [IQR] 8-17) for limited PLND and 14 (IQR 10-20) extended PLND; the corresponding rate of positive nodes was 12% and 14% (difference -1.9%, 95% confidence interval [CI] -5.4% to 1.5%; p = 0.3).
+With median follow-up of 3.1 yr, there was no significant difference in the rate of biochemical recurrence between the groups (hazard ratio 1.04, 95% CI 0.93-1.15; p = 0.5).
+Rates for grade 2 and 3 complications were similar at 7.3% for limited versus 6.4% for extended PLND; there were no grade 4 or 5 complications.
+CONCLUSIONS: Extended PLND did not improve freedom from biochemical recurrence over limited PLND for men with clinically localized prostate cancer.
+However, there were smaller than expected differences in nodal count and the rate of positive nodes between the two templates.
+A randomized trial comparing PLND to no node dissection is warranted.
+PATIENT SUMMARY: In this clinical trial we did not find a difference in the rate of biochemical recurrence of prostate cancer between limited and extended dissection of lymph nodes in the pelvis.
+This study is registered on ClinicalTrials.gov as NCT01407263.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

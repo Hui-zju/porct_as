@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Bioequivalence of Liposome-Entrapped Paclitaxel Easy-To-Use (LEP-ETU) formulation and paclitaxel in polyethoxylated castor oil: a randomized, two-period crossover study in patients with advanced cancer.
+BACKGROUND: Preclinical studies comparing paclitaxel formulated with polyethoxylated castor oil with the sonicated formulation of liposome-entrapped paclitaxel (LEP) have demonstrated that LEP was associated with reduced toxicity while maintaining similar efficacy.
+Preliminary studies on the pharmacokinetics in patients support earlier preclinical data, which suggested that the LEP Easy-to-Use (LEP-ETU) formulation and paclitaxel formulated with castor oil may have comparable pharmacokinetic properties.
+OBJECTIVES: Our objectives were: (1) to determine bioequivalence of paclitaxel pharmaceutically formulated as LEP-ETU (test) and paclitaxel formulated with castor oil (reference); and (2) to assess the tolerability of LEP-ETU following intravenous administration.
+METHODS: Patients with advanced cancer were studied in a randomized, 2-period crossover bioequivalence study.
+Patients received paclitaxel 175 mg/m(2) administered as an intravenous infusion over 180 minutes, either as a single-treatment cycle of the test formulation followed by a single-treatment cycle of the reference formulation, or vice versa.
+RESULTS: Thirty-two of 58 patients were evaluable and were included in the analysis for bioequivalence.
+Mean total paclitaxel Cmax values for the test and reference formulations were 4955.0 and 5108.8 ng/mL, respectively.
+Corresponding AUC0-infinity values were 15,853.8 and 18,550.8 ng.h/mL, respectively.
+Treatment ratios of the geometric means were 97% (90% CI, 91%-103%) for Cmax and 84% (90% CI, 80%-90%) for AUC0-infinity.
+These results met the required 80% to 125% bioequivalence criteria.
+The most frequently reported adverse events after LEP-ETU administration were fatigue, alopecia, and myalgia.
+CONCLUSION: At the studied dose regimen, LEP-ETU showed bioequivalence with paclitaxel formulated with polyethoxylated castor oil.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

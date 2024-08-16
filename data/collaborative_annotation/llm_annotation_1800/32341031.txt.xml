@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Single-Cell Circulating Tumor Cell Analysis Reveals Genomic Instability as a Distinctive Feature of Aggressive Prostate Cancer.
+PURPOSE: Aggressive variant prostate cancer (AVPC) represents a clinical subset distinguished by therapy resistance and poor prognosis, linked to combined losses of the tumor suppressor genes (TSG) PTEN, RB1, and TP53.
+Circulating tumor cells (CTC) provide a minimally invasive opportunity for identification and molecular characterization of AVPC.
+We aimed to evaluate the incidence and clinical significance of compound (2+)TSG losses and genomic instability in prostate cancer CTC, and to expand the set genomic biomarkers relevant to AVPC.
+EXPERIMENTAL DESIGN: Genomic analysis of chromosomal copy-number alterations (CNA) at single-cell resolution was performed in CTC from patients with and without AVPC before initiating chemotherapy with cabazitaxel or cabazitaxel and carboplatin.
+We evaluated associations between single-CTC genomics and clinical features, progression-free survival, and overall survival.
+RESULTS: A total of 257 individual CTC were sequenced from 47 patients (1-22 CTC/patient).
+Twenty patients (42.6%) had concurrent 2+TSG losses in at least one CTC in association with poor survival and increased genomic instability, inferred by high large-scale transitions scores.
+Higher LST in CTC were independent of CTC enumerated, clinically more indicative of aggressive behavior than co-occurring TSG losses, and molecularly associated with gains in chromosomal regions including PTK2, Myc, and NCOA2; increased androgen receptor expression; and BRCA2 loss.
+In 57 patients with matched cell-free tumor DNA data, CTC were more frequently detectable and evaluable for CNA analysis (in 73.7% vs. 42.1%, respectively).
+CONCLUSIONS: Our findings suggest that genomic instability in CTC is a hallmark of advanced prostate cancer aggressiveness, and support single-CTC sequencing as a compelling tool to noninvasively characterize cancer heterogeneity.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,29 @@
+<MyRCT>
+<TEXT>Quality of life in patients with advanced renal cell carcinoma given nivolumab versus everolimus in CheckMate 025: a randomised, open-label, phase 3 trial.
+BACKGROUND: In the phase 3 CheckMate 025 study, previously treated patients with advanced renal cell carcinoma who were randomly assigned to nivolumab had an overall survival benefit compared with those assigned to everolimus.
+We aimed to compare health-related quality of life (HRQoL) between treatment groups in this trial.
+METHODS: CheckMate 025 was an open-label study done at 146 oncology centres in 24 countries.
+Patients were randomly assigned to treatment between Oct 22, 2012, and March 11, 2014.
+Patients with advanced renal cell carcinoma were randomly assigned (1:1, block size of four) to receive nivolumab every 2 weeks or everolimus once per day.
+The study was stopped early at the planned interim analysis in July, 2015, because the study met its primary endpoint.
+A protocol amendment permitted patients in the everolimus group to cross over to nivolumab treatment.
+All patients not on active study therapy are being followed up for survival.
+At the interim analysis, HRQoL was assessed with the Functional Assessment of Cancer Therapy-Kidney Symptom Index-Disease Related Symptoms (FKSI-DRS) and European Quality of Life (EuroQol)-5 Dimensions (EQ-5D) questionnaires.
+Prespecified endpoints were to assess, in each treatment group, disease-related symptom progression rate based on the FKSI-DRS and changes in reported global health outcomes based on the EQ-5D.
+Other endpoints were post hoc.
+We calculated the proportion of FKSI-DRS questionnaires completed using the number of patients with non-missing data at baseline and at least one post-baseline visit.
+We defined FKSI-DRS completion as completion of five or more of the nine items in the questionnaire; otherwise data were treated as missing.
+FKSI-DRS symptom index score was prorated for missing items.
+We made no adjustments for missing EQ-5D data.
+We used descriptive statistics and multivariate analyses, including mixed-effects model repeated-measures, for between group comparisons.
+Analyses were powered according to the original study protocol, and we analysed FKSI-DRS and EQ-5D data for all patients who underwent randomisation and had a baseline assessment and at least one post-baseline assessment.
+CheckMate 025 is registered with ClinicalTrials.gov, number NCT01668784.
+FINDINGS: HRQoL data were collected at baseline for 362 (88%) of 410 patients in the nivolumab group and 344 (84%) of 411 patients in the everolimus group.
+The mean difference in FKSI-DRS scores between the nivolumab and everolimus groups was 1.6 (95% CI 1.4-1.9; p&lt;0.0001) with descriptive statistics and 1.7 (1.2-2.1; p&lt;0.0001) with mixed-effects model repeated-measures analysis.
+In terms of FKSI-DRS score, more patients had a clinically meaningful (ie, an increase of at least 2 points from baseline) HRQoL improvement with nivolumab (200 [55%] of 361 patients) versus everolimus (126 [37%] of 343 patients; p&lt;0.0001).
+Median time to HRQoL improvement was shorter in patients given nivolumab (4.7 months, 95% CI 3.7-7.5) than in patients given everolimus (median not reached, NE-NE).
+INTERPRETATION: Nivolumab was associated with HRQoL improvement compared with everolimus in previously treated patients with advanced renal cell carcinoma.
+FUNDING: Bristol-Myers Squibb.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

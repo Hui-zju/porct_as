@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Effect of a high-intensity interval training on serum microRNA levels in women with breast cancer undergoing hormone therapy. A single-blind randomized trial.
+BACKGROUND: The role of microRNAs (miRs) in hormone therapy (HT) is of keen interest in developing biomarkers and treatments for individuals with breast cancer.
+Although miRs are often moderate regulators under homeostatic conditions, their function is changed more in response to physical activity.
+OBJECTIVE: This single-blind randomized trial aimed to explore the effect of high-intensity interval training (HIIT) on serum levels of miRs in individuals with early-stage breast cancer undergoing HT.
+METHODS: Hormone receptor-positive women with breast cancer and healthy women were randomly assigned to a healthy control group (n=15), healthy group with HIIT (n=15), breast cancer group with HT (HT, n=26), and breast cancer group with HT and HIIT (HT+HIIT, n=26).
+The exercise groups underwent interval uphill walking training on a treadmill 3 times a week for 12weeks.
+At the end of the study, we analyzed changes in levels of cancer-related miRs (oncomiRs) and tumour suppressor miRs (TSmiRs) in response to the HT and HIIT.
+RESULTS: In women with breast cancer versus healthy controls, the expression of some oncomiRs was significantly increased - miR-21 (P<0.001), miR-155 (P=0.001), miR-221 (P=0.008), miR-27a (P<0.001), and miR-10b (P=0.007) - and that of some TSmiRs was significantly decreased - miR-206 (P=0.048), miR-145 (P=0.011), miR-143 (P=0.008), miR-9 (P=0.020), and let-7a (P=0.005).
+Moreover, HT considerably downregulated oncomiRs and upregulated TSmiRs.
+HIIT for 12weeks with HT significantly decreased the expression of the oncomiRs and significantly increased that of the TSmiRs as compared with HT alone.
+CONCLUSIONS: HITT could amplify the decrease and/or increase in expression of miRs associated with HT in women with breast cancer.
+A prospective trial could determine whether the use of circulating miRs for monitoring treatment can be useful in therapy decisions.
+TRIAL REGISTRATION: Iranian Registry of Clinical Trials (No.: IRCT201202289171N1).]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

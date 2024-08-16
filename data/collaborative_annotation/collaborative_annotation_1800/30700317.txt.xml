@@ -1,0 +1,15 @@
+<MyRCT>
+<TEXT>Leukotoxicity after moderately Hypofractionated radiotherapy versus conventionally fractionated dose escalated radiotherapy for localized prostate Cancer: a secondary analysis from a randomized study.
+BACKGROUND: To compare WBC counts during treatment of localized prostate cancer with either conventionally fractionated (CF) or moderately hypofractionated (HYPO) radiotherapy.
+METHODS: Weekly blood test results were extracted from the charts of patients treated within a phase III study comparing HYPO to CF.
+In order to compare WBC counts at the same nominal dose in both arms and thus to tease out the effect of fractionation, for each recorded WBC value the corresponding cumulative total dose was extracted as well.
+WBC counts were binned according to percentiles of the delivered dose and three dose levels were identified at median doses of 16, 34.1 and 52 Gy, respectively.
+A General Linear Model based on mixed design Analysis Of Variance (ANOVA) was used to test variation of WBC counts between the two treatment arms.
+RESULTS: Out of 168 randomized patients, 140 (83.3%) had at least one observation for each one of the selected dose levels and were included in the analysis.
+Mean counts were lower in the CF than the HYPO arm at all selected dose levels, reaching a statistically significant difference at dose level #3 (5397/mm(3) vs 6038/mm(3) for CF and HYPO, respectively, p = 0.004).
+The GLM model confirms that the impact of dose on WBC counts is significantly lower in the HYPO arm over the CF one (Greenhouse-Geisser test, p = 0.04).
+Interestingly, while WBC counts tend to drop throughout all dose levels in the CF arm, this is the case only in the earlier part of treatment in the HYPO arm.
+CONCLUSION: This secondary analysis of a phase III study shows that dose fractionation is correlated to WBC drop during treatment of localized prostate cancer, favoring HYPO over CF.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Intraoperative Ultrasound Guidance in Breast-Conserving Surgery Improves Cosmetic Outcomes and Patient Satisfaction: Results of a Multicenter Randomized Controlled Trial (COBALT).
+BACKGROUND: Ultrasound-guided breast-conserving surgery (USS) results in a significant reduction in both margin involvement and excision volumes (COBALT trial).
+Objective.
+The aim of the present study was to determine whether USS also leads to improvements in cosmetic outcome and patient satisfaction when compared with standard palpation-guided surgery (PGS).
+METHODS: A total of 134 patients with T1-T2 invasive breast cancer were included in the COBALT trial (NTR2579) and randomized to either USS (65 patients) or PGS (69 patients).
+Cosmetic outcomes were assessed by a three-member panel using computerized software Breast Cancer Conservative Treatment cosmetic results (BCCT.- core) and by patient self-evaluation, including patient satisfaction.
+Time points for follow-up were 3, 6, and 12 months after surgery.
+Overall cosmetic outcome and patient satisfaction were scored on a 4-point Likert scale (excellent, good, fair, or poor), and outcomes were analyzed using a multilevel, mixed effect, proportional odds model for ordinal responses.
+RESULTS: Ultrasound-guided breast-conserving surgery achieved better cosmetic outcomes, with 20 % excellence overall and only 6 % rated as poor, whereas 14 % of PGS outcomes were rated excellent and 13 % as poor.
+USS also had consistently lower odds for worse cosmetic outcomes (odds ratio 0.55, p = 0.067) than PGS.
+The chance of having a worse outcome was significantly increased by a larger lumpectomy volume (ptrend = 0.002); a volume [40 cc showed odds 2.78-fold higher for a worse outcome than a volume B40 cc.
+USS resulted in higher patient satisfaction compared with PGS.
+CONCLUSION: Ultrasound-guided breast-conserving surgery achieved better overall cosmetic outcomes and patient satisfaction than PGS.
+Lumpectomy volumes[40 cc resulted in significantly worse cosmetic outcomes.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="other" biomarker=""/>
+</TAGS>
+<META/>
+</MyRCT>

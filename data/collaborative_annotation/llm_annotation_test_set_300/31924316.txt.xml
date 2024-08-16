@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Veterans Affairs Cooperative Studies Program Study #553: Chemotherapy After Prostatectomy for High-risk Prostate Carcinoma: A Phase III Randomized Study.
+BACKGROUND: The Veterans Affairs Cooperative Studies Program study #553 was designed to evaluate the efficacy of adjuvant chemotherapy added to the standard of care (SOC) for patients who are at high risk for relapse after prostatectomy.
+OBJECTIVE: To test whether addition of chemotherapy to surgery for high-risk prostate cancer improves progression-free survival (PFS).
+DESIGN, SETTING, AND PARTICIPANTS: Eligible patients after prostatectomy were randomized to the SOC group with observation or to the chemotherapy group with docetaxel and prednisone administered every 3 wk for six cycles.
+Randomization was stratified for prostate-specific antigen, Gleason, tumor stage, and surgical margin status.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: The primary endpoint was PFS.
+Secondary endpoints included overall, prostate cancer-specific, and metastasis-free survival, and time to androgen deprivation therapy.
+RESULTS AND LIMITATIONS: A total of 298 of the planned 636 patients were randomized.
+The median follow-up was 59.1 mo (0.2-103.7 mo).
+For the primary endpoint, the two groups did not statistically differ in PFS (median 55.5 mo in the chemotherapy group and 42.2 mo in the SOC group; test adjusted for site via gamma frailty p=0.21; adjusted hazard ratio [HR] 0.80; 95% confidence interval [CI] 0.58-1.11; p=0.18).
+Prespecified subgroup analyses showed benefit in PFS for patients with tumor stage >/=T3b (HR 0.54, 95% CI 0.32-0.92; p=0.022) and patients with Gleason score </=7 (HR 0.65, 95% CI 0.43-0.99; p=0.046).
+Secondary endpoint analyses are hampered by low event rates.
+The most common adverse events (>/=grade 3 related or possibly related to chemotherapy) included neutropenia (43%), hyperglycemia (20%), and fatigue (5%), with febrile neutropenia in 2%.
+CONCLUSIONS: Adjuvant chemotherapy in high-risk prostate cancer using docetaxel and prednisone did not lead to statistically significant improvement in PFS for the intention-to-treat population as a whole.
+The analysis was challenged by lower power due to accrual limitation.
+Subgroup analyses suggest potential benefit for patients with Gleason grade </=7 and stage>/=pT3b (ClinicalTrials.gov number NCT00132301).
+PATIENT SUMMARY: In this randomized trial, we tested whether addition of chemotherapy to surgery for high-risk prostate cancer decreased the risk of prostate-specific antigen rise after surgery.
+We found no benefit from docetaxel given after radical prostatectomy, although some subgroups of patients may benefit.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

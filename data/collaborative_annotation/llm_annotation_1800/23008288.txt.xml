@@ -1,0 +1,16 @@
+<MyRCT>
+<TEXT>Association between circulating tumor cells and prognosis in patients with stage III melanoma with sentinel lymph node metastasis in a phase III international multicenter trial.
+PURPOSE: The outcomes of patients with melanoma who have sentinel lymph node (SLN) metastases can be highly variable, which has precluded establishment of consensus regarding treatment of the group.
+The detection of high-risk patients from this clinical setting may be helpful for determination of both prognosis and management.
+We report the utility of multimarker reverse-transcriptase quantitative polymerase chain reaction (RT-qPCR) detection of circulating tumor cells (CTCs) in patients with melanoma diagnosed with SLN metastases in a phase III, international, multicenter clinical trial.
+PATIENTS AND METHODS: Blood specimens were collected from patients with melanoma (n = 331) who were clinically disease-free after complete lymphadenectomy (CLND) before entering onto a randomized adjuvant melanoma vaccine plus bacillus Calmette-Guerin (BCG) versus BCG placebo trial from 30 melanoma centers (United States and international).
+Blood was assessed using a verified multimarker RT-qPCR assay (MART-1, MAGE-A3, and GalNAc-T) of melanoma-associated proteins.
+Cox regression analyses were used to evaluate the prognostic significance of CTC status for disease recurrence and melanoma-specific survival (MSS).
+RESULTS: Individual CTC biomarker detection ranged from 13.4% to 17.5%.
+There was no association of CTC status (zero to one positive biomarkers v two or more positive biomarkers) with known clinical or pathologic prognostic variables.
+However, two or more positive biomarkers was significantly associated with worse distant metastasis disease-free survival (hazard ratio [HR] = 2.13, P = .009) and reduced recurrence-free survival (HR = 1.70, P = .046) and MSS (HR = 1.88, P = .043) in a multivariable analysis.
+CONCLUSION: CTC biomarker status is a prognostic factor for recurrence-free survival, distant metastasis disease-free survival, and MSS after CLND in patients with SLN metastasis.
+This multimarker RT-qPCR analysis may therefore be useful in discriminating patients who may benefit from aggressive adjuvant therapy or stratifying patients for adjuvant clinical trials.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>

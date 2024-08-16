@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MyRCT>
+<TEXT><![CDATA[Bendamustine plus rituximab versus CHOP plus rituximab as first-line treatment for patients with indolent and mantle-cell lymphomas: an open-label, multicentre, randomised, phase 3 non-inferiority trial.
+BACKGROUND: Rituximab plus chemotherapy, most often CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisone), is the first-line standard of care for patients with advanced indolent lymphoma, and for elderly patients with mantle-cell lymphoma.
+Bendamustine plus rituximab is effective for relapsed or refractory disease.
+We compared bendamustine plus rituximab with CHOP plus rituximab (R-CHOP) as first-line treatment for patients with indolent and mantle-cell lymphomas.
+METHODS: We did a prospective, multicentre, randomised, open-label, non-inferiority trial at 81 centres in Germany between Sept 1, 2003, and Aug 31, 2008.
+Patients aged 18 years or older with a WHO performance status of 2 or less were eligible if they had newly diagnosed stage III or IV indolent or mantle-cell lymphoma.
+Patients were stratified by histological lymphoma subtype, then randomly assigned according to a prespecified randomisation list to receive either intravenous bendamustine (90 mg/m(2) on days 1 and 2 of a 4-week cycle) or CHOP (cycles every 3 weeks of cyclophosphamide 750 mg/m(2), doxorubicin 50 mg/m(2), and vincristine 1.4 mg/m(2) on day 1, and prednisone 100 mg/day for 5 days) for a maximum of six cycles.
+Patients in both groups received rituximab 375 mg/m(2) on day 1 of each cycle.
+Patients and treating physicians were not masked to treatment allocation.
+The primary endpoint was progression-free survival, with a non-inferiority margin of 10%.
+Analysis was per protocol.
+This study is registered with ClinicalTrials.gov, number NCT00991211, and the Federal Institute for Drugs and Medical Devices of Germany, BfArM 4021335.
+FINDINGS: 274 patients were assigned to bendamustine plus rituximab (261 assessed) and 275 to R-CHOP (253 assessed).
+At median follow-up of 45 months (IQR 25-57), median progression-free survival was significantly longer in the bendamustine plus rituximab group than in the R-CHOP group (69.5 months [26.1 to not yet reached] vs 31.2 months [15.2-65.7]; hazard ratio 0.58, 95% CI 0.44-0.74; p<0.0001).
+Bendamustine plus rituximab was better tolerated than R-CHOP, with lower rates of alopecia (0 patients vs 245 (100%) of 245 patients who recieved >/=3 cycles; p<0.0001), haematological toxicity (77 [30%] vs 173 [68%]; p<0.0001), infections (96 [37%] vs 127 [50%]); p=0.0025), peripheral neuropathy (18 [7%] vs 73 [29%]; p<0.0001), and stomatitis (16 [6%] vs 47 [19%]; p<0.0001).
+Erythematous skin reactions were more common in patients in the bendamustine plus rituximab group than in those in the R-CHOP group (42 [16%] vs 23 [9%]; p=0.024).
+INTERPRETATION: In patients with previously untreated indolent lymphoma, bendamustine plus rituximab can be considered as a preferred first-line treatment approach to R-CHOP because of increased progression-free survival and fewer toxic effects.
+FUNDING: Roche Pharma AG, Ribosepharm/Mundipharma GmbH.]]></TEXT>
+<TAGS>
+<LiteratureClassification id="L0" spans="-1~-1" text="" format="randomized controlled trial" population="cancer patients" purpose="cancer treatment evaluation" biomarker="no"/>
+</TAGS>
+<META/>
+</MyRCT>

@@ -1,0 +1,17 @@
+<MyRCT>
+<TEXT>Association studies of Fcgamma receptor polymorphisms with outcome in HER2+ breast cancer patients treated with trastuzumab in NCCTG (Alliance) Trial N9831.
+Patients with HER2+ breast cancer treated with trastuzumab and chemotherapy have superior survival compared with patients treated with chemotherapy alone.
+Polymorphisms within FCGR2A and FCGR3A are associated with binding affinity of natural killer cells to the IgG1 portion of trastuzumab, and a polymorphism in FCGR2B (I232T) is associated with impaired regulatory activity.
+The association of these polymorphisms with clinical response among trastuzumab-treated patients is equivocal, with both positive and negative associations.
+We performed genotyping analysis on the FCGR3A V158F, FCGR2A R131H, and FCGR2B I232T polymorphisms in 1,325 patients from the N9831 clinical trial.
+Patients in arm A (N = 419) received chemotherapy only.
+Patients in arms B (N = 469) and C (N = 437) were treated with chemotherapy and trastuzumab (sequentially in arm B and concurrently in arm C).
+Using log-rank test and Cox proportional hazard models, we compared disease-free survival (DFS) among genotypic groups within pooled arms B/C. We found no differences in DFS between trastuzumab-treated patients who had the FCGR3A 158 V/V and/or FCGR2A 131 H/H high-affinity genotypes and patients without those genotypes.
+Furthermore, there was no significant interaction between FCGR3A and FCGR2A and treatment.
+However, there was a difference in DFS for FCGR2B I232T, with I/I patients deriving benefit from trastuzumab (P &lt; 0.001), compared with the T carriers who did not (P = 0.81).
+The interaction between FCGR2B genotype and treatment was statistically significant (P = 0.03).
+Our analysis did not reveal an association between FcgammaR high-affinity genotypes and outcomes.
+However, it seems that the FCGR2B inhibitory gene may be predictive of adjuvant trastuzumab benefit.</TEXT>
+<TAGS><LiteratureClassification id="L0" spans="-1~-1" text="" format="" population="" purpose="" biomarker="" /></TAGS>
+<META />
+</MyRCT>
